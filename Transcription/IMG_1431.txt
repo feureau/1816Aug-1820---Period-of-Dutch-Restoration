@@ -1,0 +1,41 @@
+A sheet of lined notebook paper, rotated sideways, featuring handwritten records in blue ink and red annotations. 
+
+At the top right corner, inside a circle, is the handwritten notation:
+> "BOSDE
+> LEACH
+> NO. 50"
+
+At the right-center margin, written vertically, is the heading:
+> 1818 (Financial Year)
+
+Above the main list, a header reads:
+> Toll - Stores:
+> KWANCIAR WRORE Residency - Boga: 1818 Jan 7
+> Noing Toll sale: Jan 7 - 13 nus: 20 Rs.
+> RENT 1818
+> 1-13 Jan 1818.
+
+Below this, a two-column list records names alongside numerical values:
+
+- `CADILANSU` — `5,797`
+- `RAMA` — `5,797`
+- `BROUDOR` — `18,361 20`
+- `WATET` — `1,255`
+- `KEMARLEA` — `6,708`
+- `RAMPINS` — `7,331`
+- `BAMIROOL` — `18,888`
+- `KRESERI BANAKARAN` — `17,920`
+- `BOIYALARIE` — `5,759`
+- `KAZAVUR` — `9,583`
+- `BORSONGIR` — `3,175`
+- `JAS ANONI` — `3,553`
+- `JERENAN` — `4,120` (with a bracket pointing to "BODJARONAN")
+- `PANDONGAN` — `13,803`
+- `MADURARAN` — `2,884`
+- `RAWA` — `1,437`
+- `MADULIN` — `2,749`
+- `KARTASANA` — `20,`
+- `KARTANSBERT`
+- `PIANSIR`
+- `PASSIRAN`
+- `WOSUJA`

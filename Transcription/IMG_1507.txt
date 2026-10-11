@@ -1,0 +1,29 @@
+A handwritten financial ledger or archival document oriented vertically, featuring tabular data in columns with annotations in pencil and red ink. 
+
+Top right corner contains notations:
+* `"No. Br. 170 / Ragnisiter van den Resident van Soerakarta"`
+* `"7 Apr. 1820 Troops of Prajogandana paraoah before Buigi / PWP's Troops to Bangka"`
+* Large handwritten red text: `"Jan. 1820 Solo."`
+
+Main body text includes columns and line items such as:
+* `"Pecdine in Jougati Revenue. 1825 / due to war."`
+* `"General Pasen."`
+* `"Kidin"`
+* `"Paniour"`
+* `"Pararasa"`
+* `"Togawara"`
+* `"Ampel"`
+* `"Nala"`
+* `"Banyumas"`
+* `"Kritik"`
+
+Bottom notes include:
+* `"Tollgates of R. N. 1 = 11. 12. 04 = Kadjang / Bolt on Road to Panarasa"`
+* `"Karang Anyar"`
+* `"Karang Penylung"`
+* `"Natesch (near karang Pendoyo)"`
+* `"Suraloati"`
+* `"Maglaran"`
+* `"Tskarding"`
+* `"Wanging"`
+* `"Tary of Tollgates at Ampel. 1 Feb. 1829. pata fata / [1 horse load = 2 pituis]"`, listing items such as *indigo*, *copperwork*, *pepper*, *coffee*, *sugar*, *salt*, and *various fruit/potatoes/green*.

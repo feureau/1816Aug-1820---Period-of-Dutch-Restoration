@@ -1,0 +1,62 @@
+A handwritten table on lined notebook paper, oriented sideways (rotated 90 degrees counterclockwise), titled **LAND RENT SOLO (NOV-DEC 1820)**.
+
+The document contains tabular columns and marginal notes detailing land rentals in Solo. Below is the transcription of the headers, entries, and notes:
+
+---
+
+### Header
+*   **REFDN NO. 1. PT. 7.**
+*   **DATE:** 27 NOV. 1820
+*   **DOCUMENTKIND:** DOCUMENTKOND (?)
+
+### Table Columns
+*   **SOLO LAND RENT**
+*   **SOLO LAND RENT 1816–1825**
+*   **LAND RENT IN SOLO:**
+    *   **NO. 1.**
+    *   **DATE:** 27 NOV 1820
+    *   **NONG RENTA:** 2,000 V.O.
+    *   **LONG RENT AREA:** Desa Kembang Anom. 36 juncongar? (or similar) [^1]
+    *   **AUSTENTARIE WEIGE SOLO:** 16 years (Rent could be raised after 3 years).
+    *   **PATIS SOLO:** 400 V.O. land rent.
+    *   **DEBAR JIMPO + DEPONENCHON UMK LAND RENT:** 400 V.O. (2 jongo)
+    *   **V.O. LAND RENT:** Patis 400 V.O.
+
+---
+
+### Row Entries
+
+*   **14. DEC. 1820**
+    *   **NANGUS VAN BURGST:** 400 V.O.
+    *   **DEBAR JIMPO & DEPONENCHON UMK LAND RENT:** (2 jongo).
+    *   **PATIS SOLO:** 400 V.O.
+
+*   **27 DEC. 1820**
+    *   **OUM KWI:** 260 V.O.
+    *   **MOLDEKER & GULROGE RAJANAW?**
+    *   **4 years FROM ARIA WADRAKUNCA**
+
+*   **11. JAN 1821**
+    *   **BAGAR JIM:** 200 V.O.
+    *   **ARIWATI (+24 JONCON):** 1,200 6 years. Ton land down to Patis Subandono WADRAKUNWEN / 9 years tax in advance. No path WADRAKUNWEN.
+
+*   **11. JAN. 1821**
+    *   **BASING JAROTANS:** 22.5 V.O.
+    *   **BEKOL IN DESA KEBEN. KANAN IN SUKUWAK:** No path WADRAKUNWEN.
+
+*   **6 JAN 1821**
+    *   **BRONG TJANDRA:** 2,300.
+    *   **500 V.O. PAID FOR DENNIWIGH:**
+    *   **BEKOL IN KUNTAN / PEPOK:** Worked by 60 men under Oenong RANAWIJAYA.
+    *   **PONG ARIA NAMOT**
+    *   **Also Sech Yen (Pencari):** (2 leures gouldner 2070 Oenang gouldner 20 Kreus Ringgit 30 kerus powlch Inga?).
+
+*   **OCT 1820**
+    *   **MR. VERWOERT:** 1,200.
+    *   **BENG VEDARAM (Worked by 25 people):** 12 years.
+
+---
+
+## Footnotes
+
+[^1]: Text contains ambiguous Dutch/Javanese colonial administrative terms, measurement units (*jongo*, *juncongar*, *V.O.* for *Veldbetaling* or *Valuta Ordinance*), and personal/place names (*Kembang Anom*, *Debar Jimpo*, *Bagar Jim*, *Brong Tjandra*, *Mr. Verwoert*).
