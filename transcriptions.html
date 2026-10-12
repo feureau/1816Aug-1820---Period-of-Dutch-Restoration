@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Transcription Viewer</title>
+<style>
+  :root {
+    --bg:#1a1a1a; --panel:#222; --fg:#e0e0e0; --muted:#9a9a9a;
+    --line:#333; --accent:#4a9eff;
+  }
+  * { box-sizing:border-box; }
+  body {
+    background:var(--bg); color:var(--fg); font-family:Arial, sans-serif;
+    margin:0; padding:16px 20px 40px; line-height:1.6;
+  }
+  .wrap { max-width:1600px; margin:0 auto; height:calc(100vh - 56px); }
+
+  .topbar {
+    display:flex; align-items:center; gap:10px; flex-wrap:wrap;
+    border-bottom:1px solid var(--line); padding-bottom:12px; margin-bottom:18px;
+  }
+  .topbar h1 {
+    font-size:1.1rem; margin:0; color:#fff; flex:1 1 260px;
+    min-width:0; overflow-wrap:anywhere;
+  }
+  .btn {
+    display:inline-block; background:#2d2d2d; color:var(--fg);
+    border:1px solid var(--line); border-radius:5px;
+    padding:6px 12px; font-size:.88rem; text-decoration:none;
+    cursor:pointer; white-space:nowrap;
+  }
+  .btn:hover { background:#3a3a3a; border-color:#555; }
+  .btn[aria-disabled="true"] { opacity:.3; pointer-events:none; }
+
+  .viewer {
+    display:grid;
+    grid-template-columns:minmax(0,1fr) minmax(0,1fr);
+    gap:26px; align-items:start;
+    height:100%;
+  }
+  .scan-pane {
+    position:relative;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    overflow:hidden;
+    background:var(--panel); border:1px solid var(--line);
+    border-radius:8px; padding:10px;
+    max-height:100%;
+  }
+  .scan-pane img {
+    display:block; width:100%; height:auto; border-radius:5px;
+    background:#111; cursor:zoom-in;
+  }
+  .scan-tools {
+    position:absolute;
+    top:8px; left:8px; right:8px;
+    display:flex; align-items:center; justify-content:space-between;
+    gap:10px; /* margin-bottom removed for overlay */
+    font-size:.82rem; color:var(--muted);
+    background:rgba(0,0,0,0.3);
+    padding:4px 8px;
+    border-radius:4px;
+    z-index:2;
+  }
+  .scan-tools .name { overflow-wrap:anywhere; }
+
+  .transcript-pane { min-width:0; }
+
+  @media (max-width:900px) {
+    .viewer { grid-template-columns:1fr; }
+    .scan-pane { position:static; height:auto; }
+  }
+
+  #transcript-output h1,
+  #transcript-output h2,
+  #transcript-output h3,
+  #transcript-output h4 { color:#fff; line-height:1.25; }
+  #transcript-output h1 { font-size:1.5rem; margin:.2em 0 .6em; }
+  #transcript-output h2 {
+    font-size:1.2rem; border-bottom:1px solid var(--line);
+    padding-bottom:.25em; margin-top:1.6em;
+  }
+  #transcript-output p { margin:0 0 1em; }
+  #transcript-output a { color:var(--accent); }
+  #transcript-output code {
+    background:#2d2d2d; padding:2px 5px; border-radius:3px; font-size:.95em;
+  }
+  #transcript-output pre {
+    background:#2d2d2d; padding:14px; border-left:4px solid var(--accent);
+    overflow:hidden; border-radius:4px;
+  }
+  #transcript-output pre code { background:transparent; padding:0; }
+  #transcript-output blockquote {
+    border-left:4px solid #555; margin-left:0; padding-left:15px; color:#b0b0b0;
+  }
+  #transcript-output table { border-collapse:collapse; margin:1em 0; }
+  #transcript-output th,
+  #transcript-output td { border:1px solid #444; padding:6px 10px; }
+  #transcript-output ol,
+  #transcript-output ul { padding-left:26px; }
+  #transcript-output li { margin-bottom:6px; }
+  #transcript-output hr { border:0; border-top:1px solid var(--line); margin:2em 0; }
+
+  .footnav {
+    margin-bottom: 48px; /* make space for bottom bar */
+  }
+  .bottom-bar {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: var(--panel);
+    color: var(--fg);
+    padding: 8px 20px;
+    font-size: .85rem;
+    text-align: center;
+    border-top: 1px solid var(--line);
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+  }
+  .bottom-bar .close-btn {
+    background: none;
+    border: none;
+    color: var(--fg);
+    font-size: 1.2rem;
+    cursor: pointer;
+    line-height: 1;
+  }
+  .render-error {
+    background:#2a1414; border:1px solid #ff6b6b55; border-radius:6px;
+    padding:1.25rem 1.5rem;
+  }
+  .render-error h2 { color:#ff6b6b; border:0; margin-top:0; }
+  .render-error pre { white-space:pre-wrap; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="topbar">
+    <a class="btn" href="index.html">← Index</a>
+    <h1 id="doc-title">Loading…</h1>
+    <a class="btn" data-nav="prev" href="#">‹ Prev</a>
+    <a class="btn" data-nav="next" href="#">Next ›</a>
+  </div>
+
+  <div class="viewer">
+    <div class="scan-pane">
+      <div class="scan-tools">
+        <span class="name" id="scan-note">Loading scan…</span>
+        <a class="btn" id="scan-link" href="#" target="_blank" rel="noopener" hidden>Open full size</a>
+      </div>
+      <img id="scan" alt="Scanned page">
+    </div>
+
+    <div class="transcript-pane">
+      <div id="transcript-output">Loading…</div>
+
+      <div class="footnav">
+        <a class="btn" data-nav="prev" href="#">‹ Previous page</a>
+        <a class="btn" data-nav="next" href="#">Next page ›</a>
+      </div>
+    </div>
+  </div>
+
+
+<div class="bottom-bar">
+  <button class="close-btn" aria-label="Close instructions">&times;</button>
+  <strong>Instructions:</strong> Use mouse wheel (or pinch) to zoom the image, click‑drag to pan, double‑click to reset. Navigate pages with the <code class="btn">← Prev</code> / <code class="btn">Next ›</code> buttons or Arrow ←/→ keys.
+</div>
+<script src="transcriptions-data.js"    defer></script>
+<script src="transcriptions-content.js" defer></script>
+<script src="marked.min.js"             defer></script>
+<script src="viewer.js"                 defer></script>
+</body>
+</html>

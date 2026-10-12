@@ -1,0 +1,1575 @@
+<!DOCTYPE html>
+<html
+  lang="en-US"
+  dir="ltr"
+  class="">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+        <!-- OneTrust Cookies Consent Notice start for www.vitsoe.com -->
+    <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8"
+            data-domain-script="018e7659-63be-73cb-bb9d-0a5aa332f3c9">
+
+    </script>
+    <script type="text/javascript">
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        // default consents before OneTrust kicks in
+        gtag('consent', 'default', {
+            ad_storage: 'denied',
+            ad_user_data: 'denied',
+            ad_personalization: 'denied',
+            analytics_storage: 'denied',
+            functionality_storage: 'denied',
+            personalization_storage: 'denied',
+            security_storage: 'granted',
+            wait_for_update: 500
+        });
+
+        <!-- Google Tag Manager -->
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-NQJ5X32');
+        <!-- End Google Tag Manager -->
+
+        function OptanonWrapper() {
+            // This method is called when the OneTrust object has been instantiated
+            const cookieSettingsLink = document.querySelectorAll('.cookie-settings');
+
+            if(cookieSettingsLink.length === 0) {
+                return;
+            }
+
+            // Enable link in footer to show cookie preferences dialog
+            cookieSettingsLink.forEach((elem) => {
+                elem.addEventListener('click', function(e) {
+                    OneTrust.ToggleInfoDisplay();
+                    e.preventDefault();
+                    return false;
+                });
+            });
+
+            OneTrust.OnConsentChanged(function () {
+                var domain = window.location.hostname.replace(/(https?:\/\/)?(www.)?/i, '');
+                var expiry = "Thu, 01 Jan 1970 00:00:00 GMT";
+                var performance = OnetrustActiveGroups.includes("C0002");
+                var functional = OnetrustActiveGroups.includes("C0003");
+                var targeting = OnetrustActiveGroups.includes("C0004");
+                var social = OnetrustActiveGroups.includes("C0005");
+
+                // Remove any client-side cookies which are no longer accepted
+                if (!performance) {
+                    // remove any performance cookies
+                    document.cookie = "_ga=;path=/;domain=." + domain + ";expires=" + expiry;
+                }
+                if (!functional) {
+                    // remove any functional cookies
+                }
+                if (!targeting) {
+                    // remove any targeting cookies
+                    document.cookie = "_ga_YWGPEJBQGL=;path=/;domain=."
+                        + domain + ";expires="
+                        + expiry;
+                }
+                if (!social) {
+                    // remove any social media cookies
+                }
+            });
+        }
+    </script>
+    <!-- OneTrust Cookies Consent Notice end for www.vitsoe.com -->
+
+<meta name="description" content="Good design is innovative, honest, long-lasting – and as little design as possible. Dieter Rams&#039;s ten principles in full, from the maker of his furniture." />
+<meta name="msapplication-TileImage" content="https://d2lsod3xpjaepj.cloudfront.net/assets/7cf9654/images/hand-144.png" />
+<meta name="msapplication-TileColor" content="#ffffff" />
+<link rel="apple-touch-icon" type="image/png" href="/apple-touch-icon.png" />
+<link rel="canonical" href="https://www.vitsoe.com/us/about/good-design" />
+<link color="#e4312a" rel="mask-icon" href="/mask-icon.svg" />
+<link rel="stylesheet" type="text/css" href="https://d2lsod3xpjaepj.cloudfront.net/assets/7cf9654/css/screen-responsive.css" />
+<script type="text/javascript" src="https://d2lsod3xpjaepj.cloudfront.net/assets/7cf9654/js/application.min.js"></script>
+<script type="text/javascript" src="https://d2lsod3xpjaepj.cloudfront.net/assets/7cf9654/js/vitsoecom-app-es6.min.js"></script>
+<title>Good design | About us | Vitsœ</title>
+
+<!--[if lt IE 9]>
+	<script src="https://d2lsod3xpjaepj.cloudfront.net/bower_components/html5shiv/dist/html5shiv.js"></script>
+	<script src="https://d2lsod3xpjaepj.cloudfront.net/bower_components/REM-unit-polyfill/js/rem.min.js"></script>
+	<script type="text/javascript"
+		src="https://d2lsod3xpjaepj.cloudfront.net/bower_components/respond/dest/respond.min.js">
+	</script>
+	<link
+		href="https://d2lsod3xpjaepj.cloudfront.net/bower_components/respond/cross-domain/respond-proxy.html"
+		id="respond-proxy" rel="respond-proxy" />
+	<link
+		href="/bower_components/respond/cross-domain/respond.proxy.gif"
+		id="respond-redirect" rel="respond-redirect" />
+	<script
+		src="https://d2lsod3xpjaepj.cloudfront.net/bower_components/respond/cross-domain/respond.proxy.js">
+	</script>
+	<script
+		src="https://d2lsod3xpjaepj.cloudfront.net/bower_components/selectivizr/selectivizr.js">
+	</script>
+	<link rel="stylesheet" type="text/css" href="https://d2lsod3xpjaepj.cloudfront.net/assets/7cf9654/css/ie.css" />
+<![endif]-->
+
+<script src="https://unpkg.com/vue@3/dist/vue.global.prod.js" defer></script>
+<script src="https://d2lsod3xpjaepj.cloudfront.net/assets/7cf9654/js/vue/main.min.js" defer></script>
+
+</head>
+<body class="us page-about-good-design">
+
+
+<div id="cookies-disabled-overlay">
+    <div class="cookies-disabled-notice">
+        <div class="cookies-disabled-notice__content">
+            <p class="cookies-disabled-notice__header"><b>Please, enable cookies on your browser</b></p>
+            <div class="cookies-disabled-notice__body">
+                <p>We use some essential cookies to support the basic functionality of vitsoe.com, including your cookie preferences.</p>
+                <p>Please enable cookies in your browser settings and reload the site to continue.</p>
+                <p>You will be able to select which types of cookies you wish to accept once you have enabled general cookie support.</p>
+            </div>
+        </div>
+        <button class="cookies-disabled-notice__reload-button" onclick="location.reload()">Reload</button>
+    </div>
+</div>
+<script>
+    document.cookie = 'testcookie=1';
+    var cookiesEnabled = false;
+    if (document.cookie.includes('testcookie=1')) {
+        document.cookie = 'testcookie=; expires=' + new Date(0).toUTCString();
+        cookiesEnabled = true;
+    }
+    if (!cookiesEnabled) {
+        document.getElementById("cookies-disabled-overlay").style.display = 'flex';
+    }
+</script>
+<a href="#main-content" class="skip-link">
+    Skip to content
+</a>
+<header>
+	<div class="nav-fixed">
+		<a class="logo ddr" href="/us">Vitsœ</a>		<button type="button" aria-label="Open search" class="search-btn-mobile">
+		</button>
+		<button type="button" aria-expanded="false" aria-label="Open mobile menu" class="button-menu-mobile toggle-component">
+			<div></div>
+			<div></div>
+			<div></div>
+		</button>
+	</div>
+
+	<div class="nav-vertical">
+		<nav class="nav-primary">
+			<ul class="menu-primary" id="topnavul">
+<li class=" primary-item"><a href="/us">Home</a></li>
+<li class=" primary-item selected active"><a href="/us/about">About us</a>
+<ul class="submenu">
+<li><a href="/us/about">Introduction</a></li>
+<li><a href="/us/about/ethos">Ethos</a></li>
+<li><a href="/us/about/history">History</a></li>
+<li><a href="/us/about/dieter-rams">Dieter Rams</a></li>
+<li class="active"><a href="/us/about/good-design">Good design</a></li>
+</ul>
+</li>
+<li class=" primary-item"><a href="/us/606">606 Universal Shelving System</a>
+<ul class="submenu">
+<li><a href="/us/606">Introduction</a></li>
+<li><a href="/us/606/gallery">Gallery</a></li>
+<li><a href="/us/606/structures">Structure</a></li>
+<li><a href="/us/606/components">Shelves and prices</a></li>
+<li><a class="inquiry" href="/us/606/inquiry">How to start</a></li>
+</ul>
+</li>
+<li class=" primary-item"><a href="/us/620">620 Chair Programme</a>
+<ul class="submenu">
+<li><a href="/us/620">Introduction</a></li>
+<li><a class="inquiry" href="/us/620/buy">Configure and buy</a></li>
+</ul>
+</li>
+<li class=" primary-item"><a href="/us/621">621 Table</a>
+<ul class="submenu">
+<li><a href="/us/621">Introduction</a></li>
+<li><a class="inquiry" href="/us/621/buy">Configure and buy</a></li>
+</ul>
+</li>
+</ul>			<div class="mobile-hide headerbasket-container">
+							</div>
+		</nav>
+		<nav class="nav-service">
+			<button type="button" class="searchButton open-form">Search</button>
+			<ul class="menu-service" id="headernavul">
+<li class="locale-item"><a href="#"><span class="locale-flag us"></span>
+						<i class="locale-button"></i></a></li>
+<li class="login-item"><a href="/us/login">Log in to My Vitsœ</a></li>
+<li><a href="/us/contactus">Contact us</a></li>
+<li><a href="/us/voice">Voice</a></li>
+<li><a href="/us/careers">Careers</a></li>
+<li id="switchlocale" title="Choose your region / language"><span title="Choose your region / language"><select name="locale-switcher"><option data-class="gb" value="/gb/about/good-design">United Kingdom</option><option data-class="de" value="/de/about/good-design">Deutschland / Österreich / Schweiz</option><option data-class="us" value="/us/about/good-design" selected="true">United States of America / Canada</option><option data-class="jp" value="/jp/about/good-design">日本</option><option data-class="eu" value="/eu/about/good-design">Europe</option><option data-class="rw" value="/rw/about/good-design">Rest of World</option></select></span></li>
+</ul>			<div class="search-container">
+                <form class="searchForm" action="/us/search" method="GET"><input class="search" placeholder="Search" type="search" value="" name="q" id="q" /><input class="searchButton" type="submit" name="yt0" value="Search" /></form>				<button type="button" aria-label="Clear search" class="clear-search-btn"><span></span></button>
+				<button type="button" class="search-close sf-close">Close</button>
+			</div>
+		</nav>
+	</div>
+	<div class="avoid-bounce"></div>
+
+	<div class="search-container__mobile">
+		<button type="button" aria-expanded="false" aria-controls="main-menu" class="search-container__mobile--menu-btn toggle-component">Main Menu</button>
+		<div class="form-container">
+		<form class="searchForm" action="/us/search" method="GET"><input class="search" placeholder="Search" type="search" value="" name="q" id="q" /><input class="searchButton" type="submit" name="yt1" value="Search" /></form>		<button type="button" aria-label="Clear search" class="clear-search-btn"><span></span></button>
+		</div>
+	</div>
+
+	<div class="desktop-hide headerbasket-container">
+			</div>
+				<nav class="nav-secondary"><div>
+				<div class="page-name">About us</div>
+			<ul id="subnavul">
+<li><a href="/us/about">Introduction</a></li>
+<li><a href="/us/about/ethos">Ethos</a></li>
+<li><a href="/us/about/history">History</a></li>
+<li><a href="/us/about/dieter-rams">Dieter Rams</a></li>
+<li class="active"><a href="/us/about/good-design">Good design</a></li>
+</ul></div></nav>
+		</header>
+
+<div role="dialog" aria-label="Your shopping basket" aria-modal="true" class="modal basket" style="display: none">
+	<div class="bg"><div></div></div>
+
+	<div class="basket-container">
+			</div>
+</div>
+
+			<div class="notification" role="status" aria-live="polite" aria-atomic="true">
+				<div class="container">
+					<div class="notification-icon">
+						<div class="icon icon-info-circle" aria-hidden="true"></div>
+					</div>
+					<div class="notification-content">
+						<p>Should you be on our RW site?</p><a class="btn btn-level3 icon btn-arrow" href="/rw/about/good-design">Switch to RW site</a>					</div>
+					<button aria-label="Dismiss notification" type="button" class="notification-close icon icon-close" onclick="ignoreLocale()">Dismiss</button>
+				</div>
+			</div>
+		
+<main role="main" id="main-content">
+	<div class="page-header">
+	<h1>The power of good design</h1>
+			<div class="intro-text"><span>Dieter Rams’s ideology, engrained within Vitsœ</span>
+				</div>
+	</div>
+	<div id="content" class="cf">
+		
+
+<div class="container">
+
+		<div class="introductions borderless margin-below-2">
+
+			<div class="introductions-title">
+				
+					<h2 data-anchor="anchor">Good design at Vitsœ<span class="hidden">Good design at Vitsœ</span></h2>
+				
+			</div>
+			<div class="introductions-media">
+				<figure>
+					<img sizes="(min-width: 1060px) and (-webkit-min-device-pixel-ratio: 1.9) 2100px, (min-width: 1060px) and (min-resolution: 1.9) 2100px, (min-width: 2120px) 2100px, (min-width: 1060px) 1050px, 100vw" srcset="https://d2lsod3xpjaepj.cloudfront.net/files/assets/2000/1704/crop169/50.jpg 50w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/2000/1704/crop169/170.jpg 170w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/2000/1704/crop169/410.jpg 410w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/2000/1704/crop169/710.jpg 710w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/2000/1704/crop169/1050.jpg 1050w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/2000/1704/crop169/1920.jpg 1920w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/2000/1704/crop169/2880.jpg 2880w" src="https://d2lsod3xpjaepj.cloudfront.net/files/assets/2000/1704/crop169/1050.jpg" alt="620 Chair high back in red leather with off-white shell. 606 Universal Shelving System in the background." />
+					<figcaption></figcaption>
+				</figure>
+			</div>
+			<div class="introductions-content">
+				<p>Here at Vitsœ we stand for the inordinate power of good design in everything we do: designing thoughtfully, responsibly and intelligently for our company, our furniture and the many people who share a profound interest in all of our tomorrows.</p>
+
+<p>For over 65 years, Vitsœ has worked continuously with Dieter Rams. He still improves his designs to this day and is often cited by a new generation as a key influence on their work that is shaping the 21st century.</p>
+
+			</div>
+		</div>
+
+		<div class="quote margin-below" >
+			<div class="quote-content">
+				<div class="quote-text"><p>“In 1957 I began to develop a storage system that formed the basis of the company Vitsœ, which was founded in 1959. Thus the ideology behind my design is engrained within the company.”</p>
+</div>
+				<div class="quote-author">
+					<div class="quote-author-title">Dieter Rams</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="text-block border-below-none padding-above" style="padding-top: 24px;">
+			<div class="text-block-title">
+				<h2 data-anchor="anchor">Ten principles for good design<span class="hidden">Ten principles for good design</span></h2>
+			</div>
+			<div class="text-block-content margin-below">
+				<p>Back in the late 1970s, Dieter Rams was becoming increasingly concerned by the state of the world around him: “An impenetrable confusion of forms, colours and noises.”</p>
+
+<p>Aware that he was a significant contributor to that world, he asked himself an important question: is my design good design?</p>
+
+<p>His answer is expressed in his ten principles for good design.</p>
+
+			</div>
+			<figure class="text-block-primary-image">
+				<img sizes="(min-width: 1060px) and (-webkit-min-device-pixel-ratio: 1.9) 1420px, (min-width: 1060px) and (min-resolution: 1.9) 1420px, (min-width: 2120px) 1420px, (min-width: 1060px) 710px, 100vw" srcset="https://d2lsod3xpjaepj.cloudfront.net/files/assets/2000/1328/crop169/50.jpg 50w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/2000/1328/crop169/170.jpg 170w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/2000/1328/crop169/410.jpg 410w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/2000/1328/crop169/710.jpg 710w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/2000/1328/crop169/1050.jpg 1050w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/2000/1328/crop169/1050.jpg 1920w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/2000/1328/crop169/1050.jpg 2880w" src="https://d2lsod3xpjaepj.cloudfront.net/files/assets/2000/1328/crop169/710.jpg" alt="Dieter Rams, Vitsœ&#039;s furniture designer. Photograph by Abisag Tüllmann" />
+				<figcaption>
+					Vitsœ’s designer, Dieter Rams. Photograph by Abisag Tüllmann
+					
+				</figcaption>
+			</figure>
+		</div>
+
+		<div class="border-above principle">
+			<div class="principle-number extra-indent">1</div>
+			<div class="principle-content">
+				<h2 data-anchor="anchor">Good design is innovative<span class="hidden">Good design is innovative</span></h2>
+				<p>The possibilities for innovation are not, by any means, exhausted. Technological development is always offering new opportunities for innovative design. But innovative design always develops in tandem with innovative technology, and can never be an end in itself.</p>
+
+				
+			</div>
+			<figure class="principle-image">
+				<img sizes="(min-width: 1060px) and (-webkit-min-device-pixel-ratio: 1.9) 820px, (min-width: 1060px) and (min-resolution: 1.9) 820px, (min-width: 2120px) 820px, (min-width: 1060px) 410px, 100vw" srcset="https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/139/crops/50.jpg 50w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/139/crops/170.jpg 170w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/139/crops/410.jpg 410w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/139/crops/710.jpg 710w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/139/crops/710.jpg 1050w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/139/crops/710.jpg 1920w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/139/crops/710.jpg 2880w" src="https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/139/crops/410.jpg" alt="Braun TP 1 radio/phono designed by Dieter Rams" />
+				<figcaption>TP 1 radio/phono combination, 1959, by Dieter Rams for Braun</figcaption>
+			</figure>
+		</div>
+
+		<div class="principle">
+			<div class="principle-number">2</div>
+			<div class="principle-content">
+				<h2 data-anchor="anchor">Good design makes a product useful<span class="hidden">Good design makes a product useful</span></h2>
+				<p>A product is bought to be used. It has to satisfy certain criteria, not only functional, but also psychological and aesthetic. Good design emphasizes the usefulness of a product whilst disregarding anything that could possibly detract from it.</p>
+
+				
+			</div>
+			<figure class="principle-image">
+				<img sizes="(min-width: 1060px) and (-webkit-min-device-pixel-ratio: 1.9) 820px, (min-width: 1060px) and (min-resolution: 1.9) 820px, (min-width: 2120px) 820px, (min-width: 1060px) 410px, 100vw" srcset="https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/140/crops/50.jpg 50w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/140/crops/170.jpg 170w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/140/crops/410.jpg 410w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/140/crops/710.jpg 710w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/140/crops/710.jpg 1050w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/140/crops/710.jpg 1920w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/140/crops/710.jpg 2880w" src="https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/140/crops/410.jpg" alt="Braun MPZ 21 multipress citrus juicer designed by Dieter Rams" />
+				<figcaption>MPZ 21 multipress citrus juicer, 1972, by Dieter Rams and Jürgen Greubel for Braun</figcaption>
+			</figure>
+		</div>
+
+		<div class="principle">
+			<div class="principle-number">3</div>
+			<div class="principle-content">
+				<h2 data-anchor="anchor">Good design is aesthetic<span class="hidden">Good design is aesthetic</span></h2>
+				<p>The aesthetic quality of a product is integral to its usefulness because products we use every day affect our person and our well-being. But only well-executed objects can be beautiful.</p>
+
+				
+			</div>
+			<figure class="principle-image">
+				<img sizes="(min-width: 1060px) and (-webkit-min-device-pixel-ratio: 1.9) 820px, (min-width: 1060px) and (min-resolution: 1.9) 820px, (min-width: 2120px) 820px, (min-width: 1060px) 410px, 100vw" srcset="https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/141/crops/50.jpg 50w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/141/crops/170.jpg 170w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/141/crops/410.jpg 410w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/141/crops/710.jpg 710w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/141/crops/710.jpg 1050w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/141/crops/710.jpg 1920w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/141/crops/710.jpg 2880w" src="https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/141/crops/410.jpg" alt="Braun RT 20 tisch super radio, designed by Dieter Rams" />
+				<figcaption>RT 20 tischsuper radio, 1961, by Dieter Rams for Braun</figcaption>
+			</figure>
+		</div>
+
+		<div class="principle">
+			<div class="principle-number">4</div>
+			<div class="principle-content">
+				<h2 data-anchor="anchor">Good design makes a product understandable<span class="hidden">Good design makes a product understandable</span></h2>
+				<p>It clarifies the product’s structure. Better still, it can make the product talk. At best, it is self-explanatory.</p>
+
+				
+			</div>
+			<figure class="principle-image">
+				<img sizes="(min-width: 1060px) and (-webkit-min-device-pixel-ratio: 1.9) 820px, (min-width: 1060px) and (min-resolution: 1.9) 820px, (min-width: 2120px) 820px, (min-width: 1060px) 410px, 100vw" srcset="https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/142/crops/50.jpg 50w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/142/crops/170.jpg 170w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/142/crops/410.jpg 410w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/142/crops/710.jpg 710w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/142/crops/710.jpg 1050w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/142/crops/710.jpg 1920w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/142/crops/710.jpg 2880w" src="https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/142/crops/410.jpg" alt="Braun T 1000 world receiver, designed by Dieter Rams" />
+				<figcaption>T 1000 world receiver, 1963, by Dieter Rams for Braun</figcaption>
+			</figure>
+		</div>
+
+		<div class="principle">
+			<div class="principle-number">5</div>
+			<div class="principle-content">
+				<h2 data-anchor="anchor">Good design is unobtrusive<span class="hidden">Good design is unobtrusive</span></h2>
+				<p>Products fulfilling a purpose are like tools. They are neither decorative objects nor works of art. Their design should therefore be both neutral and restrained, to leave room for the user’s self-expression.</p>
+
+				
+			</div>
+			<figure class="principle-image">
+				<img sizes="(min-width: 1060px) and (-webkit-min-device-pixel-ratio: 1.9) 820px, (min-width: 1060px) and (min-resolution: 1.9) 820px, (min-width: 2120px) 820px, (min-width: 1060px) 410px, 100vw" srcset="https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/143/crops/50.jpg 50w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/143/crops/170.jpg 170w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/143/crops/410.jpg 410w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/143/crops/710.jpg 710w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/143/crops/710.jpg 1050w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/143/crops/710.jpg 1920w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/143/crops/710.jpg 2880w" src="https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/143/crops/410.jpg" alt="Braun Cylindric T 2 lighter, designed by Dieter Rams" />
+				<figcaption>Cylindric T 2 lighter, 1968, by Dieter Rams for Braun</figcaption>
+			</figure>
+		</div>
+
+		<div class="principle">
+			<div class="principle-number">6</div>
+			<div class="principle-content">
+				<h2 data-anchor="anchor">Good design is honest<span class="hidden">Good design is honest</span></h2>
+				<p>It does not make a product more innovative, powerful or valuable than it really is. It does not attempt to manipulate the consumer with promises that cannot be kept.</p>
+
+				
+			</div>
+			<figure class="principle-image">
+				<img sizes="(min-width: 1060px) and (-webkit-min-device-pixel-ratio: 1.9) 820px, (min-width: 1060px) and (min-resolution: 1.9) 820px, (min-width: 2120px) 820px, (min-width: 1060px) 410px, 100vw" srcset="https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/144/crops/50.jpg 50w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/144/crops/170.jpg 170w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/144/crops/410.jpg 410w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/144/crops/710.jpg 710w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/144/crops/710.jpg 1050w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/144/crops/710.jpg 1920w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/144/crops/710.jpg 2880w" src="https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/144/crops/410.jpg" alt="Braun L 450 flat loudspeaker, designed by Dieter Rams" />
+				<figcaption>L 450 flat loudspeaker, TG 60 reel-to-reel tape recorder and TS 45 control unit, 1962-64, by Dieter Rams for Braun</figcaption>
+			</figure>
+		</div>
+
+		<div class="principle">
+			<div class="principle-number">7</div>
+			<div class="principle-content">
+				<h2 data-anchor="anchor">Good design is long-lasting<span class="hidden">Good design is long-lasting</span></h2>
+				<p>It avoids being fashionable and therefore never appears antiquated. Unlike fashionable design, it lasts many years – even in today’s throwaway society.</p>
+
+				
+			</div>
+			<figure class="principle-image">
+				<img sizes="(min-width: 1060px) and (-webkit-min-device-pixel-ratio: 1.9) 340px, (min-width: 1060px) and (min-resolution: 1.9) 340px, (min-width: 2120px) 340px, (min-width: 1060px) 170px, 100vw" srcset="https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/297/crops/50.jpg 50w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/297/crops/170.jpg 170w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/297/crops/170.jpg 410w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/297/crops/170.jpg 710w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/297/crops/170.jpg 1050w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/297/crops/170.jpg 1920w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/297/crops/170.jpg 2880w" src="https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/297/crops/170.jpg" alt="620 Chair Programme. Hand made by Vitsœ" />
+				<figcaption><a href="/us/620">620 Chair Program</a>, 1962, by Dieter Rams for Vitsœ</figcaption>
+			</figure>
+		</div>
+
+		<div class="principle">
+			<div class="principle-number">8</div>
+			<div class="principle-content">
+				<h2 data-anchor="anchor">Good design is thorough down to the last detail<span class="hidden">Good design is thorough down to the last detail</span></h2>
+				<p>Nothing must be arbitrary or left to chance. Care and accuracy in the design process show respect towards the user.</p>
+
+				
+			</div>
+			<figure class="principle-image">
+				<img sizes="(min-width: 1060px) and (-webkit-min-device-pixel-ratio: 1.9) 820px, (min-width: 1060px) and (min-resolution: 1.9) 820px, (min-width: 2120px) 820px, (min-width: 1060px) 410px, 100vw" srcset="https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/145/crops/50.jpg 50w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/145/crops/170.jpg 170w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/145/crops/410.jpg 410w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/145/crops/710.jpg 710w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/145/crops/710.jpg 1050w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/145/crops/710.jpg 1920w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/145/crops/710.jpg 2880w" src="https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/145/crops/410.jpg" alt="Braun ET 66 calculatorv, designed by Dieter Rams" />
+				<figcaption>ET 66 calculator, 1987, by Dietrich Lubs for Braun</figcaption>
+			</figure>
+		</div>
+
+		<div class="principle">
+			<div class="principle-number">9</div>
+			<div class="principle-content">
+				<h2 data-anchor="anchor">Good design is environmentally-friendly<span class="hidden">Good design is environmentally-friendly</span></h2>
+				<p>Design makes an important contribution to the preservation of the environment. It conserves resources and minimizes physical and visual pollution throughout the lifecycle of the product.</p>
+
+				
+			</div>
+			<figure class="principle-image">
+				<img sizes="(min-width: 1060px) and (-webkit-min-device-pixel-ratio: 1.9) 820px, (min-width: 1060px) and (min-resolution: 1.9) 820px, (min-width: 2120px) 820px, (min-width: 1060px) 410px, 100vw" srcset="https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/148/crops/50.jpg 50w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/148/crops/170.jpg 170w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/148/crops/410.jpg 410w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/148/crops/710.jpg 710w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/148/crops/710.jpg 1050w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/148/crops/710.jpg 1920w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/148/crops/710.jpg 2880w" src="https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/148/crops/410.jpg" alt="Modular shelving, 606 Universal Shelving System with drawer cabinets." />
+				<figcaption><a href="/us/606">606 Universal Shelving System</a>, 1960, by Dieter Rams for Vitsœ</figcaption>
+			</figure>
+		</div>
+
+		<div class="principle">
+			<div class="principle-number extra-indent">10</div>
+			<div class="principle-content">
+				<h2 data-anchor="anchor">Good design is as little design as possible<span class="hidden">Good design is as little design as possible</span></h2>
+				<p>Less, but better – because it concentrates on the essential aspects, and the products are not burdened with non-essentials.</p>
+
+<p>Back to purity, back to simplicity.</p>
+
+				
+			</div>
+			<figure class="principle-image">
+				<img sizes="(min-width: 1060px) and (-webkit-min-device-pixel-ratio: 1.9) 820px, (min-width: 1060px) and (min-resolution: 1.9) 820px, (min-width: 2120px) 820px, (min-width: 1060px) 410px, 100vw" srcset="https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/149/crops/50.jpg 50w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/149/crops/170.jpg 170w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/149/crops/410.jpg 410w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/149/crops/710.jpg 710w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/149/crops/710.jpg 1050w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/149/crops/710.jpg 1920w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/149/crops/710.jpg 2880w" src="https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/149/crops/410.jpg" alt="Braun L 2 speaker, designed by Dieter Rams" />
+				<figcaption>L 2 speaker, 1958, by Dieter Rams for Braun</figcaption>
+			</figure>
+		</div>
+
+		<div class="text-block">
+			<div class="text-block-title">&nbsp;</div>
+			<div class="margin-below text-block-content">
+				These principles can be shared accurately and fairly under the Creative Commons CC-BY-NC-ND 4.0 licence.
+				<div class="margin-above">
+					<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+						<img alt="Creative Commons License" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" />
+					</a>
+				</div>
+			</div>
+		</div>
+
+		<div class="promo-primary-12-text margin-below-3 border-above-none padding-above-none">
+			   <h2 data-anchor="anchor" class="promo-header promo-left-wrapper">Subscribe to our occasional newsletter<span class="hidden">Subscribe to our occasional newsletter</span></h2>
+			<div class="promo-right-wrapper">
+				<p>You will only hear from us when we have something of interest to share.</p>
+
+				<div class="margin-below">
+					<a class="btn btn-level3 icon btn-angle" href="/us/newsletter">Subscribe</a>
+				</div>
+			</div>
+		</div>
+
+</div>
+
+        <div class="related-content">
+
+                <div class="item-wrap">
+
+                  <a class="remove-underline" href="/us/606" aria-label="">
+                       <div class="card card--l-col  ">
+
+						<div class="card__media">
+                            <img sizes="(min-width: 1060px) and (-webkit-min-device-pixel-ratio: 1.9) 820px, (min-width: 1060px) and (min-resolution: 1.9) 820px, (min-width: 2120px) 820px, (min-width: 1060px) 410px, 100vw" aria-hidden="true" role="presentation" srcset="https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/740/crops/50.jpg 50w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/740/crops/170.jpg 170w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/740/crops/410.jpg 410w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/740/crops/410.jpg 710w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/740/crops/410.jpg 1050w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/740/crops/410.jpg 1920w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/740/crops/410.jpg 2880w" src="https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/740/crops/410.jpg" alt="" />
+                        </div>
+
+                          <div class="card__content">
+                                
+
+								
+                                      <p>Start small. Add to it. Take it with you when you move.</p>
+
+                                
+
+                                
+                                    <span class="card__link card__link--arrow-after" aria-hidden="true">
+                                        606 Universal Shelving System
+                                    </span>
+                                
+
+                          </div>
+                      </div>
+                  </a>
+
+                </div>
+
+
+              <div class="item-wrap">
+
+                  <a class="remove-underline" href="/us/620" aria-label="">
+                       <div class="card card--l-col ">
+						  <div class="card__media">
+                              <img sizes="(min-width: 1060px) and (-webkit-min-device-pixel-ratio: 1.9) 2100px, (min-width: 1060px) and (min-resolution: 1.9) 2100px, (min-width: 2120px) 2100px, (min-width: 1060px) 1050px, 100vw" aria-hidden="true" role="presentation" srcset="https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/457/crops/50.jpg 50w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/457/crops/170.jpg 170w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/457/crops/410.jpg 410w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/457/crops/710.jpg 710w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/457/crops/1050.jpg 1050w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/457/crops/1050.jpg 1920w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/457/crops/1050.jpg 2880w" src="https://d2lsod3xpjaepj.cloudfront.net/files/assets/1000/457/crops/1050.jpg" alt="" />
+                          </div>
+
+                          <div class="card__content">
+
+                                
+
+         						
+                                      <p>Start with a single chair. Add another to make a sofa.</p>
+
+                                
+
+                                
+                                    <span class="card__link card__link--arrow-after" aria-hidden="true">
+                                        620 Chair Programme
+                                    </span>
+                                
+
+                          </div>
+                      </div>
+                  </a>
+
+              </div>
+
+              <div class="item-wrap">
+
+                  <a class="remove-underline" href="/us/621" aria-label="">
+                       <div class="card card--l-col ">
+
+						<div class="card__media">
+                            <img sizes="(min-width: 1060px) and (-webkit-min-device-pixel-ratio: 1.9) 5760px, (min-width: 1060px) and (min-resolution: 1.9) 5760px, (min-width: 2120px) 5760px, (min-width: 1060px) 2880px, 100vw" aria-hidden="true" role="presentation" srcset="https://d2lsod3xpjaepj.cloudfront.net/files/assets/2000/1084/crops/50.jpg 50w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/2000/1084/crops/170.jpg 170w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/2000/1084/crops/410.jpg 410w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/2000/1084/crops/710.jpg 710w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/2000/1084/crops/1050.jpg 1050w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/2000/1084/crops/1920.jpg 1920w, https://d2lsod3xpjaepj.cloudfront.net/files/assets/2000/1084/crops/2880.jpg 2880w" src="https://d2lsod3xpjaepj.cloudfront.net/files/assets/2000/1084/crops/2880.jpg" alt="" />
+                        </div>
+
+                          <div class="card__content">
+
+                                
+
+								
+                                      <p>Surprisingly useful, on its own or as a pair.</p>
+
+                                
+
+                                
+                                    <span class="card__link card__link--arrow-after" aria-hidden="true">
+                                        621 Side Table
+                                    </span>
+                                
+
+                          </div>
+                      </div>
+                  </a>
+
+              </div>
+
+        </div>
+
+
+		
+
+		
+
+	
+
+		</div>
+</main>
+
+
+<footer class="cf footer-container" data-name="footer">
+	<div class="footer-container__wrap">
+		<div class="f-social">
+			<h2 class="heading">
+                Keep in touch            </h2>
+			<p class="copy">
+                You will only hear from us when we have something of interest to share.            </p>
+			<a href='/us/newsletter' class="f-social__subscribe-btn btn btn-level3 icon btn-arrow">Subscribe</a>
+			<ul class="social-list" id="yw0">
+<li><a class="icon-before icon-instagram-before" aria-label="Follow us on Instagram" target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/vitsoe/"></a></li>
+<li><a class="icon-before icon-pinterest-before" aria-label="Follow us on Pinterest" target="_blank" rel="noopener noreferrer" href="https://www.pinterest.co.uk/vitsoe/"></a></li>
+<li><a class="icon-before icon-facebook-before" aria-label="Follow us on Facebook" target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/vitsoe"></a></li>
+<li><a class="icon-before icon-linkedin-before" aria-label="Follow us on LinkedIn" target="_blank" rel="noopener noreferrer" href="https://uk.linkedin.com/company/vitsoe"></a></li>
+<li><a class="icon-before icon-threads-before" aria-label="Follow us on Threads" target="_blank" rel="noopener noreferrer" href="https://www.threads.com/@vitsoe"></a></li>
+<li><a class="icon-before icon-substack-before" aria-label="Follow us on Substack" target="_blank" rel="noopener noreferrer" href="https://substack.com/@vitsoe"></a></li>
+</ul>		</div>
+		
+
+<div class="f-links">
+	<div class="f-links__section f-links__section--one">
+		<div class="links links__one">
+			<h3>Company</h3>
+			<ul>
+				<li><a href='/us/about/ethos'>Ethos</a></li>
+				<li><a href='/us/honest-pricing'>Honest pricing</a></li>
+				<li><a href='/us/customer-comments'>From our customers</a></li>
+			</ul>
+		</div>
+				
+		<div class="links links__two">
+			<h3>Customer care</h3>
+			<ul>
+				<li><a href='/us/help/payment' >Secure payments</a></li>
+				<li><a href='/us/help/delivery' >Delivery &amp; collection</a></li>
+				<li><a href='/us/terms-and-conditions' >Terms &amp; conditions</a></li>
+			</ul>
+		</div>
+				
+		<div class="links links__three">
+			<h3>Professionals</h3>
+			<ul>
+				<li><a href='/us/specify' >Specify Vitsœ</a></li>
+				<li><a href='/us/specify/projects' >Selected projects</a></li>
+				<li><a href='/us/specify/cad' >CAD assets</a></li>
+			</ul>
+		</div>
+	</div>
+			
+	<div class="f-links__section f-links__section--two">
+		<div class="links links__one">
+			<h3>Contact us</h3>
+			<ul>
+				<li><a href='/us/contactus' >Where to find us</a></li>
+				<li><a href='/us/careers' >Careers</a></li>
+			</ul>
+		</div>
+				
+		<div class="links links__two">
+			<h3>Resources</h3>
+			<ul>
+				<li><a href='/us/brochures' >Brochures &amp; prices</a></li>
+				<li><a href='/us/faqs' >FAQs</a></li>
+			</ul>
+		</div>
+	</div>
+</div>	</div>
+	
+	<div class="f-copyright">
+		<div class="f-copyright__wrap">
+			<div class="f-copyright__logo">© 2026 Vitsœ</div>			<div class="f-copyright__links">
+				
+
+<div>
+	<ul>
+		<li><a class="cookie-settings" href='#' target="_blank">Cookie settings</a></li>
+		<li><a href='/us/cookie-policy' target="_blank">Cookie policy</a></li>
+		<li><a href='/us/privacy' target="_blank">Privacy policy</a></li>
+	</ul>
+</div>			</div>
+		</div>
+	</div> 
+</footer>
+
+<div class="cookie-acceptance-container">
+	<div class="cookie-acceptance-container__text-container"> 
+		<div class="container">		
+			<p>By browsing our website, you agree to the storage of cookies on your device for analysis and a better user experience. <a href="/privacy#cookies" target="_blank">Cookie policy</a></p>
+
+     	 	<button class="btn btn-level1 accept-cookies-btn">Accept</button>
+		</div>
+	</div>
+</div>
+<span data-translation="Close" data-translation-word="modal"></span>
+<span data-translation="Full view" data-translation-word="gallery"></span>
+<!-- Name: Main -->
+<style>
+
+
+.contact-container .contact-us-page-accordion--primary.margin-bottom-24 {
+	margin-bottom: 24px;
+}
+
+form#brochureform .checkboxes-container .checkbox-container:last-of-type {
+	display: none;
+}
+
+.page-contactus .accordion-container-title {
+	font-size: 26px;
+}
+
+.contact-container .contact-us-page-accordion--primary {
+	margin-bottom: 0;
+}
+
+.contact-container .contact-us-page-accordion.residence-accordion .accordion {
+	padding-top: 0;
+}
+
+.accordion_option_link {
+ margin-top: 24px;
+}
+
+.page-voice-a-sense-of-belongings .video-caption-container{
+	display: none;
+}
+
+
+.page-620-buy .accordions-620 .accordion-label {
+	font-size: 26px;
+}
+/*US 620 buy dimensions*/
+body.us .accordions-620 .chair-dimension {
+	max-width: 88%;
+    padding: 0;
+  	position: relative;
+}
+
+body.us .accordions-620 .chair-dimension.low-back .height,
+body.us .accordions-620 .chair-dimension.low-back .height.back,
+body.us .accordions-620 .chair-dimension.high-back .height,
+body.us .accordions-620 .chair-dimension.high-back .height.back {
+	right: -10%;
+}
+
+
+body.us .accordions-620 .chair-dimension.foot-stool .height {
+	right: 0;
+}
+
+body.us .accordions-620 .chair-dimension.foot-stool .depth {
+	right: 14%;
+}
+
+body.us .accordions-620 .chair-dimension.chair-kit .depth {
+	right: 15%;
+}
+
+body.us .accordions-620 .chair-dimension.chair-kit--two .height,
+body.us .accordions-620 .chair-dimension.chair-kit .height,
+body.us .accordions-620 .chair-dimension.high-back .height.front,
+body.us .accordions-620 .chair-dimension.low-back .height.front {
+	right: 43%;
+}
+
+body.us .accordions-620 .chair-dimension.high-back .depth,
+body.us .accordions-620 .chair-dimension.low-back .depth {
+	right: 7%;
+}
+
+
+body.us .accordions-620 .chair-dimension.chair-kit--two .width {
+	left: 6%;
+}
+
+
+/*US end*/
+
+
+.grid-layout__section.grid-layout__section--three.large-hide {
+	position: absolute;
+    left: -9999px;
+}
+
+.page-620-buy .accordions-620 .chair-dimension.low-back .height.front,
+.page-620-buy .accordions-620 .chair-dimension.high-back .height.front,
+.page-620-buy .accordions-620 .chair-dimension.chair-kit .height, 
+.page-620-buy .accordions-620 .chair-dimension.chair-kit--two .height {
+	right: 45%;
+}
+
+.page-620-buy .accordions-620 .chair-dimension.chair-kit--two .depth {
+  top: 22%;
+}
+
+.page-620-buy .accordions-620 .chair-dimension.chair-kit--one .depth {
+	top: 8%;
+}
+
+
+
+
+.upholstery-container .images-container{
+	margin-bottom: 24px;
+}
+
+.chair-kit-container h4 {
+	margin-bottom: 24px;
+}
+
+.font-normal-bold {
+	font-size: 17px;
+  	font-weight: 700;
+}
+
+.page-620 .section-twelve-container .no-caption {
+	margin-bottom: 16px
+}
+
+.page-620-buy .accordions-620 .images-container ul li img {
+	margin-bottom: 6px;
+}
+
+.page-620 .section-twelve-container video {
+	margin-bottom: 32px
+}
+
+.page-about-good-design .dieter-hero .text-block-title h2 {
+  font-weight: 700;
+  /*margin-bottom: 8;*/
+}
+
+.page-about-good-design .dieter-hero span#sub_heading {
+    font-size: 26px;
+    margin-bottom: 24px;
+    display: block;
+}
+
+.page-620-buy .accordions-620 .chair-dimension {
+	padding-right: 15px;
+}
+
+.page-about-good-design .dieter-hero .text-block-title a {
+	margin-bottom: 24px;
+}
+
+.page-about-good-design .flex-container {
+  clear: both;
+  display: flex;
+  flex-direction: column;
+}
+
+
+.page-about-good-design .flex-container .introductions-title,
+.page-about-good-design .flex-container .introductions-media {
+  width: 100%;
+}
+
+
+.page-about-history .shift-layout {
+	flex-direction: column;
+}
+
+.page-about-history .timeline .shift-layout .flexed-module__right .flexed-module__inner--left p {
+  margin-top: 0;
+}
+
+body.jp a.f-social__subscribe-btn.btn {
+    max-width: 90px;
+}
+
+body.de a.f-social__subscribe-btn.btn {
+    max-width: 149px;
+}
+
+.page-checkout-payment input[type="checkbox"]:focus {
+    outline-offset: 2px;
+    outline: 2px solid black;
+}
+
+.news-article-body ol {
+	padding-left: 17px;
+}
+
+  .tab-content .copy-container-desktop {
+  	font-size: 14px;
+  }
+
+  .tab-content__inner-content .copy-container-mobile {
+    display: none;
+    font-size: 14px;
+  }
+
+  .tab-content img {
+  	margin-bottom: 4px;
+  }
+
+  .tab-content__inner-content {
+      flex-direction: column;
+  }
+
+.page-606-like-this-thanks .confirmation-text {
+	margin-bottom: 40px;
+}
+
+
+.layout-one .anchor-menu-container .no-questions ul {
+	border-bottom: none;
+   
+}
+
+body.jp .planners-container>div.gb-container .layout-flex .text-block {
+	border: 0;
+}
+
+body.jp .layout-flex.yukari-container > .text-block {
+	border-bottom: 0;
+}
+
+.page-terms-and-conditions-guarantee ul#subnavul li:last-of-type,
+.page-terms-and-conditions ul#subnavul li:last-of-type
+{
+    display: none;
+}
+
+
+.page-help-returns ul#subnavul li:last-of-type,
+.page-help-delivery ul#subnavul li:last-of-type,
+.page-help-payment ul#subnavul li:last-of-type
+{
+    display: none;
+}
+
+.layout-one .versatile-container .reposition-element {
+	align-items: flex-start;
+}
+
+.latest-news-placeholder-v2 h2 {
+	border-top: 1px solid #c2c2c2;
+  	padding-top: 24px;
+  	margin-bottom: 24px;
+}
+
+
+.latest-news-placeholder-v2 .related-content {
+	padding: 0px;
+}
+
+
+.latest-news-placeholder-v2 .item-wrap:first-of-type {
+	border: none;
+}
+
+
+.latest-news-placeholder-v2 .item-wrap {
+	border: none;
+  	padding-top: 0;
+  	padding-bottom: 48px;
+}
+
+
+.card--l-col .card__media {
+	flex: none;
+}
+
+.card--l-col .card__link{
+	margin-bottom: 24px;
+}
+
+.card__link{
+	align-items: flex-start;
+}
+
+.card__link--arrow-before-secondary::before {
+ 	width: 32px;
+    background-size: 20px 20px;
+}
+
+.card__link--arrow-after::after {
+	height: 25px;
+  	width: 25px;
+}
+
+.page-home .latest-news-placeholder .btn-arrow {
+	padding: 0;
+}
+
+.page-specify-projects .hero a {
+  font-size: 17px;
+  line-height: 24px;
+  font-weight: 700;
+}
+
+.page-specify-projects .hero a.btn:after {
+  position: relative;
+  top: 2px
+}
+
+.rotating-banner-container img {
+	margin-bottom: 0;
+}
+
+.page-606 .hero-container .media-container{
+	margin-bottom: 24px	
+}
+
+.card__heading
+{
+	font-size: 26px;
+    line-height: 32px;
+}
+
+.single-banner-card * {
+	color: #fff;
+}
+
+.single-banner-card .card__link::after {
+    filter: brightness(0) invert(1);
+}
+
+.news-article-body .news-container>.related-items {
+	display: flex;
+	flex-direction: column
+}
+
+.news-article-body .news-container>.related-items .related-items-title {
+	width: 100%
+}
+
+.news-article-body .news-container>.related-items .related-items-item-imgwrap {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	margin: 0 0 24px;
+	text-decoration: none
+}
+
+.news-article-body .news-container>.related-items .related-items-item-imgwrap .related-items-item-image img {
+    margin-bottom: 10px
+}
+
+.news-article-body .news-container>.related-items .related-items-item-imgwrap .related-items-item-content {
+	margin: 0;
+	width: 80%
+}
+
+
+.news-article-body .news-container>.related-items .related-items-item-imgwrap .related-items-item-content h4 {
+    margin-bottom: 8px
+}
+
+.news-article-body .news-container>.related-items .related-items-item-imgwrap .related-items-item-content p {
+    color: #000;
+	margin: 0
+}
+
+.news-article-body .news-container>.related-items .related-items-item-imgwrap .related-items-item-image {
+    width: 100%
+}
+
+
+#h-post-prices .structure-606-cost-description p:nth-last-of-type(2){
+	margin: 20px 0 0;
+}
+
+
+body.us #h-post-prices .structure-606-cost-description h3.structure-606-cost-price-table + div span:first-of-type:before {
+    content: "Up to 79\"*";
+    background: #f0f0f0;
+  	display: block;
+    position: absolute;
+}
+
+
+body.us #h-post-prices .structure-606-cost-description h3.structure-606-cost-price-table + div span:first-of-type {
+	width: 88px
+}
+
+body.de #h-post-prices .structure-606-cost-description h3.structure-606-cost-price-table + div span:first-of-type:before {
+    content: "Bis zu 200*";
+    background: #f0f0f0;
+  	display: block;
+    position: absolute;
+}
+
+body.jp #h-post-prices .structure-606-cost-description h3.structure-606-cost-price-table + div span:first-of-type:before {
+    content: "200以下";
+    background: #f0f0f0;
+  	display: block;
+    position: absolute;
+}
+
+#h-post-prices .structure-606-cost-description h3.structure-606-cost-price-table + div span:first-of-type:before {
+    background: #f0f0f0;
+    content: "Up to 200*";
+  	display: block;
+    position: absolute;
+}
+
+.gallery-lightbox .lightbox-controls .arrow-left, 
+.gallery-lightbox .lightbox-controls .arrow-right{
+	height: 65px;
+}
+
+
+.h-post-container #h-post-prices .structure-606-cost-category,
+.h-post-container #h-post-prices .structure-606-cost-section {
+    padding-top: 0;
+}
+
+
+body.page-606-inquiry-thanks .confirmation-text,
+body.page-606-like-this-thanks .confirmation-text {
+    margin-bottom: 48px;
+}
+
+
+body.gb.page-606-inquiry-thanks .next-steps-v2-module a {
+	margin-bottom: 40px;
+}
+
+
+.back-to-top-container__btn-wrap {
+    max-width: 1110px;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+
+.page-careers .about-us .related-items-item p{
+	font-size: 17px;
+    line-height: 24px;
+}
+
+
+.layout-one .anchor-content-container .audio-container{
+	display: flex;
+	align-items: center;
+}
+
+
+.layout-one .anchor-content-container .audio-container p{
+	margin: 0;
+}
+
+
+.layout-one .anchor-content-container .audio-container button{
+	background: 0 0;
+ 	border: none;
+}
+
+.layout-one .anchor-content-container .audio-container button i{
+	margin-right: 10px;
+}
+
+
+.layout-one .anchor-content-container .audio-container .play-clip{
+	display: flex;
+    align-items: center;
+    color: #0073b1;
+}
+
+.layout-one .anchor-menu-container h3 {
+    margin: 0;
+}
+
+.layout-one .anchor-menu-container ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 40px;
+}
+
+.layout-one .anchor-menu-container ul a {
+	text-decoration: none;
+}
+
+.layout-one .anchor-menu-container ul:last-of-type{
+  border-bottom: 1px solid #c2c2c2;
+  padding-bottom: 40px;
+  margin-bottom: 24px;
+}
+
+
+.layout-one .anchor-menu-container__intro-content p:first-of-type {
+  font-weight: 700;
+  margin-bottom: 0;
+}
+
+
+.layout-one .anchor-content-container__intro-content {
+  margin-bottom: 40px;
+}
+
+.layout-one .anchor-content-container .section-heading {
+  font-weight: 700;
+  padding-bottom: 24px;
+  margin-bottom: 0;
+}
+
+.layout-one .anchor-content-container article{
+  padding-top: 24px;
+  padding-bottom: 40px;
+}
+
+.layout-one .anchor-content-container article:first-of-type {
+  border-top: 1px solid #c2c2c2;
+}
+
+.layout-one .anchor-content-container article:not(:last-of-type){
+  border-bottom: 1px solid #c2c2c2;
+}
+
+.layout-one .supplementary-content-container {
+  padding-top: 24px;
+  border-top: 1px solid #c2c2c2;
+}
+
+.layout-one .supplementary-content-container h2{
+  font-weight: 700;
+  display: flex;
+  align-items: baseline;
+  margin-bottom: 0;
+}
+
+.layout-one .supplementary-content-container h2 span {
+  margin-right: 18px;
+  margin-bottom: 0;
+}
+
+.layout-one .supplementary-content-container p {
+  margin-bottom: 0;
+}
+
+layout-one.structures-container .full-width-container .media-components-container .media-scroller {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 95%;
+}
+
+/* 620 buy */
+
+.chair-kit-container .chair-kit-container__copy {
+  margin-bottom: 24px;
+}
+
+
+.one-tool-container .content__item.content__item--three.large-hide {
+	margin-bottom: 24px;
+}
+
+@media only screen and (min-width: 620px) {
+  
+    .page-contactus .accordion-container-title {
+		font-size: 32px;
+	}
+  
+  
+  .upholstery-container .images-container{
+		margin-bottom: 0;
+	}
+  
+   .page-about-good-design .flex-container .introductions-title {
+    width: 80%;
+  }
+  
+  .tab-content__inner-content .copy-container-mobile {
+    display: block;
+    font-size: 14px;
+	}
+  
+  .tab-content .copy-container-desktop {
+  	display: none;
+  }
+  
+  .tab-content img {
+  	margin-bottom: 24px;
+  }
+  
+   .tab-content__inner-content img {
+  	margin-bottom: 4px;
+  }
+  
+  
+  .page-606 .hero-container .media-container{
+	margin-bottom: 40px	
+	}
+  
+    .card__heading
+    {
+        font-size: 32px;
+      	line-height: 40px;
+    }
+  
+	/*body.page-606-structures .layout-one.structures-container .pos-left > *{
+		margin-left: -32px;
+	}*/
+  
+    .page-home .layout-four .cta-container a {
+  	text-align: right;
+  }
+  
+  .back-to-top-container__btn-wrap {
+    padding: 0 32px;
+	}
+  
+    body.page-606-inquiry-thanks .confirmation-text,
+  	body.page-606-like-this-thanks .confirmation-text{
+    margin-bottom: 64px;
+	}
+  
+  
+     .news-article-body .news-container>.related-items .related-items-item-imgwrap {
+        flex-direction: row
+    }
+
+    .news-article-body .news-container>.related-items .related-items-item-imgwrap .related-items-item-image {
+        flex: 1;
+        margin: 0 32px 0 0
+    }
+
+    .news-article-body .news-container>.related-items .related-items-item-imgwrap .related-items-item-content {
+        flex: 2
+	}
+
+    .news-article-body .news-container>.related-items .related-items-item-imgwrap:not(:last-of-type) {
+        margin-right: 32px
+	}
+  
+      .page-about-good-design .dieter-hero span#sub_heading {
+    	font-size: 32px;
+      	line-height: 40px;
+	}
+  
+    /*620 */
+  	
+  .page-620-buy .how-its-made-container .inner-content__one {
+    flex-direction: column;
+  }
+  
+  .page-620-buy .how-its-made-container .content__item.content {
+  	flex-direction: column;
+  }
+  
+  .page-620-buy .how-its-made-container .content .inner-content__one--copy {
+  	order: 1;
+  }
+  
+  .page-620-buy .how-its-made-container .inner-content__two--copy {
+  	width: 100%;
+  }
+  
+}
+
+@media only screen and (min-width: 860px) { 
+  
+  .page-contactus-vitsoe-near-you .accordion-container .accordion-section:first-of-type {
+  	border-top: 1px solid #c2c2c2;
+  }
+  
+  .page-about-good-design .flex-container .introductions-title {
+    width: 50%;
+  }
+  
+  
+  .layout-one .anchor-menu-container__intro-content p {
+	max-width: 50%;
+  }
+  
+   .privacy-copy{
+  	width: 50%;
+  }
+  
+  /*body.page-606-structures .layout-one.structures-container .pos-left > *{
+		margin-left: 0;
+	}*/
+  
+  .layout-one .links-container a {
+  	line-height: 40px;
+  }
+  
+  .news-article-body .news-container>.related-items {
+		flex-wrap: wrap;
+		flex-direction: row
+	}
+
+    .news-article-body .news-container>.related-items .related-items-item-imgwrap {
+        flex-direction: column;
+        flex: 1
+    }
+    .news-article-body .news-container>.related-items .related-items-item-imgwrap .related-items-item-content {
+        width: auto
+    }
+  
+  	.page-brochures .forms-container .forms-title {
+  		width: 31.42%;
+  	}
+  
+    .page-home .related-content {
+      gap: 0;
+  	}
+  
+  	.grid-layout.related-content  .related-items-more {
+  		position: relative;
+      	right: 27px;
+  	}
+  
+    .multi-image-component.active .close-modal-btn { 
+  		font-size: 32px;
+  	}
+  
+  	.page-about-history .shift-layout {
+      flex-direction: row;
+  	}
+  
+  .page-620-buy .how-its-made-container .content .inner-content__one--copy {
+  	order: 0;
+  }
+  
+    .page-620-buy .how-its-made-container .content .inner-content {
+      display: flex;
+      gap: 32px;
+      flex-direction: row;
+  	}
+  
+  .page-620-buy .how-its-made-container .inner-content__one--copy {
+  	order: 0;
+  }
+  
+  .page-620-buy .how-its-made-container .inner-content__two--copy {
+  	width: 50%;
+  }
+  
+  .page-620-buy .how-its-made-container .inner-content__two--media {
+  	width: 50%;
+    order: 1;
+  }
+  
+  .page-620-buy .accordions-620 .chair-kit-container {
+  	display: flex;
+    flex-direction: row;
+    gap: 32px;
+    margin-top: 40px;
+  
+  }
+  
+   .page-620-buy .chair-kit-container .chair-kit-container__section--one {
+  	   flex: 1;
+  }
+  
+  .page-620-buy .chair-kit-container .chair-kit-container__section--two {
+    flex: 2;
+  }
+  
+  .chair-kit-container__media {
+  	margin-top: 24px;
+  }
+  
+  .page-620-buy .one-tool-container {
+  	margin: 64px 0 24px;
+  }
+  
+  .page-620-buy .low-back--one img{
+  	padding-top: 20px;
+  }
+  
+  .page-620-buy .accordions-620  .chair-dimension.low-back--one .depth {
+  	top: 0;
+  }
+  
+  .page-620-buy .accordions-620  .chair-dimension.low-back--one .width {
+  	top: 0;
+  }
+  
+  /*Dieter Rams page*/
+  .page-about-dieter-rams .section-two-container .image-container figcaption {
+  	margin-bottom: 0;
+  }
+  
+  .page-about-dieter-rams .section-three-container .fl-section__two figcaption {
+  	max-width: 35%;
+  }
+  
+  .page-about-dieter-rams .section-four-container .quote-container {
+  	margin-bottom: 40px;
+  }
+  
+  .page-about-dieter-rams .section-five-container .link-container {
+  	margin: 64px 0 64px;
+  }
+  
+  .page-620-buy .shell-container .grid-layout__section p {
+  	width: 66.66%;
+  }
+  
+  .page-620-buy .how-its-made-container {
+  	margin-bottom: 8px;
+  }
+  
+  .page-620-buy .one-tool-container {
+  	display: flex;
+    gap: 32px;
+  }
+  
+  .page-620-buy .one-tool-container .section-one {
+  	flex: 1;
+  }
+  
+  .page-620-buy .one-tool-container .section-two {
+  	flex: 2;
+  }
+  
+  .page-620-buy .grid-layout.linen-container {
+  	margin-bottom: 40px;
+  }
+  
+  .page-620-buy .accordions-620 .accordion-label {
+	font-size: 32px;
+  }
+
+  
+}
+
+@media only screen and (min-width: 1024px) { 
+	
+  .page-about-good-design .flex-container {
+    flex-direction: row;
+  }
+  
+  .page-about-good-design .flex-container .introductions-title {
+    flex: 1;
+    margin-right: 0;
+    padding-right: 16px;
+  }
+  
+  .page-about-good-design .flex-container .introductions-media {
+  	flex: 2;
+  }
+  
+  .page-about-good-design .flex-container .introductions-title > * {
+  	margin-right: 16px
+  }
+  
+  .page-620-buy .chair-kit-container .chair-kit-container__section--two {
+    display: flex;
+    gap: 32px;
+  }
+  
+  .page-620-buy .chair-kit-container .chair-kit-container__section--two > div{ 
+  	flex: 1;
+  }
+  
+  .chair-kit-container__media {
+  	margin-top: 0;
+  }
+  
+  body.us .accordions-620 .chair-dimension.low-back .height,
+  body.us .accordions-620 .chair-dimension.low-back .height.back,
+  body.us .accordions-620 .chair-dimension.high-back .height,
+  body.us .accordions-620 .chair-dimension.high-back .height.back {
+      right: -5%;
+  }
+  
+  body.us .accordions-620 .chair-dimension.foot-stool .height {
+	right: 4%;
+  }
+  
+}
+
+
+
+</style>
+
+<!-- End of Main --><!-- Name: Meta pixel -->
+<style> </style>
+<!-- End of Meta pixel --></body>
+</html>
