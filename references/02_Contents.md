@@ -1,0 +1,127 @@
+# Contents
+
+### Front Matter & Introduction
+- **Preface** *(p. xi)*
+- **Abbreviations** *(p. xxiii)*
+- **Maps of eastern and central Java** *(p. xxv)*
+
+- 1 The ‘Versailles of Java’: Yogya in the early nineteenth century *(p. 1)*
+- The Yogya military establishment *(p. 5)*
+- The landed base of the military establishment *(p. 8)*
+- The royal apanage system *(p. 9)*
+- The role of the tax collectors *(p. 14)*
+- The western mancanagara: Banyumas *(p. 19)*
+- The western nagara agung: Bagelèn *(p. 23)*
+- Social groups and the village community *(p. 27)*
+- The golden age of the sikep? *(p. 33)*
+- Extension of ricefields and development of irrigation *(p. 35)*
+- Demographic growth, 1755-1825 *(p. 39)*
+- Public health *(p. 41)*
+- Diet and peasant lifestyles *(p. 43)*
+- Early marriage and the value of children *(p. 46)*
+- Rural criminality, social bandits and fighting cocks *(p. 47)*
+- The forces of law and order *(p. 53)*
+- The Yogya taxation system and the eastern outlying districts *(p. 56)*
+- The pancas revisions of the second sultan and their impact *(p. 60)*
+- Conclusion *(p. 66)*
+- 69 A prophetic birth *(p. 69)*
+- Female relatives and influences *(p. 71)*
+- A Tegalreja childhood *(p. 80)*
+- Inheriting the Tegalreja estate *(p. 83)*
+- The Tegalreja circle; early contacts with the Islamic communities *(p. 88)*
+- Conclusion *(p. 94)*
+- 97 First marriage and development of the Tegalreja community *(p. 97)*
+- Education and literary interests *(p. 102)*
+- Character, intellectual ability and relations with Europeans *(p. 105)*
+- Understanding of Islam *(p. 110)*
+- Appearance, personality, family and pleasures *(p. 115)*
+- Conclusion *(p. 124)*
+- 127 Lelana: spiritual wanderings as rite de passage *(p. 127)*
+- Preparations for a pilgrimage *(p. 128)*
+- Tirakat: solitary withdrawal and first visions *(p. 131)*
+- At the south coast: meetings with Ratu Kidul *(p. 137)*
+- Final instruction at Parangkusuma and return to Tegalreja *(p. 150)*
+- Conclusion *(p. 155)*
+- 157 Daendels’ new order *(p. 157)*
+- Plans for annexation of territory in central and east Java *(p. 161)*
+- Daendels’ edicts on ceremonial and etiquette and their impact *(p. 166)*
+- Military manoeuvres; Javanese and Dutch *(p. 175)*
+- The emergence of an anti-Dutch party in Yogya *(p. 187)*
+- The Javanese buffalo confronts the Dutch tiger *(p. 194)*
+- Conclusion *(p. 201)*
+- 205 The despoliation of Yogya *(p. 205)*
+- Military preparations and Daendels’ July 1809 visit *(p. 207)*
+- The struggle over the teak trade and the crisis in the eastern mancanagara and pasisir *(p. 211)*
+- The scapegoating of Radèn Rongga *(p. 218)*
+- The April-August 1810 crisis in Dutch-Yogya relations *(p. 222)*
+- The ‘piling up’ of affairs and preparations for Rongga’s rebellion *(p. 230)*
+- Cleansing Java of defilement; Radèn Rongga’s eastern mancanagara  rebellion *(p. 242)*
+- Conclusion *(p. 258)*
+- 261 Introduction *(p. 261)*
+- The reckoning *(p. 262)*
+- Incipient civil war in Yogya *(p. 271)*
+- The collapse of the Franco-Dutch government *(p. 275)*
+- The squaring of accounts *(p. 287)*
+- The British attempt at compromise and Raffles’ first visit to the courts *(p. 297)*
+- Preparations for war *(p. 312)*
+- The fall of Yogyakarta, 20 June 1812 *(p. 331)*
+- Conclusion *(p. 342)*
+- 345 Lineaments of a new order *(p. 345)*
+- The plunder of the Yogya kraton *(p. 346)*
+- The appointment of Hamengkubuwana III and kasepuhan-karajan rivalries *(p. 352)*
+- Creation of the Pakualaman, exile of the old sultan and the disposal of kraton plunder *(p. 359)*
+- The third sultan’s new order and Dipanagara’s role *(p. 365)*
+- The 1 August 1812 treaties and their implications *(p. 377)*
+- Positive developments during the third sultan’s reign *(p. 389)*
+- Political and administrative changes *(p. 394)*
+- Dipanagara’s second marriage and the death of the third sultan *(p. 401)*
+- Accession, regency and marriage of the boy sultan, Hamengkubuwana IV *(p. 408)*
+- The Sayyid Kramat disturbance in Madiun and the sepoy plot of 1815 *(p. 414)*
+- Conclusion *(p. 428)*
+- 431 Squaring the circle *(p. 431)*
+- A Resident who enjoyed eating and drinking and the spreading of Dutch ways *(p. 435)*
+- The early challenges of Nahuys’ Residency *(p. 441)*
+- Nahuys’ land-rent initiative in the Principalities and its problems *(p. 454)*
+- Raffles’ land tax, coffee plantations and the situation in Kedhu *(p. 464)*
+- The working of the tollgates *(p. 467)*
+- The impact of the tollgates on internal trade and Sino-Javanese relations *(p. 471)*
+- The effects of the opium monopoly *(p. 478)*
+- Popular millenarian movements and prophecies in south-central Java *(p. 480)*
+- The crisis in the Javanese countryside; the cholera epidemic of 1821 and Pangéran Dipasana’s revolt *(p. 493)*
+- Events at the courts in the last years of Pakubuwana IV and Hamengkubuwana IV’s reigns *(p. 499)*
+- Conclusion *(p. 503)*
+- 505 The man of destiny *(p. 505)*
+- The aftermath of the fourth sultan’s death and Dipanagara’s guardianship *(p. 506)*
+- The December 1822 eruption of Mountt Merapi and the Jayabaya prophecies *(p. 512)*
+- A small, fat and shy man: Yogyakarta’s new Resident *(p. 517)*
+- The abolition of the land-rent and its consequences *(p. 527)*
+- Dipanagara’s role as guardian and the land-rent indemnities *(p. 537)*
+- Dipanagara’s break with the court *(p. 543)*
+- The moral rot: Danureja’s rule and the conduct of senior Dutch officials in Yogya *(p. 546)*
+- The government’s annexation plans and their impact *(p. 553)*
+- Dipanagara’s pre-war visions *(p. 564)*
+- Dipanagara’s understanding of his role as a Javanese Just King and his attitude towards the Europeans in Java *(p. 583)*
+- Preparations for rebellion *(p. 591)*
+- 605 Introduction *(p. 605)*
+- Mobilization for war: finance, peasant manpower and armaments *(p. 606)*
+- The role of women *(p. 613)*
+- Xenophobia and identity: changing attitudes towards the Chinese and issues of Javanese language and culture *(p. 617)*
+- Leadership and regional loyalties *(p. 621)*
+- The role of the santri communities *(p. 626)*
+- Satria and santri: the breakdown in relations between Dipanagara and Kyai Maja *(p. 629)*
+- Dutch military and political tactics *(p. 639)*
+- Dipanagara’s fiscal regime: Senthot and the problems of dwifungsi *(p. 647)*
+- Conclusion *(p. 653)*
+- 657 657 Introduction *(p. 657)*
+- The colonel’s promise: Dipanagara’s negotiations with Cleerens in February 1830 and the question of safe conduct *(p. 660)*
+- Treachery or honourable submission? Dipanagara’s arrest at Magelang, 28 March 1830 *(p. 677)*
+- Steamboat to Batavia: how Dipanagara received the governor-general’s life sentence *(p. 699)*
+- 713 The Radeau de Méduse: surviving the corvette ‘Pollux’, 3 May-12 June 1830 *(p. 713)*
+- A Minahasan interlude: Dipanagara’s Manado years, 1830-1833 *(p. 721)*
+- Closing the circle: the state prisoner of Fort Rotterdam, Makasar, 1833-1855 *(p. 734)*
+- Conclusion *(p. 756)*
+
+### Reference & Back Matter
+- **Glossary of Javanese words** *(p. 839)*
+- **Bibliography** *(p. 845)*
+- **Index** *(p. 873)*

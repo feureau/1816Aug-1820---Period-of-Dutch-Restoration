@@ -1,0 +1,94 @@
+# Glossary of Javanese Words
+
+*Note: These definitions give only those senses in which the words have been used in the present study.*
+
+- **abdi-Dalem** — royal official or retainer usually living in the immediate environs of the royal palace (namely within the walls of the kraton, see below)
+- **adat** — custom, time honoured practice both in social etiquette and in legal matters
+- **adipati** — used in conjunction with pangéran to indicate a senior prince often with an extensive apanage and a quasi-independent position in the kraton
+- **ali basah** — title accorded by Dipanagara to certain select army during the Java War, from the Turkish Ali Pasha (the ‘High Pasha’)
+- **alun-alun** — the great square or open field in front of and behind the kraton; it was usually planted with two boxed waringin (banyan) trees as symbols of royal authority
+- **babad** — Javanese historical texts written in chronicle form and divided into cantos (each with a separate metre); from the Javanese verb, mbabad, to clear (the jungle)
+- **bandar** — a keeper of a tollgate or customs post on the main roads and rivers in south-central and east Java before the outbreak of the Java War; the tollgate keepers were usually Chinese who farmed the rent of customs, first from the Javanese courts and later (after 1812) from the European government
+- **batik** — intricately designed wax-dyed fabric
+- **batur** — porter or coolie who carried goods by shoulder load, referred to in Javanese as a pikul (see below), on the main roads in Java during the nineteenth century
+- **bupati** — high administrative official: the title was used for heads of provincial areas (especially in the mancanagara, see below) and for the chiefs of administrative departments in the kraton; thus kabupatèn, the residence, office or administrative area of a bupati. See also wedana below
+- **cacah** — household, used as a unit of measurement for land and population in Java. It was usually reckoned as the amount of land which could be worked (and provide a livelihood) for a family of five; thus the size of the cacah varied according to the quality of the ground and the availability of irrigation
+- **dalem** — princely residence or home of a high court official; it usually comprised an extensive central building with private apartments and a large front veranda (pendhapa, see below) for receiving visitors, a wide yard and outhouses for servants and relations. The whole complex was usually surrounded by a wall or bamboo fence and looked like a kraton in miniature
+- **demang** — middle-ranking provincial official with special tax collecting responsibilities
+- **désa** — village or complex of houses with ricefields and orchards attached in rural areas
+- **dhalang** — puppeteer in the wayang theatre; he is the key figure in wayang performances having the task of moving the puppets, reproducing the speech of the various characters, telling the story of the plot, singing snatches of song and making jokes. He also has the duty of ensuring that the performance (which starts at about 9 p.m.) is over and complete before the break of day (at about 6 a.m.)
+- **emban** — guardian or nurse of a young child or youth below the age of majority, which in Java is sixteen years
+- **Èrucakra** — title of the Javanese ‘Just King’ (ratu adil, see below) who is believed to make his appearance after a period of economic decline and moral decadence. The characteristics of his reign are low taxes, fair justice, cheap food and clothes, and feelings of common brotherhood. The origin of the title Èrucakra is unclear, but may be connected to the Hindu god Wisnu’s sun disc (cakra) weapon, see Chapter IX note 147
+- **gamelan** — Javanese orchestra comprising mainly percussion and wind instruments
+- **Garebeg** — thrice-annual Javanese-Islamic feasts, consisting of the Garebeg Mulud in celebration of the birth of The Prophet Muhammad, Garebeg Puwasa to celebrate the end of the fasting month, and Garebeg Besar in commemoration of Abraham’s willingness to sacrifice his son (Ishmael/Isaac) and of the pilgrimage to Mecca
+- **gunung** — mountain or large hill (usually over 600 meters in height); it was also a title used in Surakarta for police and tax officials in the villages who were answerable to the patih (in Yogya, they were known as Tamping). The title probably derived from the gunungan (large mounds of decorated rice) which these officials had to bear in procession during the Garebeg ceremonies (see above) in Surakarta
+- **guwa** — cave, grotto
+- **haji** — the title of a pilgrim who has been to Mecca; the haj (pilgrimage to Mecca) is one of the five central obligations of a Muslim, the others being: the shahadat (the confession of The Faith: ‘There is no God but God and Muhammad is His Prophet’); salat (five daily prayers); zakat (the giving of alms) and puwasa, the observation of the fast during the fasting month
+- **jimat** — amulet or talisman (usually small pieces of different sorts of metal, wood or paper with writing in Arabic script containing secret formulae) which are believed to ward off sickness and danger, and provide invulnerability in battle
+- **jung** — a unit of land measurement (usually about 600 square feet): like the cacah (see above) it varied in size according to the quality of the ground. In some areas it is reckoned as being four times the size of the cacah and enough to provide a livelihood for four families of cultivators
+- **jurukunci** — doorkeeper or guardian of the keys of a grave or holy place (see pradikan below)
+- **kadipatèn** — residence of the Crown Prince (Pangéran Adipati Anom) at the south-central Javanese courts
+- **kali** — a large river; also ‘Bengawan’ in the case of the Sala river
+- **kampung** — village or urban settlement, the latter often occupied by a particular ethnic group or community, hence Kampung Melayu, Kampung Cina, the Malay and Chinese quarters of a town
+- **kapitan Cina** — head of the Chinese community in a town or provincial area
+- **kauman** — strict religious community in the court cities who resided in the area near the Great Mosque (Mesjid Ageng)
+- **kebathinan** — Javanese spiritual and mystical disciplines which can range from varieties of Islamic mysticism to magical practices. In general kebathinan is the science of the soul or the inner man (bathin) and is concerned with providing methods for spiritual growth and the unity of man with his Creator
+- **kècu** — robber, bandit or thief (see wong durjana below)
+- **kepatihan** — office and residence of the chief administrator (patih, see below) at the Central Javanese courts
+- **krama** — ‘High Javanese’, one of the two basic forms of Modern Javanese (see also ngoko below): used to address superiors in age or social standing
+- **kraman** — rebel, one who sets himself up against the established authority
+- **kraton** — royal palace, court and residence of a ruler. This comprises the royal apartments and meeting halls etcetera, and also numerous houses inhabited by the families of royal retainers. The whole complex, which in Yogya contained between 10-15,000 people in 1812 and extended three miles in circumference, is surrounded by a large defensive wall, see page 4.
+- **kris** — Javanese dagger or small stabbing sword often considered to possess supernatural powers. The blade can be straight or undulating and the metal is inlaid with meteoric iron. This damascening (or pamor in Javanese) produces many different shapes and figures and gives each kris a unique character
+- **kyai** — honorific title for old men or country gentlemen, especially teachers of religious and spiritual disciplines see ulama below. The title is also used to refer to special kris and other pusaka (see below)
+- **lakon** — a plot which is enacted in a wayang drama (see wayang below)
+- **lurah** — chief or head, especially used as a title for village leaders; also the head of any administrative branch or group (hence kyai lurah, the title of the patih amongst court officials)
+- **mancanagara** — the outer regions or distant provinces of a kingdom (as distinct from the inner areas near the court, see nagara agung below). These outlying regions, which were originally added to the royal patrimony by conquest, were administered directly by their own bupati as opposed to the nagara agung which was governed in the name of the sovereign by the patih. The mancanagara areas to the east and west of the princely territories were finally annexed by the Dutch in 1830
+- **mantri** — title of an official of lower rank in the royal administration
+- **mas** — title of nobility, used for distant relations (male) of the royal families
+- **mesjid** — mosque or place of worship; hence Mesjid Ageng (‘Great Mosque’) at the courts
+- **nagara agung** — the core regions of a kingdom, the lands in the vicinity of the court. These were used as crown lands (narawita, bumi pamajegan-dalem) for special types of produce, taxes and labour services for the court, and as apanages (lungguh) or usufruct land for members of the royal family and high court officials
+- **nayaka** — adviser to the ruler. There were eight of these in each of the south-central Javanese courts comprising the patih and the heads of kraton administrative departments (the four Inner and the four Outer bupati, known as wedana jero and wedana jaba)
+- **ngoko** — ‘Low Javanese’, one of the two basic forms of Modern Javanese (see krama above); used to address close equals or inferiors (in age or social standing)
+- **panakawan** — intimate retainer of a ruler, nobleman or official: these retainers occasionally had something of the humour and wisdom associated with the clown-servant advisers in the wayang theatre
+- **panembahan** — high princely title usually reserved for respected, older male members of the close royal family, for example, the uncles and elder brothers of a ruler
+- **pangéran** — prince, male offspring of a ruler by official and unofficial wives
+- **panji** — young man of high nobility; a title given to youths who served as intimate retainers of the rulers and to military commanders at the courts
+- **pasisir** — coast, in particular the north coast of Java, also used to indicate regions not in the heartland (princely territories) of south-central Java
+- **pathok negari** — centres for the ulama (experts in fiqh or Islamic law) who acted as the advisers of the pengulu (chief religious functionary) in the religious courts. Before they were abolished in circa 1830, there were four pathok (alias ‘pillars’) at both Yogya and Surakarta answerable to the pengulu at the centre, thus recalling the five pillars of Islam
+- **patih** — chief minister of the Javanese kingdoms: his full title was patih jaba (prime minister dealing with affairs outside the court) to distinguish him from the patih jero who had primary responsibility over matters within the kraton (see nayaka above). The title was also used more generally for the head of an administration, hence patih kadipatèn the head of the Crown Prince’s establishment
+- **payung** — state umbrella, used as an insignia of rank or royal birth
+- **pégon** — Javanese written in Arabic characters (usually unvocalised), often used by the more self-consciously religious members of the south-central Javanese communities, for example, the santri, see below
+- **pendhapa** — large covered audience hall or veranda in front of a Javanese house for receiving visitors
+- **pengulu** — head of the religious hierarchy in the court towns who also played a leading role as an interpreter of Islamic law codes in the religious courts (surambi) of the south-central Javanese kraton
+- **pesanggrahan** — pavilion, overnight stopping place or royal hunting lodge
+- **pesantrèn** — religious boarding school comprising dormitories, places of instruction and adjacent ricefields, which were frequented by students of religion (see santri below)
+- **pikul** — a weight (usually about 62 kilograms) which is carried in two baskets, weighted evenly and borne on a carrying pole slung across the shoulders
+- **pondhok** — small religious boarding school set up on the same lines as a pesantrèn but on a much smaller scale
+- **pradikan** — tax-free areas given by the courts and usually set aside for those engaged in religious pursuits or for guardians of graves and holy places (see jurukunci above); hence pradikan ageng, the head of such a tax-free area
+- **prajurit** — soldier, member of the palace guard
+- **prang sabil** — holy war; a war waged for (Islamic) religious ideals, which is one of the obligations of a Muslim
+- **priyayi** — member of the official class in south-central Java, literally para yayi, the ‘younger brothers of the ruler’
+- **pusaka** — holy regalia or heirloom handed down from one generation to the next in a particular family; often considered to have supernatural powers (see kris above)
+- **radèn** — title of middle nobility given to persons distantly related to the main royal families
+- **radèn mas** — title of high nobility given to close male descendants of the main royal families
+- **ratu** — principal official wife of the ruler: in the south-central Javanese courts the rulers usually had four such principal wives, one for each point of the compass. The one for the southern quarter (Ratu Kidul) was the queen of the spirit kingdom in the southern ocean (see below)
+- **ratu adil** — see above under Èrucakra
+- **Ratu Kidul** — the goddess of the southern ocean. According to popular Javanese beliefs, she rules over a court inhabited by spirits. The rulers of the south-central Javanese courts are expected to enter into a spiritual marriage with the goddess in order to ensure the support of the spirit kingdoms during their period of rule
+- **santri** — a student of (Islamic) religion, follower of a religious way of life, pupil at a pesantrèn or pondhok (see above)
+- **sawah** — wet ricefield
+- **sèh (syèh)** — title given to high religious dignitaries, especially to teachers and scholars who were Arabs from the Hadhramaut or who claimed descent from the family of The Prophet (Arabic Shaykh)
+- **selir** — unofficial wife of a prince or ruler
+- **sénapati** — commander-in-chief of an army
+- **sengkala** — chronogram list
+- **sentana** — member of the sultan’s family, usually a distant relative such as a second or third cousin
+- **tapa** — to engage in asceticism: an ascetic, mystic, man of religion. See also tirakat
+- **tembang** — verse; scanned verse used in chronicles etcetera
+- **tirakat** — to go on retreat and practice meditation and asceticism. See also tapa
+- **tumenggung** — title of high administrative rank usually given to bupati (see above)
+- **ulama** — Muslim scholar especially applied as a title to those learned in Islamic law (fiqh)
+- **wali** — early apostle or saint of Islam in Java; the wali are usually said to have been nine in number
+- **wayang** — Javanese puppet theatre of several types. Those mentioned in this study are as follows: wayang kulit, shadow theatre with flat leather puppets; wayang purwa, plays dealing with ancient mythology (principally the Ramayana and Mahabharata cycles); wayang wong, theatre performance using dancers, and wayang topèng, a masked dance
+- **wedana** — high administrative official; the title, like that of bupati, was used both for officials within the kraton and for those in charge of extensive administrative areas such as the eastern and western mancanagara where the senior official was known as bupati wedana
+- **wong cilik** — common people
+- **wong durjana** — robbers, tramps, bandits, or ‘evil folk’ in general (see kècu above)
+- **wong putihan** — students of religion or religious officials living a communal life (see above pradikan, santri and ulama)

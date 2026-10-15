@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Correction Dictionary & Master Keyword Index</title>
+    <style>
+        body {
+            background-color: #1a1a1a;
+            color: #e0e0e0;
+            font-family: Arial, sans-serif;
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.65;
+        }
+        .topbar {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 15px;
+            border-bottom: 1px solid #333;
+            padding-bottom: 15px;
+            margin-bottom: 25px;
+            flex-wrap: wrap;
+        }
+        .topbar-nav {
+            display: flex;
+            gap: 10px;
+        }
+        .btn {
+            display: inline-block;
+            background: #2d2d2d;
+            color: #e0e0e0;
+            border: 1px solid #444;
+            border-radius: 5px;
+            padding: 8px 14px;
+            font-size: 0.9rem;
+            text-decoration: none;
+            transition: all 0.2s ease;
+        }
+        .btn:hover {
+            background: #4a9eff;
+            color: #ffffff;
+            border-color: #4a9eff;
+        }
+        h1, h2, h3, h4, h5, h6 { color: #ffffff; line-height: 1.25; }
+        h1 { margin-top: 0.5em; }
+        h2 { border-bottom: 1px solid #333; padding-bottom: 0.3em; margin-top: 1.5em; }
+        p { margin: 0 0 1em; }
+        a { color: #4a9eff; }
+        code {
+            background: #2d2d2d;
+            padding: 2px 5px;
+            border-radius: 3px;
+            font-size: 0.95em;
+        }
+        pre {
+            background: #2d2d2d;
+            padding: 15px;
+            border-left: 4px solid #4a9eff;
+            overflow: auto;
+            border-radius: 4px;
+        }
+        pre code { background: transparent; padding: 0; }
+        blockquote {
+            border-left: 4px solid #555;
+            margin-left: 0;
+            padding-left: 15px;
+            color: #b0b0b0;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin: 1.5em 0;
+            background: #222;
+            border-radius: 5px;
+            overflow: hidden;
+        }
+        th, td {
+            border: 1px solid #333;
+            padding: 10px 14px;
+            text-align: left;
+        }
+        th {
+            background-color: #2d2d2d;
+            color: #4a9eff;
+            font-weight: bold;
+        }
+        tr:nth-child(even) {
+            background-color: #1e1e1e;
+        }
+        tr:hover {
+            background-color: #2a2a2a;
+        }
+        ol, ul { padding-left: 26px; }
+        li { margin-bottom: 6px; }
+        hr { border: 0; border-top: 1px solid #333; margin: 2em 0; }
+        .render-error {
+            background: #2a1414;
+            border: 1px solid #ff6b6b55;
+            border-radius: 6px;
+            padding: 1.25rem 1.5rem;
+        }
+        .render-error h2 { color: #ff6b6b; border: 0; margin-top: 0; }
+    </style>
+</head>
+<body>
+    <div class="topbar">
+        <div class="topbar-nav">
+            <a class="btn" href="index.html">← Index</a>
+            <a class="btn" href="full.html">Full Documentation</a>
+            <a class="btn" href="transcriptions.html">Transcriptions</a>
+        </div>
+    </div>
+
+    <div id="markdown-output">Loading dictionary…</div>
+
+    <footer style="text-align:center; padding:30px; color:#666666; border-top:1px solid #444; margin-top:40px;">
+        Dutch Restoration Project Documentation<br>Yogyakarta & Surakarta, August 1816 – December 1820
+    </footer>
+
+    <!-- Script order: marked → dictionary-render -->
+    <script src="marked.min.js" defer></script>
+    <script src="dictionary-render.js" defer></script>
+</body>
+</html>

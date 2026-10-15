@@ -1,0 +1,57 @@
+# Abbreviations
+
+- **AD** — Anno Domini, the Christian era
+- **AH** — Anno Hijrae, the Muslim era
+- **AJ** — Anno Javano, the Javanese era
+- **AN** — Arsip Nasional Republik Indonesia, Jakarta
+- **AvJ** — Archief van Jogja (KITLV H 698a-b, 699, Rouffaer collection)
+- **AvS** — Archief van Soerakarta (KITLV H 698a-b, Rouffaer collection)
+- **BD (Manado)** — Babad Dipanagara (Manado version), LOr 6547 a-d, 4 vols
+- **B.Ng.** — Babad Ngayogyakarta. Sana Budaya MSS. A135 A136, A144, 3 vols
+- **Baud** — J.C. Baud private collection (Nationaal Archief, The Hague)
+- **BL Add.** — British Library (London) Additional manuscript
+- **BPL** — Bibliotheca Publica Latina (Western language MS in the Leiden Universiteits Bibliotheek)
+- **Dfl.** — Dutch florin (Generaliteits gulden containing 9.61 grams of fine silver, see also sub: f below)
+- **Dj.Br.** — ‘Bundel Djokjo Brieven’ (volume of letters in the Yogyakarta Residency archive, Arsip Nasional, Jakarta)
+- **dK** — H.M. de Kock private collection (Nationaal Archief, The Hague)
+- **Du Bus** — L.P.J. du Bus de Gisignies private collection (Nationaal Archief, The Hague)
+- **Eur.** — Raffles European MS (British Library)
+- **f** — Dutch East Indies florin (Indische gulden/Java rupee) containing 10.91 grams of fine silver, which, until 1826, when the Dutch guilder (Dfl.) became the standard coin in Indonesia, was exchanged at an agio of 1:1.25 against guilders minted in Holland
+- **GG** — Governor-General of the Netherlands Indies
+- **GKA** — Geheim en Kabinets Archief (Nationaal Archief, The Hague)
+- **IOL** — India Office Library (British Library, London)
+- **IOR** — India Office Records (British Library, London)
+- **Jav.** — Javanese
+- **Java NOK** — ‘Java’s Noord Oost Kust’ (volumes of letters in the archive of the government of Java’s Northeast Coast, Arsip Nasional, Jakarta).
+- **J.r.** — Java rupee (see also sub: f above)
+- **Kab. Miss.** — Kabinet Missive (Algemeene Secretarie archive, Arsip Nasional, Jakarta)
+- **KGPAA** — Kangjeng Gusti Pangéran Aria Adipati
+- **KITLV** — Koninklijk Instituut voor Taal-, Land- en Volkenkunde (Leiden)
+- **KITLV H** — Western language MS (H = Hollands) in the library of the Koninklijk Instituut voor Taal-, Land- en Volkenkunde, Leiden
+- **KITLV Or** — Oriental language MS in the library of the Koninklijk Instituut voor Taal-, Land- en Volkenkunde, Leiden
+- **Knoerle ‘Journal’** — J.H. Knoerle, ‘Aanteekeningen gehouden door den 2e Luit Knoerle betreffende de dagelyksche verkeering van dien officer met den Prins van Djocjakarta, Diepo Negoro, gedurende eene reis van Batavia naar Menado, het exil van den genoemden Prins’, Manado, 20-6-1830. MS 391 of the Johannes van den Bosch private collection in the Nationaal Archief, The Hague
+- **LOr** — Leiden University Library Oriental MS.
+- **Mack.Pr.** — Colonel Colin Mackenzie private collection (India Office Records, British Library, London)
+- **MvK** — Ministerie van Koloniën (Ministry of the Colonies archive in the Nationaal Archief, the Hague)
+- **NA** — Nationaal Archief (General State Archives), The Hague
+- **NBS** — Netherlands Bible Society (Nederlands Bijbelgenootschap) manuscript, Leiden University Library
+- **NvB** — H.G. Nahuys van Burgst private collection (BPL 616, Leiden University Library)
+- **P.** — Pangéran
+- **Port.** — Portfolio (Nahuys van Burgst private collection)
+- **pt.** — part
+- **r.r.** — ronde real (worth about Dfl. 2.80)
+- **R.** — Radèn
+- **R.A.** — Radèn Ayu
+- **RAI** — Royal Artillery Institution (London)
+- **RAS** — Royal Asiatic Society (London)
+- **R.Ng.** — Radèn Ngabèhi
+- **R.T.** — Radèn Tumenggung
+- **Sal. Kadanoerejan** — Serat Salasilah para loeloehoer ing Kadanoerejan. Panti Budaya (Sana Budaya Museum, Yogyakarta) MS B. 29
+- **SB** — Sana Budaya Museum manuscript (Yogyakarta)
+- **S.Br.** — ‘Bundel Solo Brieven’ (volumes of letters in the Surakarta Residency archive of the Arsip Nasional, Jakarta)
+- **Schneither** — G.J.Chr. Schneither private collection (Nationaal Archief, The Hague)
+- **Sp.D.** — Spanish dollar (worth about Dfl. 2.56)
+- **vAE** — Van Alphen-Engelhard private collection (Nationaal Archief, The Hague)
+- **Valck, ‘Overzigt’** — F.G. Valck, ‘Overzigt der voornaamste gebeurtenissen in het Djokjokartasche rijk sedert dezelfs stichting in den jare 1755 tot aan het einde van den door de opstand van den Pangeran Ario Dhipo-Negoro verwekten oorlog in den jaren 1825 tot en met 1830’, 1-8-1833. MS in Dj.Br. 9A (and 19¹) of the Arsip Nasional, Jakarta
+- **VOC** — Vereenigde Oostindische Compagnie (Dutch East Indies Company, 1602-1799).
+- **VROA** — Verslag omtrent ’s-Rijks Oude Archieven

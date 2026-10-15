@@ -1,0 +1,2887 @@
+# Index
+
+- Abbas, Lieutenant (Malay interpreter to 1813 Sambas expedition) 410-1 (appointed tutor in Malay to HB IV)
+- ‘Abbassīd, caliphate 581
+- ‘Abd al-Aziz, Wahhābī leader 114 (conquers Nejd and holy cities)
+- ‘Abd al-Hamid I, Ottoman sultan (reigned 1773-87) 152
+- ‘Abd al-Rahim ba’Chaiban (Tuwan Sarif Ahmad; father of Radèn Tumenggung Danuningrat, bupati of Kedhu) 763
+- ‘Abd al-Samad al-Palimbāni 273
+- Abdul Arifin, see Natapura, Pangéran (son of PB IV)
+- Abdul Gang Singh, sepoy deserter see Singh
+- Abdulgani, Haji 593 (sent by Dipanagara to confer with HB II), 786
+- Abdulhamit, Pangéran see Dipanagara
+- Abdullah, Kyai (brother of Kyai Murma Wijaya) 447
+- Abdulsalam, Haji 281 (brings HB II news of developments in Cirebon)
+- Abdul Wahid, Haji (kraton santri leads official court haj to Mecca) 89
+- Abdurrahman, ‘Pangéran’ see Kindar, Radèn Mas
+- Aberdeen (Scotland) 457, 465
+- Abijaya, Kyai (Dipanagara’s pusaka kris) 154, 600 (worn at Tegalreja, July 1825)
+- Abimanyu, wayang hero 247
+- d’Abo, R.C.N. (1786-1824; Assistant-Resident Yogya, 1817-23) 120, 437-9 (divorces wife), 457 (appointed Assistant-Resident), 503 (encourages debauchery in Yogya), 506, 513 (describes Mt Merapi eruption), 519-20 (dismissed as Assistant-Resident), 537-41 (shows Dipanagara and Mangkubumi round Bedhaya), 810
+- Abraham, Prophet 574, 702
+- Abubakar, Muhamad (?1765-1826; pre-1810, Dipawijaya I), Pangéran 50 (contacts with bandits), 129 (plans for haj), 235 (shaves head as santri), 271 (as head of Yogya court priyayi pradikan), 333 (wears haji dress during British assault, 20-6-1812), 797 (killed 30-7-1826)
+- Abubakar, Sèh 445
+- Abuyamin, Ketib (pengulu of Yogya, 1823-?) 546-6 (appointed), 773
+- Aceh xvii, 414, 654
+- Acehnese 660 (Roeps killed by)
+- Adam, Nabi (Prophet) 574, 745
+- Adams, Colonel Alexander (Resident of Surakarta) 298, 320, 322, 324, 359, 378 (problems with PB IV)
+- adat (custom) 77, 632 (Dipanagara’s insistence on)
+- Adikarta, district (Kulon Progo), post-1830 Pakualam landholdings in 11, 38, 73, 395, 463, 584
+- Adikusuma, Pangéran (son of HB I) 254, 272 (robs Natakusuma’s residence during exile, 1810-1), 795 (loyal to Dutch)
+- Adikusuma, Pangéran (?1800-1829; son of Pangéran Jayakusuma / Ngabèhi) 658 (killed in Gunung Kelir)
+- Adinagara, Pangéran (post-1825 Suryèngalaga; son of HB III) 75, 88, 121 (sent women’s clothes by Dipanagara), 188 (brought up by Sumadiningrat), 208 (greets Daendels at Kalasan), 368 (appointed pangéran), 369, 403, 481, 795 (joins Dipanagara)
+- Adinagara, Pangéran (bupati keparak; nephew of HB I; died pre-1825) 181, 254 (on expedition against Rongga)
+- Adipala, sub-district (Banyumas) 20
+- Adiprakasa Lala Jayamisésa, sultan 128 (satria lelana name of Radèn Mas Said/ MN I)
+- Adisurya, Pangéran (?1800-1829; son of HB III) 90, 111, 368, 663 (died on Mt Sirnabaya), 666, 795
+- Adiwinata I, Pangéran (?1783-1826; son of HB II) 254, 796 (loyal to Dutch; killed 30-7-1826)
+- Adiwinata II, Pangéran (son of HB II), 326, 592 (joins Dipanagara at Selarong, 7-1825), 796
+- Administrate der Houtbosschen see Forestry Administration
+- Adrianople (Edirne) 665 (falls to Russians, 1829)
+- agama Buda (pre-Islamic religion in Java) 485 (in Tengger highlands)
+- agami Islam see Islamic Moral Order
+- Ageng, Ratu (?1734-1803; pre-1792, Ratu Kadipatèn; pre-1755, Mas Rara Juwati; guardian of Dipanagara at Tegalreja) 75, 77 (piety and character), 78 (trading activities), 80-3 (develops Tegalreja), 94-5, 127, 135 (grave at Imagiri), 190, 365, 405, 444 (possible links with Kyai Murma), 719 (Sumbawa family links of), 760, 762, 765, 782 see also Derpayuda
+- Ageng, Ratu (?1750-1820; formerly Ratu Kedhaton, consort of HB II) 365 (appointed, June 1812), 407 (fears HB IV will not rule), 461 (death), 760, 762, 764, 780 see also Kedhaton, Ratu
+- Ageng, Ratu (?1780-1826; pre-1814, Ratu Kencana; pre-1820, Ratu Ibu) 62, 74, 100 (affair with Wiranagara), 228 (pays Kyai Murma to kill HB II), 325, 366 (plate), 367-8 (character), 398-9 (heads Danureja IV and Wiranagara clique), 410 (takes control of court finances), 412 (orders HB III’s selir to sleep with teenage HB IV), 421 (attitude during sepoy conspiracy), 440 (lover of Wiranagara), 444-8 (relations with Kyai Murma), 452-3 (reacts to Dipanagara’s cancellation of appointment of gunung), 533 (land-rent indemnities), 541-2 (indemnity for Bedhaya), 543-6 (role in dismissal of Kertadirja II and Rahmanudin), 549 (refuses to deal with abuse of court women), 552 (dies of a broken heart, June 1826), 572-3, 587, 760
+- Agrarian Law (1870) 756
+- agrarian crisis see agriculture
+- agriculture, 210 (techniques discussed with Daendels, 31-7-1809), 475 (crisis in, 11-1824), 757 (agrarian crisis, 1823-5)
+- Agung, sultan (reigned 1613-46) 71 (prophecy about Dutch), 135-6 (Dipanagara’s vision of), 147 (meeting with Ratu Kidul), 517 (prophecy about Dutch), 559, 571, 574-5, 587, 620, 660 (prescription against crossing Bagawanta), 627 (Javanese lunar year cycle of), 758 see also Kali Bagawanta
+- Ahmad, Encik (Malay Indian orderly of John Crawfurd) 332
+- Ahmad, Sèh (son-in-law of Sèh al-Ansari) 627
+- Ainslie, Dr Daniel (Resident of Yogya, 1815-6) 427, 809
+- Ajar Rawana (Imanreja) (religious teacher Sréngat) 486
+- ajat (religious feast) 78
+- Aji Saka, myth (peopling of Java) 153, 483
+- Alang-alang Ombo, village (Bagelèn) 632 (Garebeg Puwasa celebrated at)
+- al-Burak (winged mount of The Prophet) 571 (Janggi Gandan)
+- alcohol 188 (Sumadiningrat’s attachment to), 354 (served in Tan Jin Sing’s house), 437 (Crawfurd’s parsimony with), 459 (increased post-1816 consumption at courts), 524 (Dipanagara’s love of sweet wine), 549 (Chevallier’s addiction to), 552 (death of Chevallier from)
+- Alexander I, tsar (reigned 1801-25) 500
+- Alexander of Macedon 167 see also Serat Sakondhar
+- Algemeen Rijksarchief (Brussels) xix
+- Algemene Secretarie (General Secretariat Batavia) 739 see also Baud
+- Algiers 609
+- Ali, Haji (Yogya kraton santri) 593 (reports Dipanagara’s plans), 639 (in Tondano with Maja), 723 (refuses to join Dipanagara), 787, 793
+- Ali, Muhammad (Pasha of Egypt, reigned 1805-49) 114
+- Ali, Muhamad (Banyumas) 426 (takes ‘Pangéran Jayakusuma’ title)
+- Ali Basah (‘High Pasha’), title xvi, 153, 623, 648-9
+- Ali Pasha, Hasan (Ottoman governor of Smyrna/Izmir) 665
+- Alip, Radèn Mas (‘mad’ son of Dipanagara) 97, 101, 507, 593, 766
+- alun-alun (Plérèd) 630 (murder of santri on c. 1650)
+- alun-alun (Yogya) see Yogyakarta
+- Alwi, Sayyid see Danuningrat
+- Ahmad Dullah, title 623
+- Amad Petaja (Menayu village, Barabadur) 497 (gives away Dipasana’s supporters)
+- Amangkurat I, Sunan (reigned 1646-77) 132, 137, 290, 337 (example cited during British attack on Yogya), 495 (grave cleaned during 1821 cholera epidemic), 571, 608, 630, 758 see also Tegalarum
+- Amangkurat II, Sunan (reigned 1677-1703) 386
+- Amangkurat III, Sunan (reigned 1703-8) 237
+- Amangkurat IV, Sunan (reigned 1719-26) 369, 444
+- Amattakar, Haji (confidante of HB II) 593, 787 see also Jayamenggala
+- Amazon corps (prajurit keparak èstri / pasukan Langenkusuma, Yogya) 5, 76-7, 210, 225, 283 (HB II exercises), 336-7 (around HB II during British assault), 350 (seek shelter in Natakusuman), 615 (military training used by women fighters in Java War), 629, 645
+- Ambarawa, district (Semarang) 584
+- Ambarketwatang 36 see also Gamping
+- Ambarmaya, séla gilang (meditation stone) 564
+- Ambarrukmo 209
+- Ambiyah, Radèn Mas see Hamangkubuwana IV
+- Ambon, as place of exile 76, 111, 181 (Dutch garrison in), 257, 320, 353, 363 (HB II in), 416, 427 (exile of Mangkubumi to), 441 (HB II in), 447-8 (Kyai Murma in), 498, 544 (Kertadirja II in), 558 (PB VI in), 592 (HB II returns from), 636, 638, 668 (Imam Bonjol as exile in), 700-1, 710 (HB II and Sultan Mahmud Badarrudin of Palembang in), 711, 717-9, 722, 738, 740-1, 746 (Dipanagara II transferred to, 1851), 816-20 (Dipanagara’s followers in exile sent to, 6-1839)
+- Ambonese, troops 157 (in Klathèn / Yogya garrisons), 235, 283 (slaughtered at Meester Cornelis, 26-8-1812), 297 (Yogya garrison relieved), 304 (‘colonial corps’), 356 (Yogya ruler’s dragoon guards), 427
+- ambushes (Java War) 608 see also Papringan
+- Americans 608 (smuggling brig), 610
+- Amiens, Peace of (1802) xii
+- Amir Hamza see Ménak Amir Hamza
+- amok, mental state 353-4, 601 (Smissaert accuses Dipanagara of)
+- Amongraga, Sèh 140 see also Centhini
+- Amoy 399
+- Ampèl, holy graves at (Surabaya) 250, 291, 486 see also Ngampèl Dentha
+- Ampèl, estate/village on Surakarta-Boyolali road 38, 44 (Chinese sugar factories in), 56 (Dezentjé’s bodyguards at), 454 (land-rent at), 470 (tollgate at), 531 see also Dezentjé
+- Ampèl-Dentha see Ngampèl-Dentha
+- Amsterdam 162, 535-6, 695 see also New Amsterdam, fort
+- amutih (‘white’ food fast) 492
+- Anbiya, Serat (lives of the Prophets) 103
+- Andayaningrat, Radèn Ayu (post-1826, Ratu Sultan) 645, 765
+- Anggèr, Ratu (daughter of HB II; wife of Danureja II) 219, 224
+- Angger Agung (‘great’ law code) 499
+- Angger Arubiru (law on disturbing the peace) 499
+- Angger Gladhag (code regulating porters’ guilds) 196, 201
+- Angger Gunung (village police code) 15, 38, 196 (recodification of, 26-9-1808), 217
+- Angger Sepuluh (agrarian law code) 458 (October 1818 revision), 499
+- Angling Driya (Serat Gandakusuma) 105
+- Anglo-Dutch War see Fourth Anglo-Dutch War (1780-3)
+- Anglo-Mysore War see Fourth Anglo-Mysore War (1798-99)
+- Angon Asmara, Panji see Mangkudiningrat I
+- Angrèni, Serat 105 (Dipanagara asks for copy of, 1844)
+- Anom, Ratu (?1793-1859; pre-1811, Radèn Ajeng Suratmi; post-1811, Ratu Ayu; post-1830, Ratu Pakualam; daughter of HB II and Ratu Kencana Wulan; wife of Natadiningrat / Pakualam II; mother of Pakualam III) 79, 221 (offered to Radèn Rongga after Ratu Maduretna’s death), 225 (accused of lasciviousness by Daendels), 237, 313 (as Ratu Ayu), 761
+- Anom, Ratu see Suratmi, Radèn Ajeng
+- Ansari, Sèh Abdul Ahmad bin Abdullah al-Ansari (alias Habib Ahmad al-Ansari) 101, 129, 627, 787
+- Ansari, Radèn Ayu Sèh (daughter of Pangéran Blitar I) 101
+- Ansari II, Sèh Ahmad (son-in-law of Sèh Abdul Ahmad bin Abdullah al-Ansari) 101, 787
+- Antang, district (east Java) 162, 266
+- Antawirya, Bendara Radèn Ayu 88 see also Retnakusuma, Radèn Ayu
+- Antawirya, Radèn see Dipanagara, Pangéran
+- Antwerp, citadel 734 see also Chassé
+- Anyer, port (Sunda Straits) 157, 648
+- apanage system (Yogya) 9, 14 (fief holders), 16 (plate), 34 see also lungguh
+- apostates (kapir murtad) xvi, 129
+- apostles of Islam see Demak
+- Arabia 68, 114, 410, 483, 543, 597
+- Arabic language 47 (study of Arabic letters/alip-alipan), 483-4, 487, 489, 506 (formula used in Usali prayer for dead), 622 (inscription on Dipanagara’s standard), 654 (Snouck Hurgronje as Professor of)
+- Arabs, in Java 8 (Gresik gun foundries), 21 (Java-Trengganu traders), 215, 272 (Gresik gun makers), 320 (in Surakarta), 414 (Wahhābhī disturbances), 511 (Sayyid Hasan as tutor of HB IV), 616, 626-7 (as santri supporters of Dipanagara)
+- Arafat, plain of (Mecca) 81
+- Ardia, Janissary regiment 152
+- ari kiyamat (Final Day of Judgement) 147
+- Arjawinangun see Rajawinangun
+- Arjuna, wayang hero 117 (Dipanagara compared to), 153, 156, 403 (Dipanagara as), 404 (plate), 405, 411, 571-2
+- Arjuna Sasrabahu, text 410
+- Arjuna Wijaya, text 105
+- Arjuna Wiwāha, text 105, 154, 156, 572
+- Arkio, regiment (Java War) 152, 634 see also Ardia
+- armaments 606-11 (during Java War), 647 see also weapons
+- armaments foundries see Gresik, Kutha Gedhé, Yogyakarta
+- artillery 8 (kalantaka /culvereens), 183 (mounted horse artillery for MN Legion), 216 (ordered for Yogya kraton defences, November 1809), 272 (new orders from Gresik), 329 (new guns on Yogya kraton walls), 335 (British bombardment), 336 (low morale amongst Yogya gunners), 345 (Yogya batteries dismantled), 350 (ordnance transported to Residency), 536 (given to European land-renters to defend estates), 609 (in Java War)
+- Arung-Binang (Lord of the Red Pikes), Radèn Tumenggung (Surakarta bupati of Karanganyar/Bagelèn) 9, 481
+- Asmara Supi, text 105, 744 (Dipanagara orders copy of)
+- Asmaratruna, Nyai (female dhukun) 659 (treats Dipanagara for malaria)
+- Assey, Charles Chaston (1779-1819) 443
+- Auchmuty, Sir Samuel (1756-1822; general and C-in-C British invasion force, 1811) 290
+- augury 496 see also dhukun
+- Aurora, S.S. (Dutch naval brig) 498 (transports Dipasana to Ambon, 1824)
+- Ayah, sub-district (Banyumas) 20, 771
+- Ayu, Ratu see Anom, Ratu
+- babad, Javanese chronicles 70, 102, 350 (plundered by British), 351 (disposal of Yogya kraton MSS) see also Javanese literature
+- Babad Bedhah ing Ngayogyakarta (Chronicle of the Fall of Yogyakarta) 188, 295, 321, 332, 336-7, 340-2 (description of final minutes in Yogya kraton), 342 (HB II’s capture), 348 (plight of court officials), 357-9 (HB III’s investiture parade), 397 (description of Danureja IV), 406 (deathbed of HB III), 440 (origins of mother of author of), 757
+- Babad Dipanagara (Manado version) xvi-xvii, 86, 108 (composition of), 128, 291, 313, 319 (description of secret correspondence, 1811), 320 (transcription of in Surakarta 1949), 324, 332-42 (account of fall of Yogya), 376, 380, 388, 564, 595 605-6, 626, 650 (translation into Malay), 659, 670, 725, 731-4
+- Babad Dipanagara (Surakarta version) xvii-xviii, 48, 77, 170, 452, 606, 630 (compares Dipanagara to egg-saint)
+- Babad Dipanagaran Surya Ngalam (allegorical/prophetic text written by Dipanagara II) 97, 403
+- Babad Dipanagaran (Yogya kraton text) 545
+- Babad Kraton, text 167, 410
+- Babad Ngayogyakarta, text 313 see also Suryanagara, Pangéran
+- Babad Pacitan, text 193
+- Babad Pakualam, text 218-9, 224, 228, 277, 292, 311, 329, 340 (description of surrender scene in Yogya kraton)
+- Babad Spèhi (Chronicle of the Sepoy War), text 331
+- Babad Tanah Jawi, text 147 (description of Agung’s meeting with Ratu Kidul), 492, 579
+- Babadan, coffee estate (Slèman district, flanks of Gunung Merapi) 535-6, 637 see also Bouwens van der Boyen
+- Badarudin, Haji (commander Suranatan corps; post-1830, pengulu of Purwareja / Bagelèn) 89, 152, 481, 593 (emissary of Dipanagara to HB II, July 1825), 633, 671, 688, 697, 700, 707, 725, 788
+- Badarrudin, Sultan Mahmud of Palembang (reigned, 1804-12, 1813, 1818-21) 323 (British expedition against 1812), 710 (Ternate exile of)
+- Badhèran, Kyai (Ketib Iman Wirapatih, elder brother of Kyai Maja) 634, 794
+- Badhèran, pesantrèn 91, 627, 794 see also Maja
+- Badran, dam 36
+- Bagelèn 8-9, 11-2, 17, 19, 23-7, 34, 37-8, 43-4, 49, 90-1, 116, 129, 153, 161 (Lowanu), 164 (proposed annexation of), 185, 254, 333 (troop reinforcements sent to Yogya from), 368-9 (Dipanagara’s apanage holdings in), 383 (tobacco exports from), 394 (Pakualam landholdings in), 399 (Tan Jin Sing’s apanage in), 405, 408, 415, 455 (pepper plantations in), 463 (local inhabitants’ hatred of indigo in), 465, 474 (idea of annexation to pay for tollgate abolition), 480-3 (Umar Mahdi disturbances in), 493 (low sugar prices in, 1822), 520 (plans for annexation of), 553, 561-2 (plans for annexation of, 1824-5), 586, 591, 610 (fate of Chinese during Java War), 611, 617, 623, 626 (fighting qualities of men of), 627 (followers of pesantrèn in), 632, 641 (Dipanagara moves to), 646-7, 650 (Dipanagara raises taxes in), 651, 653 (Dipanagara flees to western jungles of), 659, 660, 661 (Dipanagara’s supporters in Rèma), 664-5, 668-9, 673, 675, 677, 691, 699, 725, 742 (Kalapa-aking as commander in) see also Lowanu
+- Bah Co, Chinese businessman (east Java) 398
+- Bahwi, Kyai Muhamad (post-1825, Muhamad Ngusman Ali Basah, commander of Bulkio regiment; pengulu of Ratu Ageng Tegalreja, 1793-1803) 89, 636 (commands Bulkio at time of Maja’s surrender, 11-1828), 788 see also Ngusman, Muhamad Ali Basah
+- Baillard, Lieutenant-colonel (artillery) 207 see also Rauws
+- Baker, Captain G.P. (1786-1850, 7th Bengal Light Infantry; superintendant of public works in the Native Princes’ dominions, 1814-6) 20-1, 23, 267, 391 (survey of western mancanagara), 397 (view of Danureja IV)
+- Balad, Kyai (Yogya jurukunci / jimat at Imagiri) 135, 788
+- Balambangan see Blambangan
+- Balé Sigala-gala (wax palace) 140
+- Bali, Balinese 5 (soldiers in Yogya), 20 (pirates on south coast), 165 (pirates), 183 (slaves), 222 (Dipanagara’s troops), 248 (connections of Mas Tumenggung Sumanegara), 281 (raja contacted by rulers of Yogya/Sala), 333 (troops mobilised to fight British assault), 341 (prang puputan in), 379 (disbandment of Yogya kraton troops), 398 (ancestry of Danureja IV), 465, 590, 610 (straits of), 623 (soldiers recruited for Dipanagara from), 638 see also Bali Buleleng
+- Bali Buleleng, ruler of 281 (PB IV corresponds with, 1811-12), 623 (soldiers fight for Dipanagara), 636 (Kyai Maja as emissary to)
+- Balong Tjok, village (Panaraga) 258 (Rongga’s army commander killed at)
+- baluwerti, pojok see Yogyakarta, fortifications
+- Banda, island 162, 364 (place of exile), 368 (Wiranagara sent to, 1832), 378 (idea of sending dismissed Surakarta patih to), 579 (place of exile), 712 (British merchant vessel from)
+- bandar see tollgates, tollgate keepers
+- Bandayuda, Kyai (Dipanagara’s pusaka kris) 124, 154, 636, 673 (carried to ward off danger), 705 (plate), 711 (?buried in grave), 726 (gold sheath purchased for), 813
+- bandits, highwaymen (wong durjana) xiv, 31, 48-50, 55-6, 60, 102 (ferry bandits at Mangir), 195 (raid on Bunder), 215, 220 (in Madiun/Panaraga), 231 (attack Demak), 267 (in Galuh / Cauwer wétan), 274 (rise in robberies, 1811-2), 287 (attacks after Janssens’ defeat, 16-9-1811), 294 (attack Pieter Engelhard, 11-1811), 381 (in eastern mancanagara), 382 (robberies in Yogya), 391 (supposed decline in British period), 464 (attacks on European estates), 474 (prey on traders on Yogya-Kedhu road), 475 (rise in activities pre-Java War), 496 (Kedhu chiefs assist Dipasana, 1822), 535-6 (attacks on estates after land-rent abolition, 6-5-1823), 547, 560 (in Kadhawung), 594 (Dipanagara contacts prior to rebellion), 610 (assistance in Java War), 673, 711 see also pirates, smuggling
+- Bandung 668 see also Priangan
+- Banget, kabupatèn (Madiun) 268 (created 1811)
+- Bangil, district 251, 484-5
+- Bangka, island 345, 391 (as place of exile), 498
+- Bangka strait (Minahasa) 720
+- Bangsal Kencana (Golden Pavilion), Yogya kraton 74, 315 (Ratu Kedhaton imprisoned in), 361-2 (Raffles announces Kedhu annexation and appointment of Pakualam in), 407 (HB III’s body laid out in)
+- Bangsataruna, Mas (inhabitant of désa Ngebel, Panaraga) 219
+- Banjermasin 379, 391 see also Hare, Alexander
+- Banjarnegara (Banyumas) 99 see also Danurejan, family
+- Banjarsari, Kyai (pradikan ageng of pesantrèn Banjarsari) 628, 764, 788 see also Sasradiwirya, Radèn Ayu
+- Banjarsari, pesantrèn 491-2, 628
+- Banten 217 (disturbances in, 1809), 457, 489 (1888 revolt in), 516 (millenarian expectations in), 520 (Chevallier as Assistant-Resident of), 555, 600 (Resident Du Puy murdered in, 11-1808)
+- Banthèngwarèng, panakawan (dwarf retainer of Dipanagara) 405, 653, 688, 817
+- Bantul xx, 11, 87, 369 (Dipanagara’s apanage lands in), 475 (tollgate in), 535, 586, 609, 642 (battle of, 4-8-1826)
+- Bantulan, royal pesanggrahan 209 (HB II meets Daendels at, 31-7-1809)
+- banyu jimat (holy water from Mecca) 580
+- Banyumas 11, 19, 20 (population), 21 (piracy in), 23, 27 (fighting quality of men of), 40 (population), 164 (proposed annexation of), 186 (labourers for postweg from, 1808), 266 (land exchanges under 1-1811 treaty in), 280, 369 (Dipanagara’s apanage lands in), 399, 405, 426, 474 (annexation to indemnify tollgate abolition, 1824), 520 (plans for annexation, 1823), 553, 560, 562 (plans for annexation), 609, 626 (inhabitants compared with Prussians), 640 (mobile columns in), 647 (bènthèng in), 653, 659, 663-4, 669
+- Banyusumurup, traitors’ graveyard (Gunung Kidul) 257 (Rongga buried in), 293 (Danureja II buried in), 313 (Danukusuma I buried in), 371-2 (exhumations from), 793 (santri supporter of Dipanagara from)
+- Banyuwangi 181, 610 (sulphur from Ijen plateau), 833
+- Barabadur 497
+- barisan (troop) 652 (of Senthot)
+- Barjumungah, ‘priestly’ bodyguard regiment of Dipanagara 627, 631, 661 see also Munadi
+- baroe datang (European newcomers to Java) 433
+- Baros (east Sumatra) 660 (Roeps killed at)
+- Barutuba, Kyai (Dipanagara’s pusaka pike) 154
+- Basah, Gusti see Natadirja, Radèn Tumenggung
+- Basah, Ali see Ali Basah (title), Senthot
+- Basah, Radèn Ayu (daughter of Dipanagara; wife/widow of Natadirja/ Gusti Basah) see Gusti, Radén Ayu Basah
+- Bast, Major E.M. de (1789-1827) 646 (constructs bènthèng at Trayem)
+- Batang, holy gravesite at 265, 291
+- Batavia xi, xvii, 2 (stone buildings in), 41 (population), 68, 71, 81-2, 106, 115-6, 157, 160-1, 167-8, 178, 181 (Dutch garrison in), 194, 197, 206 (British capture stores in), 216 (Dutch military HQ in), 236-7 (Rongga to be exiled to), 243, 252 (exile of Natakusuma / Natadingrat to, 1810-1), 253, 264, 276, 283 (mass burial site after Meester Cornelis battle), 285, 291, 320 (place of exile), 323 (Yogya force sent to, 1793), 327, 345 (city wall demolished in, 1812), 346, 353, 373, 379, 385 (supreme court at), 410, 423-4, 426, 428, 433 (Indo-European families in), 441 (HB II arrives back in, 3-1816), 447 (Nahuys sick leave in), 455, 475 (Finance Department in), 487 (Iman Sampurna exiled to), 494 (cholera epidemic in, 1821), 503, 519, 531, 547, 559, 590 (division of Java), 609 (percussion rifles fire tested in, 1830), 612, 633, 638 (Maja detained in city gaol in), 646, 659, 661, 666 (harbour), 670, 673 (De Kock in), 687, 693, 700, 702 (Dipanagara brought to, 8-4-1830), 703 (lodgings in Stadhuis), 708-9 (plate of Stadhuis), 711 (Dipanagara’s kris with him in), 712 (harbour roads), 716 , 724 (Pollux returns to), 727 (Dipanagara’s expenses in), 729, 730 (plate of Residency House), 732 (Pietermaat’s service in), 758 (reference in peace proposals) see also Bataviasche Ommelanden
+- Batavia, Bay of 159, 713 (Dipanagara sails from, 4-5-1830)
+- Bataviaasch Genootschap van Kunsten en Wetenschappen 605, 703 (J. van der Vinne as vice-president of)
+- Batavian Legion 157, 183 see also Daendels
+- Batavian Republic (1795-1806) xii, 501, 735 (Dutch Directory)
+- Bataviasche Bovenlanden (Batavian Highlands) 186 (Banyumas labourers for postweg)
+- Bataviasche Ommelanden (Batavian Environs) 41, 106 (Nicolaus Engelhard’s villa in), 527, 703 (A.J. Bik as Assistant-Resident of) see also Bik, Cililitan
+- Bathara Guru 247 (Radèn Rongga compared to), 403 (HB III as)
+- Bathara Katong (Panaraga) 140, 220
+- batik 25, 311 (post-1812 developments in industry), 365 (importance of local manufactures in Yogya), 384 (attempts by British to manufacture textiles with batik patterns), 465
+- Batu Gajah (governor’s residence, Ambon) 719 see also Ambon, Cleerens
+- Baud, J.C. (1789-1859; Algemeen Secretaris, 1819-21; governor-general ad interim, 1833-4; governor-general, 1834-6; minister of the Colonies, 1840-8) 739, 742-3 (reaction to Paris press report on Dipanagara, 1848), 744, 808
+- Baumgarten, F.W. (?-1818; Yogya Residency surgeon) 56 (widow robbed, 1-1819), 205, 324 (secret meeting of Crawfurd and Jayasentika in house of, 1812), 382 (attack on widow of, 1-1819)
+- Bauwerna, district 255, 265, 379 (1812 annexation of) see also Prawirasentika
+- Bayly, C.A. 260
+- beamtenstaat (bureaucratic state) 433 (Dutch colonial society as)
+- Beauharnais, Hortense de (1783-1837; queen of Holland; consort of Louis Bonaparte) 275
+- Bedhaya, country retreat (Gunung Merapi) 120, 352 (dinner parties given by Nahuys at), 456, 462 (problems of coffee workers at), 520 (d’Abo oversees coffee plantations at), 523-4 (Smissaert uses as family home, 1824-5), 535 (bandit attacks on), 537-42 (negotiation of indemnity for), 538-9 (plate), 592, 594, 600 see also Nahuys van Burgst
+- bedhaya, dancers 400 (Tan Jin Sing maintains troupe of)
+- Bedono (Kedhu) 686 (hussar escort for Dipanagara at), 699
+- beeswax 469 (for batik industry)
+- beggars, vagrants 3 (in Yogya)
+- Beijlen, Catharina Gasparina (1776-1821) see Wiese, Mrs G.W.
+- Béji district (Klathèn) 34
+- bekel (village tax collectors) 15-7, 33, 67, 196 (regulated by Angger Gunung), 380 (Crawfurd advocates as ‘landowners’), 405 (as personal retainers of Dipanagara during flight through western Bagelèn, 11-1829), 444 (Dipanagara’s reforms of), 458 (relieved of duties by European land-renters), 464, 548, 584 (instructions for conduct in Dipanagara’s war administration)
+- beksan lawung (lance dances) 548
+- Belambangan see Blambangan
+- Belgium, Belgians xiii, 20, 25, 107, 603 (1830 revolt), 654, 667 (De Kock’s view of), 711, 734 (independence declared), 740 (Dutch recognition of), 759 (revolt)
+- Beliga (Bligo), village (southern Kedhu) 229 (visit of HB II to, 9-1810), 254 (HB II considers moving to), 646
+- Bendara I, Ratu (daughter of HB I; divorced wife of MN I) 75, 224, 369, 382
+- Bendara II, Ratu (daughter of HB II; wife/widow of Sumadiningrat) 75, 219, 401
+- Bendha, pradikan village/ pesantrèn (Kedhu) 469, 496 (during Dipasana’s revolt, 1822), 610 (provides help for Dipanagara in Java War) see also Pesantrèn, village
+- Bengal xiii, 41, 206 (looted Yogya treasure shipped back to), 275, 301, 347 (remittance of prize money to), 351, 384 (textile imports to Java from), 422 (British in), 423 (problems of cash remittances to), 425-6, 466 (Radèn Mas Sukur’s education in) see also Light Infantry Volunteer Battalion
+- Bengal Lancers 427 (seconded to Dutch post-1816)
+- Bengali sepoys/bodyguards 56, 116 (Dipanagara’s dhukun / herbalist), 275, 302 (plate of Light Infantry sepoy), 328 (plate of havildar / corporal), 420 (plate of jemadar / captain) see also sepoys
+- Bengawan Sala 56, 157 (Van den Bosch’s trip down, 27-7-1832), 159, 193 (prau pengluput on), 221, 240, 248, 256-7 (Radèn Rongga killed on banks of, 17-12-1810), 380, 384-5 (British abolish tollgates on, 2-1814), 473-4, 617
+- Bengkulèn (Bangkahulu, West Sumatra) 107, 652 (Senthot’s exile to, 1832)
+- Bengkung, pond (Imagiri) 133, 135
+- bènthèng stelsel (fortification system) xvii, 44 (wages for workers in), 608, 617 (Chinese inhabitants in Jana construct), 651-2 (commanders attract local population), 654
+- benzoin 469
+- beras-kencur, herbal potion 117 see also jamu
+- Berg, Anna Louisa van den (1792-1825; wife of R.C.N. d’Abo, 1805-1823; and of H.G. Nahuys van Burgst, 1824-5) 120, 438-9 (affair with Nahuys)
+- Berg, Professor C.C. 320
+- Berg, C.L. van den (1798-1873; élève voor de Javaansche taal, 1822-32) 120, 664 (difficulty translating Pengalasan’s letter)
+- Berg, J.G. van den (1762-1842; Resident of Yogya, 1798-1803; Surakarta, 1803-6) 50, 57-8, 91, 174 (fluency in Javanese), 189-90, 224 (view of Danureja II), 230 (linguistic ability), 237 (political memorial on Yogya court), 290 (memorial read by Crawfurd), 809
+- Beringharjo, pasar / market (Yogya) 3, 225, 303 (incidents with members of sepoy garrison in), 383 (market tax taken over by British), 473
+- Besar, Javanese month (wulan haji / pilgrims’ month) 401 see also Garebeg Besar
+- Besari, Muhamad (pengulu Sréngat) 486 (involvement in Iman Sampurna events, 1819)
+- Besari, Hasan see Hasan Besari
+- betelnut (sirih) 44, 122 (Dipanagara’s addiction to), 166 (Residents no longer have to serve to rulers), 479 (opium laced), 697 (Dipanagara’s box)
+- Betha, Kyai (Yogya pusaka kris) 273
+- Bhoma Kāwya, text 105
+- Bik, A.J. (1790-1872; Assistant-Resident Bataviasche Ommelanden, 1824-8; chief magistrate / hoofdbaljuw of Batavia, 1828-32) 115 (sketches Dipanagara), 703 (draws Dipanagara in Stadhuis), 704 (plate), 705 (plate sketch), 712
+- Bik, J.Th. (1796-1875, artist, younger brother of above) 704
+- Bilfinger, Luise Fredericke Wilhelmine Gertrud von (1788-1828) see Kock, Mrs H.M.
+- Bima, sultanate of 76, 281 (correspondence with, 1811), 719, 765 (Ratu Ageng Tegalreja’s ancestry from)
+- Bima, wayang hero 137 (as Wéjasena)
+- Bima Raré, wayang plays / lakon 137
+- Bintara, Pangéran (?1802-?; son of HB II) 352 (joins Dipanagara), 595, 597 (report on Dipanagara), 796
+- Birawa, Kyai (Surakarta pusaka kris) 445
+- bird of ill-omen see malar munga
+- birds’ nest rocks 17, 169, 291 (revenues from), 322, 454 see also Karang Bolong
+- Bischoff, Major-General Benjamin (1787-1829) 648
+- Blambangan (Oosthoek) 5, 291, 440, 546, 719
+- Blambangan Sepuh, Yogya kraton regiment 5
+- Blanck, Dutch burger (Surakarta) 266 (lends money to PB IV)
+- blandhong, teak forest workers 30, 213, 258
+- blangkon 621 (as Javanese ‘national’ head-dress)
+- Blitar, district (east Java) 457
+- Blitar I, Pangéran (?1784-1828; son of HB I) 101, 534 (financial distress after land-rent abolition), 550 (reports on mistreatment of Dipanagara’s selir by Chevallier), 662 (daughter married to Pengalasan), 796
+- Blitar II, Pangéran (son of above) 621, 662 (discusses Dipanagara’s war tactics)
+- blood money see diyat
+- Blora, district (Surakarta) 164, 211 (teak trade in), 213-4, 234, 249, 253, 265, 319, 378 (annexed by Raffles in lieu of financial reparations), 379 (1812 annexation of)
+- Bocah-Becik, panakawan (Dipanagara’s personal retainer at Tegalreja) 568
+- Bogor (Buitenzorg) 236, 237-9 (Radèn Rongga to be sent to), 244, 252, 276, 291, 351 (Javanese MSS sent to Raffles in), 529, 645 (restoration of HB II at, 17-8-1826), 696, 703 (Van den Bosch sick at), 706
+- Bojonegoro, district (east Java) 249, 638 (Radèn Ayu Maja in)
+- Bojong, district (Kedhu) 286-7, 381, 497 (during Dipasana revolt) see also Danuningrat
+- Bojong, quarter (Semarang) 700 (Dipanagara stays at Resident’s house at)
+- Bölüki, Janissary regiment 152
+- Bombay 422
+- Bonang, holy graves at 250
+- Bonang, Sunan 482
+- Bonaparte, Louis (1778-1846; king of Holland, 1806-10) xii-xiii, 157, 161, 174, 183, 187, 199, 270 (bestows ridderorde on PB IV and Prince Regent / HB III), 275
+- Bonaparte, Napoleon see Napoleon
+- Boné, sultanate of (South Sulawesi) 307, 424, 562 (alliance of Bugis states against Dutch under queen of, 9-1824), 590, 592, 595 (Dutch reinforcements to, 1-1825), 648, 659 (expedition against), 755
+- Bonjol, Tuanku Imam (1772-1864; Padri leader) 668 (exile of), 727 (misery in Manado), 740 see also Padri War, Preanger, Sundanese
+- Bonthain 739
+- Borneo xv, 379, 401 (Nahuys’ commission to west coast of, 1818) see also Kalimantan
+- Bosch, Johannes van den (1780-1844; governor-general 1830-2 / commissioner-general, 1832-4) xi, 102-3, 106-7, 114, 157-8 (gratuitous brutality of), 544, 558, 584, 603, 654, 659, 666 (arrives in Batavia), 666-8 (insists on Dipanagara’s capture), 693, 696, 700-1, 703 (sickness of), 706-7 (decision on Dipanagara’s exile), 710-11, 720 (Knoerle reports on Dipanagara to), 721 (modification of exile order in Manado), 724-5, 727 (and Dipanagara’s finances in exile), 729, 735-6 (suggests Dipanagara’s transfer to the Netherlands), 739 (as commissioner-general), 740, 743, 758-9, 807-8 see also Cultivation System
+- Bosman, Second-lieutenant C. 724 (guards Dipanagara in Manado)
+- ‘bottom’ tax (pajak bokong) 475
+- Bousquet, J. (1776-1831; Resident of Batavia, 1821-2; Algemeen Secretaris, 1822-8; Raad van Indië, 1827-31) 706
+- Boutet, J.D. (French land-renter) 457, 465 (view of situation of Kedhu peasantry), 497, 501 (on PB V’s love of horses), 535-6 see also Sempu
+- Bouwens van der Boyen, baron P.M.M. (?1796-?) 463 (estate at Kembangarum), 536 (status as political exile), 636 (Kyai Maja captured near estate of) see also William II, king
+- Boyolali 38, 45 (dairy trade in), 164 (new division of Java proposed through), 238, 266, 421, 514, 531 (Boyolali-Salatiga road), 560 (land swap at), 600 (Gondhang-Boyolali road), 631, 634, 640 (mobile columns in)
+- Braam, J.A. van (1771-1820; Resident of Surakarta, 1808-10/1811; President Hooge Regeering, 1810-11; Raad van Indië, 1819-20) 38, 160-1 (character assessed), 166, 169, 171, 174 (as ‘little’ governor-general), 175 (compares reaction of courts to ordnance on ceremonial and etiquette), 183, 187, 200-1, 205, 223, 227, 235, 236-9 (mission to Yogya during Rongga crisis), 262 (SpD 10,000 reward), 264, 270, 277-8 (sends letters about execution of Natakusuma / Natadiningrat), 290 (meeting with Captain Robison, 22-9-1811), 291 (PB IV insists on removal of)
+- Braam, Mrs J.A. van (née Ambrosina Wilhelmina van Rijck) 181, 200 (possible affair with Daendels), 277 (wants execution of Natakusuma / Natadiningrat)
+- Brajayuda, Tumenggung (troop commander in Java War) 638
+- Bratasena, robber chief (Panaraga) 220
+- Bratayuda, wayang play 105, 744 (Dipanagara asks for copy of)
+- Brayut, tollgate (Kedhu) 497 (Chinese keeper murdered at)
+- bread (white) 663, 700
+- Brebes, district (north coast) 215
+- Breda, Royal military academy 822
+- Brèngkèlan, village (southern Kedhu) 37
+- Brethonnière, P. Hamar de la (land-renter Surakarta) 532
+- Britain xii, 260 (imperial meridian of)
+- British 9, 61, 74-5, 178 (threatened attack on Java), 275 (line regiments for Java expedition), 286, 288-9 (attack French gunboats), 554 (policy during interregnum), 608 (smuggling brig possibly supplies firearms to Dipanagara), 610, 665, 735 (fear of attack on Minahasa, 1833), 758 see also English
+- annexations (1812) 15, 39, 266
+- attack on Yogya (20-6-1812) 6-7, 61, 82, 151, 188, 210, 257-8, 296, 301, 331-42, 334 (map of), 345, 365 (last forces leave Yogya, 3-7-1812), 375, 377, 388-9 (humiliation for kraton inhabitants), 399 (anti-Chinese feelings during), 413, 440 (opens way for sexual exploitation of court women), 592, 615, 655
+- as asset strippers and looters 103, 206, 221 (cultural kleptomania of), 346-52 (plunder of court artefacts), 347 (prize money seized), 364, 388
+- brutality of 283 (blood lust at Meester Cornelis), 335 (Javanese casualties during assault)
+- conspiracy against (1811-2) 76, 314,
+- 316-9, 377-8
+- interregnum in Java (1811-6) xiii, xxii, 5, 11, 41, 61, 165, 206-7, 303 (problem of sources), 376 (Dipanagara’s view of), 399 (reward for Tan Jin Sing), 424, 447, 558
+- invasion of Java (4-8-1811) 163, 200, 215 (rumours spread about), 269 (firm intelligence reaches Java), 271, 275 (preparations for), 281-7 (description of campaign), 312, 515
+- legal reforms of 104
+- line regiments in Java 290, 304
+- naval blockade of (1796-1802 / 1803-11) 81, 89, 159, 174-5, 273 (interdicts court pilgrimage to Mecca, 1811), 276 (prevents transfer of Natakusuma / Natadiningrat to Makassar), 279 (disrupts coffee sales), 384, 479 (effects on opium trade), 712 (fear of reimposition of, 1830-33), 735
+- plans for retaking Java (post-1816) 500, 665 (rumours of, 1830), 734-5 (possible Manado landing, 1833)
+- secret correspondence with courts from Malaka (1810-11) 163, 317-9
+- secret treaty with Hamengkubuwana III see treaties
+- British-Indian army 422 (dependence on sepoys)
+- British-Indian troops 304 (British reliance on), 320 (attacks on in Surakarta), 346-52 (plunder of Yogya), 357-9 (in investiture parade) see also sepoys
+- Brosot, village (Kulon Praga) 23, 124
+- Brumund, J.F.G. 80-1, 85-6
+- Brussels 504, 734 (insurrection in, 24-8-1830)
+- Büchler, A.P. 93
+- Buckinghamshire regiment (14th Regiment of Foot) 290 (deployed in Surakarta, 9-1811), 304, 349 (death of Lt Maclean), 351, 357 (at HB III investiture parade, 21-6-1812), 358 (plate), 615 see also Maclean, Lt. Hector
+- Buddhism, Singhalese 109-10
+- buffalo, meat 44, 46
+- Bugis
+- kraton regiments, soldiers 5, 333 (mobilised to defend kraton), 337 (fire powder magazine in fort), 379 (disbandment of)
+- in Makassar 739-40 (smuggling of letters), 740 (attitude to Dipanagara), 741-2, 754-5 (relations with Dipanagara’s family)
+- pirates 20-1
+- states 562-3 (alliance against Dutch, 9-1824) see also Boné
+- tanah Bugis 717
+- troops 183, 222 (raised by Daendels), 623-4 (fight for Dipanagara)
+- Buitenzorg see Bogor
+- Buku Kedhung Kebo, text 406, 410 (Dipanagara advises on HB IV’s education), 461, 517, 546, 591, 622, 630
+- Buleleng see Bali
+- Bulkio, bodyguard regiment 152, 559 (PB VI abuses captured soldiers from), 631, 634 (ulama from Maja’s following join), 636 (taken by Maja at surrender), 637 (Maja hopes for recognition as personal barisan)
+- bullets 609 (made from rush-matting)
+- bullock carts 56
+- Bulu, village (Kedhu) 513 (destroyed by Merapi eruption, 28-12-1822)
+- Bulukumba 739
+- bumi narasuwita-Dalem (crown lands) 16
+- bumi pamajegan-Dalem (royal domain land) 8, 268 (Sélamanik as)
+- Buminata, Pangéran (son of PB III) 93, 162 (tyrannical behaviour towards wife), 320, 436 (as friend of Nahuys), 445 (Murma affair), 531 (protests land-rent abolition), 555, 558-9 (passed over as successor to PB V), 630 (as patron of religious communities in Surakarta) see also Megatsari
+- Bunder, Chinese trading community / tollgate (Kertasana) 12, 51 (attack on, 5-1808), 195-6
+- bupati bumi (Surakarta bupati wedana / chief administrator Kedhu) 381
+- bupati bumija (Yogya bupati wedana / chief administrator Kedhu) 12, 381
+- bupati dhongkol (prematurely dismissed bupati) 381
+- bupati gedhong (senior treasury officials, Yogya) 390
+- Burak (winged mount of The Prophet) see al-Burak
+- burgers (Indo-European inhabitants of Yogya), see Europeans
+- Burhānpūri, Muhammad ibn Fadl Allāh al- 100 see also Tuhfa
+- Burslem, Colonel N. (C-in-C British army in Java, 1815) 422
+- Bus, L.P.J. du Bus de Gisignies see Gisignies
+- Buschkens, Major H.F. (1795-?1860; inspector of military school in Semarang, 1823-6; Acting Resident of Yogya, 1851-8; 8-1-1858, titular major-general) 649 (mobile column destroyed at Kroya, 10-1828), 671-2 (Dipanagara’s letter to), 809
+- Bustaman, Radèn Salèh Syarif see Salèh
+- Bustān as-Salaţīn (Garden of kings), text 99-100
+- Butug, village 491
+- Buyskes, Rear-Admiral A.A. (1771-1838; vice-president Council of the Indies / Raad van Indië, 1808-9; commissioner-general, 1814-8) xiii, 174-5, 176 (plate), 200, 209, 429, 807
+- Byzantium, eastern Rome 153
+- Cabéyan, village (Jipang-Pasekaran) 248
+- cacah (peasant-cultivator unit of productivity) 9, 63, 67
+- cacah gesang (‘living’ or inhabited cacah) 63, 399
+- cacah pejah (‘dead’ or abandoned cacah) 63
+- cadastral registers 39-40, 60-2, 66 see also Klepu, Book of, Serat Ebuk Anyar
+- cahya (lustre / charisma) 115, 388 (Yogya kraton tarnished)
+- cakra (solar discus weapon of Wisnu) 116, 492, 585 see also Dipanagara, pilgrim staff
+- Cakradiningrat, Pangéran Arya (Surakarta bupati wedana of eastern mancanagara) 487, 491 (arrests Sunan Waliyullah in Kedhiri)
+- Cakradiwirya I, Radèn Tumenggung (bupati of Mataram) 292-3 (strangled with white thread)
+- Cakradiwirya II, Radèn Tumenggung (bupati of Mataram; son of above) 274 (investigates robberies)
+- Cakrajaya, Radèn Tumenggung see Cakranegara I
+- Cakrakusuma, Pangéran (Surakarta army commander) 181
+- Cakranagara, Radèn Adipati (Surakarta patih, 1810-2) 228, 280-1 (initiates secret correspondence with Yogya), 295, 305, 316-9 (role in secret correspondence), 378 (exiled to Surabaya)
+- Cakranegara I, Radèn Adipati (?-1862; bupati of Purwareja, 1830-62; pre-1832 Radèn Tumenggung Cakrajaya) 44-5, 135, 695
+- Cakraningrat II, Panembahan of Pamekasan (Madura) 74, 219
+- Cakraningrat IV, Panembahan of Pamekasan (post-1808, Sultan Madura) 181-3 (appointed sultan), 318, 424
+- Cakraningrat V (Sultan Madura) 644 (plate)
+- Cakraningrat family (Sampang, Madura) 781 (graves of)
+- Calcutta 341, 347, 351 (sons of Sura-adimanggala IV to, 7-1812), 364, 428-9, 759
+- Calcutta Insurance Co 429
+- Cambier, J.P.C. (1799-1842; Acting Resident of Manado, 1831-4; Resident of Manado, 1834-42) 726 (castigates Dipanagara’s ‘obstinacy and pride’), 729, 732-3, 738
+- Campbell, Major Archibald (prize agent, 1812) 348
+- Candhi Cétha 140
+- Candhi Mendhut 497
+- Candhi Sèwu 418-9 (plate of cleaning, 1807), 421
+- Candhi Sukuh 140, 524 (Smissaert plans holiday to)
+- Canning, George (1770-1827; British Foreign minister, 1822-7) 428 (refuses to send sepoys to Dutch, 5-1826)
+- cannon see artillery
+- Cantervisscher, J.T. (Assistant-Resident Pacitan, 1838-42) 449
+- cap ageng (great seal) see Yogyakarta
+- Cape Colony (South Africa) 278 (Janssens as governor-general of), 282, 285, 290 (Capt Robison’s marriage to Dutch woman from), 423, 429, 492 (as place of exile), 500, 707, 718 (Constantia wine from), 756 see also Dipanagara (son of PB I), Constantia, Janssens
+- Cape Dutch language 290, 500
+- Cape Dutch wine see Constantia
+- Capellen, G.A.G.Ph. van der (1778-1848; governor-general, 1816-26) xiii, 43, 67, 102, 168 (visits to courts), 375 (appoints Nahuys to Yogya), 412 (assessment of HB IV), 428-9, 431, 432 (plate), 433 (Nahuys’ view of), 435, 455 (strong line on land-rent), 457, 461, 469 (minting of copper coins), 474 (appoints commission on tollgates), 478, 498 (commutes death sentence for Dipasana), 501, 503-4, 508-9 (endorses De Salis’ arrangements for HB V minority), 517 (opposed to Nahuys), 519-20 (appoints Smissaert to Yogya), 521 (orders collection of statistics on Java), 525-6 (sits on throne / dhampar during 1819 visit to Yogya), 527-32 (abolition of land-rent and its consequences), 552, 553-5 (annexation plans), 554 (second visit to courts), 559-61 (annexation plans), 563 (voyage to Maluku, 7-1824), 592 (returns HB II from Ambon), 594, 603, 640, 644 (land-rent abolition), 648, 807
+- Capellen, Jacqueline Elisabeth baroness van der (1781-1865; née Tuyll van Serooskerken; wife of above) 168, 525-6 (sits on dhampar / throne during 1819 visit to Yogya)
+- Capellen, S.S. van der (Batavia-Semarang route) 115, 429, 586, 655, 701-2 see also Davidson (Captain Andrew), steamships
+- carbines, cavalry 7, 77 (adroitness of Amazon corps with), 333
+- card games 54, 391 (British ban on gaming / cockfighting, 7-1813)
+- carik-Dalem (royal scribes) 62
+- Carr, captain (British merchant captain) 712 see also Regret, The
+- Caruban, district (east Java) 164
+- cash crops 165, 210 (discussion during Daendels’ 7-1809 visit) see also coffee, cotton, indigo, pepper, sugar
+- cash economy 66 see also currency
+- cassava 43 see also diet
+- Cassenhoven, Sergeant 657
+- castration 388 (loss of kris as symbolic form of)
+- Castlereagh, Lord (1769-1822; British Foreign Minister, 1812-22) 429
+- castor-oil plants 475
+- cattle murrain 394
+- Cauwer Wétan, district (Banyumas) 266-7, 269 see also Galuh
+- Cekel Amongraga, wayang lakon see Arjuna
+- Cemara Tunggal, female hermit 140-1 see also Ratu Kidul
+- Centhini, Serat 114, 140
+- Cephas, Kassian (1844-1912; Yogya court photographer) 179
+- Ceremonial and Etiquette, edict on (28-7-1808) 166-7, 290-1 (demand for return to pre-1808 situation by PB IV) see also Daendels
+- Ceuvelaire, Captain de (French land-renter Yogya) 542 see also Karanganyar
+- Ceylon (Sri Lanka) 247, 372 (Dipakusuma born in), 423, 707 (as place of exile)
+- Chambert-Loir, H. xix
+- Chassé, D.H. (1765-1849; general, defender of Antwerp, 1830-2) 734
+- Chasteauvieux, Lieutenant-colonel L.B. de (Yogya garrison commander, 1808-11) 205, 208
+- chess 99, 122, 512 (Dipanagara plays)
+- Chevallier, P.F.H. (1795-1825; Assistant-Resident Yogya, 1823-5) 119, 439, 496, 510, 520-1 (and Yogya postal service), 535 (on high interest rates in Yogya), 540 (indemnity for Bedhaya), 542-3 (complaints of Dipanagara about), 548-9 (sexual misconduct of), 552 (death of, 11-11-1825), 563, 592, 601, 603, 702 (Dipanagara’s bitterness towards)
+- children 40 (age structure of population), 41-2 (deaths from smallpox), 47 (contribution to household income), 71-80 (Dipanagara’s childhood), 75 (adoption / lending of), 80, 349 (evacuated from Yogya court, 20-6-1812)
+- China 68 see also Manchu court (Peking)
+- Chinese, south-central Java xvii, 2-3 (shop-houses and role in Yogya), 15 (as land-renters), 19 (as demang), 54 (as tailors), 55-6 (as bodyguards), 97 (part Chinese origins of Dipanagara’s first wife), 98 (Chinese selir of HB II), 165, 195-6 (in Bunder), 205 (contribution to Daendels’ war treasury), 215, 222 (in eastern mancanagara), 276 (at declaration of Franco-Dutch government in Yogya, 28-2-1810), 277 (female servant of Natakusuma), 335 (during prang cina, 1741-3), 337, 354 (difficult situation post-British attack), 386 (judicial cases with), 400 (views of Tan Jin Sing), 462 (changed behaviour of), 464 (Crawfurd’s sinophobe views), 467 (flight from Kedhu, 1825), 467-78 (as tollgate keepers), 472 (plate), 482 (during Umar Mahdi revolt, 1817), 485 (anti-Chinese movement in Malang, 1819), 524 (testimonial for Smissaert), 606, 617-9 (during Java War), 655 (Dipanagara’s treatment of)
+- armaments makers / gun foundries (Gresik) 8, 272, 617 (suppliers during Java War)
+- businessmen 398
+- theatrical performances 411 (wayang jenggi / masquerades at HB IV’s wedding, 5-1816)
+- currency dealers 252, 279
+- Java War 610 (in Jana, Bagelèn), 615 (Ngawi massacre, 9-1825), 617-20 (treatment by Dipanagara)
+- land-renters 15, 455 (problems in Cirebon), 457 (in Principalities), 462 (changed behaviour to Javanese), 499, 527-9 (problems following abolition)
+- in Manado 725 (deaths from 8-1833 epidemic)
+- miners 401 (in Borneo)
+- moneylenders 19, 383 (land tax), 464 (in Kedhu), 534-5 (land-rent indemnities), 553 (turned away from Surakarta kraton following death PB IV), 615 (debts of R.T. Yudakusuma to)
+- Muslims (in pasisir) 250 (during Radèn Rongga’s rebellion), 617-8 (in Tuban / Lasem during Java War), 619-20, 626 (support for Dipanagara) see also Lasem, Tuban, Sidhayu
+- quarter (pacinan) 3, 382, 524 (testimonial of inhabitants for Smissaert) see also Tan Jin Sing
+- palanquins 363
+- Rongga rebellion 249-50, 256-7
+- sexual relations with 606, 618-9
+- sugar factory workers 44 (at Ampèl and Kedhu), 493
+- Sunan (Yellow sunan / Sunan Kuning) see Garendi, Radèn Mas
+- Surakarta 291
+- tax-farmers 19, 230 (in Demak), 233 (in Demak), 279 (currency dealing, 1811), 385, 399
+- timber merchants (eastern mancanagara) 211
+- tollgate keepers 12, 21, 48, 50-1, 55-6 (bodyguards / prisons of), 66, 195 (attacked in Bunder), 250 (in eastern mancanagara), 337 (attacked during British assault), 385, 467-8, 615 (attacked in Ngawi, 9-1825), 616 (Chinese woman sets up police force)
+- traders / opium suppliers 24-5 (in Bagelèn), 123, 193 (lease prau pengluput from Rongga), 610, 617
+- Chinese War (1741-3) see prang cina
+- chintz, cloth 98
+- cholera (1821 epidemic in Java) 456 (death of C.H. Coster from), 489-90, 494-5, 504, 516, 603
+- Christians, Christianity 110 (Dipanagara’s view of), 449 (saying of grace), 696 (in Sulawesi), 717 (Dipanagara enquires about in Sulawesi) 725 (in Manado), 727 (attitude to Dipanagara in Manado) see also Cantervisscher, Manado, Trinity (doctrine of)
+- Chronicle of the Fall of Yogyakarta see Babad Bedhah
+- Cianjur (West Java) 719
+- Ciasem and Pamanukan lands (west Java) 454-5 (leases in)
+- Cibkakak, Kyai (great-grandfather of Mas Ayu Téjawati / mother of HB I) 444
+- cigarettes 479 (opium laced) see also rokok
+- Cilacap 21, 164, 185, 648
+- Cililitan (Bataviasche Ommelanden) 106 (Nicolaus Engelhard’s villa at)
+- cindhé (embroidered edging) 681
+- Circe, naval schooner 738 (transports Dipanagara to Makassar, 1833), 742
+- circumcision ceremonies (supitan) 70, 411, 512
+- Cirebon 21, 49 (rebel leader in), 185, 187 (Bagus Rangin rebellion in, 1808-12), 252 (exile of Natakusuma / Natadiningrat to), 277, 285-6, 376, 553, 555
+- Citradiwirya, Radèn Tumenggung (kadipatèn Yogya) 354 (killed in amok attack, 20-6-1812)
+- Cleerens, Colonel J.B. (1785-1850; 27-5-1835, titular major-general; military commander of Sumatra’s West Coast, 1836-7; Resident of Preanger, 1840-6; governor of Moluccas, 1846-50) 583, 588, 616, 621 (tries to end wearing of turban), 653, 659, 661-73 (persuades fugitive Dipanagara to negotiate peace), 674 (plate of Dipanagara’s letter to), 675-7 (with Dipanagara at Menorèh), 677-8 (brings Dipanagara to Magelang), 690-1 (presumed undertaking from), 694 (promises of), 696, 698 (safe conduct of), 719 (conversations with Multatuli), 740 (Dipanagara’s letter to, 1835), 745, 822, 824-6 (text of Dipanagara’s letter)
+- Clive, Robert, 1st baron (1725-74) 342
+- cloth production (Bagelèn) 23-4, 37, 49 see also ginggang
+- cloth, white (mori) 292-3 (used to strangle courtiers)
+- cloth, black 670, 678 (Dipanagara’s troops dressed in)
+- cloth imports from Europe see textiles
+- Cochius, Colonel F.D. (1787-1876; engineer officer, deputy director of fortifications, 1822-5; acting commander of army in the field, 1830; 1830, titular major-general; commander of Netherlands Indies army, 1835-47) 642, 646-7 (architect of bènthèng stelsel), 654, 666-7, 671, 673
+- Cochius, fort (Gombong) 647 see also Soeharto
+- cockfighting (Yogya) 188, 391 (British ban, 7-1813)
+- Coen, Jan-Pieterzoon (1587-1629; governor-general, 1618-23, 1627-9) 167
+- coffee 15, 279 (exports held up by British blockade), 346, 455, 462 (problems for Javanese estate workers), 466-7 (impact of Kedhu coffee plantations), 479 (opium seasoned), 479-80 (harvest slametan / feast in Pacitan), 494 (effects of 1821 drought in Pacitan), 527, 535 (flight of estate workers post-land-rent abolition), 542, 722 (gardens in Manado)
+- Cohen Stuart, A.B. xix, 650 (supervises Malay translation of Babad Dipanagara, Manado version), 732
+- coinage 18, 230 (Japanese red copper), 252 (currency dealing), 279 (1811 debasement), 290 (PB IV demands payments in good coin), 347 (specie thrown into circulation post-fall of Yogya kraton), 382-3 (land-tax payment demands in silver), 433 (problems of printing new Java Rupee notes in The Hague, 1815), 468-9 (import of copper coins from pasisir), 469 (export silver specie from Principalities)
+- Colebrooke, Captain William (Royal Artillery) 331, 333 (reports British assault / Papringan ambush), 353 (describes investiture ceremony of HB III)
+- Colonial charter (1803) 159
+- Colonial corps 318-9 see also Ambonese, Javanese
+- Commissioners-general (1814-8) 373 see also Buyskes, Capellen, Elout
+- Committee of Public Safety (Paris, 1793-4) 316
+- Comité tot de Zaken van de Oost-Indische Handel en Bezittingen (1796-1800) 2
+- Constantia wine (South Africa) 524 (Dipanagara’s preference for), 718, 758
+- Constantinople 665 see also Ottoman empire
+- Convention of London (1814) 427 (returns Java to Dutch), 429
+- copper coin see coinage
+- core regions see nagara agung
+- Cornelius, Engineer Major H.C. (1774-1833; surveyor of Prambanan / Candhi Sèwu, 1805-7) 184, 418-9 (plate)
+- Cornets de Groot Jr, A.D. (1804-29; élève voor de Javaansche taal, 1819-23; Assistant Resident Surakarta, 1823-7) 413, 507-8 (in Yogya for appointment HB V), 514-5 (description of Merapi eruption)
+- corvée (labour) services 8, 16, 58-9 (of eastern mancanagara bupati), 466 (demands in Kedhu)
+- Coster, C.H. (1780-1821, Dutch pepper planter Pacitan) 456 see also cholera
+- cotton piece goods 380, 384 (post-1812 Javanese cotton industry) see also textiles
+- cotton (kapas), raw 469, 475 (crop destroyed in 1824 drought), 497 (used for garrotting)
+- cotton weaving / skeins (tugel) 32 (plate), 56-7, 380 (exports from Pacitan), 384 (taxes on exports to pasisir), 469
+- Council of State (nayaka council, Yogya) 238-9, 409
+- Council of the Indies (Raad van Indië) 2, 81, 174, 264
+- court jester see Ngisa, Haji
+- Courtrai (Kortrijk) 643
+- craftsmen’s patents 59
+- Crawfurd, John (1783-1868; Resident of Yogya, 1811-14/1816) xviii, xx, 11, 15, 17-9, 25, 27-8 (and British cotton imports), 35 (view of apanage system), 36, 39, 46, 56, 64, 109 (knowledge of Javanese / Dipanagara’s view of), 184, 225, 294-5, 296 (plate), 301 (censured by Raffles), 303 (letters missing from archive), 304-5 (protests style of HB II letter to Raffles), 307-8, 311 (appointed as de facto patih in 28-12-1811 treaty), 313, 315-6 (failure to refer to Dipanagara in correspondence), 317, 321 (meeting with Natakusuma), 322-4 (negotiations with future HB III), 326-9, 331-2 (during British attack), 346 (leases lands from HB III), 350-1 (sorts through plundered kraton library), 351 (friendship with Sura-adimanggala IV), 356 (forces down necks of older princes when greeting Raffles), 361-2 (with Raffles during Kedhu annexation announcement and appointment PA I), 371-2 (poor view of administrative talent in Yogya), 374, 375-7 (relations with Dipanagara), 380, 382 (leases lands from MN II), 391 (replaced by Garnham), 393 (failed attempt at salt monopoly), 395-7 (appointment of new patih), 399-400, 409 (assessment of Natakusuma / PA I), 411 (view of HB IV), 412, 421 (orders sketches of Prambanan, 11-1812), 427 (returns to Yogya as Resident), 429-30, 433, 437 (parsimony as dinner party host), 464 (argues for money taxes in Kedhu), 473 (on rice trade in Kedhu), 713 (ship’s doctor reminds Dipanagara of), 809
+- criminal underworld (Yogya) 31, 101, 165, 382 see also jago
+- crocodiles 87 see also Kali Cingcingguling
+- Cromwell, Oliver (1599-1658) xvii
+- crown domain lands see bumi narasuwita-Dalem
+- Crudelbach, J.G. (Assistant-Resident, Makassar) 753
+- Crusade, First (1095-99) 109-10
+- Cultivation System (1830-70) xi, 35, 463 (population movements caused by), 654, 706, 736, 756, 758
+- currency see coinage
+- Dabatul Ali (false prophet of the last hour) 483
+- Daendels, H.W. (1762-1818; governor-general, 1808-11; governor of Guinea Coast, 1815-8) xi-xii, 13, 53, 64, 76, 128-9, 151, 154, 157, 158 (plate), 159-62, 164 (creates Forestry Board), 165-6 (abolishes Semarang governorship), 167 (division of Java), 168 (problems with court visits), 170 (edicts on Ceremonial and Etiquette, 28-7-1808), 171, 173-4, 175 (‘Thundering Marshal’ epithet), 177 (bankruptcy of government), 178, 181-2 (in Semarang), 186-7, 194-200, 204, 206 (indemnity from Yogya), 208-10 (visit to Yogya, 30-7-1809), 211-2 (timber demands from eastern mancanagara), 217 (dismissal of Surakarta patih), 218 (orders shooting of demang of Tersana), 221, 223, 233, 236 (letter to HB II about Rongga), 238-9 (letters given to HB II), 245, 252 (exile of Natakusuma / Natadiningrat), 253-4 (military activities during Rongga rebellion), 255, 258-60, 261-5 (in Yogya, 12-1810), 266 (1811 treaties with courts), 270 (lawlessness of forces), 275-6 (institutes Franco-Dutch government), 277-8 (tries to murder Natakusuma / Natadiningrat), 278 (replaced by Janssens), 286, 290 (grievances of courts with), 294, 309-10, 312-3, 317, 320 (travel passes for ulama), 322 (birds’ nest revenues), 329, 342, 375, 377, 380-1, 413, 424 (as governor of Guinea Coast, 1815-8), 443, 454, 505, 527, 553, 560, 562-3, 588, 590, 603, 615, 646 (Cochius’ supposed service under), 649, 655, 664, 757-8, 807, 814 see also Franco-Dutch administration
+- Daëng Secadipura, kraton regiment (Bugis) 5
+- daérah (diagrams for regulating breath and prayers during dhikr) 111-2 (plate), 406, 745 see also dhikr
+- Dagèn, village (Bantul) 632
+- Dahlan, Kyai Haji Ahmad (1868-1923) 570 see also Muhammadiyah
+- dairy products 45, 421 (sepoy involvement with) see also sepoys
+- dalem (residences of Yogya princes / priyayi) 389 (firing by owners prior to joining Dipanagara, 1825)
+- Dalima (servant of Dipanagara in Makassar) 741
+- Dalton, Major D.H. (1771-1828; commander Light Infantry Volunteer Battalion; commandant of sepoy garrisons in Yogya, Klathèn and Surakarta,, 1812-5) 339, 407
+- Damar Wulan, cycle of wayang plays 191 (Rongga as author of), 411
+- dams (in Principalities) 36-7
+- dancers see bedhaya, serimpi, topèng
+- Danuatmaja, Radèn Tumenggung (son of Danureja II) 550 (wife seduced by Dietrée / Chevallier)
+- Daniel, William (1769-1837; artist) 302, 328, 360, 420
+- Danudireja, Radèn Ayu (second wife of Radèn Salèh, artist; daughter of Mas Kertawangsa Kalapa-aking) 742
+- Danukusuma I, Radèn Tumenggung (murdered 1-1812) 10, 98-9, 285-6 (commands Yogya force at Serondhol), 287, 313 (sent into exile in Pacitan and strangled), 315, 371 (body exhumed from Banyusumurup), 512, 761-2, 774-6, 799
+- Danukusuma I, Radèn Ayu (wife of above) 10, 98-9, 371, 512 (love of chess)
+- Danukusuma II, Radèn Tumenggung (pre-1812, Radèn Tumenggung Mertawijaya; post-1825, basah of Rèma; post-1828, Radèn Adipati Abdullah Danureja; post-1830, Radèn Tumenggung Danuningrat) 80 (as father-in-law of Pangéran Dipaningrat), 272-3, 371, 650-1, 661, 663, 665, 668-9, 671, 676, 763, 799
+- Danuningrat, Radèn Adipati (Surakarta patih, 1804-10) 93, 185 (accompanies Daendels to Surabaya), 187 (investigates riflemen affair), 217 (dismissed), 228
+- Danuningrat, Radèn Tumenggung (Yogya) see Danukusuma II
+- Danuningrat, Radèn Tumenggung (bupati Kedhu, 1813-25; alias Sayyid Alwi; pre-1812 Kyai Ngabèhi Danukrama, mantri of Bojong [Kedhu]) 381, 486-7, 799
+- Danureja, Radèn Adipati Abdullah see Danukusuma II
+- Danureja I, Radèn Adipati (?1703-99; Yogya patih, 1755-99) 42, 99, 222, 224, 400
+- Danureja II, Radèn Adipati (?1772-1811; Yogya patih, 1798-1811) 82, 99, 163, 178, 188-9, 194 (debts of), 199, 206-7, 216, 219, 222-3, 223-5 (character assessed), 227, 232, 235 (humiliated by HB II), 238, 239 (restored to full functions), 243, 244 (discovers Rongga’s letters), 254, 264, 268, 270, 271 (as member of karajan party), 272, 276, 286, 292 (murdered, 31-10-1811), 295 (buried at Banyusumurup), 301, 307, 315, 372 (body moved to Melangi, 1865), 411, 550, 623, 761-2, 770
+- Danureja III, Kyai Adipati (?1740-1814; Yogya patih, 1811-3) 211, 269, 293 (official investiture of, 7-11-1811), 304-5, 371, 374 (in negotiations with Crawfurd over 1812 treaty), 380, 395-6 (replaced, 2-12-1813), 763, 770 see also Sindunagara
+- Danureja IV, Radèn Adipati (?1780-?1849; pre-1813, Radèn Tumenggung Sumadipura; Yogya patih, 1813-47) 61, 99-100, 122 (opium addiction of), 265 (married to Ratu Sasi), 354, 366-7 (in audience with Ratu Ibu), 396-8 (appointment as patih, 2-12-1813), 408 (appointed to Regency Council, 11-1814), 410 (takes over finances from PA I), 449-53 (quarrel with Dipanagara over gunung), 450-1 (slapped over face / plate), 461 (altercation with Dipanagara over land-rent), 503, 508-9 (in charge of court finances), 510 (hampers authority of Dipanagara as guardian), 517 (corrupt rule of), 522 (Smissaert’s poor view of), 533 (negotiates land-rent indemnities), 537 (accompanies Dipanagara / Mangkubumi to Bedhaya), 541 (negotiations over Bedhaya indemnity), 542, 543 (complaints of Dipanagara), 544-5 (dismisses Kertadirja II), 546-8 (corrupt rule of), 548 (as patron of wayang wong), 549 (sexual abuses of), 552, 563, 592-3, 596 (plans to attack Tegalreja / plate), 600-1, 643 (alienates Sasradilaga, 1827), 648, 670, 770, 805 see also Sumadipura
+- Danureja V, Radèn Adipati (1810-?1885; Yogya patih, 1847-79) 79, 99, 762 see also Gandakusuma
+- Danurejan family 10, 82, 90 (tanah tiyasa / religious apanage fief at Melangi), 99, 223-4, 371-2, 396, 550, 581, 648, 661 (family lands in Rèma), 762-3 (family tree), 770 (list of patih) see also Gandakusuma, Rèma, Yudanegaran
+- Danurejan see kepatihan (Yogya)
+- Darlang, F.Ph.F (Dutch land-renter Surakarta) 532
+- Dasamuka (Rawana) 247 (Rongga’s army commander given name), 255 (killed), 257
+- Dathuk Sulèman, Kyai (son of Sultan of Bima, Sumbawa) 765
+- Dathuk Sulèman, Nyai (wife of above) 765
+- Davidson, Captain Andrew (?1809-31; captain of S.S. Van der Capellen) 701 see also Thompson, Robert & Co
+- Davidson, George Frank (?brother of above) 702 (sees Dipanagara landed at Batavia)
+- Davidson, John (elder brother of above) 702 see also Macquoid, Davidson & Co
+- Davy, Captain L.H. (4th Bengal Volunteer Battalion) 307-8 (prepares Raffles’ visit to courts, 12-1811)
+- Day, Clive 529
+- day labourers (batur) 48
+- Day of Judgement see ari kiyamat
+- Dayak troops 222 (raised by Daendels)
+- Dayawati, Mas Ayu (selir of Radèn Rongga; ? mother of Senthot) 79 (died 12-3-1810)
+- Dayeuhluhur, district (Banyumas) 267, 280 (Raffles’ 20-12-1810 letter to courts forwarded by Ngabèhi of)
+- Deans, John (Assistant-Resident Yogya, 1811-3) 339, 340 (present at time of Sumadiningrat’s death, 20-6-1812), 377 (receives gift of horse from HB III), 541 (friendship with HB III remembered)
+- Deans, Scott & Co (British agency house, Semarang) 339, 429 see also Deans, John
+- debt of honour see Ethical Policy
+- debts 169 (of Residents to rulers), 194 (of Rongga and Danureja II to HB II)
+- De Hersteller, Dutch fort (Salatiga) 287 (Janssens flees to, 16-9-1811)
+- deer hunting 232 see also dhèndhèng
+- Deksa, village (Kulon Praga; military headquarters of Dipanagara, 1825-6) 584, 609, 641
+- Delanggu 91-2, 190 (Rongga murder of Surakarta inhabitant in), 232, 242, 403, 443, 627, 642 (battle at, 28-8-1826)
+- Deles, village (Kedhu) 513 (destroyed by Merapi eruption, 28-12-1822)
+- Delft, Indological Institute 67
+- Delimas, village (Pekalongan) 217
+- Demak 109, 116, 133-4, 230 (Chinese tax-farmers attacked in, 1810), 231, 233-6 (attack on Chinese tax-farmers in), 250 (holy graves at), 563 (Pangéran Sérang’s campaigns in, Aug-Sept 1825), 613-4, 616, 622-3, 624-5 (plate)
+- great mosque at 132, 250
+- famine in 756
+- sultans of 116, 133, 585, 635
+- apostles of Islam (wali) 133, 141 see also Maghribī
+- Demang, Pangéran (?1760-1817; son of HB I) 50 (links with bandits), 254, 340 (advises HB II during British assault), 406 (lustration ceremony at HB III’s deathbed), 507, 796 see also dhalang
+- demang (mantri-désa / supra village tax collectors) 17, 18 (plate), 67, 380-1 (Raffles prefers to bekel during annexations), 458 (relieved of duties by European land-renters), 464, 584 (instructions for during Java War)
+- Demangan (Kalasan) 209 (HB II meets Buyskes at)
+- Demarara (West Indies) 429
+- demography see population
+- Denmark, king of (Hamlet) 368
+- Dèrèsan, village (Yogya) 281 (Sumadiningrat’s apanage at)
+- Derpayuda, Kyai Ageng (patron of gamblers) 76, 190, 765 (family tree of)
+- Derpayuda, Nyai Ageng (wife of above; mother of Ratu Ageng Tegalreja) 76 (Bimanese ancestry of), 765 (family tree of), 782 see also Bima (Sumbawa)
+- désa see village
+- Detelle, Lieutenant (commander Klathèn garrison, 1808) 186
+- Deux, F. (French land-renter Surakarta) 532, 621
+- dew ponds see Gunung Kidul
+- Dewar, Lieutenant-colonel J. (C.O. Bengal 4th Volunteer Battalion) 340 (kills Sumadiningrat)
+- Déwi, Radèn (patih of Ratu Kidul) 145
+- Déwi Sri (rice goddess) 45, 403
+- Dezentjé, J.A. (Eurasian land-renter Surakarta) 38, 56, 421, 531-2 (protests abolition of land-rent) see also Ampèl
+- Dhadhapan, Kyai gedhé (father-in-law of Dipanagara) 97-9 see also Madubrangta
+- Dhadhapan, pradikan village (Yogya) 97, 99, 525
+- dhalang (wayang kulit puppeteers) 137, 340 (Pangéran Demang as) see also Widi Prayitna
+- dhampar (royal throne stool) 171, 207, 209, 222, 309 (incident in throne room during Raffles’ 12-1811 visit), 525 (Smissaert sits on) see also throne room
+- dhèndhèng (dried deer meat) 26, 44, 186
+- dhikr (repetitive short Muslim prayers) 111 (Dipanagara’s fourfold dhikr), 112 (plate), 337 (chanted by Amazon corps during British assault), 406, 485 (taught by Kyai Sidulk Aku of Gresik), 488-9 (Iman Sampurna’s dhikr, 1819), 628-9, 638 (chanted by Maja’s troops after surrender), 745 (Dipanagara uses)
+- dhikr sir (‘wish’ dhikr) 485
+- Dhongkèlan (pathok negari/ centre of ulama learned in fiqh law) 90, 131 (perhaps visited by Dipanagara on c. 1805 pilgrimage)
+- dhukun (herbalist / healer) 117, 353 (Mangkudiningrat I as in exile in Ambon), 406, 496 (role in Dipasana’s revolt), 659 (elderly female helps Dipanagara, 11-1829) see also Nurngali
+- Dhuri (Wanaseraya), district (east Java) 255, 265, 379 (annexation in 1812)
+- Diderot, Denis (1713-84) 465
+- diamonds 349 (looted by sepoys from Yogya kraton)
+- Diell, Lieutenant-colonel Johan (1776-1827) 611 (in eastern Bagelèn)
+- Dieng plateau 466
+- diet 43-6 (of Surakarta inhabitants)
+- Dietrée, J.G. (1782-1826; Residency interpreter in Javanese, Yogya, 1796-1825) 230-1 (on commission to Grobogan-Wirasari, 10-1810), 293, 439 (sexual behaviour of), 536 (defends Pogung estate with cannon), 540, 542, 543 (Dipanagara’s complaints about), 548-9 (sexual misconduct of), 551 (treatment of Dipanagara), 552 (died of wounds, 5-1826), 563, 620, 702 (Dipanagara bitterness towards)
+- Dipakusuma, Pangéran (?1760-1822; born in Ceylon, son of Amangkurat IV; joint acting bupati wedana of Madiun, 1811-22) 181, 216 (visits Batavia in early 1780s), 218, 233, 243 (reinforces Yogya expedition against Rongga, 11-1810), 254 (appointed expedition commander), 267 (appointed joint acting bupati wedana Madiun with Prawirasentika, 1-1811), 324 (enmity towards Prince Regent / HB III), 372-3, 374 (in negotiation with Crawfurd over 1812 treaty), 395-6 (considered for patih’s post), 408, 441 (to Batavia to greet Dutch Commissioners-general, 7-1816), 710, 764, 773-4, 799
+- Dipakusuma, Pangéran (c. 1805-?; pre-1825, Radèn Dipaatmaja; son of Dipanagara) 80, 663 (in Bagelèn), 682 (? joins Dipanagara at Magelang, 3-1830), 711 (proposed quarters in Yogya kraton), 746 (exiled to Ambon, 1840), 767 (family tree)
+- Dipanagara, Pangéran (son of PB I) 369, 492, 587, 756
+- Dipanagara, Pangéran (son of Pangéran Ngabèhi Saloringpasar; husband of Ratu Bendara I) 369
+- Dipanagara, Pangéran (son of PB III) 370
+- Dipanagara, Pangéran (1785-1855) xiv-xv, xxi, 62, 69-95 (birth and childhood), 72 (charisma), 78 (as village dweller), 85 (gamelan at Tegalreja), 87 (retreats of), 88 (appointed Radèn Antawirya), 98 (kraton wedding, 25-2-1807), 99 (love of chess), 108 (skill in reading faces), 115 (appearance as young man), 116 (physical strength), 117 (view of western doctors), 118 (plate), 127-56 (pilgrimage to south coast), 170 (reaction to Daendels’ edicts, 7-1808), 177-8 (view of Daendels), 179 (at Rajawinangun review, 1-6-1808), 204, 208-9 (troop commander during Daendels’ visit, 30-7-1809), 233 (‘piling up’ of Rongga‘s affairs), 238, 263 (describes Daendels 12-1810 visit), 270 (on ridderorde for father/HB III), 274 (view of Mangkudiningrat’s ambitions), 276, 291, 294-6 (advises father after death of Danureja II), 313 (life in danger), 321, 323, 324-7 (British plans to recognise as Crown Prince), 327, 352 (kasepuhan / karajan rivalries), 362-3, 381 (bupati dhongkol join), 406 (at death HB III), 421 (collects Hindu-Buddhist statuary), 428 (Bengali dhukun of), 437 (contrasts Nahuys and Smissaert as Residents), 439 (anger at sexual behaviour of Dutch officials), 444-7, 449 (view of treatment of Kyai Murma), 452-3 (issue of gunung), 459-62 (view of land-rent), 502-3 (deterioration in relations with court), 503 (reaction to death of HB IV), 505-6 (increasing prominence in Yogya), 507 (distaste for arcane magico-religious practices), 511 (guardianship and contemplation of suicide), 512-3 (witnesses Merapi eruption), 555 (view of PB VI succession in Surakarta), 561 (anger at lack of consultation over Jabarangkah), 578 (contemplates suicide),
+- adoption of Ngabdulkamit name 150, 152, 511, 726 (in Manado), 745
+- adviser of Hamengkubuwana III 294-6, 315-6, 373-4
+- army commanders 648-9 (criteria for selection), 670 (creative financing of)
+- appointment of new patih 395-7
+- archive at Tegalreja 62, 105 (at Selarong), 326, 502, 545 (secret contract with British)
+- archive during Java War 651 (captured 6-1829)
+- as Arjuna 405
+- assassination envisaged 595 (by MacGillivray), 666 (by Van den Bosch)
+- attitude to money and allowances 78, 710, 726, 746, 749, 752
+- as author 725 (Babad Dipanagara), 731-4 (Babad Dipanagara), 744-5 (Makassar Notebooks)
+- bandit links 48-50, 608
+- in Batavia (4-1830) 702-13
+- battle banners of 628
+- bodyguard of 401
+- British attack on Yogya 331-2, 336, 339-40
+- capture of (28-3-1830) 660-99
+- and Chevallier 550-1 (problems with treatment of selir)
+- and Chinese 117 (affair with Chinese girl), 121 (wounded at Gawok, 15-10-1826), 250-1, 606, 617-9 (view of sexual relations with), 681 (?cindhé edging on jubah sewn by mistress)
+- ‘coming over’ 679 (De Kock’s plans for)
+- complaints about treatment 691 (at Magelang)
+- conversations with 700-2 (in Semarang), 719 (with Knoerle on Pollux)
+- and Crawfurd 109, 375-7, 380 (negotiations over Kedhu), 713 (ship’s doctor reminds him of)
+- and Danureja IV 398, 448-53 (dispute over appointment of gunung), 450-1 (slaps face with slipper), 461
+- and Danurejan family 99-100, 372, 762-3
+- dress 131 (during south coast pilgrimage, 602 (during Java War), 688, 705 (plate)
+- death and burial of (8-1-1855) 752-3
+- education and literacy 107-10
+- education of children (in exile) 733 (anti-Dutch teachings), 743-6
+- establishment of new kraton 389 (at Selarong), 631-3 (Maja’s complaint about)
+- exile of 20, 699-759
+- family of, 97-9, 727-34 (in Manado), 743-55 (in Makassar), 766-9 (family tree)
+- female influences on 72, 79, 117-8
+- fiscal administration of 647-53
+- gardens of 86-7 (at Tegalreja and Selarong), 728 (in Manado), 732
+- grave of 711 (?pusaka kris buried in) 740, 750-1 (plates), 753-5 see also Bandayuda
+- during Java War 606-55
+- as guardian 509-10 (views of Nahuys and Engelhard), 511-2 (failure to accord due respect to), 542-3 (problems with Chevallier, Dietrée and Danureja IV), 544-52 (break with Ratu Ageng), 561 (anger over Jabarangkah lease)
+- guarding of 700, 710, 722-4 (in Manado), 739-40 (in Makassar) see also status as state prisoner
+- haj plans 114, 668, 693, 697, 701, 707, 713, 718, 726
+- health issues 116-7 (malaria), 659, 675 (extreme weariness at Menorèh), 699, 705 (plate), 717 (on board Pollux)
+- horsemanship 377, 602, 660
+- horses 122 (at Tegalreja), 722 (provision of in Manado) see also Githayu
+- invulnerability powers 121
+- Islamic faith 110-4
+- Javanese-Islamic law 387 (annoyance at Raffles’ reforms)
+- journey into exile 699-700 (to Semarang), 701-2 (to Batavia), 713-21 (to Manado), 714-5 (map of sea voyages), 738 (to Makassar)
+- jubah (tabard of) 681, 688, 705 (plate)
+- kris and pusaka weapons 7, 124, 153-4, 600, 636, 673, 711, 726, 813-5 (list of)
+- and Kyai Maja 93-4, 632-9, 642, 723
+- landholdings / apanage 11, 369
+- land-rent issue 459-62, 537-42
+- lelana name (Sèh Ngabdurahim) 128, 150-1 (changed to Ngabdulkamit),
+- linguistic skills / knowledge of Malay 107, 690, 711, 822 (style of written Javanese)
+- as lover 117-9, 121, 728 see also Chinese, sexual relations with, wives of
+- in Magelang (3-1830) 677-99
+- Majapahit / Pajajaran division 167
+- in Makassar (1833-55) 734-52
+- in Manado (1830-33) 721-34 see also Fort New Amsterdam
+- malarial fever of see Dipanagara, health issues
+- marriages 97-98 (to Radèn Ayu Retnakusuma), 401-7 (to Radèn Ayu Maduretna), 768
+- meaning of name 369-70
+- in Menorèh (2-1830) 675-8
+- mobilisation for war 606-11
+- mother of see Mangkarawati
+- Ngabdulkamit, name see adoption of
+- obstinacy and pride of 682, 726
+- pahlawan nasional 755
+- panakawan of 405, 659 (accompany on flight), 697, 729, 741, 746 (given care of Dipanagara’s sons), 816-7 (list of) see also Banthèngwarèng , Puthutlawa, Rata, Sahiman
+- peace proposals (1829-30) 170, 206-7, 663-4, 692-3 see also Munadi, Pengalasan, Salatiga, Stavers
+- personal standard (flag) 622
+- pilgrim staff of 116, 121, 727 (flung on ground in Manado to create earthquake)
+- pilgrimage to south coast c.1805 105, 125, 128-56, 130 (map), 157
+- portraits of 118 (kraton sketch, c.1807), 705 (Bik, 4-1830)
+- pre-war visions 564-80
+- preparations for rebellion 591-7
+- price put on head 646
+- and Radèn Rongga 190, 245, 248 (comparison with treatment of Chinese), 252, 257 (perhaps sees body), 259
+- as raja agama 665, 691-2
+- as Ratu Adil 492-3, 583-9, 650
+- and Ratu Ibu 367-8
+- and Ratu Kidul 140-8
+- as regulator of religion 387, 663-5, 683, 691-2
+- at Rèmakamal meeting (16-2-1830) 670-3
+- and Retnaningsih 701-2, 713, 717, 729 (gives birth to son), 751 (plate of grave), 753-5
+- retreats of 86-7, 728 (in Manado)
+- seal of 580 (plate), 607, 622 (during Java War)
+- in Semarang (3/4-1830) 700-1
+- and Smissaert 108, 522, 525-6
+- song birds 87 (cockatoos), 121 (turtle doves)
+- status as state prisoner 707, 710 see also guarding of
+- suicide 511 (contemplates), 578
+- table manners 110, 700
+- and Tan Jin Sing 400-1
+- temperament 75 (sudden rages)
+- titles (during Java War) 580-1, 692
+- in Ungaran (28/29-3-1830) 699
+- view of courage 648
+- wine consumption 122, 438, 524
+- war tactics of 662
+- wives of, 97-9, 766-9
+- Dipanagara II, Pangéran (c. 1803-?; son of above; pre-1825, Radèn Antawirya II; post-1830, takes alias Radèn Mantri Muhamad Ngarip; exiled to Sumenep, 7-1834; Ambon, 1851) 80, 93, 103, 115, 131 (dresses as farmer post-Java War), 150, 152 (inherits Dipanagara name), 369, 403, 590, 626 (view of qualities of men of Mataram), 632 (celebrates Garebeg Puwasa during Java War), 661, 663, 666, 678, 682, 688, 697 (draws kris at Magelang meeting), 710 (Tegalreja suggested as residence for), 746 (exile of), 767 (family tree), 813 (given pusaka weapons)
+- Dipaningrat, Pangéran (?1807-?; son of Dipanagara; pre-1825, Radèn Suryaatmaja; Pangéran Adipati Anom, 1825-30) 80, 586, 682, 711 (to be given Yogya kraton), 746 (exile of), 767 (family tree)
+- Dipaningrat I see Pekih Ibrahim, pengulu of Yogya
+- Dipasana, Pangéran (?1778-?; son of HB I) 50 (Kedhu revolt, 1822), 53, 293, 428, 466, 493, 496-9 (description of revolt), 502, 505, 796 see also dhukun
+- Dipawijaya I, Pangéran see Abubakar
+- Dipawiyana, Pangéran (?1771-1815; pre-1812, Pangéran Panengah; son of HB II) 368, 374, 443 (died 1-1815), 700, 796
+- Dipawiyana, Radèn Ayu (sister of Dipanagara, wife of below) 369, 370, 701-2 (shares Dipanagara’s exile), 713, 717, 726 (allowance in Manado), 728-9 (quarrels with Dipanagara), 816 (returns to Java)
+- Dipawiyana, Radèn Tumenggung (son of Pangéran Dipawiyana; husband of above) 369-70, 700-1 (accompanies Dipanagara to Batavia), 717, 726 (allowance in Manado), 728-9 (returns to Java), 733 (as possible amanuensis for Dipanagara’s babad), 799, 816 (returns to Java)
+- Directory, Dutch regime (1797-9) 735
+- Diponegoro division (TNI Central Java division) 125
+- Dirgananda (army commander of Radèn Rongga) 247, 258 (killed in Panaraga)
+- division of Java 317-8, 441-3, 590 see also Edict on Ceremonial and Etiquette, Giyanti, Pakepung
+- divorces 46-7 see also women
+- dodol (Jabarangkah durian fruit cake) 561
+- diyat (blood money) 473
+- Djamhari, Saleh Asaad xvii, 647 (problems with work), 660 (quote)
+- dluwang (tree-bark paper) 469
+- Domis, H.J.(1782-1842; Assistant-Resident Semarang, 1816-8; Resident Semarang, 1822-7; Pasuruan, 1827-31; Surabaya, 1831-4) 439 (abuse of Javanese priyayi women)
+- Doornik (Tournai) 643
+- Dora Weca (‘The Mendacious Prophecy’), wayang lakon (plot) 405
+- Dordrecht 243
+- Dottignies 643 see also Gisignies, L.P.J. du Bus de
+- Douglas, Lieutenant Henry N. (Ross-shire Buffs) 341 (captures HB II)
+- Douwes Dekker, Eduard (‘Multatuli’) (1820-87; Dutch author) 719 (conversations with Cleerens about Dipanagara), 756
+- Douwes Dekker. E.F.E. (‘Setiabudi’) (1879-1950) 738 (exile in Holland)
+- dragoons (22nd Light Dragoon Regiment) 297, 304, 333 (lose 18 men at Papringan ambush), 357 (in HB III investiture parade)
+- dress 46 (of coolies), 131 (of santri), 243-4 (European influences on), 333 (Abubakar adopts santri garb), 341, 348 (white robes of surrender), 357 (of regiments in HB III investiture parade), 481 (white tabards in Umar Mahdi revolt, 1817), 589 (Javanese dress for Dutch prisoners), 602 (Dipanagara’s Arab-style dress), 616 (women in male battle dress / prajuritan), 619-20 (Javanese dress for Dutch prisoners), 621 (Cleerens tries to prevent wearing of turban), 631 (worn by Kyai Maja), 652 (holy war apparel), 655
+- Driessen, Bartholomeus Jacobus (clerk to Yogya Residency) 229, 809
+- Driessen, Lieutenant Willem (commander Yogya garrison, 1810) 217, 229 (in charge of Residency), 293
+- Droogstoppel see Max Havelaar
+- dropsy 751 see also Mangkarawati
+- drought 43, 475 (of 1821-2), 495, 725 (in Minahasa, 4/11-1833)
+- dry crop fields see tegal
+- Dudzeele, Comte Errembault de (1789-1830) xix
+- Dulkabli, Radèn Mas (son of Dipanagara born in Makassar, c. 1836) 80, 731
+- durian 561 see also dodol
+- Durrahman (Cirebon kraman / rebel) 187
+- Durromtollah Academy (Calcutta) 351 (Sura-adimanggala’s sons study at)
+- Dutch colonial army 640 (inadequacies of), 641 (reinforcements sent from Holland)
+- Dutch Company troops 588 (conversion to Islam in VOC period), 606, 620-1 (treatment as prisoners in Java War), 664 (conversion to Islam as peace proposal, 1830)
+- Dutch East Indies Company (VOC) xi-xii (bankruptcy of), 61, 81, 159 (British destruction of merchant fleet), 168, 199, 204, 266, 294 (contract with HB II), 356, 375, 433, 454-5 (pepper plantations in Lowanu / Pacitan), 492, 499-500 (trial of Rijck van Prehn and J.W. Winter), 519, 712 (navy), 756
+- Dutch East Indies Company officials 166-70, 174, 346 (post-1812 change in role of Residents), 375 (Dipanagara offered choice of), 588, 590, 807-10 (list of)
+- Dutch
+- accounting practices of 269, 727
+- ambassador in Paris 742 (complaint at French press)
+- bread (white) 663, 700
+- import paper 663
+- language 290 (Captain Robison’s imperfect grasp of)
+- military doctors 675 (Menorèh), 753 (witnesses Dipanagara’s death certificate)
+- potatoes 700, 718
+- rule in Java (Sultan Agung’s prophecy about) 71, 135, 590
+- settlements on Malabar coast 706
+- treasury 662 (problems of war finances), 759
+- Duymaer van Twist, A.J. (1809-87; governor-general, 1851-6) 754, 756, 808
+- dwarves (palawija) 405
+- dwifungsi (dual function of army) 585, 606, 650-1 (during Java War), 655
+- earthquakes 4 (Gunung Guntur eruption, 7-9-1803), 116 (Dipanagara’s walking staff creates), 184 (28-2-1808 in Yogya / Klathèn), 515 (in Yogya), 727 (Dipanagara’s walking staff )
+- East India Company (English) 351 (purchase of Mackenzie’s Indonesia MSS, 1822), 359 (military uniforms copied in MN), 385, 429
+- East Java see mancanagara, eastern
+- Eastern Salient see Oosthoek
+- East Timor, Indonesian occupation (1975-99) xvii.xviii
+- eau-de-cologne 717
+- economic liberalism see liberalism
+- Edict on Ceremonial and Etiquette (25-2-1808 / 28-2-1808) 128, 166, 167-70 (impact of) see also Daendels, division of Java
+- education, Qur’ānic (for children) 47 (in villages), 75, 102
+- Eeg, Colonel (Kapitein-ter-zee) 120, 712, 718, 724 see also Pollux
+- Eerens, D.J. de (1781-1840; governor-general, 1836-40) 309, 808
+- Elba 423 (Napoleon’s escape from, 26-2-1815), 717
+- élèves voor de Javaansche taal (pre-9-1811, élèves voor het civiele) 120, 278, 413 see also Berg, C.L. van den, Cornets de Groot Jr
+- Ellinghuijsen, J.C. (Resident of Pasuruan, 1818-26) 484-5
+- Elliott, The Hon. George (naval captain; second son of Lord Minto) 341, 364 see also Modeste
+- Elout, C.Th. (1767-1841; commissioner-general, 1814-8; Minister of marine and colonies, 1824-9) xiii, 376, 427, 429, 431, 517, 519, 526, 552, 628-9 (assessment of Java War), 633, 645 (dismisses giving Dipanagara independent principality), 807
+- Elout, Major C.P.J. (1795-1843; son of above) 634
+- empu (Javanese smith / kris maker) 7, 365 (replace kris lost in British assault), 491-2 (in Wanakerta)
+- Endeh (Flores) 720
+- Engelhard, Nicolaus (1761-1831; governor of Java’s northeast coast, 1801-8) 160-5, 166 (post abolished, 13-5-1808), 172 (plate), 173-4 (on PB IV’s cruelty), 177 (suggests favourable prophecies), 184, 237 (analysis of Natakusuma’s political ambitions), 387, 435, 510 (view of Dipanagara), 552, 631, 758, 808
+- Engelhard, Pieter (1766-1812; cousin of above; Resident of Yogya, 1808, 1810-11) 51, 166, 169, 171 (Swiss-Dutch ancestry), 177, 178-80, 184, 188-9, 195, 205-6 (debts to HB II), 223, 227, 229-30 (returns to Yogya as Resident), 231, 232 (surprised by Rongga’s night-time visit), 233, 234-6 (target of anti-European feelings), 236-7 (and Rongga affair), 239 (Latin epigram), 244 (discovery of Rongga’s letters), 252 (refuses to arrest Sumadiningrat), 254, 262, 264, 269, 271, 273-4 (poor health of), 275-6, 277 (role in fate of Natakusuma / Natadiningrat), 279 (asked to secure loan from HB II for Jannsens), 285-6, 291 (briefs Captain Robison), 292 (reports ‘strange atmosphere’ in Yogya), 293 (informed of Danureja II’s ‘dismissal’), 294 (attacked in Jambu hills), 297 (hands over seal to Crawfurd), 298-9 (briefs Crawfurd), 301, 322 (on birds’ nest revenues), 362, 809
+- Engelhard, Mrs Pieter (wife of above) 236 (sent to Semarang)
+- England 332, 384 (textile exports to Java from), 665, 667 (De Kock as POW in) see also Britain, British, English, textiles
+- Enlightenment, European 206, 283-4 (Minto’s proclamation reflects values of, 26-8-1811)
+- English 665 (Cleerens’ fears of), 758 (arrogance of)
+- English East India Company see East India Company
+- environment, degradation of 211-3 see also teak, timber, mancanagara, eastern
+- epidemics 725 (in Minahasa) see also cholera
+- Èrucakra (title of ‘Just King’) 126, 151, 251, 492, 571, 575, 580, 585, 587-8, 628, 631, 635 see also Jayabaya, Ratu Adil
+- Ethical Policy (1901-c.1920) 431
+- Europe, industrial and political revolutions xiii, 206 (post-French Revolution principles in)
+- Europeans in Java xvii, 164 (garrisons), 165, 2905 (contribute to Dandels’ war treasury), 215, 23 (relations with Danureja II), 236 (rise of anti-European sentiments), 249 (Rongga’s wish to destroy), 323 (in Batavia), 331-2 (‘burgers’ in Yogya), 346 (post-1812 land leases), 661 (Dipanagara’s plans for, 1829-30)
+- cultural influences on courts 173 (dress styles), 180 (food and tea drinking with milk), 243-4 (clothes), 297 (English-style horse races), 356 (hand-shakes), 359 (Scottish sword dance), 409 (PA I use of hand-shake / greeting), 655, 663 (tastes in food)
+- education 364 (Sura-adimanggala IV’s sons receive in Calcutta)
+- expatriate community 415-6 (threat during sepoy conspiracy, 1815), 424 (plans to murder European officers), 485 (movement against in Malang) see also British, Dutch, French, German
+- Government 317, 679 (described by De Kock as ‘just and mild’) see also Netherlands Indies)
+- land-renters 15, 19, 65, 108, 346 (post-1812 land leases), 399 (estate interests in Yogya), 401, 413 (Nahuys pushes economic influence of), 421, 431, 435-6 (Nahuys as advocate of), 449 (insensitivity to Javanese Islamic culture), 454 (prohibition under Daendels and Raffles), 455-7 (post-1816 leases in Principalities), 458-60 (problems with), 462 (heavy labour demands), 466 (corvée demands in Kedhu), 499, 510, 527 (problems with), 534-62 (in Yogya, 1816-22)
+- merchants / retailers 243 (French textile retailer), 503 (corrupt HB V)
+- military culture 184 (influence on MN Legion), 359 (Scottish sword dance), 413 (HB IV copies European uniforms)
+- troops, line regiments 301, 304, 331 (readied for attack on Yogya), 357-9 (at victory parade), 365 (last troops leave Yogya) see also Buckinghamshires, Nottinghamshires, Ross-shire Buffs
+- Falck, A.R. (1777-1843; general secretary / secretary of state to King William I, 1813-8; Minister of public education, national industry and colonies, 1818-24) 433
+- famines 43 (in Java), 107 (West Sumatra)
+- fasting month see Puwasa
+- Fatāh al-Muluk (‘Victory of Kings’), text 104, 410
+- Fatima, daughter of The Prophet 492
+- fens see rawa
+- ferry boats 608 (on Kali Praga during Java War) see also prau pengluput
+- feudal system, fiefs 10, 197-8 (abolition in Europe)
+- Fillietaz Bousquet, R. de (1801-78; Resident of Yogya, 1845-8) 85, 747, 810
+- financial registers / account books see Yogyakarta, accounts
+- fiqh law 223 see also pathok negari
+- firasat, ngèlmu (science of physiognomy) 72, 108 (Dipanagara’s knowledge of)
+- firearms (during Java War) 609 (Prussian infantry muskets)
+- firework displays (Chinese) 210 (for Daendels 7-1809 visit), 408, 411 (for marriage of HB IV, 13-5-1816) see also Tan Jin Sing
+- fish (salted) 44, 45 (fish sauce / trasi), 87, 610 (imports from Semarang)
+- Flores 590, 715 (map), 720
+- food consumption see diet, palawija
+- food crops 23 (in Bagelèn)
+- foreign investment (in Principalities) 15
+- Forestry Administration (Administratie der Houtbosschen, 1808-11) 162, 164, 277 (Nahuys as member of), 435
+- Fort Lodewijk (Madura Straits) 186, 211
+- Fort New Amsterdam (Manado) 721 (Dipanagara housed in), 723 (plate), 724-5, 728, 731-3 (Dipanagara writes babad in), 738
+- Fort Rotterdam (Makassar) 676 (Dipanagara’s movements restricted in), 736 (plate), 737 (ground plan), 739-40, 743 (Dipanagara’s quarters in), 746, 749, 752 (Dipanagara’s death in), 755, 759
+- Fort Victoria (Ambon) 738
+- fortifications 177 (Daendels’ on pasisir), 216 (in Yogya kraton), 345 see also Yogyakarta
+- Fourth Anglo-Dutch War (1780-3) xi
+- Fourth Anglo-Mysore War (1798-9) 347
+- Fourth Volunteer Battalion (sepoys) 424 (in South Sulaewesi)
+- franc-tireurs (Vendée) 608
+- France, French xii, 197 (invasion of Holland, 1794-5), 243-4 (textile merchants in Yogya), 276 (annexation of Holland, 1810), 283, 285 (fugitives from Meester Cornelis battle), 288-9 (gunboats attacked), 528 (as land-renters in Principalities), 536, 644, 711 (fear of French invasion of Holland, 1830-3), 734 (army in Belgium), 736 (Army of North conquers Holland, 1794-5), 742 (artists / 1848 Revolution) see also French Revolution, French Revolutionary wars, Napoleon, Zeeland
+- Franco-Dutch administration in Java (1810-11) xxii, 165, 250, 267, 275-6 (ceremonial for establishment of), 279 (financial straits of), 281-7 (collapse of), 290, 301 (forces of), 305, 439 (Pinket van Haak as supporter of)
+- Free Burghers see Indo-Europeans
+- freemasons 695 (De Kock as head of)
+- French Revolution 157
+- French Revolutionary wars xii, 68, 157, 197, 323, 429, 644 (Du Bus and levée en masse), 736 (Army of the North)
+- frontier society (Java as) 17
+- Gabus, village (Grobogan-Wirasari) 230, 233, 238, 564-5, 571, 575
+- Gabriel (Jibrail), archangel 569 (dispensation of Holy Qur’ān)
+- Gadhing, market (Yogya) 225, 383
+- Gadhing, pesantrèn / pondhok (Yogya) 131
+- Gadhing Temahan, village (Yogya) 496 (Dipasana’s revolt in)
+- Gadhung Mlathi, Nyai (female spirit) 141
+- Gagatan, district 164, 265, 333 (provides troops for Yogya)
+- Gajahmati, people (prisoners from east Java during Sultan Agung’s reign) 546
+- Gajali, Kyai (Dhadhapan; follower of Kyai Maja) 99, 525, 545, 548, 550-1 (reports Chevallier’s treatment of Dipanagara), 589, 788
+- Gajali, Kyai (son of Kyai Musa, Kedhu) 91, 788
+- Galuh, district (Banyumas) 266-7, 269 see also Cauwer Wwétan
+- gambir (plant) 18, 469
+- gamblers, gambling 76, 188 (Sumadiningrat’s attachment to), 265, 437-8
+- gambyong (dance performance) 411
+- gamel (grooms) 208 see also Trunasmara
+- Gamelan, sub-district (Gunung Kidul) 137
+- gamelan (Javanese orchestra) 28-9 (plate), 60 (Rongga’s theft of), 85 (at Tegalreja), 128 (Kyai Kanyut-mesèm), 171 (played at Surakarta after 28-7-1808 edict), 220-1 (captured by Rongga in Panaraga), 239 (played at Yogya Sitinggil), 350 (captured by British from Yogya), 365 (replacements for those looted by British), 411 (HB IV enjoys), 468 (payment of tollgate dues on), 486 (at Lodhaya)
+- gaming see card games
+- Gamping, sub-district (Gunung Gamping; limestone quarries) 2 (Chinese in), 36-7, 398 (Danureja IV’s seizure of), 535, 632 (pre-Yogya pesanggrahan of HB I at)
+- Gandadiwirya, Mas Ngabèhi (follower of Mangkudiningrat I) 352-5 (amok attack in Tan Jin Sing’s house)
+- Gandakusuma, Ali Basah (1810-?1885) 79, 99, 661 (holds out in Rèma), 686-7 (view of Dipanagara’s arrest), 688, 698, 822-3 (Dipanagara’s 3-5-1830 letter to) see also Danureja V
+- Gandakusuma, Serat 744 (Dipanagara orders copy of)
+- Ganges Investment Co, British agency house 429
+- gara-gara (commotion in nature in wayang) 495
+- Garebeg ceremonies (Yogya) 9, 87-8 (Dipanagara’s view of), 264, 373 (Dipanagara attends post-6-1812), 508 (problems with child sultan / HB V), 525-6 (Smissaert sits on throne at, 1823-5), 591-2, 632 (Dipanagara distributes largesse at)
+- Garebeg Besar 57, 88, 408 (25-11-1814), 414 see also haji
+- Garebeg Mulud (The Prophet’s Birthday) 5-6, 12, 14, 39, 57 (mancanagara bupati corvée duties at), 64, 88, 91, 178 (8-5-1808), 190 (13-7-1802), 208 (27-4-1809), 213 (27-4-1809), 218 (18-4-1810), 220-1 (18-4-1810), 232 (20-4-1811), 269 (20-4-1811), 390, 452 (payment of taxes / tribute at), 475, 526 (16-11-1823), 532 (16-11-1823), 551 (4-11-1824), 591 (4-11-1824), 632 (celebrated by Dipanagara during Java War), 642 (10-1826)
+- Garebeg Puwasa (Fasting Month celebration) 14, 39, 57 (mancanagara bupati corvée duties at), 88, 91, 216 (13-11-1809), 234 (30-10-1810), 293 (16-10-1811), 390, 452 (payment of taxes / tribute at), 461 (12-7-1820 / 21-5-1825), 475, 525 (9-6-1823) (Smissaert presides at), 551 (18-5-1825), 575 (18-5-1825), 584 (Dipanagara celebrates during Java War), 590 (18-5-1825), 632 (celebrated at Alang-Alang Ombo by Dipanagara II), 634
+- Garendi, Radèn Mas (Sunan Kuning) 372
+- Garèng, panakawan (wayang) 405
+- Garnham, Captain R.C. (1782-1827; Resident of Yogya, 1814-5) 361, 391 (describes ‘new epoch’ under HB III), 392 (plate), 406-8 (at death HB III), 408-9 (concern over regency appointment of PA I), 411 (at circumcision of HB IV), 421, 508 (letter to Raffles about regency), 809
+- garrotting 292, 497 see also cloth
+- Gawok, battle of (15-10-1826) 120-1 (Dipanagara wounded at), 589, 634, 642 (as turning point in war), 662
+- Gedhong Tengen (treasury department, Yogya) 242, 390 see also bupati gedhong
+- Gedhung Gubah, Nyai (wife of Haji Imanraji; follower of Kyai Maja) 627, 788
+- Gedhong Kuning (Yogya kraton pavilion) 373 (Dipanagara’s temporary accommodation in, 7-1812), 410
+- Gedhung Putri, village (east Java) 414 see also Muhammad, Sayyid
+- Geen, J.J. baron van (1775-1846; major-general; post-1828, lieutenant-general) 562-3 (expedition against Boné), 590 (serendipitous return from 8-1825), 595, 640, 643 (scorched earth tactics of), 648, 655
+- Geer, W.C.E. baron de (1809-56; Resident of Surakarta, 1846-50) 754
+- Gègèr, village (Kulon Praga) 609, 647 (gunpowder manufacture at)
+- Gelderland 735 see also Loevestein
+- Genawati, Nyai (female spirit guardian) 137 see also Guwa Séluman
+- Genilaya, village (Imagiri) 501
+- Gennet, Captain Lambertus (1793-?) 678
+- Gent (Belgium) 25 (textile production in), 646 (van Geen from)
+- George III, king (reigned, 1760-1820) 423, 719
+- Gerlach, Colonel A.J.A. (Semarang cavalry regiment commander, 1808) 186
+- Germans (in Java) 179, 528 (as land-renters in Principalities)
+- German language 109 see also Knoerle
+- Gesikanreja, dam (Yogya) 36
+- Gezelschap, H.W. (Assistant-Resident Yogya, 1810-1) 199, 230, 238 (mastery of Javanese), 275-6 (at inauguration Franco-Dutch government)
+- Gidek (servant of Dipanagara in Makassar) 741
+- Gillespie, Colonel R.R. (1766-1814; British commander during Yogya assault) 263 (£75k prize money), 275 (sails from Madras), 298 (annoyance at Crawfurd), 318, 320, 329, 333 (marches on Yogya), 334, 338 (plate), 340 (wounded), 341 (captures HB II), 346-7 (plunder of kraton), 357
+- Gilly de Montela, Second-lieutenant F.C. (1794-?) 678 (commands riflemen of 6th mobile column at Dipanagara’s arrest)
+- ginggang (coarse striped linen cloth) 18, 49
+- Giri, Sunan (spiritual lords / holy gravesite) 133, 250, 291, 571, 574, 590, 635
+- Girilaya (Imagiri) 268 (mosque burnt, 1-1813)
+- Giripurna (alias Gunung Bancak, Madiun; gravesite of Ratu Maduretna), pradikan village 191, 219, 268 (change of name), 492
+- Gisignies, L.P.J. du Bus de (1780-1849; commissioner-general, 1826-30) xv, 114, 119, 387, 438 (unfavourable appearance of), 459, 549, 553, 570, 588, 640-1 (fancies himself as general), 643-4 (quarrels with De Kock), 654, 692, 696, 807 see also Salatiga
+- Githayu, Kyai (Dipanagara’s horse) 122, 602 (description of)
+- Giyanti, treaty of (13-2-1755) 14, 35, 39-40, 132, 163, 266, 316, 381, 399, 440 (Hartingh’s role at), 461, 468, 645, 733, 756
+- Giyanti wars (1746-57) 13, 37, 70, 76, 102, 243, 369, 587, 774
+- gladhag, porters’ guilds 23, 25-7, 38, 44 (daily wages at), 46, 56, 371 (head appointed), 383 (in Klathèn), 479 (opium consumption at), 562 (Bagelèn’s contribution to)
+- Gladhagan, doorless gateway (northern alun-alun) 336 (damaged by British artillery)
+- Godek (servant of Dipanagara in Makassar) 741
+- Goddess of the southern ocean see Ratu Kidul
+- Goethe, J.W. von (1749-1832) 68 (quote after Valmy)
+- Goldbach, P.A. (1767-1815; landdrost Semarang and Demak, 1808-9) 157 (on Daendels), 160 (on Van Braam), 230, 233
+- Goldberg, Johannes baron (1763-1828; Director-general of trade and colonies, 1815-8) xiii
+- Goldman, J.C. (1765-1840; director-general of Finances, 1820-7; Raad van Indië, 1826-39), 706
+- Gombong (Bagelèn) 24, 609 (attack of Dipanagara’s troops on), 647, 669 see also Cochius, fort Kemit
+- Gondhang, village (Klathèn) 600 (road to Boyolali from)
+- Goranggarèng, district (east Java) 268 (number of bupati increased in), 381
+- Gordon, Ridder colonel 186
+- Gorontalo 725 (effects of 9-1833 cholera epidemic in )
+- Gowa, sultanate (South Sulwesi) 307
+- Gowok, battle of see Gawok
+- Gowong, district (northern Kedhu / Wonosobo) 24-5, 45, 129, 652 (Dipanagara’s near capture in, 11-1829), 662, 677
+- Graaff, H.J. van de (1782-1827; Inspector of Finances / Raad van Indië, 1820-6) 435, 455-6 (unfavourable view of land-rent), 517 (opposition to Nahuys), 521, 527-8 (report on land-rent abolition), 531
+- Grabag, district (northern Kedhu) 733, 816 see also Tirtadrana
+- gravesites, royal 266 (on north coast), 780-4 see also pilgrimages
+- Great Britain 352 (imperial grand larceny of) see also British, asset strippers and looters
+- Greeve, Jan (governor of Java’s Northeast coast, 1787-9) 173
+- Gresik 2 (stone buildings at), 8, 72, 159 (Admiral Pellew’s landing at), 181 (Sultan Sepuh of Madura as titular head of), 185 (prau pengluput to), 193, 216 (gun foundries at), 272, 414, 485 (kauman at)
+- Gresik, Sunan 491
+- Gribeauval, J.B.V. de (1715-89; artillery general / inventor) 68
+- Grobogan, district 36, 38, 164, 214, 251, 255, 265, 310 (promised apanage for Natakusuma in), 381 (revenue at 1812 annexation), 484, 756 (famine in, 1849-50) see also Sarakusuma, Sasranegara
+- Grobogan-Wirasari, district 230-1, 269, 349 (daughter of bupati mistreated by British), 379 (annexed by British), 614 see also Yudakusuma
+- Groenewoud, W. van (1803-42, painter and lithographer) 684-5 (plate)
+- Groenhoff von Woortmann, J. (Assistant Resident Yogya, 1808-10) 186
+- Grojogan, village (Pajang) 594-5 (demang rallies to Dipanagara at Tegalreja)
+- Grojogan, pesantrèn / pondhok 131
+- Groneman, Isaac (1832-1912; personal physician to HB VII) 31
+- Groot, A.D. Cornets de Jr see Cornets de Groot
+- Groot, Hugo de (1583-1645) 735 see also Loevestein
+- Groote Oost 183
+- gugur gunung (village corvee duties / pegawéyan) 57
+- Guinea Coast 424 (Daendels as governor of)
+- Gunadanti (alias Trunadanti; principal female servant of Dipanagara in exile) 741, 818
+- Gunasemita, Ngabèhi 281 (involvement in secret correspondence)
+- gunpowder 49, 102, 234 (allocation from Yogya fort to kraton for salutes), 257 (magazine in fort blown up, 20-6-1812), 335-6, 363 (firing of powder magazine), 536 (given to European land-renters), 609 (manufacture in Kulon Praga), 610, 616-7, 627-8 (belief that amulets could turn to water), 647 (manufactured in Java War), 719 (supplies from Sumbawa suspected) see also Jayamenggala
+- gunung (police officials) 55, 390 (Dipanagara sugggests dismissal to HB III), 444 (reforms of), 449-50 (dispute between Dipanagara and Danureja IV over), 454, 547 (appointed by Smissaert)
+- Gunung Bancak see Giripurna
+- Gunung Gamping see Gamping
+- Gunung Guntur (west Java) 4 (eruption of, 7-9-1803)
+- Gunung Jatisari (east Java) 491
+- Gunung Kebo (western Bagelèn) 669
+- Gunung Kelir (Kulon Praga / Bagelèn) 79, 98, 352, 652, 658 (Jayakusuma / Ngabèhi’s death in, 21-9-1829), 660
+- Gunung Kelut (east Java) 280 (eruption of, 27-6-1811), 393, 515
+- Gunung Kidul, district 11, 30, 38, 136, 257, 398, 443, 571, 595 see also teak forests
+- Gunung Lawu (east Java) 12, 101, 184 (Karangpandhan teak forest at), 213, 423, 426, 491-2, 524 (Smissaert plans climbing holiday to), 587
+- Gunung Megamendhung (west Java) 158
+- Gunung Menorèh (Kedhu / Bagelèn) 482, 666, 675, 677 see also Menorèh
+- Gunung Merapi 37, 49, 83, 254, 352, 426, 454, 456, 466, 495 (eruption, 28-12-1822), 512-5 (description of eruption), 514 (plate), 515-6 (millenarian expectations), 523, 535 (coffee estates on), 568, 571, 603, 633-4 (Kyai Maja surrenders on), 649
+- Gunung Merbabu 37, 49, 426, 454, 466
+- Gunung Ngebel (Panaraga) 220
+- Gunung Persada (Bagelèn) 616 (Jayasundarga’s mother shot at), 663 (Cleerens’ base at)
+- Gunung Pola (west Java) 198 (plate)
+- Gunung Prau (Dieng plateau) 466
+- Gunung Rasamuni (Gunung Kidul) see Rasamuni, Ratu Adil
+- Gunung Sirnabaya (Bagelèn) 90, 368 (Adisurya’s moksa death on), 663
+- Gunung Sumbing (Kedhu) 37, 83, 254, 512
+- Gunung Sundoro (Kedhu) 37, 76, 83, 254, 466
+- Gunung Tambora (Sumbawa) 393 (eruption. 4/5-1815)
+- Gunung Tawang (Kedhu) 383 see also tobacco
+- Gunung Tidhar (Magelang) 380 (as ‘navel’ of Java)
+- gunungan (rice mountain offerings at Garebeg) 234
+- Gupita, Kyai (pusaka kris) 341
+- guramé (carp) 24
+- Guru, Kyai (adviser of Dipanagara) 481
+- Guru, Radèn Ayu 496-8, 505 see also Kertamenggala
+- Gusti, Radèn Ayu (sister of Dipanagara) 367 (married to Wiranagara)
+- Gusti, Radèn Ayu Basah (Radèn Ajeng Munthèng; daughter of Dipanagara; wife / widow of Radèn Tumenggung Natadirja / Gusti Basah) 73 (captured at Karangwuni, 14-10-1829), 623, 659 (capture of), 682 (joins Dipanagara in Magelang), 752 (looks after Dipanagara’s mother), 767-8, 813 (given pusaka pike), 823
+- Guwa Kanigara (Gunung Kidul) 136
+- Guwa Langsé 78, 136, 140-1, 144-6, 150 see also Cemara Tunggal, Déwi, Radèn, Ratu Kidul
+- Guwa Manganti (Kali Oyo, Gunung Kidul) 136
+- Guwa Secang (Selarong; Dipanagara’s cave retreat) 87, 94, 116, 121, 155, 575-6, 579, 595 (Dipanagara returns from, 5-1825), 602 (standard of revolt raised at), 641 (destroyed by Dutch, 10-1825)
+- Guwa Séluman (Gunung Kidul) 137 see also Genawati
+- Guwa Sigala-gala (Gunung Kidul) 137
+- Guwa Sirisik (Bantul) 144, 614 see also Sérang, Radèn Ayu
+- Guwa Song Kamal (Jejeran sub-district, Yogya) 132-3 (Dipanagara’s first vision at)
+- Guwa Songpati (Paliyan sub-district, Gunung Kidul) 136
+- Guwa Suracala (Gamelan sub-district, Gunung Kidul) 137, 144
+- Guwa Suralanang (south coast) 144, 543, 564, 713
+- Haak, D.W. Pinket van (1780-1840; Resident of Surakarta, 1816-7; Pekalongan, 1817-9; Surabaya, 1827-30; inspector of finances, 1819-26) see Pinket van Haak
+- Haan, F. de (Landsarchivaris, 1905-22) 169, 303 (collects materials on British period), 376, 435
+- Habāshi, Sayyid Hasan see Hasan
+- Hadhramaut (South Yemen) 414
+- Hadīth (Prophetic traditions) 103, 545 (Abuyamin’s lack of knowledge of), 669 (Maja’s knowledge of) see also Qur’ān
+- Hagar (mother of Ishmael) 702
+- Hageman, J. Jcz. 413
+- Hague see The Hague
+- hair 129 (Dipanagara’s followers shave), 183-4 (MN II cuts short), 222 (Daendels’ troops wear short), 329 (Natakusuma / Natadiningrat wear long), 584 (shaving head as sign of Islamic faith), 615 (R.A. Yudakusuma shaves), 628, 670 (Dipanagara asks Cleerens for scissors to cut) see also paras Nabi
+- haj (pilgrimage to Mecca) 81 (Yogya court sponsors), 89, 91-2, 114 (Dipanagara’s plans for), 129 (Abubakar’s plans for), 273 (Yogya court plans to send, 1811), 333 (Abubakar desires), 544 (wish for Kertadirja II to go on), 546 (Rahmanudin wants to go on), 668, 707 see also Dipanagara, haj plans
+- haji (returned Mecca pilgrims) 62, 92, 152, 191 (at Tegalsari), 272 (pray for demise of Prince Regent / HB III), 273 (at Yogya court), 281, 331 (give wrong information to HB II about British), 565 (as emissary of Ratu Adil), 569, 579, 589 (Wörmer dresses as), 627 (as supporters of Dipanagara), 702, 707, 725 see also Badarudin, Ngisa, Idris
+- Hakik al-Modin, text 104
+- Hamengkubuwana I, sultan (alias Sultan Mangkubumi, 1749-92) 10, 13, 36 (dam projects), 65, 67, 70 (prophecy about Dipanagara), 71 (as satria lelana), 72 (mother of), 75, 79, 89, 99, 101-2, 127, 135 (grave at Imagiri), 151 (prophecy about Dipanagara), 163 (Pakepung crisis, 1790), 168, 178, 181, 187, 190, 209, 216, 222, 224, 235, 243, 247-8 (inspiration during Rongga rebellion), 259-60, 293-4 (legacy evoked), 322, 333, 342, 356, 362, 369-70, 374 (judicial torture under), 390-1 (administrative precedents followed by HB III), 399, 407, 412 (HB IV sexual congress with unofficial wives of), 440 (gives Hartingh favourite wife), 550, 581, 587, 613-4, 618 (prohibition on Chinese links with court), 757, 761-2, 764, 772, 774, 778 (pesanggrahan of), 795-8
+- Hamengkubuwana II, sultan (alias Sultan Sepuh, 1792-1810/1811-2/1826-8) xii, 4 (boating in Taman Sari), 42 (support for smallpox vaccination), 70, 75-6, 79, 81 (religious observance), 82-3, 87, 129, 134, 137, 141 (offerings rejected by Ratu Kidul), 160 (Daendels’ prejudice against), 163, 169, 174 (Nicolaus Engelhard’s view of), 178, 188 (appoints Sumadiningrat as army commander), 190, 193 (kasepuhan party of), 199 (objection to vassal reference), 201 (and Rongga), 206-8 (issue of dhampar / throne), 216 (orders court bastions extended), 222-3, 223-4 (seeks dismissal of Danureja II), 227, 229 (confrontation with Moorrees), 233-4, 238-9 (reaction to Daendels’ letters), 243 (coachman), 244-5 (Rongga’s appeal to), 271 (tensions with Prince Regent), 272 (raises new regiments), 273 (refuses apanage for new officials), 274-5, 279, 280 (receives letter from Raffles in Malaka), 281, 291, 297 (Dipanagara’s respect for), 298 (annoyance with Crawfurd), 299 (Crawfurd contemplates capture of), 303, 305, 307-9 (Raffles 12-1811 visit), 313, 317-9 (secret correspondence), 321-2, 329 (description of, 5-1812), 331-2, 335-7, 339-41 (behaviour during British assault), 352, 353 (exile of), 363 (journey to Pinang), 370, 374 (judicial torture under), 377 (love of English bloodstock), 386 (prevents subjects attending Semarang raad van justitie), 389 (pesanggrahan of), 390-1, 394, 408, 412 (HB IV sexual congress with unofficial wives of), 414 (meets Sayyid Kramat, 1814), 441 (returns to Batavia, 3-1816), 454 (leases land to Residents), 481, 526 (restoration of, 17-8-1826), 548-9, 560, 592-3 (contacted by Dipanagara, 7-1825), 618 (Chinese selir of), 645 (restoration of), 710, 760, 762, 764, 770, 772-3, 778-9 (pesanggrahan of), 780, 782-3, 787, 795-8
+- Hamengkubuwana III, sultan (alias Sultan Raja, 1812-4) 11, 55, 58, 62, 65, 70, 74, 83, 123, 154, 180 (appearance and qualities), 193 (karajan party of), 209 (during Daendels’ 7-1809 visit), 211, 224 (as a womaniser), 227, 228 (pays to have father poisoned), 234, 237-8, 258 (dislike of Purwadipura), 262-3 (as Prince Regent), 264, 266-7, 269-70 (gets ridderorde), 271-5 (tensions with HB II), 273 (appoints new officials), 276, 278-9, 283 (at reception for Napoleon’s birthday, 15-8-1811), 285, 291-2, 294-5 (plight after Danureja II’s murder), 299, 303, 305, 307-9 (during Raffles 12-1811 visit), 313, 315-6 (advised by Dipanagara), 321-3, 325, 329 (description of, 5-1812), 331-2, 335-7, 339-41 (during British assault), 347-8 (financial problems), 349, 352-3, 355-9 (appointed sultan), 361-2 (at announcement of Kedhu annexation and PA I appointment), 366, 370-2, 373-4 (Dipanagara as adviser of), 377 (gift of horse to Deans), 389 (eschews building projects), 390 (builds up treasury), 397 (appoints Danureja IV), 397, 399, 406-7 (contracts cold and dies), 408 (burial), 412 (HB IV sexual congress with unofficial wife of), 421 (orders sketches of Prambanan, 11-1812), 444 (and Kyai Murma), 446, 481, 502, 541 (friendship with Deans remembered), 558, 615, 757, 760, 762, 765, 772, 779 (pesanggrahan of), 782, 795-8
+- Hamengkubuwana IV, sultan (alias Sultan Jarot, 1814-22) 43 (failed smallpox vaccination on), 50, 62, 74, 154, 270 (wears ridderorde), 325, 327, 356, 366, 367, 371, 397-8, 398 (and clique around Ratu Ibu), 407, 408-9 (line of succession discussed), 410-1 (circumcision of, 22-3-1813), 412 (marriage of, 13-5-1816), 421 (rebuffs sepoys during conspiracy), 452 (rescinds appointment of gunung), 456, 459 (love of European uniforms), 459, 460 (plate), 461 (Dipanagara remonstrates with over land-rent), 462 (road constriuction mania of), 482 (Umar Mahdi demands abdication of, 1-1817), 502-3 (death of, 6-12-1822), 504, 506-7 (death and burial of), 519, 541, 548 (court jewelry sold), 757, 760, 762, 779 (pesanggrahan of)
+- Hamengkubuwana V, sultan (alias Sultan Ménol, 1822-6/1828-55) 62, 74, 316 (Dipanagara as guardian of), 352 (kasepuhan / karajan rivalries during reign of), 363, 367-9, 376, 398, 413, 440 (Valck steals favourite mistress of), 453, 461, 502-3 (health destroyed by excess), 507-9 (appointment of, 19-12-1822), 510-2 (guardianship arrangements), 525 (Smissaert stands in at Garebegs for), 533 (and land-rent indemnities), 543, 558, 561, 578, 638, 661, 681, 746 (parlous finances of), 752, 760
+- Hamengkubuwana VI, sultan (1855-77) 293, 368, 372
+- Hamengkubuwana VII, sultan (1877-1920) 270 (wears ridderorde)
+- Hamengkubuwana IX, sultan (1939-88) xxi
+- Hamlet, play 367
+- Hanafi, law school (Mecca) 597
+- Hanbali, law school (Mecca) 597
+- haq (reality) 112
+- Harderwijk 108 see also Chevallier, Nahuys
+- Hardouin, Ernest (1820-54; artist) 704
+- Hardy, F.E. (Resident of Kedhu, 1818-21; Rembang, 1827-8; died 1828) 486, 618
+- Hare, Alexander (Resident of Banjermasin, 1812-6) 379 (former Bugis / Balinese soldiers sent to work in estates of), 391
+- Hart, Colonel Alexander van der (1808-55; Civil and Military Governor of the Celebes, 1853-5) 731, 741, 753-5, 755 (death)
+- Hart, Lieutenant R. (Assistant-Resident of Surakarta, 1812-6) 416, 808
+- Hartingh, N. (governor of Java’s northeast coast, 1754-61) 440 (wife swapping with HB I)
+- Hartsinck, A. (Resident of Surakarta, 1788-90) 163 (duplicity of)
+- Hartsinck, Vice-Admiral Pieter 159, 179
+- Hasan, Nyai Muhamad (sister of Kyai Maja from Pulo Kadang) 627, 789
+- Hasan, Sayyid al-Habāshi (Surat-born Arab, tutor to HB V) 511, 676
+- Hasan Besari, Kyai (pradikan ageng of Tegalsari) 191, 220, 789 see also Tegalsari
+- Hasan Besari, Kyai (elder brother of Kyai Maja; died 1830) 481, 703, 789
+- Havinga, F (Dutch land-renter Surakarta) 532
+- Hejaz (Saudi Arabia) xvi, 68 see also Mecca, Medina
+- Hendrik (‘de zeevaarder’), prince (1820-79; son of King William II and Anna Paulowna) 23 (visit to Java, 1837)
+- Heutsz, J.B. van (1851-1924; governor-general, 1904-9) 654
+- Hikayat Makutha Raja (Mirror of Princes) 410
+- Hikayat Mareskalek (‘The Marshal’s Chronicle’) 278
+- Hikayat Tanah Jawa see Makasar Notebooks
+- Hindu-Buddhist, archaeological / temple remains 86 (in Yogya), 418-9 (plate), 421, 522 (report of Smissaert to Antiquities Commission)
+- Hindus, Hinduism (in Java) 417 (sepoy conspirators view of , 1815)
+- History of Java (1817) 41 see also Raffles
+- Hoadley, M. 62
+- Hobsbawm, E. 48
+- Hoche, General Lazare (1768-97) 611
+- Hoff, C.E. (Dutch land-renter Surakarta) 532
+- Hoff, Frederik (Dutch land-renter Surakarta) 532
+- Hogendorp. G.K. van (1762-1834) xv, 1, 119
+- Hogendorp, Willem van (1795-1838) xv, 1-2, 4 (1828 visit to Yogya), 34, 78, 119, 389, 414, 428, 435-7 (favourable view of Nahuys), 439 (on sexual conduct of Dutch officials), 459, 465, 467 (burden of Kedhu coffee cultivation), 518, 521 (view of Smissaert), 532 (on land-rent abolition), 552 (Yogya kraton as brothel), 621
+- Hokkien 399 see also Tan Jin Sing
+- Holland 152 (schutterij companies in), 161 (royal government in), 166 (kingdom under Louis Napoleon), 276, 283 (annexed by Napoleon), 323, 415 (liberation from French rule, 12-1813), 519 (Smissaert’s education in), 603, 740 (provinces of)
+- Hollander, J.J. de (historian) 822
+- Holmberg de Beckfelt, O.C. (1794-1857; Assistant-Resident of Kendhal, 1825; Pekalongan, 1825-8) 581
+- Holsman, Major-general G.J. (1771-1833) 648
+- holy war see prang sabil
+- Hooggerechtshof (High court, Batavia) 500, 732, 735 see also Pietermaat, Rijck van Prehn
+- Hope, Hugh (Resident of Surakarta, 1812-3) 51, 170, 378, 381
+- Horsburgh, James (1762-1836, map maker / hydrographer) 717-8
+- horses, horsemanship 37 (pack horses), 85, 122 (Dipanagara as horseman), 186 (cavalry), 297 (races in Yogya), 376 (Crawfurd patronises), 377 (English bloodstock), 501 (PB V’s love of), 649 (Senthot as expert rider)
+- Horsfield, Dr Thomas (1773-1859) 416
+- hulptroepen (Indonesian auxiliaries) 641
+- Hundred Days 429, 717 see also Napoleon, Waterloo
+- Hungary, Hungarians 21
+- Hurgronje, C. Snouck (1857-1936) 654
+- Husein, Arab trader 21
+- Ibnu Imam, pengulu of Tanggung (Bagelèn) 481
+- Ibrahim see Pekih Ibrahim
+- Ibrahim, Haji Ali (Yogya kraton santri) 76, 281 (contacts sultans of Bima / Tidore, 1812), 303 (missing papers about in Yogya archive)
+- Ibu, Ratu see Ageng, Ratu
+- Idris, Haji Muhamad (pengulu landraad; head of Yogya haji under HB II) 100, 272-3
+- Ijen plateau (east Java) 610 (sulphur supply from)
+- IJsseldijk see p. 970
+- Île de France see Mauritius
+- Imagiri, royal graveyard 78, 83 (burial of Ratu Ageng Tegalreja at), 91, 133, 135, 137, 257, 268, 293, 297, 336 (Yogya princes flee to during British asaault), 353, 383 (market at), 407-8 (HB III buried at), 443, 501 (PB IV buried at), 559, 584, 692 (Dipanagara asks for burial at), 768 (R.A. Maduretna buried at), 741 (Dipanagara intention to be buried at)
+- imām (heads of law schools in Mecca) 597 see also Hanafi, Hanbali, Maliki, Shafi’i
+- imam (head of Islamic religion) 622, 635 (Maja’s wish to be recognised as)
+- Imam Bonjol see Bonjol
+- Imam Musbah, Ali Basah (Dipanagara’s commander in Ledhok, northern Kedhu) 663, 678, 682, 688, 693-4 (imprisoned after Dipanagara’s capture) see also Ledhok
+- Imamraji, Haji (former pupil of Kyai Maja; pengulu of Dipanagara, 1825-8) 627, 635, 788-9
+- iman (faith) 112-3
+- Iman Ngali, Kyai see Melangi, Kyai
+- Iman Sampurna, Kyai (Lodhaya) xx, 485-90 (movement), 494, 505 (prophecies of, 1819)
+- Imhoff, G.W. baron van (1705-50; governor-general, 1743-50) 168, 178 (visit to Surakarta, 5-1746), 287 (‘De Hersteller’ flagship), 757
+- Impun, Radèn Ajeng (daughter of Dipanagara) 682, (joins Dipanagara at Magelang), 768, 813 (given pusaka pike)
+- indemnities see Yogyakarta
+- India 345, 347, 489 see also British Indian troops, Raj
+- Indian Ocean 140, 515
+- Indische Partij 738
+- indigo 15, 161 (in Lowanu, Bagelèn), 346, 380 (exports from Pacitan), 384 (exports from Yogya / Pacitan), 455-7, 462-3 (hatred of local population for), 469 (dye used by tollgate keepers for receipts), 542 (Rajawinangun), 610 (Tegalweru factory used for gunpowder manufacture in Java War)
+- Indo-Europeans 3 (burgers in Yogya), 3-4 (quarter in Yogya), 331-2 (spread rumours about weakness of British), 356 (as troops of Yogya sultan), 358, 365 (profit from sale of kraton goods), 433 (in Batavia), 548 (sale of court ornaments), 702 (at Dipanagara’s arrival in Batavia)
+- Indonesian Revolution (1945-9) 516, 626
+- Indonesian nationalist movement 757
+- Indo-Portuguese elite (Batavia) 67, 433 see also Indo-Europeans
+- Indra, Bathara (Prabu Indragiri) 405, 571
+- Indramayu 288-9 (British attack on French gunboats, 31-7-1811)
+- Infreville, S.R. d’ (French land-renter Yogya) 535 (coffee estate at Sempu)
+- insan al-kamil (‘perfect man’) 110-1, 490 see also Jīlī
+- Into-Into, gunpowder manufacturing village (Kali Praga) 609-10, 647
+- invulnerability (ngèlmu kaslametan) 48, 619 (Dipanagara’s supposed powers of), 628 see also ngèlmu
+- iron imports 493 (for sugar factories)
+- iron workers 365 (in Yogya) see also gamelan
+- irrigation systems 35-9, 59 (tax on water use / pamili toya) see also pengulu banyu
+- Islam (agami Islam / Javanese Islam) xiv-xv, 10, 105, 124 (Dutch prisoners forced to embrace), 132 (spread by Sunan Kalijaga), 135 (five pillars), 171, 220 (Bathara Katong as inceptor of in Panaraga), 245 (teachings of Java War), 259-60, 294, 400 (Tan Jin Sing converts to), 448-9 (Kyai Jagakarya’s devotion to), 549 (Dietrée as convert to), 584, 622 (Dipanagara as head of), 632 (Dipanagara’s commitment to raise up), 636 (Maja wants settlement to preserve), 655, 664 (Pengalasan’s account of), 671-2 (Mecca as centre of world), 676 (Cleerens’ view of Dipanagara’s understanding of), 683, 687 (Muslim view of surrender to overwhelming force), 691 (forgiveness after end of fasting month), 696, 731, 740, 744-5
+- conversion to 588-9, 619-21 (during
+- Java War)
+- law 706
+- legal texts 100 see also sharī’a
+- moral order xv, 150, 245 (Rongga’s war aims compared to Dipanagara), 294, 632, 661, 664
+- mystical texts (tasawwuf) 9
+- piety and observance 70, 44 (of Ratu Kedhaton), 76 (of Ratu Ageng Tegalreja), 81-2 (in Yogya under HB II), 86 (at Tegalreja)
+- surrender of the individual (doctrine of) 112-3
+- wong Islam 129 (distinguished by shaven hair)
+- Israël, J.L. (Yogya kraton accountant, 1911-?) 63
+- Jambu hills 36, 51 (attack on Pieter Engelhard in), 254, 294, 699 (Dipanagara passes through)
+- jamu (traditional Javanese herbal medicine) 42 (plate), 117 (Dipanagara’s use of), 407 (administered to HB III on deathbed)
+- Jana, weaving centre (Bagelèn) 24, 399, 482 (rich Chinese targeted), 619 (during Java War), 617 (fate of Chinese in) see also Chinese, traders
+- Jangga, Kyai (spirit guardian of Lipura) 154
+- Janggrana, Tumenggung (Kyai Anggawangsa, Surabaya) 398 (ancestor of Danureja IV)
+- Jangul Manik 491
+- Janissary regiments 152 see also Ardia, Bölüki, Oturaki, Ottoman
+- Janssens, Lieutenant-general J.W. (1762-1838; governor-general of Cape Colony, 1802-6; Java, 1811) 174, 260, 275 (takes up post, 16-5-1811), 274 (saves Natakusuma / Natadiningrat), 282 (plate), 283 (defeat at Meester Cornelis), 285-6 (defeat at Jati Ngalèh), 287 (Kali Tuntang surrender), 307
+- Japan (Majakerta), district (east Java) 211-2 (teak trade in), 221-2, 230 (camp for deserters in), 234-6, 238, 265, 267, 354, 379 (1812 annexation), 396 (Danureja IV’s ancestry in), 484, 774, 805 see also Majakerta
+- Japan 71 (capitulation, 15-8-1945)
+- Japara 522 (Hindu-Buddhist Antiquities commission in), 718 (mountains of)
+- Jarot, Gusti Radèn Mas see Hamengkubuwana IV
+- Jati Ngalèh, battle (16-9-1811) 286
+- Jatingarang, village (Kulon Praga) 593 (apanage of Haji Amattakar at)
+- Jatinom, tollgate (Bantul) 475
+- Java, moral order in / cleansing of impurities 245-6 (during Rongga revolt), 414, 664
+- Java light cavalry 423
+- Java War xi (impact of), xiv-xvi, xvii (bènthèng stelsel in), xix, 8 (Kutha Gedhé as weapons centre), 15, 19, 25 (impact on Bagelèn cotton trade), 39 (transformation of east Java after), 44 (day labourers’ wages during), 59 (regional aspects of), 64 (post-war commission), 66, 72-3, 78-80, 85-6, 90, 97, 101-2, 116, 133 (rule Dipanagara wishes to establish in), 135, 144, 165, 191, 196, 204, 224, 244 (European style dress in), 245-6 (purification of Java), 260, 266 (post-war settlement), 273 (HB II’s greater mosque attendance during), 279 (currency circulation in), 310, 316, 318, 327, 337 (Mangkubumi looks after women and children during), 343, 345 (rebuilding Batavia and north coast town defences during), 353 (kasepuhan / karajan loyalties during), 362-3, 367, 372, 380-1 (disaffection of Jipang population), 388, 395 (problems with PA I during), 399 (anti-Chinese feelings in), 405 (Dipanagara as fugitive / wife’s death in), 428 (sepoy role in), 43, 436 (Nahuys’ conduct in), 448 (treatment of santri in), 461, 464 (problems over land-rent), 467 (effect of tollgates on), 480 (opium consumption during), 484 (Javanese / Arabic names used in), 509-10, 517, 533, 539, 544 (Kertadirja II as commander), 560, 563-4, 571, 578, 580, 605-55, 623-4 (regional aspects of)
+- Javanese
+- attitude to Chinese 196, 337 (post-1812 sinophobia), 354 (after British attack), 385 (impact of tollgates on), 399 (Tan Jin Sing’s appointment), 478-80 (tollgate sinophobia, 1816-25)
+- attitude to Europeans xiv, 174 (PB IV / Mangkubumi’s antagonism to), 180, 188-9 (Sumadiningrat), 219 (anti-European sentiments in Yogya, 11-1809), 234-6 (at breaking point in Yogya, 10-1810), 276 (at inauguration Franco-Dutch government, 28-2-1811), 303 (fear of mass uprising against), 323 (Jayasentika’s contacts in Batavia), 621 (during Java War)
+- attitude to sepoys 303-4, 425 (during sepoy conspiracy)
+- dwellings 45, 213 (effect of Daendels’ teak monopoly on)
+- as guerrilla fighters 641
+- High (language / krama) xvi, 109 (Crawfurd’s mastery of), 168, 297, 318
+- identity xvi, 619-20 (during Java War)
+- Islam as rallying point 343
+- Islamic religion 661
+- Islamic burials 218
+- Islamic communities (east Java) 245 (during Rongga’s revolt)
+- Islamic education 102 see also education, Qur’ānic
+- Islamic law 103-5 (Dipanagara’s knowledge of), 351 (Sura-adimanggala IV’s expertise in), 374 (abolition of judicial torture), 385-8 (impact of Raffles’ 1812 treaties on), 387, 397 (Danureja IV’s acquaintance with), 583, 589, 655
+- Islamic literature 70, 99, 371, 487, 501, 544 (Kertadirja II’s interest in), 757 (at court of PB II) see also pégon
+- Islamic mysticism 340 see also tasawwuf
+- Islamic practices 414-5 (and Sayyid Kramat affair, 11-1814)
+- Islamic texts 377
+- language 107, 217, 243, 297, 396 (Danureja IV’s east Javanese accent), 427, 458 (European land-renters ignorance of), 551, 606 (during Java War), 619-21 (Dutch prisoners forced to speak), 655, 690, 711
+- law-codes see Angger Ageng, Angger Arubiru, Angger Sepuluh, Nawala Pradata
+- laziness of 397 (Crawfurd’s view of)
+- literature 501 (PB V’s love of) see also babad, Centhini
+- Low (language / ngoko) xvi, 168, 318, 551 (Dipanagara speaks to Smissaert in), 670 (Dipanagara sends letter to Dutch in), 670, 690 (Dipanagara speaks to De Kock in), 719 (Dipanagara speaks to Knoerle in), 744, 825 (Dipanagara writes to Cleerens in)
+- medicine 41, 117, 122, 717 (Dipanagara’s use of) see also beras-kencur, jamu
+- Muslims xvi, 364 (identity of)
+- ‘nationalist’ feelings xiv, 260, 364, 397, 606, 619-21 (during Java War), 655
+- peasant cultivators 457 (problems with land-rent), 470-8 (impact of tollgates on)
+- timber merchants 211 (in eastern mancanagara)
+- troops 283 (heavy losses at Meester Cornelis), 286-7 (turn on European officers at Jati Ngalèh), 304 (‘colonial’ corps), 318-9, 335 (losses during British assault) see also hulptroepen
+- Javasche Courant (Government Gazette) 106, 695, 702, 753
+- Jāwah community (Mecca) 112
+- Jawi-kori, district (north coast) 129
+- Jaya Muhamad, Kyai (adviser of Dipanagara at Tegalreja) 97
+- Jaya Ngusman, Kyai 292 (participates in murder of Danureja II) see also Ngusman, Kyai Amad
+- Jayabaya prophecies 69-70, 153, 251 (during Rongga’s rebellion), 483, 487-90 (before Java War), 498, 516-7, 587-8, 603 see also Ratu Adil
+- Jayabrata, Radèn Ngabèhi (dismissed penatus of Tinggol, Menorèh) 496 (during Dipasana revolt)
+- Jayadiningrat, Radèn Tumenggung (post-1830, bupati of Karanganyar, northeastern Bagelèn; author ‘Sketches on the Java War’) 547-8 (description of Danureja IV’s corrupt rule), 591
+- Jayadipura, Radèn Tumenggung (Yogya junior bupati, Kedhu) 233 (commission to Panaraga), 800
+- Jayakarta see Batavia
+- Jayakusuma I, Pangéran (?1787-1829; son of HB II; post-1825, Pangéran Ngabèhi) 71, 98, 254 (on Yogya expedition against Rongga), 336 (during British assault), 339 (refuses Dipanagara and father entry to kadhaton), 352, 481, 592-3 (joins Dipanagara), 618 (Chinese mother of), 637 (refuses Maja troops), 639, 646 (killed), 650 (in dwifungsi debate), 653, 658 (description of death in Gunung Kelir, 21-9-1829), 660, 796
+- Jayakusuma II, Pangéran (?1805-29; son of above) 658 (death in Gunung Kelir), 767
+- Jayakusuma, Radèn Ayu (daughter of Dipanagara; wife / widow of above) 682 (referred to as ‘Radèn Ayu Basah’), 687, 700, 767, 813 (given pusaka kris / pike), 823
+- Jaya Lengkara Wulang, text 105 (discovered at Selarong, 10-1825)
+- Jayamenggala, demang (Samèn) 49, 101, 609, 787 see also Amattakar, gunpowder
+- Jayaminarsa, Radèn (kadipatèn troop commander) 209
+- Jayamustapa (alias Sukbatuliman), Kyai (adviser of Dipanagara at Tegalreja) 97, 139 (sent to Nusa Kambangan)
+- Jaya Ngusman, Kyai see Ngusman, Kyai Amad
+- Jayasanta (retainer of MN II) 157
+- Jayasentika, Radèn Ngabèhi (commander of kadipatèn troops) 242 (in expedition against Rongga), 281 (role in secret correspondence), 316, 321-2 (represents Crown Prince / HB III to Crawfurd), 327, 332, 353-4 (killed in amok attack, 20-6-1812), 363, 774
+- Jayasurata, panakawan see Rata
+- Jayawinata, Radèn Tumenggung (Yogya bupati) 79 (married to Ratu Timur, daughter of HB II and Ratu Kencana Wulan), 800 (joins Dipanagara in Java War)
+- Jayèngpati, Ngabèhi (Delimas, Pekalongan) 217
+- Jayèngrana, Radèn Panji see Ranadiningrat
+- Jayasundarga, Ali Basah (troop commander of Dipanagara in Bagelèn) 616 (mother shot)
+- Jayèng Sekar (mounted constabulary) 52 (plate), 53 (role in crushing Dipasana’s revolt), 318, 428, 497 see also police
+- Jébrès, hunting lodge (Surakarta) 537
+- Jeddah 81, 101, 627, 717-8 (sea route to), 726 see also Ansari, haj, Mecca, Medina
+- Jejeran, district (south of Yogya) 132-3 see also Guwa Song Kamal
+- Jejeran, pesantrèn / pondhok 129, 340 (Sumadiningrat interred at)
+- Jelegong, village (Kulon Praga) 50, 102 see also tiger-hunters
+- jemblung, dance (Ménak cycle) 411
+- Jempon, Radèn Ajeng (daughter of Dipanagara) see Impun, Radèn Ajeng
+- jenever (Dutch gin) 437 (imports into Principalities) see also alcohol
+- jenggi , dance (Chinese masked) 411
+- Jenu, royal fruit orchard (Bantulan) 209
+- Jeruk Legi, district (Banyumas) 21
+- Jessen, Trail & Co (British agency house in Java) 429
+- Jetis, district (northern Kedhu) 120
+- Jesus Christ 110 see also Christianity
+- jewelry 537 (profits from sale of kraton items), 548 (sold by Dietrée)
+- jihad (holy war), mentality / mind set 595, 597
+- Jīlī, Άbd al-Karim bin Ibrāhim al- 111 see also Insan al-Kamil
+- jimat, jurukunci (key keepers, Imagiri) 133
+- jimat, amulets / talisman / heirlooms (pusaka) 124, 536-7 (palm-leaf head protectors), 614, 627-8 (in Java War)
+- Jimatan, mosque (Imagiri) 133, 136, 692
+- Jingga, Kyai (kraton pusaka kris) 341
+- Jipang (Rajegwesi), district (east Java) 51, 88 (Jipang-Kepanolan), 164, 211 (teak trade in), 213, 255 (attitude of bupati during Rongga’s rebellion), 265, 267, 325, 379 (annexation, 1812), 379-80, 381 (disaffected population in), 581, 615, 619, 623, 642-3 (Sasradilaga’s rebellion in, 1827) see also Sasradiningrat, Sasradilaga
+- Johannes (Armenian head of opium tax farm in Kedhu) 733
+- Johnson, Major J.M. (Resident Surakarta, 1813-6) 21, 348 (as prize agent), 349 (gets large diamond), 351, 394, 416-7, 426 (enquiry into sepoy conspiracy), 443
+- Jonèd, Radèn Mas (?1815-37, son of Dipanagara) 80, 682, 688, 746, 767, 813 (given pusaka kris / pike)
+- Jong Celebes 755
+- Jong Java 755
+- Jowanto, demang (Kedhu) 382-3 (attacks house of widow of F.W. Baumgarten, 1-1819)
+- jubah (tabard) see Dipanagara
+- judicial system (in Java) 385-8 (impact of Raffles’ 1812 treaties on)
+- Jugul Mudha, Javanese law code 104, 388
+- Jumadilakir, Javanese month 401 (as marriage month)
+- Jumagatan, coffee estate (Yogya) 533, 535, 542 see also Tissot
+- Jumungah Wagé, Friday Wagé 69 (significance as day of Dipanagara’s birth)
+- jung, unit of land measurement 27, 64 see also cacah
+- Juni, demang (Karang Bolong) 17 (corrupt practices of), 186 see also birds’ nest rocks
+- Jurisprudence, Javanese-Islamic 103 see also Javanese, law codes
+- jurukunci (key keepers), of holy sites 133, 627 (as supporters of Dipanagara in Java War), 780-3 see also jimat
+- Just king see Ratu Adil
+- Juynboll, Th.W. 579
+- Kaap, Radèn (Radèn Mas Singgunkara; great-grandson of Pangéran Aria Mangkunagara) 423, 500, 710 see also Cape Colony
+- Ka’bah (Mecca, grave of The Prophet) 597
+- kadhaton (inner kraton) 340, 348 (stormed by British)
+- Kadhawung, Kedhu enclave (Kendhal / Pekalongan) 215-6, 560 (bandit raids from)
+- Kadhawung, district (Sragèn) 157 (Van den Bosch executes demang at), 164 (teak forests at)
+- Kadilangu, grave of Sunan Kalijaga (north coast) 132, 250, 291 see also Kalijaga
+- kadipatèn (Crown Prince’s establishment, Yogya) 83, 88 (Suranatan corps in), 94, 100, 177-8, 208 (Dipanagara takes command of troops from, 7-1809), 242 (troops join expedition against Rongga), 264, 271, 275, 285, 292, 294-6 (doors bolted after murder of Danureja II), 315, 332, 336, 339 (falls to British), 336 (damaged by British artillery), 349, 359-60 (designed as temporary kraton), 366 (Ratu Kedhaton put in charge of), 367 (Ratu Ageng’s flight from), 398, 492, 544 (Kertadirja I as patih of), 774 (list of patih of)
+- Kajèn, Embok see Kertamenggala
+- Kajoran, religious dynasty / faction 588, 630, 664
+- Kajoran, Panembahan 73, 588
+- Kajoran, village (Karanganyar, Banyumas) 663
+- kaki-tangan (‘arms-and-feet’ epithet, Bagelèn) 23, 26-7
+- Kalang, carpenters / artificers (Kutha Gedhé) 291 (PB IV asks for return of), 610
+- Kalangbrèt, district (east Java) 255, 490 see Mangundirana
+- kalantaka, half-pounder (artillery) 8
+- Kalapa-aking, Mas Kertawangsa (dullah / junior commander of Dipanagara, Bagelèn; post-1853, father-in-law of Radèn Salèh, artist) 742
+- Kalasan 37, 208 (Dipanagara greets Daendels at), 209, 421 (statuary taken from Candhi Sèwu temple complex at)
+- Kali Bagawanta 646, 649, 658, 660 (Dipanagara crosses), 673 (prescription over crossing) see also Agung
+- Kali Bedhog 36 (dam built by HB I in), 155, 611
+- Kali Brantas (Kedhiri river) 195, 385, 474, 491
+- Kali Bujang (Cilacap / Nusa Kambangan) 164
+- Kali Cingcingguling (Banyumas) 23, 87 (crocodiles in), 670 see also Rèmakamal
+- Kali Codhé (Yogya) 248 (Rongga asks for bridge to be broken over), 336 (houses near undamaged by British artillery), 340
+- Kali Elo (Kedhu) 249, 497 (after Merapi eruption, 28-12-1822), 673
+- Kali Gajahwong (Yogya) 333
+- Kali Grindulu (Pacitan) 37, 64
+- Kalijaga, Sunan 10, 132-4, 141, 150, 155, 579, 613-4, 622 see also Kadilangu
+- Kalijengking, sub-district / village (Kedhu) 229, 640 (mobile columns in), 646 (Cochous’ first benthèng at)
+- Kali Lèrèng (Bagelèn) 617
+- Kali Madiun 385, 474, 615 see also Ketangga
+- Kalimantan 391 see also Borneo
+- Kali Musi (Palembang) 345
+- Kali Opak 24 (fish farms on), 137, 144, 154, 478, 571, 584
+- Kali Oyo 24 (fish farms on), 137 (caves)
+- Kali Pabélan (Kedhu) 513 (flooding at time of Merapi eruption, 28-12-1822)
+- Kali Praga 23-4, 37, 49. 102, 124, 144 (Dipanagara’s vision of Ratu Kidul near), 229, 514, 586, 608, 611, 620, 632, 641-2, 646-7, 649, 656, 658, 660-1, 677 (Dipanagara’s encampment at Metésih near), 684-5 (plate) see also Metésih
+- Kalireja, village (western Bagelèn) 670-1, 673
+- Kali Saria (Manado) 728 (Dipanagara’s garden plot)
+- Kali Serayu (west Java) 20
+- Kalitan, Surakarta Resident’s country retreat at 435 (used by Nahuys), 537, 634 (Maja’s aim to capture)
+- Kali Tuntang 248 (Rongga asks for bridge to be broken over), 287 (capitulation of Janssens at, 18-9-1811), 307
+- Kali Winonga 36, 78, 248 (Rongga asks for bridge to be broken over)
+- Kaliyah, Kyai (Pacitan) 193 (as teacher of Rongga)
+- kaliyuga (final age of disorder) 516
+- Kamal, village (Kulon Praga) 144 (Dipanagara’s vision of Ratu Kidul at, 7-1826)
+- Kamalodiningrat (title of Yogya pengulu) see Abuyamin, Ketib
+- Kamalodiningrat, Radèn Ayu (wife of above; granddaughter of Pengulu Pekih Ibrahim) 765
+- Kamijara, village (on Kali Praga) 49 (bandits in), 102, 608 (ferry boats at)
+- Kampung Jawa (Makassar) 742
+- Kampung Jawa Tondano, place of exile 92, 635-8 (manuscript), 722-5 see also Maja, Tonsea Lama
+- Kampung Melayu (Makassar), Dipanagara family grave, 711 (Dipanagara’s kris buried with him in), 740 (Dipanagara’s son buried in), 749-51 (plates), 753-4 see also Retnaningsih
+- Kanangan, coffee estate 542 see also Nogues
+- Kantiwati, Déwi (female spirit) 491
+- Kantor Baru, district (Batavia) 276 (Natakusuma / Natadiningrat held in, 1810-11)
+- Kanyut-mèsem, Kyai (gamelan of MN I) 128
+- Kapilah, Radèn Ajeng (daughter of Danureja II) 371 (marries Pangéran Suryabrangta)
+- kapir (unbelievers) 245, 716, 725
+- kapir murtad (apostates) 245
+- Kapitan, Nyonyah (Chinese wife of Tan Jin Sing), 400 see also Tan Jin Sing
+- kapitan cina (captain of the Chinese) 468 see also Tan Jin Sing
+- karajan, pro-HB III party (Yogya) 193, 223-4, 227, 271-2 (origins of), 276, 352 (intensification of rivalries with kasepuhan), 362, 397 see also kasepuhan
+- Karang, Kyai, pradikan of Karang (follower of Kyai Maja) 100
+- Karanganyar, district (Bagelèn) 23, 396, 481, 591, 663, 669, 671 see also Jayadiningrat, Rèma
+- Karanganyar, coffee estate (Yogya) 542 see also Ceuvelaire
+- Karang Bolong, district (Bagelèn) 17, 186, 454 see also Juni, birds’ nest rocks
+- Karangjati, indigo factory (Pekalongan) 465 see also Thomson
+- Karangkobar, district (north coast) 45, 553, 560-3 (annexation of, 1-1-1825), 661
+- Karangnangka, village (Sokawati) 490-1 see also Waliyullah, Sunan
+- Karang Lo, Kyai gedhé (ancestor of Ratu Kencana Wulan) 72, 225 see also Prampèlan, Kyai Ageng
+- Karangpandhan, estates / teak forest of MN II 184, 213, 426
+- Karangwuni, village (Wates Kulon Praga) 73, 481 (hiding place of Dipanagara’s mother and daughter in Java War), 659
+- Karna, wayang hero 572
+- kasektèn (inner spiritual power) 133-4, 614 (of Radèn Ayu Sérang)
+- Kartasari, Kyai (Delanggu) 190 (killed by Rongga)
+- Kartasura 13, 36, 105, 112, 242, 335 (example cited during British attack), 349 (raping of court women following fall of), 353 (during prang cina), 359 (Raffles meets Adams at), 372, 388 (removal of kraton to new site), 410, 444, 492-3, 537, 587-8
+- Kartawijaya, Radèn Ngabèhi (demang of Menorèh) 496 (rallies to Dipasana)
+- Kasendhèr, Baron (Alexander of Macedon, text) 491
+- Kasepuhan, royal house (Cirebon) 280
+- kasepuhan, pro-HB II party (Yogya) 193, 271-2 (origins of), 339 (Pangéran Jayakusuma as member of), 352-4 (intensification of rivalries with karajan), 355 (supporters warned by Raffles), 362-3, 441, 592-3 (Dipanagara seeks support from) see also karajan
+- Kasimun (alias Wangsadikrama / Sadikrama; panakawan of Dipanagara in exile) 741, 817
+- Kasongan, pathok negari (Yogya) 90, 131
+- Kastuba, Kyai Muhamad (ulama of Prapak, Kedhu) 585 (instruction for tax collectors in wartime), 790 (as Tumenggung)
+- Kastuba, Kyai Muhamad (Bagelèn) 215 (exiled, 2-4-1823)
+- Kastuba, Sèh (senior ulama and guru of pesantrèn of Alang-alang Ombo, Bagelèn) 790
+- Kasuran, ambush / battle of (28-7-1826) 123, 129 (Dipanagara’s followers shave heads after), 628, 642
+- Katanggel, kraton infantry regiment 323
+- Katangga, river see Ketangga
+- kaum (firm Islamic community / quarter, Yogya) 89, 91, 295, 336 (damaged by fires from British artillery), 365 (repopulated after assault), 570, 626 (origins of Dipanagara’s santri supporters), 630
+- kaum, village priests 47 see also education, Qur’ānic
+- kawin bathin (‘marriage of the inner’), dhikr 485
+- Kayumas, district (Grobogan-Wirasari) 234 (deserters from Daendels’ army in)
+- Kebo Kemili, Kyai (Mataram pusaka pike) 135
+- Kebumèn, district (Bagelèn) 647, 665, 667
+- Kadarèn, village (Delanggu) 117 (Dipanagara’s liaison with Chinese girl in), 619 (description of affair) see also Chinese, sexual relations with, Dipanagara and Chinese
+- Kecawang, village (Karanganyar district, western Bagelèn) 663, 665, 669-71, 673, 696
+- Kedhaton, Ratu (?1750-1820; post-1812, Ratu Ageng; consort of HB II, mother of HB III) 70, 74, 85 (rumour that might live at Tegalreja), 188-9, 219, 224, 274, 286, 315 (imprisoned in Bangsal Kencana), 340 (death of sons-in-law), 365 (appointed Ratu Ageng), 396 (family relationship with Danureja IV), 760,762, 764, 780 see also Ageng, Ratu
+- Kedhaton, Ratu (title given to Dipanagara’s principal wife in Java War) see Maduretna, Radèn Ayu
+- kedhawung, herbal medicine / jamu 117 (used by Dipanagara)
+- Kedhiri 251, 391 (Panji Suradiningrat’s uprising in, 1813), 485 (Chinese tollgate keeper killed at), 490-1, 493
+- Kedhu 11, 17, 19, 24, 27, 31, 34-5, 37, 40-1, 44-5 (better diet in), 48, 50, 53, 55, 78, 91 (pradikan villages in), 98, 109, 120, 129, 131, 164 (proposed annexation of, 1808), 185, 210, 215-6, 237, 244 (discarded European dress of peasants in), 249, 253-4, 265, 286, 293, 345, 361, 364, 369 (Dipanagara’s pre-1812 apanage lands in), 378-80 (annexed 1812), 382 (Crawfurd leases lands in), 383 (land-tax payments / tobacco exports in), 399 (Tan Jin Sing’s family as tax-farmers in), 405, 421, 423-4, 425 (PB IV’s aim to get back apanage lands in, 1815), 463, 464-6 (burden of land tax on inhabitants of), 466 (coffee plantations in), 468 (tobacco warehouses in), 474 (abolition of tollgates in, 1824), 480, 482, 493, 496-9 (Dipasana’s revolt in, 1822), 512 (impact of Merapi eruption on, 1822-3), 515, 553, 560, 562, 608, 610 (pradikan villages help Dipanagara in Java War), 613, 626 (fighting qualities of men from), 627 (followers of Dipanagara from pesantrèn in), 646, 652, 661, 666, 668, 673, 675, 677-9 (Dipanagara arrives in, 3-1830), 682-3, 686, 693, 699, 733, 746 (Dipanagara II in , 1830-4), 786-94 (Dipanagara’s santri supporters in), 799-801, see also Grabag, Magelang, Valck
+- Kedhung Kebo (‘Buffaloes’ watering hole’; post-1830 Purwareja) 135, 186, 662, 667, 691 (Pengalasan returns to), 694-5, 699 see also Buku Kedhung Kebo, Purwareja
+- kejawèn (Javanese-speaking heartland) 167, 204, 443, 693
+- Kejiwan, battle (9-8-1826) 642
+- kelangenan-Dalem, royal retreats / pleasure gardens 137, 778-9
+- Kelir mountains (Kulon Praga / Bagelèn) see Gunung Kelir
+- kemadhuh, leaf (goad for tiger-buffalo fights) 184
+- Kemandhungan, pavilion (Yogya kraton) 374
+- Kembangarum, coffee estate (Slèman district, Yogya) 463, 535-6, 634 (Kyai Maja at) see also Bouwens, Shand
+- kembang cina, batik pattern 25
+- Kemit, bènthèng (Gombong district, Karanganyar) 669, 673
+- kemit siti, abdi-Dalem (royal site guardians) 137
+- Kemlaka, tollgate (Mataram) 262 (Daendels at), 263
+- Kemp, P.H. van der 368, 375, 531
+- kemuning, tree 86 (at Sélareja)
+- Kemusuh, village (Kulon Praga) 525, 631
+- Kenangsari, Déwi (female spirit) 496 (advises Dipasana)
+- Kencana, Ratu (daughter of Panembahan Cakradiningrat IV of Pamekasan; consort of PB IV) 181, 416 (intrigues during sepoy conspiracy, 1815)
+- Kencana, Ratu (Ratu Ibu; mother of HB IV) see Ageng, Ratu
+- Kencana, Ratu (?1802-?1827; daughter of Danureja II; consort of HB IV) 73, 371, 411-2 (marriage to HB IV), 412 (character assessed / psychosis of), 507-9 (as guardian of HB V), 549 (as guardian), 572-3 (marriage to Dipanagara foretold in dream), 762
+- Kencana Wulan, Ratu (consort of HB II; post-1812, Ratu Wétan) 79, 206 (jewelry of), 218 (kinsman shot on Daendels’ orders), 221 (daughter promised to Rongga), 225 (enmity with Danureja II), 227 (character assessed), 237 (Daendels writes to HB II about), 244 (lends Rongga jewelry for Bogor journey), 265, 267 (family graves in Jipang), 274, 277, 349-50 (singled out by sepoy looters), 350, 397 (daughter marries Danureja IV), 441 (joins HB II in Batavia, 8-1816), 700 (refuses to share HB II’s exile in Ambon), 755, 760, 783
+- Kendhal, district (north coast) 215, 265, 581, 781 (patih of)
+- Kenitèn, district (Madiun) 119, 268 (created as kabupatèn, 1-1811), 381 see also Sumaprawira, Retnaningsih
+- kepatihan (Surakarta) see Surakarta
+- kepatihan (Yogya) 398 (Danureja IV’s incumbency of / abuse of power in), 452 (gunung / police officials based at), 547-8
+- Kepundhung, pradikan village (Pajang) 443-8 see also Murma Wijaya
+- Kepurun, village (Kulon Praga) 631 (visit by Dipanagara to)
+- keputrèn (women’s quarters in kraton) see Yogyakarta
+- kerigaji (royal corvée) 57
+- kerigan (labour services) 463 (of Kembangarum coffee workers)
+- Kerja, district (Sokawati) 100, 543 see also Kertadirja II
+- Kertadirja I (?-1810; tumenggung Tamping / head of police; patih kadipatèn, 1807-10) 100, 243 (on expedition against Rongga), 544, 774
+- Kertadirja II, Mas Tumenggung (bupati Kerja, Sokawati; son of above) 100, 251, 543-4 (dismissed by Danureja IV), 547 (joins Dipanagara at Tegalreja), 774
+- Kertadirjan family 100
+- Kertaleksana, Ngabèhi (official of Sumadiningrat) 281 (role in secret correspondence)
+- Kertamenggala, Embok (‘Radèn Ayu Guru’) 496-7 (supports Dipasana revolt)
+- Kertasana, district (east Java) 12, 51, 195, 255 (cowardice of bupati), 268 (bupati replaced, 1-1811) see also Pringgalaya
+- Kertasiluman, commander (Kedhu) 694 (placed in stocks in Magelang)
+- Kertawangsa Kalapa-aking, Mas see Kalapa-aking
+- Kertayuda Wirapatih, sub-demang of Sumawana (Ambarawa) 584 (murdered)
+- Ketangga, river / forest (Madiun) 251, 484 (Ratu Adil expectations), 491-2 see also Ratu Adil
+- Ketanggung, Yogya kraton regiment 275, 281
+- Kew letters (of stadhouder Prince William V, 1795) xii
+- Khāttāb, Zayd bin al- (companion of The Prophet) 81 (tomb destroyed by Wahhābī)
+- Kidung Lalembut (song of the spirits), text 137
+- Kielstra, E.B. 686
+- Kilir, Nabi 491
+- Kindar, Radèn Mas Abdurrahman (son of Dipanagara born in Manado, 1832-?) 80, 729-30 (birth), 731, 738, 746, 754, 769
+- Kinthèlan, village (Yogya) 496
+- kitab (religious books) 191 (in Rongga’s mosque at Maospati)
+- Kitab Musarar (Jayabaya prophecies) 488-90 see also Jayabaya
+- Kläring, Emmanuel (Yogya burger) 205
+- klasa pesantrèn (woven pandanus mats) 469-70 see also Bendha, Pesantrèn
+- Klathèn, fort 4 (earthquake damage to), 183-4 (garrison at), 208, 235, 292 (attacks on house of retired sergeant at), 331 (British troops arrive at prior to Yogya assault)
+- Klathèn, town 34, 55 (law and order agreements signed in), 196 (Angger Gunung signed at), 197 (Angger Gladhag signed at), 201, 208, 248, , 383 (market at), 423, 428, 600 (new road constructed at, 7-1825), 638
+- Klèca, lands at 454 (Surakarta Resident’s rent of)
+- Klein, C.H. (Yogya burger) 205
+- Klepu, Book of (cadastral register, 1756) 39-40, 61
+- Klerck, E.S. de (1869-? ; military historian) xvii, 106-7, 123, 436, 605 see also Louw
+- Klungkung (Bali) 623 (Dipanagara receives soldiers from)
+- Knoerle, Lieutenant J.H. (?-1833) 106-8, 120, 370, 405, 510, 583, 660, 703, 707, 711, 713, 716-24 (accompanies Dipanagara to Manado), 822
+- Kock, A.H.W. baron de (1808-91: Resident of Yogya, 1848-51; son of below) 1, 516, 751-2 (interviews Mangkarawati on Makassar voyage), 810
+- Kock, Lieutenant-general H.M. de (1779-1845; lieutenant-governor, 1822-30; C-in-C Dutch forces during Java War; Baron, 1842) xviii, 107, 116, 124, 247 (compared to Dasamuka / Rawana), 263 (receives SpD5,000 indemnity from Yogya), 387, 397 (view of Danureja IV), 428 (rejects offer of sepoys), 436-7 (view of Nahuys), 509 (view of Dipanagara), 516, 523 (critical of Smissaert’s absences), 526, 530 (plate), 534, 559 (assessment of PB VI), 563, 583-4, 586, 605-6, 612, 618 (refuses to endorse shooting of Rembang Chinese), 639, 640 (absences in Batavia), 642-6 (battle tactics of), 648 (issue of age), 654, 662, 666-8 (confers with Van den Bosch), 669, 673, 675-99 (capture of Dipanagara), 695 (as head of freemasons in Indies), 700, 711 (commands Dutch army in Zeeland, 1831-6)
+- Kock, Mrs H.M. de (1788-1828; wife of above; née Luise Fredericke Wilhelmine Gertrud von Bilfinger) 683
+- Kock van Leeuwen, Lieutenant-colonel A. de (field artillery commander) 689 (at Magelang during Dipanagara’s arrest)
+- Krakatau, volcano 393 (1883 eruption), 515-6
+- krama (High Javanese) see Javanese
+- kraman (rebels) 49 (in Cirebon)
+- kramat, supernatural power 49, 121, 290
+- Kraus, Werner (biographer of Radèn Salèh) 695-6, 698-9
+- Krawang (west Java) 454-5 (problems of land leases in) see also Ciasem and Pamanukan
+- Kresna, wayang figure 411 (advice to Arjuna)
+- Kreteg, village tollgate / ferry crossing (Kali Praga) 478 (description of Chinese toll-keeper at)
+- Krijgsman, C.F. (official interpreter in Javanese, Semarang) 197, 211, 335 (delivers British ultimatum to HB II), 336, 350 (goes through court MSS with Crawfurd), 355 (translates proclamation of HB III’s investiture), 357, 361 (reads out proclamation of PA I’s appointment)
+- kris, stabbing daggers / blades 7, 77, 155, 310, 341 (kraton pusaka taken), 365 (replaced after British assault), 388 (loss of as symbolic castration), 607 (gold sheaths brought to fund Java War), 611, 620, 813-5 see also Abijaya, Bandayuda, Betha, Birawa, empu, Gupita, Jingga
+- Kroya (Bagelèn) 649 (destruction of Bushkens column at, 10-1828)
+- Kruseman, J.D. (1794-1861; Assistant-Resident of Yogya, 1816-7) 353, 412, 442 (plate), 444-8 (handling of Murma Wijaya affair), 457 (transferred to Batavia), 482
+- Kudatirta, Mas Tumenggung (supporter of Dipanagara in Bagelèn) 661 (interview with)
+- Kudhus, Sunan / grave site 133, 250 (holy graves at), 291, 635
+- Kudhus, Ratu 162 see also Timur, Ratu
+- Kudur Brubuh (Kadisana), tollgate (Ngawi) 616 (Chinese woman organises security at)
+- kuduran (unpaid work by sikep) 60
+- Kuiper, F.M (Dutch land-renter Surakarta) 532
+- Kulon Praga, district 38, 65, 144, 147, 337, 367, 369 (Dipanagara’s apanage lands in), 395, 463, 480, 525, 584, 593, 595, 609, 619-20, 631, 641 (Dipanagara’s military bases in), 646-7, 650 (taxes demanded by Senthot in), 651, 678, 699
+- Kulur, Kyai (Cirebon rebel) 187
+- Kuncèn, market (Yogya) 383 (British take-over of taxes, 1812), 782 see also Derpayuda, Nyai Ageng
+- Kurawa 405
+- Kusèn, Kyai Muhamad (Dipanagara’s pengulu, 1828-30) 100, 790
+- Kusumareja, Radèn Tumenggung (Yogya bupati) 273 (appointed by Prince Regent / HB III)
+- Kusumayuda, Pangéran (son of PB IV; Surakarta army commander in Bagelèn, 1826-9) 591
+- Kutaarja (Panggungan), kabupatèn (Madiun) 268
+- Kutawinangun, district (Bagelèn) 481
+- Kutha Gedhé 8 (armaments manufacture in), 24 (fish farms at), 78, 216 (arms), 244 (Ratu Kencana Wulan’s trade in opium / jewelry with), 272 (gun foundries at), 279, 297 (burial of HB II at), 383 (market at), 582 (piagem to amad-Dalem / plate), 610 (armaments centre at), 647 (wartime market taxes in)
+- Kutha Pethik see Maospati
+- Kuwaron, Kyai (Pajang) 104, 570, 790
+- kyai (revered country gentlemen / religious teachers) 72, 76, 79, 85 (Dipanagara’s marriage to daughter of), 99, 117, 627-8 (followers of Dipanagara), 786-94 (list of Dipanagara’s supporters)
+- labuhan (offering ceremony to Ratu Kidul, Parangkusuma) 141, 148-9 (plate) see also Ratu Kidul
+- Lagordt-Dillié, P.M. 610 (gunpowder manufacture in Mataram)
+- lailat al-kadar (night of the heavenly dispensation) 569 (Dipanagara’s vision of Ratu Adil during) see also malem pitulikur
+- Lake, Gerard, 1st Viscount Lake of Delhi and Leswarree, general (1744-1808; C-in-C Indian army; conqueror of Scindia, 1803-5) 347
+- lalembut see Kidung Lalembut
+- Lampung, district (Sumatra) 648, 810
+- Lancashire, cotton manufactures 25, 310 see also textiles
+- lances (tumbak) 7, 333, 607 (used by Dipanagara during Java War) see also pikes
+- landdrost (sheriffs) 385 (put in charge of police by Raffles)
+- landownership (in core regions / nagara agung) 33 see also tanah pusaka, tanah yasa
+- land registers (cadasters) 350 (plundered by British) see also Klepu, Serat Ebuk Anyar
+- land-rent (leases of estates to Europeans, 1816-25) 457 (23-5-1823 abolition of), 499 (Nahuys influences Angger Sepuluh recodification to facilitate, 4-10-1818), 504, 510 (abolition), 519, 527, 559-61 (Van der Capellen’s views on), 563 (impact of abolition), 603 (impact of land-rent indemnities)
+- land-tax 25, 100, 380, 464-7 (burden on Kedhu population), 527 see also Raffles
+- land-renters see Europeans
+- Lapro, Jan (Resident of Yogya, 1764-73) 322 (builds attic for storing birds’ nests)
+- Lara Jonggrang 421 see also Prambanan
+- Lara Kidul, Nyai (patih of Ratu Kidul) 140, 145 see also Ratu Kidul
+- Lasem, district (north coast) 164, 249-50 (Rongga appeals to Chinese in), 256, 617-9 (Chinese Muslim peranakan in during Java War), 718
+- Latif, Lieutenant Hasan Nur (Manado) 119, 727 (refuses Dipanagara’s marriage proposal for daughter)
+- law see Javanese-Islamic law codes, judicial system
+- Lawick van Pabst, P.H. baron van (1780-1846; member of Forest Administration board, Rembang, 1810-11; Assistant-Resident of Rembang, 1811-2; Resident of Rembang, 1823-7; Yogyakarta, 1827; Semarang, 1827-9; Besuki and Banyuwangi, 1829-30; commissioner for the regulation of affairs in the Principalities, 1830-33) 234, 252, 318-9 (on secret conspiracy between courts), 326, 425, 439 (sexual conduct / abuse of Javanese priyayi women), 523, 528, 547, 613, 628, 645 (peace proposals during Java War), 810 see also Rembang
+- Lawu, Sunan (mountain god) 486, 488-9, 492, 571 see also Gunung Lawu
+- Leberveld, Lucas (1757-? ; coachman of HB II, sergeant; former VOC soldier) 243, 256-7 (commands flying column in expedition against Rongga) see also Paulus
+- Le Bron de Vexela, Lieutenant-colonel Joseph (1793-? ; commandant 3rd mobile column) 611 (suspected cruelty of), 637 (captures Maja), 659
+- Le Clercq, Pieter (1787-1839; Resident of Kedhu, 1821-5; Preanger Regencies, 1825-7, governor of Moluccas, 1827-8; Resident of Semarang, 1829-34) 497 (crushes Dipasana revolt in Kedhu)
+- Ledhok, district (Kedhu) 24, 45, 80, 129, 474, 661, 663, 678 see also Imam Musbah, Wanasaba
+- Leiden, university of 67, 654, 661
+- Leipzig, battle (‘Battle of the Nations’, 15/19-10-1813) 415
+- lelana (spiritual wanderings / pilgrimage) 71, 105, 127-8, 487 see also satria lelana
+- Lengis (Bagelèn) 661 see also Kudatirta
+- Lèngkong (Slèman), battle (30-7-1826) 642
+- Leopold I, king of the Belgians / Prince of Saxe-Coburg-Saalfeld (1790-1865; reigned 1831-65) 734
+- leprosy 140, 145 see also Ratu Kidul
+- Le Sueur, Lieutenant-colonel (Surakarta garrison commander, 1817-20) 499-500
+- Lib Sing, Chinese land-renter (Wirasaba) 478 (good landlord)
+- liberalism (economic) 431-3 (Van der Capellen’s view of), 435-6 (Nahuys as advocate of), 456 (Adam Smith) see also Wealth of Nations
+- Liebeherr, B.F. von (Resident of Surakarta, 1804-8) 160, 169, 519
+- Liebeherr, Clara Elisabeth von (daughter of above; wife of A.H. Smissaert) 519, 524 (offers Dipanagara Constantia wine), 718
+- Lien Tjo Tjing (leading member of Yogya Chinese community) 524 (testimonial for Smissaert, 1825)
+- Light Infantry Volunteer Battalion (Bengal) 297, 302 (plate), 303, 339, 415-28 (during sepoy conspiracy, 1815) see also sepoys
+- Likupang, trading post (Bangka strait, Minahasa) 715 (map), 720
+- Lima Bugis (the five Bugis peninsulas) 717 see also Bugis, Sulawesi
+- limestone ovens see Gamping
+- linen 186 see also cloth, cotton piece goods, ginggang, textiles
+- Lingga (Riau) 21 (pirates)
+- Lion, Major J.T. (garrison commander, Makassar) 753
+- Lippe, H.F. (1783-1822; Assistant-Resident Surakarta, 1817-22) 499
+- Lipura, village / holy site (Yogya) 154, 496-7 (Dipasana’s revolt in) see also Sénapati
+- Liverpool, Robert Banks 2nd Earl (1770-1828; British prime minister, 1812-27) 429
+- Lloyds of London, insurance brokers 429
+- Lodhaya (Blitar) 485-7 (belief in were-tigers / macan gadhungan), 490 (Sunan Waliyullah in) see also Iman Sampurna, Waliyullah
+- Loevestein (Gelderland), royal fortress 735 (proposal to transfer Dipanagara to) see also Groot, Hugo de, William I
+- Lombok 341, 590, 610, 719
+- Loro, Mbok (daughter of Embok Kertamenggala / Radèn Ayu Guru) 496-8
+- Louis, M.J. (French land-renter Surakarta) 465
+- Louw, P.J.F. (1856-1924; military historian) xvii, 106-7, 363, 436, 520, 605, 615 see also Klerck
+- Lowanu, district (Bagelèn) 37, 161 (indigo production in), 333 (troop reinforcements to Yogya from), 399 (apanage of Tan Jin Sing in), 455 (pepper plantations in)
+- Lumajang (east Java) 492 (‘disappearance’ of Pangéran Dipanagara I at, 1723)
+- lungguh (‘seat’ / apanage) 9, 34 see also apanage system
+- lurik (Javanese cloth) 384
+- Maas river 735
+- macan gadhungan (were-tigers) 87, 485-6 (in Lodhaya) see also tigers
+- Macanan, police officials (Yogya) 53-5, 452 see also gunung
+- MacGillivray, H.M. (1797-1835; Assistant-Resident of Surakarta, 1822; Second Resident of Surakarta, 1823-5, Resident, 1825-7, 1830-4; Resident of Sumatra’s West Coast, 1829-30) 446 (plate), 471, 474-5 (warning about tollgates), 532 (participates in land-rent indemnity commission), 554-5, 591, 594 (warns Smissaert of Dipanagara’s plans for rebellion), 595 (plans to send assassins to Selarong), 645 (peace proposals), 809
+- Mackenzie, Colonel Colin (1754-1821; chief engineer officer to British forces in Java, 1811-3; surveyor-general of Madras, 1813-21) xviii, 306 (plate), 308 (prepares plans for Yogya assault), 351 (Indonesian MSS collection)
+- Mackenzie Private collection (British Library) 351 (Indonesian MSS)
+- Mackenzie 1822 collection (British Library) 351 (Indonesian MSS)
+- Maclaine, Gillean (? –1840; Scots land-renter Surakarta) 429, 532
+- Maclaine, Watson & Co, British agency house 429
+- Maclean, Lieutenant Hector (?-1812; 14th Regiment of Foot / Bucks) 210, 349 (died of wounds, 25-6-1812), 615
+- Macleod, Lieutenant-colonel Alexander (C.O. 59th Regiment of Foot / 2nd Notts) 335 (during British assault on Yogya)
+- Macquoid, Thomas (Scots-Irish businessman and land-renter) 429
+- Macquoid, Davidson & Co, British agency house 429
+- madat (prepared opium / candhu) 479
+- Madiun 12-3, 39, 58-60, 91 (pesantrèn in), 101, 164, 177 (Rongga secures military levies from, 1808), 190-1 (Rongga’s administration in), 192, 195 (timber resources in), 219, 222, 232 (Rongga returns to, 10-1810), 233, 236, 242-4, 247, 248 (tollgate leases in), 250-1, 254, 256, 267-9 (last royal vestiges of Rongga obliterated in), 269 (old bupati’s residence at Wanasari restored), 372 (Dipakusuma’s influence in), 381 (new kabupatèn post-1812, 405 (bupati wedana in), 414-5 (Sayyid Kramat disturbances in, 1815), 438 (local bupati’s addiction to alcohol), 470 (tollgate rates in), 484, 490 (Sunan Waliyullah in, 1817), 615l, 623 (support for Dipanagara in), 626 (fighting qualities of men of), 628 (Banjarsari), 638, 755 see also Dipakusuma, Maospati, Rongga, Tegalsari
+- bupati of 232, 268 (increase in numbers post-1-1811)
+- Madras xii, 275 (horse artillery in Java expedition), 308 (military engineers from), 339 (horse artillery in assault on Yogya), 422 see also Mackenzie
+- Madubrangta, Radèn Ayu (first wife of Dipanagara; daughter of Kyai Gedhé Dhadhapan) 97-9, 765-6
+- Madura 70, 74-5 (British capture of, 8-1811), 183, 189, 219, 222 (Daendels’ troops from), 286, 318 (secret emissaries sent to Surakarta from), 323 (Jaysentika’s ancestry), 324, 337, 353, 372, 416, 461 (Ratu Kedhaton’s ancestry), 494-5 (cholera epidemic in), 629 (auxiliaries from), 630 (Trunajaya), 644 (plate), 718, 746 (Dipanagara II as exile in) see also Cakradiningrat, Hamengkubuwana III, Kedhaton (Ratu), Pamekasan, Sampang, Sumenep, Trunajaya
+- Madura Straits 159 (British blockade of), 186 (Fort Lodewijk guards entrance to)
+- Madurese troops 181, 283 (heavy losses at Meester Cornelis), 358-9 (praised as better than sepoys), 639 (chant dhikr during Java War), 641 (as auxiliaries), 644 (Sultan Madura agrees to send)
+- Madu Retna, residence of Trunajaya (Pacuran, West Madura) 219
+- Maduretna, Radèn Ayu (?1798-1828; principal wife of Dipanagara; daughter of Radèn Rongga) 86-7, 121, 136 (buried at Jimatan), 154, 401-5 (courtship and marriage), 405 (support for Dipanagara), 511-2 (persuades Dipanagara not to commit suicide), 513 (witnesses eruption of Merapi, 28-12-1822), 571, 578, 581 (styled as Ratu Kedhaton during Java War), 619 (Dipanagara’s infidelity towards), 623, 683 (Dipanagara’s bereavement), 692, (Dipanagara asks to be buried near), 765, 766-8 see also Jimatan, Rongga
+- Maduretna, Ratu (?-1809; daughter of HB II and Ratu Kedhaton; wife of Rongga) 79, 191, 214, 219 (character and death, 13-11-1809), 236 (one-year memorial for), 268 (gravesite renamed, 1-1811), 401-2 (as mother of Radèn Ayu Maduretna), 491, 761, 764, 766 see also Gunung Bancak, Giripurna
+- madzhab (law schools in Mecca) 153
+- Magelang 53, 109, 124, 377, 380-1, 423, 428, 467, 482, 497, 503, 516, 536, 583-4, 586, 606, 608, 612-3, 617, 632-4, 646, 653, 659, 662, 665, 667, 669-70, 675, 677-9, 680-1 (plates of Residency House), 682-6, 691-3 (Dipanagara’s arrest at), 702-3, 722, 726 (Dipanagara orders saddles from), 729 see also Kedhu
+- Magetan, district (east Java) 50, 219, 255 (Rongga’s battle at, 27-11-1810), 255, 257-8 (Rongga’s commander Dasamuka killed at?), 268 (increase in number of bupati, 1-1811), 396, 414 see also Prawiradiningrat, Sasradipura
+- Maghribī, Sèh Maulana 141 (site at Mancingan), 781
+- Mahabhrata, cycle of wayang plays 140, 143, 404
+- Mahdi, beliefs in 516 see also Ratu Adil
+- Mahdi Sayyid (‘Pangéran Anom’) 426
+- Mahmud, Radèn Mas Hasan see Sukur
+- mahouts, royal elephant drivers (srati) 421
+- Mahratta War see Second Mahratta War (1803-5)
+- maize 43, 464, 475 see also diet
+- Maja, Kyai (?1792-1849; alias Bagus Kalifah; guru and pradikan ageng of Maja, Delanggu) 73, 85, 90, 92 (plate), 93-4 (knowledge of Qur’ān), 99, 111, 114, 116, 152, 387, 436, 459, 511, 546, 553, 559, 570, 581, 583-4, 588-9, 606, 613 (Balinese wife of), 617 (cruelty / xenophobia of), 627, 631-5 (origins of break with Dipanagara), 636-9 (negotiations and surrender, 10-11-1828), 642 (arguments over pre-Gawok battle tactics), 644 (peace negotiations at Salatiga, 8-1827), 648-9, 668 (capture of), 669, 676, 702-3 (in town gaol, Batavia), 706 (exile to Manado), 710, 722-3 (refusal of contact with Dipanagara in Manado), 725 (wife), 791 see also Kampung Jawa Tondano, Tonsea Lama
+- Maja, Nyai (first wife of above, died 1828) 623, 627
+- Maja, Radèn Ayu (Balinese wife of Kyai Maja; pre-1828, wife of Pangéran Mangkubumi) 613, 623, 632, 638, 725
+- Maja, pesantrèn 85, 116 (Dipanagara visits on foot, post-1816), 627, 637, 786-94 see also Badhèran, Pulo Kadang
+- Maja-agung see Wirasaba
+- Majakerta, town 552 (place of retirement of Danureja IV, 1847), 770, 774 see also Japan
+- Majangjati, burial site (pasaréyan) (Sragèn) 76 (grave of Kyai Ageng Derpayuda)
+- Majapahit, empire (1292-1527) 72, 109, 140 (fall of), 167 (division of Java with Pajajaran), 415, 445, 490-1, 590 (Dipanagara plans to recreate in outer islands), 733 (history)
+- Majapahit rood, unit of measurement 64-5
+- Majapitu, sub-district (Sokawati) 491
+- Majasta, pradikan village (Tembayat) 73 (birth place of Dipanagara’s mother), 593, 627 (Arab lurah of pondhok at), 791
+- Makassar xv, xix, 72, 74, 87, 105, 121, 152-3, 167, 183, 276 (plans to send Natakusuma / Natadiningrat to), 364, 411 (Dipanagara has texts copied in), 562 (Van Geen’s expedition to, 9-1824), 603, 606, 636, 642 (reinforcements sent from), 648, 652 (Dipanagara’s death in), 659-60, 665, 674, 700, 711, 718, 724, 726, 730, 732, 734-55 (Dipanagara as exile in), 816-21, 824-7
+- Makassar Notebooks, texts (written by Dipanagara) xx, 109, 112 (plate), 113-4, 490, 579, 744-5 (composition of, 24-1-1838)
+- Makassarese 222 (Daendels’ troops), 740 (attitude to Dipanagara), 754, 755 (keep memory of Dipanagara alive) see also Bugis
+- Makincing, Rangga Daëng (Bugis commander of Dipanagara) 626 see also Maréwa
+- Malabar coast (southern India) 706
+- Malang 161, 251, 266, 484-5 (millenarian movement in, 11-1819)
+- Malangnegara, Kyai Tumenggung (army commander of HB I) 248, 623, 800 see also Sumanegara
+- malar munga (bird of ill-omen, Imagiri) 501, 597
+- malaria 116 (Dipanagara suffers from), 277 (Natakusuma / Natadiningrat affected by), 653, 659, 675, 699, 703, 716-7 see also Dipanagara, health issues
+- Malay
+- battalions, regiments 424
+- kampung Melayu 494 (Torbaya, Semarang), 749-51 (Makassar), 753
+- language xvi (Dienst Maleisch), 21, 67 (Dienst Maleisch), 107 (Dipanagara’s knowledge of), 109, 175 (inability of HB II to speak), 180 (Crown Prince / HB III insists spoken at Rajawinangun review, 1-6-1808), 201, 280 (Raffles’ Malay letters), 290 (Captain Robison’s poor command of), 339 (John Deans’ fluency in), 410 (tutor appointed for HB IV in), 441 (HB IV’s lack of knowledge of), 421, 427, 433 (Dutch government’s ignorance of, 1815), 458-9 (European land-renters partial knowledge of), 459 (Dipanagara’s disdainful view of), 478 (Chinese tollgate keepers’ lack of knowledge of), 487, 552 (Dipanagara’s disgust at), 605 (translation of Babad Dipanagara into, 1864-74), 619 (used during Java War), 634 (C.P.J. Elout’s knowledge of), 638 (Kyai Tirtadrana’s fluency in), 676, 690 (Valck’s mastery of / Dipanagara’s facility in), 711 (Dipanagara’s distaste for), 733 (Tirtadrana’s fluency in)
+- peninsula 41 see also Melaka
+- Malays 222 (Daendels’ troops), 276 (witness establishment Franco-Dutch government, 28-2-1810)
+- malem pitulikur 576 (Dipanagara’s vision on) see also lailat al-kadar
+- Maliabara, Jalan (Yogya) 309
+- Māliki, law school (Mecca) 597
+- Maluku 431, 563 (Van der Capellen’s voyage to, 7/10-1824), 676 (Cleerens as governor of), 719, 738, 741, 743
+- Manado xvi, 74, 78, 87, 105-9, 115-7, 119, 123, 151, 369-70, 376, 461 (Dipanagara’s allowances in), 552, 597, 606, 636 (Maja and followers sent to), 638-9, 659-60, 665, 668 (Imam Bonjol as exile in), 682, 706 Dipanagara exiled to, 30-4-1830), 710, 713 (Resident of), 716-21 (voyage to), 721 (description of), 722-33 (Dipanagara’s exile in), 724 (epidemic in, 8-1833), 735, 738-40, 742, 816-21 see also Cambier, Christians, Minahasa, Pietermaat
+- Manado, Bay of 720 (plate), 721
+- mancanagara (outlying districts)
+- bupati 12, 57 (corvée duties in Yogya kraton), 58, 175, 177-8, 191, 207-8, 211-6 (crisis over timber trade), 232, 255 (refuse to rally to Rongga), 267-8 (personnel changes following Rongga rebellion), 269 (in Yogyas for Garebeg Mulud, 4-1811), 285 (at Serondhol), 372 (new appointments post-1812), 381 (loss of positions in 1812), 405, 408, 521, 526, 613, 622 (receive piagem from Dipanagara)
+- eastern (Surakarta) 51, 60 (Panaraga), 161 (Malang), 162 (annexations), 164 (teak supplies in), 219-22, 321 (troops arrive to protect PB IV, 7-1812), 378 (British annexations in), 391, 475-6 (effects of tollgates in), 654 (1830 annexations in) see also Kedhiri, Panaraga
+- eastern (Yogya) 5, 38-41, 47 (unfaithfulness of women in), 53, 57-9 (tax burdens on), 66, 164 (teak supplies in), 178, 183, 186, 193-4, 195 (timber in), 211-4 (tension over timber supplies from), 216 (work force in Yogya to extend kraton bastions), 236, 249-50 (economic role of Chinese in), 267-8 (administrative changes after Rongga), 291 (suffering of population of pasisir border regions under Daendels), 372 (new appointments in), 379-80 (British annexations in), 383 (take-over of tollgates in, 1812), 384 (rice prices during Java War), 408, 415 (Sayyid Kramat disturbances in, 1815), 469 (scarcity of salt in), 473, 526, 613, 614-5 (Radèn Ayu Yudakusuma’s campaign in, 9-1825), 654 (1830 annexations in) see also Madiun
+- western 16, 40, 165, 333 (troop reinforcements to Yogya), 391 (Baker’s survey of, 1815), 519-20 (plans for annexation of, 1822-3), 561, 654 (1830 annexations) see also Bagelèn, Banyumas, Gagatan, Gowong, Jabarangkah, Karangkobar, Ledhok, Rèma
+- Manchu court (Peking) 171
+- Mancingan 140-1, 254 (court valuables to be sent to, 12-1810), 587 (PB VI visits, 6-1830), 781 see also Parangkusuma, Parangtritis, Parangwédang, Ratu Kidul
+- Mandarsaha, bastion (Fort Rotterdam, Makassar) 736 (plate)
+- Mandura, Mas Aria (wedana gladhag / head of the porters’ guilds) 601 (sent on abortive mission to Tegalreja, 20-7-1825) see also Sindunagara II
+- Mangir, village (Kulon Praga) 608, 611 (bandits help Dipanagara)
+- Mangiran, ferry crossing village (Kali Praga) 49 (bandits at), 50 (tiger hunters at), 102, 586, 632
+- Mangkarawati, Radèn Ayu (?1770-1852; mother of Dipanagara) 72, 581 (given Ratu Ageng title during Java War), 659 (capture of), 742, 747-52 (corresponds with Dipanagara in Makassar, 1849), 760, 765, 823-4 see also Karangwuni, Majasta
+- Mangkubumi, Pangéran (Surakarta; younger brother of PB IV) 173 (cruelty of), 181, 319 (involvement in sepoy conspiracy), 320 (exiled to Ambon), 416, 424, 426-7 (exiled for role in sepoy conspiracy), 498 (? marries daughter of Dipasana in Ambon)
+- Mangkubumi, Pangéran (?1781-?; Yogya; son of HB II; post-1830 Panembahan Mangkurat) 61, 85, 108, 336-7 (during British assault), 352 (joins Dipanagara), 409, 458 (view of land-rent), 508-10 (appointed guardian of HB V), 511 (failure to receive due respect as guardian), 532 (reaction to land-rent abolition), 533 (reaction to size of indemnities), 537-42 (negotiation for Bedhaya indemnity), 549 (sister involved with Dietrée), 563, 572-3, 595, 600-2 (joins Dipanagara at Tegalreja and flees to Selarong), 614 (Radèn Ayu Sérang lives in residence in 1830s), 623, 632, 651, 653, 658, 711, 747, 757, 796
+- Mangkumbumi, sultan see Hamengkubuwana I
+- Mangkudiningrat I (?1778-1824; son of HB II by Ratu Mas; post-1817 Panji Angon Asmara / dhukun) 163, 193, 254, 271 (member of kasepuhan party), 272 (troop numbers of), 274, 285 (HB II wants to send as Yogya commander to Serondhol), 295, 299, 315, 322 (HB II wants to appoint as Crown Prince), 324, 331, 335 (warns HB II of fate of Amangkurat IV), 332 (counsels against reinforcing kadipatèn), 342, 352, 353-4 (orders amok attack in Tan Jin Sing’s house), 363 (exiled to Pinang), 414, 608, 760, 774, 796
+- Mangkudiningrat II, Pangéran (son of above; pre-1824, Radèn Tumenggung Mangkuwijaya; post-1829, Pangéran Adipati Mangkudiningrat; exiled to Ambon, 31-12-1831) 50, 133, 458 (view of European land-rent), 462 (report on renting land to Chinese), 526 (complaint about Smissaert’s role in Garebeg), 542, 609, 637 (given barisan), 760, 801
+- Mangkukusuma, Pangéran (?1772-?; son of HB I) 550, 796
+- Mangkunagara, Pangéran Aria (son of Amangkurat IV; exiled to Cape Colony via Ceylon) 423, 500 see also Kaap, Radèn Mas
+- Mangkunagara I, Pangéran Adipati (1726-95; Radèn Mas Said; reigned, 1757-95) 14, 75, 128 (as satria lelana), 163, 224 (estranged husband of Ratu Bendara), 260, 382, 629, 645, 654 see also Kanyut-mèsem
+- Mangkunagara II, Pangéran Adipati (1768-1835; reigned, 1796-1835) 14, 157-60, 163 (Pakepung crisis), 182 (plate), 183-4 (invested as colonel commandant MN Legion), 185, 188, 207, 232 (links with Rongga), 243, 253 (relations with Rongga), 258 (equivocal attitude during Rongga rebellion), 285, 291, 329 (hair style), 331-3 (participates in British assault), 347 (prize money), 355 (at investiture of HB III), 356 (greets HB III European style), 364 (refuses sons to study in Calcutta), 377 (Raffles’ gift of horses to), 382 (apanage lands in Kedhu taken over), 426, 436 (friendship with Nahuys), 438 (teetotaller / handsome appearance), 459, 531-2 (indebtedness of), 544, 554 (cash advances to), 558, 646
+- Mangkunagara III, Pangéran Adipati (1803-53; reigned, 1835-53) 558
+- Mangkunagaran
+- landholdings 15, 213, 394, 522, 645
+- Legion 13, 124, 182-3, 184 (Klathèn garrison), 207, 286 (horse artillery at Jati Ngalèh), 331-3 (participates in British assault), 340 (in action against Sumadiningrat), 347 (prize money for), 359 (uniforms copied from EIC troops), 611 (soldiers killed with cudgels in Java War)
+- Mangkupraja, Radèn Adipati (patih of Surakarta, 1796-104) 558, 781
+- Mangkurat, Panembahan see Mangkubumi, Pangéran
+- Mangkuwijaya, Radèn Tumenggung 273 (appointed by Prince Regent / HB III), 801
+- Mangkuwijaya, Mas (jurukunci / jimat Imagiri) 501
+- Mangundirana, Radèn Tumenggung (bupati Kalangbrèt) 255 (during Rongga rebellion), 801
+- Mangunkusuma, Tumenggung (Dutch spy, Magelang) 683, 691
+- Mangunkusumo, Dr Tjipto (1886-1943) 738, 757 see also Indische Partij
+- Manikmaya, text 105, 744
+- manta (crude opium) 479 see also madat
+- mantraps (borang) 609 (used during Java War)
+- mantri désa see demang
+- mantri jurusawah (ricefield inspectors) 36
+- Maospati, residence (‘kraton’) of Radèn Rongga Prawiradirja III 8, 60 (description of retainers at), 191 (Rongga’s administration at), 194 (Rongga’s royal style at), 219, 220 (light cannon at), 233-4 (Rongga’s last visit to), 243, 247-8, 251, 253-6 (during Rongga’s rebellion), 247 (rebel kraton established), 253, 256 (town and mosque looted), 267, 268 (created as kabupatèn, 1-1811), 269, 491, 615 see also Wanasari
+- Marcus, Louis (French textile merchant, Yogya) 243-4 see also Tulle (Corrèze)
+- marechaussée see Jayèng Sekar
+- Maréwa, Rangga Daëng (Bugis commander of Dipanagara) 626 see also Makincing
+- Maria Reigersbergen, VOC naval frigate 159 (captured by British)
+- ma’ripat (gnosis) 112-3
+- marital relationships 74 see also women
+- Maros 739
+- markets 533 (annexed by British, 1812), 727 (in Manado), 834 see also pasar
+- market taxes see pasar
+- marriages 41, 46-7 (in villages), 402 (plate) see also women
+- marriage diplomacy (at courts) 11, 73 see also women
+- Marseilles 457, 753 see also Tissot
+- Mas, Ratu (?1770-1824; consort of HB II; mother of Mangkudiningrat I) 163, 274, 412, 760
+- Mas, Ratu (consort of HB III; daughter of Radèn Rongga Prawiradirja I) 366, 573, 765
+- Masaran, tollgate / ferry crossing (Bengawan Sala, Sokawati) 100, 242 (Rongga crosses at / plate), 255 (tollgate burnt), 832 (revenue returns from)
+- Maskumambang, metre 687 (sorrowful quality)
+- Mataram
+- bupati 188, 803, 806 see also Cakradiwirya, Sumadiningrat
+- coastal dependencies 757
+- district 9 (military culture of), 11-2, 27, 30-1, 37-8, 61, 65, 76, 129, 164-5, 237, 394 (PA I landholdings in), 468, 586, 623 (loyalty of levies to Dipanagara in), 626 (fighting qualities of men from), 627 (pesantrèn followers of Dipanagara in), 633 (Dipanagara’s regional loyalties to), 641-2 (fighting in Java War), 642 (Dipanagara’s forces in), 646, 677, 803, 806
+- gravesites 495 (on north coast), 780-3 see also Banyusumurup, Imagiri, pilgrimages
+- kingdom 131, 135, 147, 167, 265-6, 356, 386, 399, 490 (expectation of Ratu Adil from), 495-6, 505, 546, 553, 565, 578, 588, 590, 654 see also Agung, Amangkurat, Sénapati
+- princes of 660 (and Kali Bagawanta), 673
+- tollgates 470, 831 see also Kemlaka
+- Mataram, Haji Muhamad (Yogya kraton santri) 89
+- Mataram, Pangéran Aria (Sunan Panutup / Radèn Mas Tapa; son of Amangkurat I) 137, 144 see also Guwa Séluman
+- Mauritius (Île de France) 43 (smallpox vaccination introduced from), 465, 493 (sugar industry in)
+- Max Havelaar 756 see also Douwes Dekker, Eduard
+- Mecca 68, 81, 88-9, 91-2, 94, 112, 114, 129, 152-3, 215, 272-3 (Yogya haji to), 281, 414-5 (Sayyid Kramat disturbances), 546, 569, 571, 589, 597, 632, 671-3 (as centre of world), 693, 697, 701, 702 (zemzem water from), 713, 726 see also Jāwah, Jeddah, haj, Hejaz, Medina, zemzem
+- medicines, Dutch/western 117 (Dipanagara rejects), 675 (Dipanagara treated for malaria with)
+- medicines, traditional Javanese 407 (administered to HB III) 675 (Dipanagara takes at Menorèh), 727 (Dipanagara takes on Pollux) see also jamu
+- Medina 68, 114, 414, 482, 672-3 see also Hejaz
+- Meester Cornelis (Jatinegara) 252 (places of exile of Natakusuma / Natadiningrat), 276, 281 (Janssens at), 282-3 (fortress stormed by British, 26-8-1811), 285, 345 (redoubts demolished by British), 358 (Nahuys reflects on)
+- Megatsari, Radèn Tumenggung (bupati Pathi) 162 (mistreatment of daughters at Surakarta court)
+- Melaka 21 (British sea captains in), 215 (British naval build up in), 269 (British troops arrive in), 275, 280 (Malay letters sent by Raffles from, 12-1810), 299, 303, 489, 494 (cholera epidemic in, 1821)
+- Melangi, pathok negari 90, 98-9, 223, 293 (Danureja II buried at), 313 (reburial of Danukusuma I at), 371, 627, 636-7 (Maja’s negotiations at, 10/11-1828), 781, 787, 791 see also Danurejan, Taptajani
+- Melangi, Kyai (Iman Ali; pradikan of Melangi) 100, 669 (advises Dipanagara on receipt of letters), 681, 671 (Dipanagara refers to as ‘Dullah’), 681 (Taqrīb text of), 787 see also Ngarip, Taptajani
+- Melangi, Kyai Haji (Muhamad Salim; guru and pradikan ageng of Melangi, killed 9-1825) 787
+- Melathèn (Surakarta) 454 (land leases at)
+- men of religion see putihan
+- Ménak Amir Hamzah, text 105 (studied by Dipanagara), 483 (legends), 744 (ordered by Dipanagara for children’s education)
+- Ménak cycle (wayang plays) 105, 411
+- Menayu, village (Barabadur) 497
+- Mendhut see Candhi Mendhut
+- Menorèh 37, 496 (Dipasana revolt in), 586, 609, 640 (mobile columns at), 665-6, 670, 675, 677, 833 see also Gunung Menorèh
+- Ménot family (Manado) 119 (possible link with Dipanagara)
+- mental illness (psychosis) 412 (of HB IV’s consort) see also Alip, Kencana, Murma Wijaya
+- Mérak Bay (Sunda Straits) 215 (Daendels’ penal colony / fortifications at), 666 (Van den Bosch’s landing at, 2-1-1830)
+- Merapi see Gunung Merapi
+- Merbung (Klathèn) 248 (Rongga asks destruction of bridge at)
+- Mergalunyu (Bagelèn) 609 (attack)
+- Merkus, Pieter (1787-1844; Governor of Moluccas, 1822-8; Raad van Indië, 1829-35, 1838-40; commissioner for regulation of affairs in the Principalities, 1830; governor-general, 1841-44) 59, 706, 808
+- Mertadiningrat, Radèn Tumenggung (joint Surakarta bupati of Sréngat, east Java) 486 (involvement with Kyai Iman Sampurna, 1819)
+- Mertadiwirya, Radèn Tumenggung (bupati Yogya; younger brother of Danureja II) 272 (troop commander of Prince Regent/HB III), 801
+- Mertalaya, Radèn Tumenggung (Yogya nayaka; outer bupati), 242 (in expedition against Rongga) 292 (participates in Danureja II’s murder), 775-6, 801
+- Mertanagara, Radèn Tumenggung (post-8-1828, Ali Basah Ngabdulkamil II; post-1830, honorary colonel) 590, 623, 661, 666, 673, 683, 687-9, 697, 700, 747, 762, 767-8, 822-3
+- Mertanagara, Radèn Ayu (pre-1829, Radèn Ayu Basah; wife of above; daughter of Dipanagara; divorced 1837) 682, 687, 762, 767-8, 813 (given pusaka kris / pike), 823
+- Mertanagara, Radèn Tumenggung (Surakarta bupati of Blora) 319 (imprisoned in Semarang)
+- Mertanagara II, Radèn Tumenggung (Yogya nayaka, inner bupati; son of Pangéran Demang) 408 (appointed to HB IV’s regency council, 1815), 776 (dismissed as), 801
+- Mertanagara, Radèn Ayu (wife of above) 550 (seduced by Chevallier / Dietrée)
+- Mertasana, Pangéran (?1774-1826; son of HB II) 363 (exiled to Pinang with HB II), 414, 797
+- Mertawijaya, Radèn Tumenggung (son of Danukusuma I; post-1-1812, Danukusuma II; post-1825, basah of Rèma; post-1828, Radèn Adipati Abdullah Danureja, patih of Dipanagara) see Danukusuma II
+- Mertawijaya, Radèn Ngabèhi see Wiryawijaya
+- Mesjid Ageng (Great Mosque, Yogya) 81, 234, 273, 294, 320 (prayers said for safety of HB II), 327, 333 (defended by priyayi pradikan during British assault), 336 (damaged by stray artillery), 365 (santri return to adjacent kauman), 570 (alignment / kiblat of)
+- messianic expectations see millenarian expectations
+- Metésih, village (Magelang), Dipanagara’s encampment at (March 1830) 586, 677-9 (Dipanagara arrives in), 683, 684-5 (plate of Dipanagara’s arrival in, 8-3-1830), 689, 702
+- Michaelis, Dutch burger Surakarta 266 (lends money to PB IV)
+- Michiels, Major A.V. (1797-1849; post-1843, major-general) 608, 652, 662, 678, 686, 693
+- Middelburg, island (Baya of Batavia) 159 (British capture of VOC ships at)
+- Middle East 215
+- Mijil metre 733 (sadness of)
+- Mijèn, village (Yogya) 373 (Dipanagara’s temporary accommodation at)
+- military culture see Yogya
+- military exercises 180 (Rajawinangun review, 1-6-1808), 272 (kasepuhan / karajan manoeuvres, 1811)
+- military forces 175 (Daendels’ scratch army), 283 (at Meester Cornelis)
+- military levies see prajurit arahan
+- military tactics 640-6 (Dutch in Java War) see also bènthèng stelsel, mobile columns
+- millenarian expectations xiv-xv, 153 (in Bagelèn, 1817), 250-1 (in Rongga’s rebellion), 480-93 (in 1816-22 period), 515, 583-91 see also Èrucakra, Jayabaya, Ratu Adil
+- Miln, Haswell & Co, British agency house 429
+- Minahasa 92, 613, 635, 720-35 (Dipanagara’s exile in), 740 (pro-Dutch / Christian culture of) see also Manado, Tondano, Tonsea Lama
+- Minhaj, Kyai Haji (religious leader in Blora) 214
+- ‘Ministers’ (title of Residents at courts under Daendels, 1808-11) 166, 170-1, 297 (title abolished by British)
+- Minto, Sir Gilbert Elliott, 1st Earl (1751-1814; governor-general of India, 1807-13) 160, 283-5 (proclamation to inhabitants of Java, 26-8-1811), 284 (plate), 285, 287, 290-1, 301,312, 341 (receives HB II’s kris as token of submission), 342, 346-8 (told of plunder of kraton), 374, 377-8 (Raffles explains 1812 treaty), 384, 435, 807
+- mistresses (Javanese / Eurasian of Europeans) 439-40 see also women
+- mobile columns (Java War) 608, 640-1, 654, 659
+- mobilization (Java War) 606-11
+- Modang (garden at Guwa Secang) 575, 577
+- Modeste, H.M.S. (British naval frigate) 347, 364 see also Elliott
+- modin (village priest) 47
+- Moira, Francis Rawdon-Hastings, 1st Marquis of Hastings and 2nd Earl of (1754-1826; governor-general of India, 1813-23) 417
+- moksa (remainderless death) 368, 663 see also Adisurya, Gunung Sirnabaya
+- Moluccas see Maluku
+- moral order 632 (Dipanagara fights for) see also agami Islam
+- Moorrees, J.W. (Resident of Yogya, 1810) 217 (brawny appearance of), 221, 228-30 (forced to leave Yogya), 236, 809
+- Moorrees, Mrs (wife of above) 218 (mentioned in official toasts), 228 (held up in carriage), 236
+- Mopid, Kyai (adviser of Dipanagara at Tegalreja) 97, 139 (sent to Nusa Kambangan), 791
+- Moses, Prophet 574
+- mountain dwellers 30, 46 (lifestyle of)
+- mountain gods 571 see also Lawu, Sunan
+- Mudha, Haji (adviser of Dipanagara at Tegalreja) 97, 791
+- Mughal dynasty xiii, 425 (blow mutineers from mouth of cannon)
+- Muhamad, Sèh Sayidina 482 (title of assistant of Umar Mahdi)
+- Muhammad, The Prophet 110, 368, 488-9, 492, 526 (birthday of), 569, 571, 574-5, 579-80, 597 (Ka’bah)
+- Muhammad, Sayyid 414-5 (disturbances in Madiun, 11-1815)
+- Muhammadiyah (‘The Way of The Prophet’) 570
+- Muharrar, text 104 see also Jayabaya
+- Muhyi, Sheikh Abdul (1640-1715) 114
+- Mukidin, Haji (Bagelèn) 254 (advises HB II to move court, 12-1810)
+- Mukidin, Mas 100, 367 see also Wiranagara, Radèn Tumenggung
+- Multatuli see Douwes Dekker
+- Mulud, Javanese month 579 (death of The Prophet) see also Garebeg Mulud
+- Munadi, Kyai Haji Hasan (Tuwan Sarif Samparwedi; commander of Barjumungah regiment) 627, 661-2 (gives advice to Dipanagara), 758, 793 see also Barjumungah
+- Mundingsari, Prabu (king of Sigaluh) 140, 150
+- Mundingwangi see Mundingsari
+- Muneng, district (east Java) 613, 615
+- Munthèng, Radèn Ajeng see Gusti, Radèn Ayu Basah
+- Muntinghe, H.W. (1773-1827; President of Board of Finances, 1816-8; Commissioner to Palembang and Bangka, 1818-9; Raad van Indië, 1819-27) 307-8 (prepares Raffles’ visit to courts, 12-1811), 455-6
+- Muntok (Bangka) 345 (new defences built by British)
+- Murma Wijaya, Kyai (?1757-1824; pradikan ageng of Kepundhung, Delanggu) 253, 258, 443-8 (arrest, exile and death), 454, 794 see also Kepundhung
+- murti (name of Wisnu) 585
+- Musa, Kyai (pradikan of Bendhasari, Kedhu) 91, 791
+- Musbah see Imam Musbah
+- Musium Kota (Jakarta) 115-6, 703
+- Muslims (wong Islam) see Javanese
+- Mustahar, Bendara Radèn Mas see Dipanagara
+- Mustapa, Haji (Pekalongan) 215 (spreads rumours of British attack on Java, 1810)
+- Mutamakim, Haji Ahmad (pasisir mystic) 112
+- Mutawaridin, Radèn Mas (Radèn Mas Dulkabli; ?1835-?; son of Dipanagara born in Makassar) 731, 769
+- mystic synthesis in Java 114, 758
+- Naga Siluman, Kyai (Dipanagara’s kris) 137 (presented to King William I)
+- Nagakusuma, Kyai (Yogya pusaka kris) 273
+- nagara agung (core districts, Yogya) 5, 16, 33, 59 (domicile of bupati in), 60 (pancas tax revision in), 66, 194 (Natakusuma’s designs on), 381-2 (annexation of Kedhu), 444, 561
+- Nahuys van Burgst, H.G. (1782-1858; Resident of Yogya, 1816-22; Surakarta, 1820-2; 1827-30; Raad van Indië, 1836-41) 64, 94, 101, 108 (Dipanagara’s view of), 120, 243, 276 (reflection on Franco-Dutch government), 277-8 (helps save lives of Natakusuma / Natadiningrat), 303, 346 (leases lands from HB IV), 350-1 (Crawfurd praises Natakusuma to), 358 (reflections on Meester Cornelis), 375-6 (supposed selection by Crawfurd), 384, 397, 400-1 (with Tan Jin Sing on Borneo commission, 1818-9), 411, 413, 428-30 (at hand-over of Yogya), 431-2, 434 (plate), 435-6 (character assessed), 437 (compared to Crawfurd as dinner party host), 441-3 (problems of early Residency, 1816-7), 445 (on Murma), 447-8 (on treatment of ulama), 454-61 (advocate of land-rent), 462-3 (coffee estate at Bedhaya), 478 (on Chinese), 480 (on opium addicts during Java War), 484, 493 (report on sugar industry), 494-5 (1821 cholera epidemic in Surakarta), 497 (helps crush Dipasana revolt), 499 (role in agrarian law-code recodification), 501 (deathbed of PB IV), 503 (encourages HB IV’s debauched lifestyle), 509-10 (view of Dipanagara), 511, 517 (forced to leave Surakarta post), 519 (return to Holland), 523, 528-9 (arranges land leases), 531, 535 (warns Smissaert on bandits), 537-42 (demands high indemnity for Bedhaya), 542 (sale of Bedhaya reported to), 548 (purchase of jewelry from court), 553-5 (annexation issue), 589, 600, 638 (disarms Maja’s Bulkios, 11-1828), 671, 757, 809-10
+- Nahwu, text (Arabic grammar) 104
+- Nanggulon, district (Kulon Praga) 65, 367 (Prabuningrat’s 1830 apanage in), 480, 631, 651 (bènthèng in), 658
+- Nantes 457, 465
+- Napoleon Bonaparte (1769-1821) xiii, 159, 161, 270 (celebration of birthday, 15-8-1811), 275-6, 283, 285, 415, 429, 717 (Dipanagara informed of exile) see also Hundred Days, Waterloo
+- Napoleonic Wars (1799-1802, 1803-13, 1815) xii, 20, 209 (Daendels as marshal), 312, 429, 433 (ex-soldiers of fortune in Java), 641-2 (style of campaigns emulated by Du Bus), 707, 712
+- Naqşhabāndiyya, tarekat (mystical brotherhood) 111-4, 485, 489, 745 see also Shaţţārīyya, Qadiriyya
+- Naşīhat al-Muluk (Moral lessons for kings), text 104
+- Natadiningrat, Radèn Tumenggung (1786-1858; post-1812, Pangéran Suryaningrat; reigned as Pakualam II, 1829-58) 79, 162, 188-9 (character assessed), 194, 197 (in Yogya delegation to Semarang, 10-1808), 210-1, 225, 226 (plate), 227, 231 (present in Engelhard’s audience with HB II), 233, 236-8 (denounced by Daendels), 239 (reappointed patih jero), 244, 252 (exiled to Batavia / Cirebon), 254, 264, 266 (leases of lands), 272 (argument over distribution of chattels), 276-8 (escapes death in Cirebon), 286 (freed by Janssens), 291 (held in Surabaya by British), 299 (Crawfurd’s poor view of), 313, 315, 329 (goes over to fort), 332, 335-6 (during British assault), 361 (appointment as pangéran), 375, 394, 463, 761, 775, 802
+- Natadipura, Pangéran (?1801-?; son of HB II, also known as Natapura) 352 (joins Dipanagara), 481, 797
+- Natadirja, Radèn Tumenggung (?1803-28; son of Radèn Rongga Prawiradirja III; post-1825, Iman Muhamad Ngabdulkamil Ali Basah alias ‘Gusti Basah’; army commander and son-in-law of Dipanagara) 403, 597, 623, 767 see also Mertanagara, Radèn Ayu
+- Natadiwirya, Radèn Tumenggung (Yogya bupati of Dhuri / Wanaseraya) 255, 802
+- Natakusuma, Pangéran (1764-1829; reigned as Pakualam I, 1812-29) 11, 162-3, 194, 211, 225 (enemy of Danureja II), 227, 235, 236-8 (denounced by Daendels), 252 (exiled to Batavia / Cirebon), 254, 264, 272 (arguments over distribution of chattels), 276-8 (escapes death in Cirebon), 286 (freed by Janssens and brought to Semarang), 291 (held in Surabaya by British), 299 (Crawfurd’s favourable view of), 305 (returns to Yogya), 307 (resentment at Crown Prince / HB III), 310 (promised apanage in Grobogan), 311 (promised stipend), 313, 315, 321-3 (negotiations with Crawfurd), 324, 327, 329 (goes over to fort), 335-7 (during British assault), 339 (refuses to speak to Crown Prince / HB III), 350 (goes through looted court MSS with Crawfurd), 355 (at investiture of HB III), 359, 361-2 (appointed as Pakualam), 375-6 (delighted at Nahuys’ appointment), 382 (grievances over Kedhu apanage), 394-5 (stinginess as landlord), 408-10 (problems of appointment as regent) 427 (meets Raffles after sepoy conspiracy), 441 (refuses to accept return of HB II, 1816), 445-7 (denounces Kyai Murma), 507-9 (decision not to reappoint as regent), 526, 618, 629, 761, 797
+- Natapraja, Pangéran (Radèn Mas Papak / Radèn Tumenggung Mangkudirja; grandson of Radèn Ayu Sérang) 73, 133, 438 (addiction to alcohol), 614, 621, 624-5 (plate), 637 (given barisan), 760 see also Sérang family
+- Natapura, Pangéran (son of HB II) see Natadipura
+- Natapura, Pangéran (Pangéran Abdul Arifin; son of PB IV) 129 (religious study in Yogya)
+- Natawijaya III, Radèn Tumenggung (Yogya bupati of Panolan, 1803-11; father-in-law of Dipanagara) 88, 98, 115, 118, 179 (at Rajawinangun review, 1-6-1808), 195 (problem of logging in Panolan), 250, 255 (attitude to Rongga rebellion), 256 (?died), 802
+- Natawijaya IV, Radèn Tumenggung (Yogya bupati of Panolan, 1811-12; son of above) 256 (takes father’s place), 802
+- Natayuda I, Radèn Tumenggung (Yogya bupati of Kedhu / bupati Bumija, poisoned 11-1804) 98, 774-5
+- Natayuda II (Yogya bupati of Kedhu / bupati Bumija, 1804-12; son of above) 273 (appointed by Prince Regent / HB III), 802 (joins Dipanagara)
+- National Archives (formerly General State Archives / Algemeen Rijksarchief, The Hague) xviii
+- Nawala Pradata (Regulation of law courts), text 499
+- nayaka see Council of State (Yogya)
+- nènèk penjaga tasik (grandmother guardian of the ocean) see Ratu Kidul
+- Nes, J.F.Walraven van (1799-1874; Assistant-Resident of Surabaya, 1826; acting Resident of Yogya, 1827-30; Resident of Pasuruan, 1831-9, Semarang, 1842-3; Raad van Indië, 1843-7, 1851-3) 61, 534, 540, 550, 670, 692, 694, 810
+- Netherlands, kingdom of the United (1815-30) xiii, 457, 654, 734, 759
+- Netherlands Indies, government (1819-42) 61, 68-9, 310 (fiscal oppression of), 563 (army strength, 1825), 679 (praised as ‘just and mild’ by De Kock), 682
+- Netherlands Lion, order of 701 (De Stuers and Roeps recommended for), 704 (plate)
+- New Amsterdam, fort (Manado) see Fort New Amsterdam
+- ‘New Book’, cadaster see Serat Ebuk Anyar
+- Ngabdani, Sayyid (pradikan ageng of Tembayat) 73 see also Tembayat
+- Ngabularipin, Pangéran see Natapura, Pangéran
+- Ngabdulkamil Ali Basah see Natadirja
+- Ngabdulkamit see Dipanagara
+- Ngabdulsamsu, Ali Basah see Suryawijaya, Pangéran
+- Ngabdurahim, Sèh (pilgrimage / lelana name of Dipanagara) see Dipanagara
+- Ngabèhi, Pangéran (title) 512
+- Ngabèhi Saloringpasar, Pangéran (grandson of Amangkurat IV; husband of Ratu Bendara I) 369
+- Ngabèhi, Pangéran (son of PB III) 558-9 (at time of elevation of PB VI)
+- Ngabèhi, Pangéran (?1738-1822; eldest son of HB I by unofficial wife) 50 (links with bandits), 169, 221, 253, 271 (member of kasepuhan), 348 (dysentery / transported in chair), 382 (complains at loss of Kedhu), 388 (loss of kris as symbolic castration), 797
+- Ngabèhi, Pangéran see Jayakusuma I, Pangéran
+- Ngampèl-Dentha, Sunan 72
+- Nganjuk, district (east Java) 12, 475 (complaint of bupati about tollgates), 478 (Nganjuk-Surakarta highway) see also mancanagara, eastern (Surakarta)
+- Ngarip, Kyai Abdul (pradikan ageng of Maja; father of Kyai Maja) 111
+- Ngarip, Kyai Muhamad (ulama pradikan of Melangi; adviser of Dipanagara at Tegalreja) 100, 791
+- Ngarip, Radèn Mantri Muhamad see Dipanagara II, Pangéran
+- Ngastina, kingdom (in wayang) 405
+- Ngawatreja (alias Pengawatreja), pesanggrahan (Yogya) 185, 210 (visited by Daendels), 231, 782
+- Ngawèn see Teras-Keras
+- Ngawi, district (east Java) 12, 256 (Chinese tollgates destroyed in Rongga rebellion), 615 (massacre of Chinese community, 9-1825), 617
+- Ngebel, village (Panaraga) 219-20 (burnt by Rongga)
+- ngèlmu firasat (science of physiognomy) 72, 586, 628 (Dipanagara’s powers)
+- ngèlmu kadigdayan (science of warlike virtues) 627
+- ngèlmu kaslametan (science of invulnerability) 627
+- ngèlmu kawedukan (science of instilling fear) 627
+- ngindhung (close relations of sikep with no access to village lands) 30, 34
+- Ngisa, Haji (pradikan of Pulo Kadang; follower of Kyai Maja; post-1830, senior ulama in Senthot’s barisan) 458 (view of European land-renters), 676 (acts the court jester at Menorèh), 677 (reconnoitres Metésih), 688 (accompanies Dipanagara to meeting with De Kock), 690 (acts as translator), 693 (negotiates peaceful surrender of troops at Metésih), 697, 707, 725 (refuses to join Dipanagara in Manado), 791
+- Nglèngkong (Lèngkong, Slèman), battle / ambush (30-7-1826), 363, 592, 642
+- ngoko (low Javanese) see Javanese
+- Nguning, kabupatèn (Madiun) 268 (created 1-1811)
+- Ngusman, Kyai Amad (head of Suranatan corps, 1811-12) 292 (witnesses Dipanagara’s oath to abjure Crown Prince’s position), 325, 410 (appointed Arabic tutor to HB IV), 792 see also Jaya Ngusman, Kyai
+- Ngusman Ali Basah, Kyai Muhamad see Bahwi
+- Nieuwkerken genaamd Nijvenheim, B.J. van (Resident of Surakarta, 1796-1803) 173, 808
+- Nieuwe Rotterdamsche Courant 753
+- Nitikrama, demang of Sempu (Boutet’s coffee estate) 536
+- Nitimenggala, Kyai (subordinate of Sumadiningrat) 281 (in secret correspondence), 314 (plate of letter)
+- Nizam-i-cedit (Ottoman New Order military reforms) 152 see also Selim III, sultan
+- Noah, Prophet 574
+- Nogues, N. (French land-renter, Yogya) 542 (Kanangan estate)
+- Nolte, Christoffel (German land-renter, Surakarta) 532
+- northeast coast of Java 81, 161-5 (proposed new boundary agreement with Principalities), 170, 177 (Daendels’ inspects fortifications on), 211 (tension over timber supplies from), 266 (strandgeld payments for), 291 (suffering of inhabitants in border regions), 345 (walls of cities rebuilt in Java War), 465, 495 (Surakarta pilgrimage to clean graves on, 1821), 560, 588, 614, 718 (passed on Dipanagara’s voyage to Manado)
+- bupati 161-2 (plight of daughters in Surakarta kraton), 318 (PB IV’s contacts with, early 1812), 559
+- government of 61, 160 (Daendels decides to abolish), 166 (abolition, 13-5-1808), 169-71, 184, 304 (Raffles seen as equivalent of governor)
+- Nottinghamshires (59th Regiment of Foot / 2nd Notts) 304, 335 (during British assault), 357 (in HB III investiture parade), 423
+- numpang (dependant lodgers) 14, 30-1, 34, 48, 65, 67
+- Nurngali, Bengali dhukun / herbalist-healer of Dipanagara 117, 428
+- Nurngaliman, Kyai (adviser of Dipanagara at Tegalreja) 117
+- Nur Samidin see Portier
+- Nuryemangi, Sundanese pengulu of Rongga (Maospati) 256
+- Nusa Kambangan 20-1, 138, 164 (proposed annexation of) see also Cilacap
+- Nusa Srenggi (land of overseas ogres) 588
+- nutmeg 712
+- Nyai (para Nyai corps, central Javanese kraton rulers’ personal female retainers) 134, 171 (Surakarta), 366 (nyai keparak / spittoon carrier), 403 (nyai keparak in Yogya)
+- oil, cooking 384 (internal trade in) see also peanut oil
+- Old Testament Prophets 110
+- Olijve, J.N. (Batavia harbourmaster, 1830) 703, 712
+- Onghokham 17
+- Oosthoek (eastern Salient) 5, 159, 164, 170, 177, 183, 327, 440, 495 (cholera epidemic in, 1821) see also Blambangan
+- opium 10, 18, 51, 122-3 (Yogya princes addiction to), 160 (farms), 169 (VOC monopoly), 230, 244 (Ratu Kencana Wulan’s trade in), 250 (role of Chinese as tax farmers), 252, 354 (served in Tan Jin Sing’s house), 371, 381, 395 (use by PA corps), 397-8 (elite addiction and Danureja IV’s example), 468, 471, 476-7 (plate / opium den), 478-80 (retail trade, 1812-25), 522 (Danureja IV’s addiction to), 610 (during Java War), 617 (supplied by Chinese at Jana), 641 (addiction of local troops to), 662 (Pengalasan’s partiality for / Cleerens’ supply of), 733 (Kedhu tax farm) see also Johannes, madat, manta
+- Orde van de Unie ( Order of the Union; Napoleonic ridderorde / new Dutch nobility) 270, 283 (renamed Orde van de Reunie), 413, 460 (plate)
+- Ordnance on Ceremonial and Etiquette see Edict on Ceremonial and Etiquette
+- Ottoman empire xvi (dress), 68, 89, 152, 448, 482 (appeal to during Umar Mahdi disturbances, 1817), 570-1, 588, 665 (Cleerens fears influence of) see also Άbd al-Hamid I, Janissary regiments, Nizam-e-cedit, Rum
+- Oturaki, Janissary regiment 152 see also Turkio
+- Overstraten, P.G. van (1755-1801; governor of Java’s Northeast Coast, 1791-6; governor-general, 1796-1801) 36, 168, 173 (view of PB IV), 358-9 (view of Madurese as better than sepoys), 807-8
+- pacinan (Chinese quarter) see Chinese
+- Pacitan 37, 44, 73, 91, 116 (Sudirman’s flight to), 161 (pepper gardens in), 164-5, 248 (Balinese pirates in), 254, 268 (Purwadipura threatened with exile in), 310 (annexed by Raffles, 12-1811), 313 (Danukusuma I strangled on way to), 348 (annexed in lieu of indemnity from PB IV), 378-9, 380-1 (Raffles’ description of), 383 (market taken over by British), 384 (indigo exports from), 449, 455-6 (pepper plantations in), 470, 479, 494 (drought in south, 1821), 515 (earthquake in), 589, 620-1 (captured Portier assigned to), 834 (market tax returns) see also birds’ nest rocks, indigo, pepper, Portier, Rongkob
+- pacumplèng (door tax) 14, 452 (levied by gunung)
+- Padang (west Sumatra) 120, 439, 520 (d’Abo returns to), 620 (reinforcements sent to Java from), 648 see also d’Abo
+- Padhang Panolan, village (east Java) 491 see also Panolan
+- Padhangan, district (east Java) 195, 211 (timber crisis in), 255 (during Rongga’s rebellion), 265, 269, 379 (1812 annexation of), 436, 572, 623 see also Sumanegara, mancanagara (Yogya eastern)
+- padi (unhusked rice) 78, 461 (kept aside by Dipanagara in 1825), 607 (left behind by Dipanagara)
+- Padmanegara, Radèn Adipati Panji (bupati of Kudhus) 162
+- Padri War (1803-37) 114, 652, 668, 727 see also Bonjol, West Sumatra
+- Pagebangan, sub-district (Karanganyar, Bagelèn) 671
+- Pager Watu, sub-district (Pacitan) 470 (tollgate rates in)
+- Paine, Thomas (1737-1809) 756
+- Paine, Stricker & Co, British agency house 429
+- Paisley (Glasgow) 25, 310 (textile manufacture in)
+- Pajajaran (west Java) 109, 140, 167 see also division of Java, Sigaluh, Sunda
+- Pajang, Tumenggung (Bagus Élias; pradikan of Karang; nephew of Kyai Maja and army commander) 648, 725, 788
+- Pajang, district 11-2, 27, 61, 73, 91, 116, 129, 164-5, 333 (troop reinforcements to Yogya), 395 (PA apanage holdings in), 408, 443, 548 (wayang wong performances in), 593-4, 619 (Dipanagara’s Chinese mistress from), 622 (Dipanagara’s commanders take battle to), 626 (fighting qualities of men from), 627 (followers of Dipanagara from pesantrèn in), 633 (Maja’s loyalties to), 636-7, 642 (Dipanagara’s forces in), 678 (former soldiers from join Dipanagara at Magelang)
+- pajeg (land tax / tribute) 56-7, 64, 561
+- Pakepung Crisis (1787-90) 163, 174, 317 see also division of Java
+- Pakualam
+- babad see Babad Pakualam
+- cavalry corps 361 (establishment of, 22-6-1812), 395 (history of), 447 (participates in attack on Kyai Maja in Kepundhung)
+- landholdings 11, 361-2, 394-5 (problems over 1813 settlement) see also Adikarta
+- Pakualam I see Natakusuma
+- Pakualam II see Natadiningrat
+- Pakualam III see Suryasasraningrat, Pangéran
+- Pakualam, Ratu see Anom, Ratu
+- Pakualaman 13, 278, 350, 359 (cultural styles at), 361-2 (appointment of PA I), 409 (extravagant lifestyle of PA I at)
+- Pakubuwana, Ratu (died 1732) 757
+- Pakubuwana I, Sunan (reigned 1704-19) 237, 369
+- Pakubuwana II, Sunan (reigned 1721-49) 161, 163, 266, 356, 757
+- Pakubuwana III, Sunan (reigned 1749-88) 36, 162
+- Pakubuwana IV, Sunan (reigned 1788-1820) 36, 58, 61, 63 (financial incompetence), 91, 129, 160, 162-3. 170 (and Hugh Hope), 171, 173 (character assessed), 174 (Engelhard’s view of), 185 (reunification aims of), 187, 194 (enmity with Rongga), 199, 221 (attitude to Rongga), 225, 228 (appoints new patih), 233, 237, 242, 244 (European sartorial influence on court), 245, 253, 258 (equivocation during Rongga rebellion), 266 (debts paid by Daendels), 270 (given ridderorde), 271, 280-1 (receives Raffles’ letters from Melaka), 285, 290-1 (meeting with Captain Robison), 298 (reports concerns about HB II to Crawfurd), 301 (Raffles contemplates giving control of Yogya to), 311 (and 12-1811 treaty), 317-9 (secret correspondence), 320 (santri instructed to resist), 348 (financial problems of), 359 (implicated in secret correspondence), 370, 377-8 (Raffles decides to spare), 386, 413 (contrasting views of), 415-28 (during sepoy conspiracy), 443-8 (involvement with Murma), 486 (decides on Iman Sampurna), 500-1 (death of), 506 (body prepared for burial), 519, 553 (debts of), 555, 558, 591, 636 (Maja as secret emissary to Bali, 1812)
+- Pakubuwana V, Sunan (reigned 1820-3) 416, 487 (and Serat Centhini), 495 (orders pilgrimage to north coast during cholera), 531, 553 (financial difficulties of), 554 (money advanced to), 555 (death of), 558, 591
+- Pakubuwana VI, Sunan (reigned 1823-30) 26, 75, 135, 498 (supposed marriage to Dipasana’s daughter in Ambon), 512, 555-8, 556-7 (plate), 558-9 (character), 643 (equivocation in Java War), 646
+- Pakubuwana VII, Sunan (reigned 1830-58) 181, 416, 531 (indebtedness of), 558-9, 591, 658, 696, 744 (assistance requested for text copies for Dipanagara) see also Purbaya, Pangéran
+- Pakubuwana, Ratu (consort of above) 416 (during sepoy conspiracy)
+- Pakubuwana, Ratu (?-1732; consort of Pakubuwana II) 757
+- palawija (non-rice) crops 23 (tubers), 43, 494 (planted during 1821 drought)
+- Palembang 101, 301, 323 (British expedition against, 3-1812), 329, 445 see also Άbd al-Samad al-Palimbāni
+- Paliyan, sub-district (Gunung Kidul) 136
+- Palm, W.A. (Resident of Surakarta, 1784-88) 173
+- Palmer & Co, bankers (Calcutta) 428, 756 (6 million Sicca Rupee loan to Dutch), 759
+- Paloe, islet (off north coast of Flores) 720
+- Pamancingan see Mancingan
+- Pamekasan (west Madura) 181, 318, 644 (plate) see also Cakradiningrat
+- Pamenahan, Ki Ageng (founder of Mataram dynasty) 265
+- Pamot, Pangéran (?1775-?; son of HB II) 50 (links with bandits)
+- pamrih (concealed / selfish personal motives) 131
+- pamutihan magersari see Seséla
+- panakawan 190 (Rongga serves as), 208 (in kadipatèn), 246 (plate), 321, 353, 405, 483, 518 (Smissaert compared to), 568 (with Dipanagara at Tegalreja), 741 (with Dipanagara in Makassar), 816-7 see also Banthèngwarèng, Rata, Kasimun, Sahiman
+- Panambangan, district (east of Surakarta) 128
+- Panaraga 60, 140 (Bathara Katong as ruler of), 191 (Tegalsari), 219-20 (Rongga’s incursions and bandits in), 222-3, 236, 256 (Rongga abandons plans to attack), 470, 627 (followers of Dipanagara from pesantrèn in), 647 (bènthèng in) see also mancanagara (Surakarta eastern)
+- Panarukan (Oosthoek) 158
+- panatagama, dhikr 485
+- Pancaatmaja, Radèn Tumenggung (subordinate official of Senthot) 651
+- pancas (tax revision, 1802/1808-11) 60-6, 391
+- Pancasura gate (Yogya) 339 (blown up by Madras horse artillery)
+- Pandhak, district (Yogya) 609
+- Pandhawa, brothers (wayang) 404-5
+- pandhé, abdi-Dalem (royal smiths) see empu
+- pandhita-ratu (priest-king) 132-3 (Dipanagara as)
+- Panengah, Pangéran see Dipawiyana, Pangéran
+- Panepèn (retreat) 139 (Dipanagara’s at Tegalreja) see also Sélareja
+- paneteg panatagama (regulator of religion) 488-90, 570 (Dipanagara as), 637 (Maja craves role)
+- Pangéran Adipati, title 353, 361 (use in PA and MN), 409 (arrogated by PA I), 583
+- Pangéran Adipati Anom, Crown Prince’s title 151-2 (Dipanagara told to abjure), 292
+- Pangéran Adipati Anom (son of Dipanagara) see Dipaningrat
+- Pangurakan, crossroads / doorless gateway of northern alun-alun 257 (bodies of Rongga and Sumanegara displayed at, 12-1810), 336 (damaged by stray artillery fire)
+- Paningran, village (Gunungpersada sub-distict, Bagelèn) 616 (mother of Jayasundarga shot at)
+- Paningset, Kyai (kraton pusaka kris) 341
+- Panjer (village, Kebumèn district, Bagelèn) 665 (Cleerens moves to), 669 (Dipanagara’s patih surrenders to Cleerens at)
+- Panji, cycle (wayang plays) 105, 411 see also Angrèni
+- Panji, Pak (bandit leader from Tempèl) 536 (attacks Babadan estate)
+- panji, unmarried noblemen / bachelor confidantes of ruler 179-80
+- Panolan, district (east Java) 85, 88, 98, 115, 118, 127, 179, 195 (as regional mart for timber), 211 (timber crisis in), 213, 250, 255 (pro-Rongga sympathies in), 265, 269, 379 (1812 annexation), 436 see also mancanagara (Yogya eastern), Natawijaya
+- Panular, Pangéran (Adiwijaya I) (?1772-1826; son of HB I) 119, 254, 268 (wife of exiled Purwadipura intercedes with), 295, 321, 336-7 (during British assault), 355 (during HB III investiture), 357, 369 (replaces Dipanagara as guardian of HB V), 408 (dream after death of HB III), 757 see also Babad Bedhah ing Ngayogyakarta
+- Panutup, Sunan see Mataram, Pangéran Aria
+- Papak, Radèn Mas see Natapraja, Pangéran
+- paper 663 (Dutch import)
+- Papringan, pathok negari 90, 333 (ambush of 22nd Dragoons at), 782
+- Parakan (northern Kedhu) 48 (bandit chief in)
+- Parakan Salak (Preanger highlands, west Java) 719
+- Parangkusuma, prophecy (c. 1805) xxi, 70, 140-1, 145, 148-9 (plate of offerings at), 150-1, 153-4, 157, 245, 260, 326, 342, 403, 506, 516, 587, 653, 755 see also Dipanagara (pilgrimage to south coast)
+- parang rusak (batik pattern) 25, 310 (copied by British textile manufacturers)
+- Parangtritis 140-4, 150, 781-2
+- Parangwédang (fresh water spring) 140-1, 781-2
+- paras Nabi (cutting of hair as sign of holy war) 129 see also hair
+- parchment 98 (as wedding present) see also dluwang, Dutch (import paper)
+- paréntah-désa (village administration) 390 (under HB III)
+- Paris 120 (Passy), 644, 741-2 (press report on Dipanagara), 744 see also France
+- Partai Komunis Indonesia (PKI) 755
+- pasar (market) taxes 250, 310, 369 (annexed by British), 383-5 (Raffles’ take-over, 1812), 390 (Dipanagara’s idea of using for court upkeep), 651, 834 (tax returns from)
+- Pasar Alam, village 491
+- Pasar Ngasem (Yogya) 339 (during British assault)
+- Pasar Payaman (rice mart Kedhu) 473
+- Paséban (meeting place) see Yogyakarta
+- paséban (Sanèpa village, Bagelèn) 481 (during Umar Mahdi disturbances)
+- pasisir see northeast coast
+- pasukan Langenkusuma see Amazon corps
+- Pasopati (arrow of Arjuna) 153-4 see also Sarutama
+- Pasundan (west Java) 167 see also Sunda
+- Pasuruan 161, 251, 484-5, 560
+- Patah, Radèn (Demak) 109
+- Pathi, district (north coast) 162 see also Megatsari, Radèn Tumenggung
+- pathok negari (centres for scholars of fiqh law) 90, 99, 780-4, 785 (map of locations) see also Kasongan, Melangi, Papringan, Plasa Jené, Purwareja
+- patigeni (asceticism) 492
+- patih (first ministers at courts) 17, 168, 196-7 (sign agreement at Klathèn), 770-1 (list of) see also Danuningrat, Danureja, Cakranegara, Sasradiningrat
+- patih jero (senior kraton post, Yogya) 188 see also Natadiningrat, Sumadiningrat
+- patola cloth (Surat) 98 (as bride wealth)
+- Patriot Revolt (1786-7) 157, 436 (Nahuys as product of) see also Daendels, Holland
+- Paulus, Lieutenant Thomas (?1773-?; Dutch commander of expedition against Rongga) 243 (fluency in Javanese), 253 (messengers killed by Rongga / MN II) see also Leberveld
+- Payen, A.A.J. (1792-1853; Belgian artist) 142-3 (plate of south coast), 198 (plate of postweg), 367, 448 (treatment of santri described), 538, 540 (estimation of value of Bedhaya), 572, 601-2 (description of Dipanagara’s flight), 617 (reports Chinese massacres), 621
+- payung (state parasols) 60, 141 (HB II’s gold parasol), 170 (Ministers allowed to carry), 173, 246-7 (during Rongga rebellion), 256 (bearers in Rongga’s final battle), 339 (Crown Prince’s captured by sepoys), 506, 586 (as symbol of Dipanagara’s authority in holy war), 632 (distributed by Dipanagara in Java War), 670 (Dipanagara asks Cleerens for)
+- peanut oil (lisah kacang) 469 see also oil, cooking
+- pearls 21 (trade in Jeruk Legi, Banyumas)
+- peasantry (Javanese) 8-45 see also sikep, ngindhung, numpang
+- Pedhalangan, village (Béji district, Klathèn) 34 (wealth of sikep in)
+- pedhang (heirloom swords) 128 (in MN), 813-5 (Dipanagara’s) see also kris
+- pedhati (ox-carts) 32
+- pégon, aksara (unvocalised Arabic script) 99-100, 371, 489, 580 (plate), 670-1 (Dipanagara’s seal and letter, 14-2-1830), 672 (plate), 732 (Babad Dipanagara), 744 see also Babad Dipanagara, Cohen Stuart, Javanese-Islamic (literature), Makassar Notebooks
+- Pekalongan 26, 41, 44, 215-7, 464-5, 478, 499 (Pinket van Haak transferred to), 553, 560, 563
+- pekarangan (yard / orchard / kitchen garden) 30
+- Pekih Ibrahim, Kyai (Dipaningrat I; pengulu of Yogya, 1755-98) 76, 82, 765, 773
+- Pekih Ibrahim, Kyai / Mas Pangulu (Muhamad Kusèn; nephew of above; pengulu of Dipanagara, 1828-30) 581, 633, 669, 675, 694 (during Dipanagara’s capture), 697, 700, 790
+- Peking 171 see also Manchu (court)
+- Pellew, Admiral Sir Edward, 1st Viscount Exmouth (1757-1833) 159 (Gresik landing, 12-1807)
+- Pemberton, Lieutenant G.R. (1789-1866; 3rd Battalion Bengal Volunteers; Resident of Jipang, 1813-4) 51, 213, 615 (takes over Grobogan-Wirasari)
+- pendhapa (pavilion / audience hall) 85 (at Tegalreja), 631 (used by Dipanagara at Kepurun) see also Bangsal Kencana, Kemandhungan, Srimenganti
+- Pendhawa, village (Yogya) 36
+- Pengalasan, Ali Basah Kerta (army commander in Bagelèn) 583-4, 588-9, 662-5 (describes Dipanagara’s war aims / peace proposals), 671, 673, 677 (reconnoitres Metésih), 691 (Dipanagara asks for during negotiations), 749-50 (suggested as escort for Dipanagara’s mother during voyage to Makassar), 758 see also opium
+- Pengawatreja see Ngawatreja
+- Pengging 36
+- pengulu (of Yogya) 91 see also Kamalodiningrat (Abu Yamin), Pekih Ibrahim, Sapingi
+- pengulu banyu (water overseers) 38
+- pépé (supplicants for justice) 544
+- pepper 161 (in Pacitan), 164, 380 (exports from Pacitan), 398 (cubeb pepper estates, east Java), 455 (plantations in Pacitan / Lowanu), 494 (in Pacitan)
+- peranakan see Chinese
+- Perez, P.J.B. de (1803-59; Governor of Moluccas, 1840-9) 743, 746-7 (meeting with Dipanagara about mother), 754-5, 755 (death)
+- Perié, Major J.J. (1788-1853; 7th Hussar Regiment) 678, 689 (commands cavalry during Dipanagara’s arrest), 698
+- Perron, Lieutenant-colonel Louis du (1793-?) 667 (‘iron patience’ with Javanese), 678 (commands Magelang garrison troops at Dipanagara’s arrest), 686, 689, 692-3 (troops encircle Residency house)
+- personal services 14, 58-9 (eastern mancanagara inhabitants perform for bupati) see also kerigaji, kerigan
+- pesanggrahan-Dalem, royal country retreats / pavilions 58-9 (constructed by HB II), 185, 210, 389 (built by HB II / HB III), 778-9 (list of)
+- Pesantrèn, pradikan village (Kedhu) 469, 610 (provides assistance for Dipanagara) see also Bendha
+- pesantrèn, Islamic religious boarding schools 103-4, 128-9, 448, 627 (followers of Dipanagara from), 743 see also education (Qur’ānic)
+- Petruk, panakawan in wayang 405
+- Phillips, Captain W.E. 307-8 (prepares Raffles’ visit to courts, 12-1811) see also Sulawesi
+- physiognomy see ngèlmu firasat
+- piagem, letters of authority / appointment 622-3 (given out by Dipanagara in 1825)
+- Pieneman, Nicolaas (1809-60, Dutch artist) 695 (painting of Dipanagara’s capture), 698-9
+- Pietermaat, D.F.W. (1790-1848; acting Resident of Manado, 1826-7, Resident, 1827-31; Deputy Governor of Makassar, 1833; Resident of Semarang, 1834; Batavia, 1834-7; Surabaya, 1840-8) 117, 639, 707, 721-4, 726 (concern about Dipanagara’s savings), 730 (plate), 731-3 (Dipanagara tells life story to as babad), 735 (returns to Manado to arrange Dipanagara’s transfer, 1833)
+- Pieters, Lieutenant (Yogya garrison second in command) 536 (killed in bandit attack, 9-1823) see also Babadan, Bouwens
+- pikes, pikemen 7, 180, 333 (effectiveness during British assault), 611 (during Java War)
+- pilgrimages (in Java) 81 (to north coast), 125, 127-56 (Dipanagara’s to south coast, c. 1805), 132 (Yogya court sends to Tegalarum / north coast), 266 (to Seséla), 273 (to north coast, 1811), 495 (PB V sends to north coast, 1821)
+- Pinang xii, 159, 215, 257, 269 (British troop build up at, 1810-1), 275, 312, 331 (Mangkudiningrat I’s exile in), 353 (HB II’s exile in), 354, 363-5 (HB II sent to), 414, 441 (HB II in), 465 (tobacco from), 489 (arrival of cholera from), 494 (cholera spread by sailors from), 718 (sea route to Jeddah through)
+- Pinggir, village (east Java) 491
+- pinggir, people (prisoners-of-war / slaves from Blambangan) 291 (PB IV asks for return of), 546
+- Pinket van Haak, D.F.W. (1779-1840; Resident of Surakarta, 1816-7) 215, 439 (serial Eurasian mistresses of), 499-500, 561, 808
+- pirates 165 (smuggling on south coast), 380 (in Pacitan) see also Balinese, smuggling, Timorese
+- Pisangan, village (Slèman) 262, 514, 607 (ambush of Dutch treasure convoy at), 611 see also Le Bron de Vexela
+- Pitt, William, the Younger (1759-1806; British prime minister, 1783-1806) 316
+- Plasa Kuning, Kyai 100 see also Plasa Kuning, village
+- Plasa Kuning, pradikan village and pathok negari 90, 782
+- Plassey, battle of (23-6-1757) xiii, 342
+- Plérèd, kraton 216 (captured cannon from), 337, 349 (rape of attractive court women falling foul of), 388 (removal of kraton to new site), 552 (storming of, 6-1826), 571, 608, 630, 642 (Cochius storms, 9-6-1826), 782 (pradikan / graves at)
+- Pogang, village (Yogya) 536 (leased by Dietrée)
+- poisoning (at courts) 173 see also upas
+- pojok baluwerti (kraton battlements) 216 see also Yogyakarta
+- Poland, Colonel Theodorus (‘Toontje’) (1795-1857) 576
+- Polanen, R.G. van 160 (view of Van Braam), 168 (view of Van Ijsseldijk)
+- police
+- Actions (Politionele Acties), Dutch (1947, 1948) 71, 607
+- force 616 (set up by Chinese peranakan woman at Ngawi, 9-1825) see also gunung, Jayèng Sekar, landdrost, tamping
+- officers (oppasser) 536 (investigate attack on Babadan, 9-1823), 560 (problems with) see also gunung, tamping
+- regulations see Angger Gunung
+- Poll, H.M. van der (1796-1833; chief magistrate / hoofd baljuw of Batavia, 1826-8) 547, 551
+- Pollux, naval corvette 712 (description of), 713-21 (transports Dipanagara to Manado), 714-5 (map of voyage), 724-5, 757, 822 see also Eeg, Schillet
+- Pomeranz, Kenneth 68
+- Poncakusuma, Radèn see Suryabrangta
+- Pondhok Gedhé (Cilitan) 106 (Nicolaus Engelhard’s villa at)
+- Popper, Karl (1902-94; philosopher) 757
+- population (in south-central Java) 1, 20, 27, 31, 39-42, 465 (decline in Kedhu, 1824-5), 521 (statistics compiled, 1823), 522 (census)
+- porters xiv, 31, 610 (help Dipanagara in Java War) see also gladhag
+- porters’ guilds see gladhag
+- Portier, Second-lieutenant P.D. 525 (description of captivity, 1826), 588, 614 (description of Radèn Ayu Sérang), 620 (captured by Dipanagara), 631 (brought to Dipanagara’s Kulon Praga base)
+- Portuguese 588 (conversion to Islam in VOC period) see also Indo-Europeans
+- post road (trans-Java) see postweg
+- postal service in Java 231, 236 (slowness of) see also Chevallier, Yogyakarta
+- postweg (Daendels’ trans-Java post road) 158 (plate), 186, 197, 198 (plate), 215 (mortality of labourers on), 218 (demang of Tersana shot on), 236, 265 see also Daendels
+- potatoes 23, 494 (planted during 1821 drought), 700 (eaten by Dipanagara), 718
+- Prabalingga, district (southern Kedhu) 55, 466-7 (popular uprising in), 513 (impact of Merapi eruption on)
+- Prabayeksa (private apartments of Yogya sultan) 70, 406
+- Prabu, Pangéran see Prabuningrat
+- Prabuningrat, Pangéran (?1779-1829; pre-1825, Pangéran Wiramenggala; son of HB II) 352 (joins Dipanagara), 657 (killed at battle of Siluk, 17-9-1829), 798
+- Prabuningrat, Pangéran Adipati see Wiranagara, Radèn Tumenggung
+- pradata (civil court, Yogya) 547-8 (corrupt rule of Danureja IV influences decisions) see also surambi
+- pradata (civil court, Surakarta) 485
+- pradikan, tax-free villages 61, 72-3, 94 (Maja), 273, 333, 610 (help Dipanagara in Java War), 780-4 (list of locations), 785 (map), 786-94 (list of ulama from) see also Kepundhung, Maja, pathok negari, pesantrèn
+- Pragolamurthi, lakon (wayang plot) 568
+- prajurit arahan (military levies, Yogya) 177, 195
+- prajurit èstri see Amazon corps
+- prajuritan (fighting dress) 121, 208 (worn by Yogya courtiers during Daendels’ visit, 7-1809), 335 (kraton defenders wear during British assault), 616 (women wear in siege of Yogya, 8/9-1825), 629 (worn by female fighters) see also Amazon corps
+- Prambanan 86 (Dipanagara takes statuary from), 90, 209 (Daendels visits temple ruins, 30-7-1809), 298 (Crawfurd met by HB II’s envoys at), 337, 418-9 (plate), 421 (statuary taken by Yogya princes)
+- Prampèlan, Kyai Ageng 72
+- prang Cina (Chinese War, 1741-3) 335, 349, 372 see also Garendi, Chinese
+- prang désa see village (Javanese)
+- prang puputan (final battle / ending war) 341
+- prang sabil (holy war) xiv, 90, 333 (appeal to during British assault), 602, 617, 622, 628 (Dipanagara’s war as), 631, 632 (payung as sign of), 635, 688 (Dipanagara’s dress during)
+- Prangwedana see Mangkunagara II
+- Praniti Kapa-Kapa, law code 104 see also Javanese-Islamic law
+- Prapak, village (southern Kedhu) 585
+- prau pengluput (customs free lighters on Bengawan Sala) 56, 185 (Daendels uses to travel to Surabaya via Gresik), 193 (plate)
+- Prawirabrata, Radèn see Bratasena
+- Prawiradiningrat, Pangéran (younger brother of Dipanagara) 581, 623
+- Prawiradiningrat, Radèn Ayu (wife of above) 623
+- Prawiradiningrat, Pangéran Rongga see Rongga Prawiradiningrat
+- Prawiradirjan family 82, 405 see also Rongga Prawiradirja
+- Prawiradiwirya, Radèn (brother of Ratu Kencana Wulan) 350 (forced to transport kraton booty to Residency)
+- Prawirapraja, Radèn Ngabèhi (younger brother of Radèn Rongga Prawiradirja III) 247 (given title during Rongga rebellion), 257 (returns to Yogya)
+- Prawirasastra, Radèn Ngabèhi, carik-Dalem (senior court scribe) 197
+- Prawirasentika, Radèn Rongga (pre-1811, Yogya bupati of Bauwerna, east Java; acting joint bupati wedana of Madiun, 1811-26) 255 (during Rongga rebellion), 267 (appointed joint acting bupati wedana with Dipakusuma), 372, 408, 415 (captures Sayyid Kramat), 773 see also Dipakusuma, Pangéran
+- Prawirawinata, Radèn Tumenggung (brother of Ratu Kencana Wulan) 292 (participates in murder of Danureja II), 350 (forced to transport kraton booty to Residency)
+- Prawirayuda, Radèn Tumenggung (Yogya bupati of Jipang-Pasekaran / Sekaran) 255 (equivocal behaviour during Rongga rebellion), 268 (replaced, 1-1811)
+- Prayamenggala, Radèn Ngabèhi (Surakarta gandhèk / royal messenger) 228
+- Preanger Residency (west Java) 668 (Bonjol exiled in), 676 (Cleerens as Resident of), 719 see also Cleerens
+- Prehn, Rijck van (1779-1843; Resident of Surakarta, 1818-9) 486, 499-500 (trial and dismissal of, 1820), 528, 537, 809
+- Priangan (west Java) 41, 45, 167, 198, 527, 668 see also division of Java, Pajajaran, West Java
+- priest-king see pandhita-ratu
+- primbon (divination manual texts) 113, 495-6 (Dipasana’s augury skills)
+- Prince Regent (Yogya) see Hamengkubuwana III
+- princes of the blood see sentana
+- Principalities see vorstenlanden
+- Pringgadiningrat, Radèn Tumenggung see Pringgakusuma, Radèn Tumenggung
+- Pringgakususuma, Radèn Tumenggung (?-1815; Yogya bupati of Rawa, east Java; post-1812, Yogya nayaka with title of Radèn Tumenggung Pringgadiningrat) 181 (goes to Semarang with Yogya delegation to Daendels, 7-1808), 232, 248, 254-5, 370-1 (appointed bupati nayaka), 396 (Crawfurd backs as candidate for patih, 12-1813), 443 (dies)
+- Pringgakusuma, Radèn Ayu (wife of above; daughter of HB II) 370
+- Pringgalaya, Radèn Tumenggung (Yogya bupati of Kertasana, east Java) 255 (equivocal behaviour during Rongga rebellion), 268 (replaced, 1-1811)
+- Pringgodani, village (Yogya) 281
+- Pringlegi, village (Kedhu) 513 (destroyed in Merapi eruption, 28-12-1822)
+- Prins, Bart de 644-5
+- Priyangan see Priangan
+- priyayi
+- post-1830 Dutch-appointed officials 67
+- pradikan 271 (at Yogya court), 444 (mobilised during British assault)
+- in Yogya kraton 9, 50 (links with bandits), 141 (offerings at Parangtritis to obtain status of), 607 (join Dipanagara in 1825), 622 (act as Dipanagara’s first commanders), 648 (support for Dipanagara)
+- prize money (taken by British after fall of Yogya) 347, 364 see also British, asset strippers and looters, Great Britain, imperial grand larceny
+- Procris, H.M.S. (British sloop of war) 288-9 (attack on French gunboats)
+- Prophet’s birthday see Garebeg Mulud
+- prostitutes see ronggèng
+- Prussians 27, 68 (Goethe at Valmy), 609 (standard model infantry flintlock used in Java War), 626 (men of Banyumas compared with)
+- public health 41-6
+- Pudhak, forest 251 see also Ratu Adil
+- Puger, Pangéran see Pakubuwana I
+- Puja Kusuma, romance 496 (eulogy to Dipasana in text of)
+- Pulangyun, Mas Ayu (daughter of patih of Kendhal; unofficial wife of Danureja II; post-1812, wife of Radèn Ngabèhi Danuwijaya of Kalibeber) 762-3, 781, 823 (as mother of Ali Basah Ngabdulkamil Mertanagara)
+- Pulau Onrust (Bay of Batavia), VOC naval dockyard 140 (link with Ratu Kidul), 159 (British capture of ships at)
+- Pulau Pinang see Pinang
+- Pulau Putri 140 see also Ratu Kidul
+- Pulau Toris 140 see also Ratu Kidul
+- Pulo Kadang, pradikan village 91, 131 (visited by Dipanagara), 627, 676, 786, 791 see also Badhèran, Maja
+- Pulo Waringin (waringin / banyan tree island) 87, 576 see also Sélareja
+- Purbakusuma, Radèn Tumenggung (son of Pangéran Ngabèhi, ?1738-1822; post-1822, Pangéran Purwanegara) 221 (marries daughter of HB II and Ratu Kencana Wulan), 225, 624-5 (plate), 803
+- Purbaya, Pangéran (son of PB IV; later Pakubuwana VII, reigned 1830-58) 181, 416, 422, 424 (during sepoy conspiracy, 1815), 531 (indebtedness), 555, 558 (passed over as successor to PB V), 559, 658, 744 (facilitates copying of Surakarta texts for Dipanagara in Makassar)
+- Purwa cycle, wayang plays 105 see also Bratayuda
+- Purwadadi, new kabupatèn (Madiun) 268 (created 1-1811), 381
+- Purwadadi, district (north coast) 614 (Pangéran Sérang’s campaign in, 9-1825), 615
+- Purwadiningrat, Kyai Adipati (?1750-1810; Yogya bupati of Magetan, east Java, 1797-1810; pre-1797, Mas Tumenggung Sasrawinata) 50 (links with bandits), 219 (father of Ratu Kedhaton), 396, 760, 803
+- Purwadiningrat, Nyai Adipati (wife of above; mother of Ratu Kedhaton) 396
+- Purwadipura, Radèn Tumenggung (?1760-1814; Yogya nayaka; wedana Gedhong Tengen / Treasury Department, 1797-1810) 10, 227 (appointed to replace Danureja II, 1810), 231, 242-3 (heads Yogya expedition against Rongga), 252 (dismissed for currency / opium deals), 254 (replaced as commander), 257, 268 (exiled to Sélamanik, 1-1811), 272 (goods / chattels distributed), 292-3 (recalled from exile / participates in murder Danureja II), 775, 803
+- Purwadipura, Radèn Ayu (daughter of HB I; wife of above) 268 (saves husband’s life)
+- Purwakusuma, Pangéran (?1802-?; post-1827, Pangéran Abdul Karim Aria Bintara; son of HB II) 352 (joins Dipanagara), 797
+- Purwanegara, Pangéran see Purbakusuma, Radèn Tumenggung
+- Purwareja (eastern Bagelèn; pre-1830, Kedhung Kebo) 27, 135, 481, 662, 694, 699 see also Cakranegara I, Kedhung Kebo
+- Purwareja, pathok negari (Yogya) 90, 210, 782
+- Purwaretna, pavilion (Yogya kraton) 292 (Danureja II strangled in)
+- pusaka (heirlooms) 132 (Kadilangu and Demak as two indispensable heirlooms of Java), 250, 274, 292 (kept in Purwaretna pavilion), 341 (captured from Yogya, 20-6-1812), 356 (great regalia), 365 (sale of and making of replacements), 445 (Kyai Birawa kris), 491, 506, 534, 548, 636 (Maja accuses Dipanagara of too much interest in) see also kris
+- Puspadiwirya, Mas Ngabèhi (patih of Radèn Rongga Prawiradirja III) 247, 256
+- Pusparana, Ngabèhi (mantri of Jaba Kiwa department) 244 (discovers letters in Rongga’s residence)
+- Puspitawati, Radèn Ayu (selir / unofficial wife of HB III; ‘nurse’ of HB IV) 412 (sleeps with HB IV to instruct him in sexual matters)
+- Puthutguritna, Rongga (follower of Dipanagara) 568
+- Puthutlawa, panakawan of Dipanagara at Tegalreja 568
+- putihan (men of religion) 141, 144, 191, 214-5 (Daendels’ ban on circulation of), 271 (priyayi pradikan), 333 (mobilised during British assault)
+- Puwasa, fasting month 14, 39, 57, 87, 94 (Dipanagara’ retreats during), 136, 155, 232, 243, 495 (1821 cholera epidemic during), 564 (Dipanagara’s vision of Ratu Adil during), 594 (Dipanagara remits taxes in), 606, 638, 675 (Dipanagara observes at Menorèh), 679, 689 (end of, 28-3-1830) see also Garebeg Puwasa
+- Puy, Pieter du (?-1808; Resident of Banten) 600-1 (murdered)
+- Qadiriyya, tarekat (mystical brotherhood) 111, 489 see also Naqşhabāndīyya, Shaţţāriyya
+- qiblah (prayer direction to Mecca) 579
+- Qué Bok Sing, leading member of Yogya Chinese community 524 (testimonial for Smissaert)
+- Qué Hok Sing, leading member of Yogya Chinese community 524 (testimonial for Smissaert)
+- Qur’ān 47, 92 (Maja’s knowledge of), 94, 100, 102-4, 111, 122, 152 (inscription on Dipanagara’s battle banners), 387, 406, 410 (tutor in study of appointed for HB IV), 490, 511, 524 (prohibition on wine), 545 (Abuyamin’s lack of knowledge of), 567 (as mandate for holy war), 569-70 (mandate), 573 (daily recital by Dipanagara), 575, 580, 590 (Qur’ānic example cited), 603 (mandate for holy war), 628, 633 (Maja’s knowledge of), 638 (Maja’s troops chant verses from), 639, 694, 701, 706 see also education (Qur’ānic), Hadīth
+- Qué Wi Kong, leading member of Yogya Chinese community 533 (testimonial for Smissaert)
+- Raad van Indië see Council of the Indies
+- Raad der Aziatische Bezittingen en Etablissementen (1800-6) xii
+- Raad van justitite (high court) 385-6 (at Semarang)
+- Rach, Johannes (1720-83, artist) 2 (plate of Yogya kraton), 708-9 (plate of Stadhuis)
+- rad agama see surambi
+- Raffles, T.S. (1781-1826; lieutenant-governor, 1811-6) xiii, xviii, xx, 4-7 (view of Yogya military establishment), 15, 19-20, 27, 41, 61, 104, 151, 154, 163, 168, 171 (altercation with HB II in throne room), 213 (effects of Daendels’ timber policies), 260 (as Napoleonic philosopher), 280 (Malay language letters from Malaka), 281, 291, 298, 300 (plate), 301 (censors Crawfurd), 303-5, 307-13 (first visit to Yogya and treaty of 28-12-1811), 313, 320 (view of PB IV and secret correspondence), 324, 326 (misunderstands status of ruler’s official and non-official wives), 327, 331-2 (attack on Yogya), 335, 341-2, 345-50 (in aftermath of assault), 351-2 (collection of Javanese MSS and friendship with Natakusuma / Sura-adimanggala IV), 355-9 (invests HB III), 356-7 (umbrage at homage of older princes), 359-65 (presides over key ceremonies), 361-2 (formal annexation of Kedhu / appointment of Pakualam), 373, 380-7 (1812 treaty negotiations), 407-9, 411 (meets with HB IV, 1-1816), 412 (and wife Olivia Mariamne), 415-6 (view of sepoy conspiracy), 427 (visits Surakarta), 435 (favourable view of Nahuys), 443, 454, 464 (land tax in Kedhu), 503, 508, 527 (land tax), 562-3, 583, 615, 655, 757, 807
+- Raffles, Lady Sophia (1786-1858; second wife of above) 352 (presents husband’s Javanese / Indonesian MSS to Royal Asiatic Society), 385 (comment on Raffles’ judicial reforms)
+- Raffles, Olivia Marianne (1771-1814; first wife of T.S. Raffles) 412 (age difference with husband)
+- Rahmanudin, Kyai (pengulu of Yogya, 1812-23; confidante of Dipanagara) 89, 325, 370, 545-7 (dismissal), 573-5, 578, 595, 597 (departs on haj, 7-1825), 773, 792
+- Raib, Radèn Mas (?1816-?; son of Dipanagara) 80, 103, 110, 682, 688, 711, 746, 767 (family tree), 813 (given pusaka kris / pike)
+- Raj, British (India) xi see also British Indian troops, India
+- Raja Datuk Namak, Bugis sea captain (pirate) 21 see also Bugis, pirates
+- raja Islam (title) 583, 587
+- rajah (sacred texts / amulets) 614, 627-8
+- Rajamenggala (panakawan of Radèn Tumenggung Dipawiyana) 729 (returns to Java), 817
+- Rajawinangun (Arjawinangun), royal pesanggrahan, 9, 179-80 (military review at, 1-6-1808), 185 (as defensive position), 188, 208, 210 (visited by Daendels), 383 (market taken over by British, 1812), 407, 456, 461 (rented by Thomson), 463 (indigo plantations at), 533 (Thomson’s indigo plantation at), 535 (indemnity for), 542, 782 see also Thomson, Dr Harvey
+- Rajegwesi, district (east Java) see Jipang
+- Rajput (British Indian soldiers) 358 see also British-Indian (troops), sepoys
+- raksasa (monsters) 698 (De Kock and Dutch officers compared to)
+- Rama, Panembahan (Kajoran) 630 see also Kajoran
+- Rama, Serat (text) 105
+- Rama Badra, text 410 (legends from Adam to fall of Kartasura)
+- Ramayana, wayang cycle / epic 247 see also Dasamuka
+- rampog macan (tiger spearing) 50, 210 (at the time of Daendels’ visit, 30-7-1808) see also tiger-and-buffalo fights
+- Ranadiningrat, Radèn Tumenggung (pre-1811, Radèn Panji Jayèngrana; wedana gedhé prajurit / kraton troop commander, 1811-7) 254 (on expedition against Rongga), 408 (member of regency council, 1814), 776, 804
+- Ranawijaya, Ngabèhi (Surakarta kepatihan official) 281 (carries secret correspondence to Yogya), 319 (imprisoned by British)
+- Rangga, Pangéran Arya (younger brother of Dipanagara) 747 (exiled to Ternate, 1849), 752
+- Rangin, Bagus (leader of Cirebon rebellion, 1808-12) 185
+- Rānīrī, Nūrudīn ar-, Gujerati Muslim scholar (?-1666) 99 see also Bustān as-Salaţīn
+- rape 349 (at fall of Plérèd and Kartasura), 619 (Sasradilaga’s conduct with Chinese peranakan women in Lasem, 1827) see also women
+- Rara Kidul, Nyai see Lara Kidul
+- Rasamuni, mount (Gunung Kidul) 136 (Dipanagara’s vision of Ratu Adil on), 566-8, 571
+- Rata (Jayasurata), panakawan of Dipanagara 405, 653, 688, 697 (carries Dipanagara’s betelbox on coach to Bedono), 700 (pun on potatoes), 816 (transferred to Tondano, 1839)
+- Ratu Adil (‘Just King’) xiv, 70, 90, 104, 123, 136, 156, 251 (Rongga as), 414-5, 481-4 (Umar Mahdi as, 1817), 492-3, 495, 505 (Dipanagara as), 516 (expectations after Merapi eruption), 517, 543, 563, 566-71, 574, 578-9, 583-8, 603, 650, 757 see also Jayabaya, millenarian expectations
+- Ratu Kidul (goddess of the southern ocean) 17-8, 45, 109, 140-1, 144-8 (appears to Dipanagara, 7-1826), 156, 488-9, 496, 515, 559 (PB VI attempts to visit, 1830), 571, 579 (water as element of), 758
+- ratu paneteg panatagama (royal protector of religion) see paneteg panatagama
+- ratu pinarjurit (warrior kings) 189 (Rongga’s view of), 245 (Rongga’s references to), 248 see also Hamengkubuwana I, Mangkunagara I
+- Rauws, Captain (artillery) 207 see also Baillard
+- rawa (fens) 24 (in Bagelèn) see also Rawa Tambakbaya, Rawa Wawar
+- Rawa (Tulung-Agung), district (east Java) 8, 248, 254-5, 268 (number of bupati increased, 1-1811), 370, 484, 490 (Sunan Waliyullah in) see also Pringgakusuma, Radèn Tumenggung
+- Rawa Tambakbaya (western Bagelèn) 24, 669 (Dipanagara’s patih attempts to hide in)
+- Rawabangké (Meester Cornelis) 283
+- Rawa Wawar (eastern Bagelèn) 24
+- Rawana see Dasamuka
+- rayat (village dependants) 33-4 see also ngindhung, numpang
+- rebels see kraman
+- rebo wekasan 479
+- Rees, W.A. van (1820-98; Dutch military officer / author) 576 (visits Selarong)
+- regency see Hamengkubuwana IV, Hamengkubuwana V, Pakualam I
+- Regret, The (British merchantman) 712
+- Rejasa, village (Kulon Praga) 337 (wives and children of Dipanagara and army commanders kept at), 620, 631, 651 (lack of food, 1829)
+- Reksanegara, Kyai Tumenggung (wedana bandar / head of tollgates, ?1800-12) 399, 776 804
+- religious communities (Yogya) see putihan, santri
+- Rèma (Jatinegara), district (western Bagelèn / Banyumas) 396 (Danurejan links with), 474, 586, 623 (Ali Basah Mertanagara hails from), 653 (Dipanagara flees to, 1829), 661, 664-5, 669, 686 see also Danukusuma II, Gandakusuma, Rèmakamal, Rèma Jatinegara
+- Rèma Jatinegara, bènthèng (northeastern Bagelèn / Banyumas) 670
+- Rèmakamal, village (northeastern Bagelèn / Banyumas) 665, 670-3 (meeting between Dipanagara and Cleerens at, 16-2-1830), 740 (Dipanagara reminds Cleerens of meeting at), 824
+- Rembang 41, 164 (shipyards at), 234, 249 (Rongga’s rebellion in), 381 (Sasradilaga’s revolt in, 1827), 436, 519 (Smissaert as Resident of), 521, 527, 547 (Lawick van Pabst as Resident of), 618-9, 623 (regional response to Dipanagara), 640, 642-3 (Sasradilaga’s revolt in), 648 see also Lawick van Pabst
+- Rembang, pengulu of 642
+- Renesse-Breidbach private collection (Algemeen Rijksarchief, Brussels) xix see also Gisignies
+- Resagota, Kyai Tumenggung (bupati of Sokawati) 765
+- Resagota, Nyai Tumenggung (wife of above) 765
+- Resasentana, Amad Dullah Tumenggung 582 (appointed bupati of Kutha Gedhé by Dipanagara)
+- Residents, Dutch 808-10 see also Dutch East Indies Company
+- Residency (law) courts 385 (established by Raffles, 1814)
+- Retna Déwati (name of Ratu Kidul in waxing moon) 144 see also Ratu Kidul
+- Retnadiluwih, Radèn (selir of Pakubuwana VII; mother of his surviving daughter) 416
+- Retnakumala, Radèn Ayu (wife of Dipanagara; daughter of Kyai Kasongan) 768
+- Retnakusuma, Radèn Ayu (official wife of Dipanagara; daughter of Yogya bupati of Panolan, Radèn Tumenggung Natawijaya III; pre-1807, Radèn Ajeng Supadmi) 85, 97, 618, 762, 766-7
+- Retnaningrum, Radèn Ayu (wife of Dipanagara; daughter of Pangéran Panengah / Dipawiyana I) 700 (refuses to accompany Dipanagara to Batavia), 768
+- Retnaningsih, Radèn Ayu (official wife of Dipanagara; daughter of Yogya bupati of Kenitèn, Radèn Tumenggung Sumaprawira) 80, 119 (description of), 660, 698, 700-2 (accompanies Dipanagara to Batavia), 713, 717 (Knoerle’s description of during Manado voyage), 718 (serves food to Knoerle), 726 (allowance in Manado), 728-9, 731, 738, 749 (sends presents to Dipanagara’s aged mother), 751 (grave in Makassar), 755 (death of), 765, 768, 816
+- Retna Suwida, Déwi 140 see also Ratu Kidul
+- revenue lists (Yogya) 62 (disorder of)
+- Revolutionary Wars (1792-9) xii, 707
+- Rhijn, J.M. van (Resident of Yogya, 1773-86) 70, 237
+- Rhine wine 718 (tasted by Dipanagara)
+- rhinoceros, Javanese 653 (Dipanagara follows tracks of)
+- Riau, archipelago 21 (pirates in)
+- rice 43, 57 (harvests), 78, 164 (supplies to eastern Indonesian garrisons), 186 (supplies for Daendels’ troops), 258 (supplies from eastern mancanagara), 380 (Kedhu as granary), 384 (taxes levied on), 465 (attacked by plagues of rats), 473 (higher prices in Yogya than Surakarta), 474 (trade in), 493-4 (high prices of, 1821-2), 516, 811-2 (prices in Yogya and Java) see also padi
+- rice trade 37, 380 (from Pacitan), 384 (steep price rises)
+- ricefields see sawah
+- Ricklefs, M.C. 40, 356
+- Rijck, Ambrosina Wilhelmina van see Braam, Mrs van
+- Rijck van Prehn see Prehn
+- Rijksmuseum (Amsterdam) 695
+- Rinia van Nauta, Captain Bavius Gijsbertus (1787-1860; commander 6th mobile column; post-1830, circuit judge Semarang division) 678 (in Magelang for Dipanagara’s arrest), 699
+- roads 12 (poor condition of), 462 (HB IV’s construction mania), 608 (ambushes on in Java War)
+- Robison, William (captain 24th dragoon regiment; aide-de-camp to Minto) 199, 285-7, 290-2 (visit to courts, 9-1811)
+- Rochussen, J.J. (1797-1871; governor-general, 1845-51) 747, 752, 808
+- Roeps, Captain Johan Jacob (1805-40; Javanese-speaking infantry officer) 114, 428 (owes life to Bengali troop sergeant), 503, 636 (negotiations with Maja at Melangi), 659-60 (biography), 675, 688-90 (translates during De Kock’s meeting with Dipanagara), 693-4, 697-701 (accompanies Dipanagara to Batavia), 703, 707, 711 (distributes Dipanagara’s pusaka weapons to children), 712-3, 721, 724, 726
+- Roest, Lieutenant-colonel W.A. (former military adjutant of Governor-general Van der Capellen) 648 (in command against Sasradilaga), 689 (in Magelang for arrest of Dipanagara), 692 (relays orders from De Kock)
+- Rondhan, Kyai (Dipanagara’s pusaka pike) 652, 813 (given to Dipanagara II)
+- Rongga Prawiradiningrat, Pangéran (post-1830, Pangéran Adipati Prawiradiningrat; bupati wedana of Madiun, 1822-59; son of Radèn Rongga Prawiradirja III by Ratu Maduretna) 91, 267, 405, 761, 764, 773
+- Rongga Prawiradirja I, Radèn (?-1784; pre-1760, Kyai Rongga Wirasentika, army commander of Hamengkubuwana I; bupati wedana of Madiun, ?1760-84) 12, 190, 243, 366, 405, 573, 581, 760, 764, 772
+- Rongga Prawiradirja II, Radèn (?-1796; pre-1784, Radèn Rongga Mangundirja; bupati wedana of Madiun, 1784-90/1794-6; son of above) 269, 496 (daughter married to Dipasana), 761, 764, 772
+- Rongga Prawiradirja II, Radèn Ayu (alias Radèn Ayu Sepuh; wife / widow of above; daughter of Hamengkubuwana I) 247 (given title during Rongga rebellion), 257-8 (brought back to Yogya, 12-1810), 761, 764
+- Rongga Prawiradirja III, Radèn (?1779-1810; bupati wedana of Madiun, 1796-1810; son of above) 5, 10, 12-3, 51, 53, 58, 60 (‘kraton’ at Maospati), 79, 82, 129, 151, 175, 177-8 (summons prajurit arahan to Yogya), 181 (participates in delegation to Semarang), 183-4, 186, 188, 189-94 (character assessed), 192, 201 (incident with Van Braam), 206, 214 (timber crisis and blame by Daendels), 216 (work-force extends Yogya fortifications), 219 (reaction to death of wife), 220 (captures Panaraga gamelan), 221, 225, 231-3, 236-9 (in Yogya before rebellion), 240-59 (rebellion and death), 240-1 (map of flight), 241-60, 268-9, 272 (distribution of goods), 312, 337, 362, 370, 372, 401, 415, 492, 505, 572-3, 581, 608, 623, 649, 761, 765-6, 773 see also Maospati
+- Rongga Prawirasentika, Radèn see Prawirasentika
+- ronggèng (dancing women / prostitutes) 21-2, 22 (plate), 28-9 (tayuban dances), 187, 471 see also women
+- Rongkob, birds nest rocks (south coast) 571, 588-9, 620-1 see also Portier
+- Ross-shire Buffs (78th Regiment of Foot; Fraser’s Own) 304, 341 (officer captures HB II), 357 (at investiture parade) see also Douglas
+- Rothenbühler. F.J. (Gezaghebber of the Oosthoek, 1800-9; post-1809, Prefect) 183
+- Rotterdam 735
+- Rotterdam, fort (Makassar) see Fort Rotterdam
+- Rouffaer, G.P. (1860-1928) 13-4, 39, 65, 317, 395 (on PA corps), 511, 555
+- Roux, H.M. le (acting Assistant-Resident of Semarang, 1834) 614 (cautions Radèn Ayu Sérang)
+- Royal Artillery 331, 333, 355 see also Colebrooke
+- Royal Asiatic Society (London) 352 (receives Javanese / Indonesian MSS from Lady Raffles)
+- royal retreats / pleasure gardens see kelangenan-Dalem
+- Rujakgadhung (alias Teplak/Fitpak, man servant of Dipanagara in Makassar) 741, 817
+- rukun (five pillars of Islam) 136
+- Rum, sultan (Ottoman sultan) 152-3, 251, 570-1 see also Άbd al-Hamid I, Ottoman, Turkey
+- Rupel, Z.M. (Dutch naval vessel / corvette) 666 (Van den Bosch arrives in Batavia on, 4-1-1830), 667 (De Kock sails to Semarang on, 25-2-1830)
+- rural gentry see kyai
+- Rusche edition (Babad Dipanagara, Manado version) xvii
+- Russians 665 (capture Adrianople / Edirne)
+- Rustenburg, fort (Yogya) see Vredenburg
+- Sahiman (alias Rujakbeling), panakawan of Dipanagara in Makassar 741, 817
+- Said, Radèn Mas see Mangkunagara I
+- St Just, Louis Antoine de (1767-94) 316
+- Sakondhar, Serat see Serat Sakondhar
+- Sala River see Bengawan Sala
+- salāt al-maghrib (evening prayer) 699 (Dipanagara performs at Ungaran)
+- salat gaib (prayer for the dead) 297
+- Salatiga 51, 92 (Maja at), 114 (Maja’s negotiations with Du Bus at), 177, 248, 287 (Janssens’ retreat to), 448, 459, 470, 511, 531 (Boyolali-Salatiga road), 553, 560, 570, 588, 631, 638, 642 (De Kock defends Salatiga-Surakarta line), 644 (peace negotiations with Maja at), 692-3, 696 (De Kock invites Dipanagara to go to) see also Gisignies, Maja, Stavers
+- Salèh, Haji Muhamad 281
+- Salèh, Radèn Malikan see Purbaya, Pangéran
+- Salèh, Radèn Mas (eldest son of Kyai Tumenggung Sura-adimanggala IV) 364 (to Calcutta for education), 616 (talks to mother about Sukur) see also Sukur, Radèn Mas
+- Salèh, Radèn Syarif Bustaman (?1811-80; Javanese artist) 158, 364, 688, 695, 698-9 (painting of Dipanagara’s arrest at Magelang), 742 (possible author of French press article on Dipanagara, 2-1848), 756 (view of Dutch Indies society) see also Danudireja, Kalapa-aking, Kraus
+- Salis, A.M.Th. baron de (1788-1834; Resident of Surakarta, 1822-3; Kedhu, 1825-6; Surabaya, 1830-1; Raad van Indië, 1831-3) 119, 458, 506-9 (in Yogya for investiture of HB V), 510 (critical view of Dipanagara), 511, 517 (replaces Nahuys in Surakarta), 519, 523, 529, 531 (critical views on land-rent), 554-5, 809
+- Saloringpasar, Pangéran (husband of Ratu Bendara I) see Ngabèhi, Pangéran
+- salt 24, 44 (daily consumption of), 45 (south sea variety), 380 (Pacitan production of), 384 (internal trade in), 393 (Crawfurd’s failed south sea salt monopoly, 1814), 469 (scarcity in eastern mancanagara during war), 515 (Sirisik as salt making village), 608
+- Salya, Radèn Mas (son of Pakualam I) 361 (appointed as Pangéran Suryaningprang)
+- Samas, pesanggrahan-Dalem / royal retreat (south coast) 154, 229 (visited by HB II during confrontation with Moorrees), 782
+- Sambas (Borneo) 410 (5/6-1813 British expedition against)
+- Sambirata, village (Nanggulon district, Kulon Praga) 480-1 (place of Ratu Adil), 584, 595
+- Samèn, village (south of Yogya) 49, 101, 609 (gunpowder manufacture at) see also Jayamenggala
+- Sampang (west Madura) 359, 641 (Dutch auxiliary troops from in Java War)
+- Sampang, village (western Bagelèn / Banyumas) 669 (Dipanagara in), 673
+- Samparwedi, Tuwan Sarif / Kyai Haji see Munadi, Hasan
+- Sampurna see Iman Sampurna
+- Samuel, Armenian Jewish burger Surakarta 266 (lends to PB IV)
+- Sanapakis, pesanggrahan-Dalem / royal retreat (east of Yogya) 454 (land-rent at), 779
+- Sancho Panza 518 (Smissaert compared to)
+- Sangkelat, Kyai (kraton pusaka kris) 341
+- Sanèpa, village (Karanganyar district, Bagelèn) 481-2 (Umar Mahdi disturbances in, 1817)
+- Santri, Bagus 132 (leader of 1832 rebellion)
+- santri 61, 72, 76-7 (at Tegalreja), 89, 92-4, 100, 115 (Dipanagara described as), 117 (as advisers of Dipanagara), 129, 131 (clothes worn by Dipanagara on south coast pilgrimage), 163 (as advisers of PB IV), 223 (Danureja II ridiculed as), 235 (Abubakar becomes), 239 (day of Rongga’s departure determined by), 271 (as priyayi pradikan), 273 (at court), 281 (as court haji), 294, 320 (in Surakarta kraton), 333 (Abubakar in garb of during British assault), 336 (Yogya kauman damaged), 365 (return to Yogya of), 367, 387 (Dipanagara’s supporters), 426, 441 (court ulama to Batavia to greet HB II, 1816), 448 (treatment during Java War), 489, 495 (sent from Surakarta to clean north coast graves during 1821 cholera epidemic), 525 (as supporters of Dipanagara), 583, 589, 603, 606, 626-33 (role during Java War), 631 (political power questioned), 649 (Senthot’s refusal to be educated as), 654-5 (tension with kraton supporters of Dipanagara), 669 (as advisers of Dipanagara), 676, 707, 757 (Dipanagara as) see also pradikan, putihan
+- Sapar, Javanese month (as time of appearance of Ratu Adil) 484, 579
+- Saperdan, Radèn Mas see Pakubuwana VI
+- Sapingi, Mas Muhamad (pengulu of Yogya, 1798-1812) 129, 273, 370 (replaced), 773
+- Sapu Jagad, Kyai (spirit guardian of Merapi) 496, 515, 571
+- Sarèn, village (Sragèn) 232 (possible meeting of Rongga and MN II at)
+- sarif 627 (as supporters of Dipanagara)
+- Sarkuma, Radèn Mas (1834-49; alias Radèn Mas Dulkabli; son of Dipanagara and Radèn Ayu Retnaningsih) 731, 740, 749 (death), 750 (plate of grave), 753, 769
+- Sarutama, pusaka arrow (received by Dipanagara at Lipura) 150, 153-4, 156, 403, 814
+- Sasi, Ratu (daughter of HB II and Ratu Kencana Wulan; wife of Danureja IV) 265
+- Sasmitaningsih, Mas Ajeng (unofficial wife of HB III; mother of Radèn Ayu Dipawiyana) 728
+- Sasradilaga, Radèn Tumenggung Aria (deputy commander of Yogya kraton troops; titular major; brother-in-law of Dipanagara) 381 (uprising in Rembang and Jipang, 1827-8), 436 (Nahuys defeated by troops loyal to), 615, 617-8, 619 (rapes Chinese peranakan woman in Lasem), 640 (uprising), 642-3, 648 (Holsman’s campaign against)
+- Sasradiningrat II, Radèn Adipati (patih of Surakarta, 1812-46) 27, 75, 397 (praises Danureja IV), 397, 435, 532, 537, 555, 556-7 (plate), 558-9, 561
+- Sasradiningrat I, Radèn Tumenggung (?-1807; Yogya bupati of Jipang-Rajegwesi, 1794-1807; father of Ratu Ibu / Ageng) 760, 804
+- Sasradiningrat II, Radèn Tumenggung (son of above; Yogya bupati of Jipang-Rajegwesi, 1807-12) 231 (as a nayaka), 255, 325, 804
+- Sasradipura, Radèn Tumenggung (Yogya bupati of Magetan, 1810-2) 255 (during Rongga rebellion), 804 see also Purwadiningrat, Kyai Adipati
+- Sasradiwirya, Radèn Ayu (sister of Dipanagara) 628 (marriage proposal from Kyai Banjarsari)
+- Sasrakusuma, Radèn Tumenggung (Yogya bupati of Grobogan, ?-1812) 214, 231, 255 (during Rongga’s rebellion), 804
+- Sasrakusuma, Radèn Ayu (mother of PB VI; sister of Radèn Adipati Sasradiningrat II) 555
+- Sasranegara, Radèn Tumenggung (Yogya bupati of Grobogan-Wirasari, 1807-12) 255 (during Rongga’s rebellion), 804
+- Sasrawirana, Mas Tumenggung (father-in-law of Danureja IV) 544 (appointed to succeed Kertadirja II in Kerja, Sokawati)
+- sastra pégon see Javanese-Islamic literature
+- satī (self-immolation of widows) 706
+- satria (knightly ideal) 403
+- satria lelana (wandering knight) 71, 105, 127-8 see also Dipanagara (pilgrimage to south coast), lelana
+- Satruna, Kyai (alias Sataruna / Suranata) 638, 733 (? helps Dipanagara with babad), 818
+- sawah (ricefields) 35, 37, 60 (extension of in 1755-1825 period), 75 (late 18th century expansion), 458 (planted to cash crops), 547 (taken by Danureja IV), 723 (Maja’s in Tondano)
+- sawah tadhahan (rain-fed ricefields) 38
+- Sawangan (mouth of Kali Opak) 154 (Dipanagara visits)
+- Sawunggaling, Mas Tumenggung (Yogya bupati of eastern Bagelèn, ?1790-1811) 9, 481-2, 621 (used as example of well-dressed Javanese by Cleerens), 805
+- Saxony 179
+- sayyid (descendants of The Prophet) 629 (support Dipanagara in holy war)
+- Sayyid Kramat (disturbances, 11-1814) see Muhammad, Sayyid
+- Schillet, H. (surgeon-major on Pollux, expert on cholera) 712-3 (face reminds Dipanagara of Crawfurd)
+- Schimmelpenninck, R.J. (1761-1825; Grand Pensionary of Holland, 1805-6; brother-in-law of Nahuys van Burgst) 435
+- Schnetz (Assistant-Resident of Kedhu, ?-1822) 497 (killed in Dipasana revolt)
+- Schnetz, F.A.M. (health officer, Makassar) 753
+- Schoor, Justinus van (1795-1841; Secretary to the Netherlands-Indies Government, 1830-4; Raad van Indië, 1839-41) 712
+- schutterij (rifle companies, Holland) 152 see also Turkije
+- science of physiognomy see ilmu firasat
+- Scindia see Lake
+- Scots 210, 359 (serving in British line regiments) see also Crawfurd, Davidson, Maclaine, Maclean, MacQuoid, Ross-shire Buffs, Shand, Stavers
+- Scottish sword dance 359 see also Europeans in Java (military culture), Pakualaman
+- scribes see carik-Dalem
+- seal see Dipanagara, pégon
+- seating arrangements (kraton) see dhampar
+- Sebada, village (Gowong) 659 (Dipanagara treated by elderly female dhukun in) see also Asmaratruna
+- Secadiningrat, Radèn Tumenggung see Tan Jin Sing
+- Secadiningrat, Radèn Nganten (low-born Javanese wife of above) 400
+- Secang (Kedhu) 210-1
+- Secawinangun, sub-demang see Sumawana
+- Second Javanese War of Succession (1719-23) 369
+- Second Mahratta War (1803-5) 317 see also Lake, Scindia
+- sedhekah (religious meals / feasts) 236 (for Ratu Maduretna’s death), 272 (to accomplish death of Prince Regent / HB III), 479-80 (to celebrate end of coffee harvest in Pacitan), 488-9 (prescribed by Iman Sampurna to ward off sickness)
+- Segarawedhi (Zandzee) 21, 165 see also Rawa (Tulung-Agung)
+- sèh (sheikh) 627 (as supporters of Dipanagara)
+- Sejarah Sétan lan Jim (History of devils and spirits) 137 (in Ir Moens collection)
+- Sekaran (Jipang-Pasekaran), district (east Java) 241, 248-9, 253, 256-7 (Rongga killed at, 17-12-1810), 265, 268 (bupati replaced in), 269 (slated for handover to Dutch), 337, 379 (1812 annexation of) see also Prawiradiningrat, Radèn Tumenggung
+- Sekartaji, Radèn Ayu (sister of PB IV) 75
+- Sekedok, village (Gunung Ngebel sub-district, Panaraga) 220
+- Séla (Surakarta Resident’s hill station, Merapi-Merbabu saddle) 426, 454 (land-rent of)
+- Séla, district (north coast) see Seséla
+- séla gilang 86 (at Sélareja), 139, 154 (at Lipura), 564 (at Guwa Secang, Selarong), 573 (at Sélareja), 579
+- Sélagiri (Gunung Kidul irrigation channel) 38
+- Sélamanik, district (Rèma-Bagelèn / Wonosobo) 45, 268 (Purwadipura exiled to), 292 see also timber
+- Sélanangkul, village (Selarong hills, Yogya) 657 (inhabitants recognise dead Prabuningrat’s kris)
+- Sélareja (Dipanagara’s retreat at Tegalreja) 86, 138, 565, 573, 576
+- Selarong (Dipanagara’s retreat at) 87, 94, 101, 104, 116, 121, 123, 155, 367, 369 (part of Dipanagara’s 1812 apanage), 389, 480 (opium addiction of prince at, 1825), 517, 534-5 (princes join Dipanagara at), 546, 564-5, 570, 572, 578, 580, 585-6, 592, 595, 598-9 (plate of attack on, 9-1825), 600 (women and children sent to), 602 (standard of revolt unfurled at), 606-8, 621-2, 626-7, 632, 634, 641 (Dutch destroy meditation cave at), 649, 656, 657 (hills) see also Guwa Secang, Sélanangkul, Siluk
+- Selim III, Ottoman sultan (reigned 1789-1807) 152 see also Nizam-i-cedit
+- Séluman see Guwa Séluman
+- Semar 405
+- Semarang 19, 24-5 (English cloth sales at), 35, 41, 61, 81, 101, 115, 165-6, 169-70, 173, 177-8, 180-3 (Daendels in), 186 (military uniforms produced at), 195, 197 (Daendels at, 1808), 206, 214 (Rongga summoned to), 216 (Dutch troops in), 218 (demang of Tersana delivered to), 223, 228 (Moorrees to), 230, 233-4 (deserters from garrison regiment), 236, 238-9 (Von Winckelmann’s troops at), 248 (troops marching from), 253-4 (arrival of Daendels’ force), 255, 262, 273-4 (robberies around), 276, 283, 285 (Yogya troops sent to assist Janssens at), 286, 294, 297-8, 301, 303-4 (Raffles in), 308, 313, 315, 318 (Raffles arrives in prior to Yogya assault), 319-20, 323-4, 329, 331 (British forces in), 332, 335 (Residency Interpreter in Javanese at), 339 (Deans, Scott & Co), 347 (remittance of prize money from), 350-1 (Sura-adimanggala IV), 359 (Raffles to), 363 (HB II and exile party sent to), 364, 378-9, 385 (raad van justitie at), 386, 410, 424-7, 435 (British POWs in), 440-1, 448 (return of Kyai Murma from Ambon to), 466 (Sukur’s disappearance from), 469 (exchange of silver for Government notes in), 478, 482, 497, 500 (Van Prehn exiled to), 519 (Raffles warns Smissaert about hearing of cases in), 521 (postal service to), 553, 560-1, 563 (Pangéran Sérang’s campaign in, 8/9-1825), 595, 597, 610 (Semarang-based suppliers of gunpowder from), 614-7, 638, 642-3 (communications with Surabaya cut, 11/12-1827), 646, 667 (De Kock returns to), 682 (Dipanagara’s family from to join him in Magelang), 686 (arrangements made to transport Dipanagara to), 693 (De Stuers and Roeps as Dipanagara’s escorts to), 694, 699-701 (Dipanagara stays at), 732, 747, 750, 755, 758 (designated as place for Dutch), 767 (supposed death of Jonèd at), 768 (Retnaningrum deserts Dipanagara at)
+- Semarang, marine school / military college (1782-1826) 162, 308 (maps of Yogya sent to), 522, 632, 659 (Roeps trained at)
+- Sembrani, jaran (winged mount) 491 (of Baron Kasendher), 571 (of Sultan Agung)
+- Sempu, coffee estate (Slèman, Gunung Merapi) 535-6 see also Boutet
+- Sénapati, Panembahan (first ruler of Mataram, 1575-1601) 72, 141, 147, 154-5 (Dipanagara at Lipura), 565, 579, 610 see also Lipura, Ratu Kidul
+- Sendhang Pitu, district (Kulon Praga) 371
+- sentana (princes of the blood) 9
+- Senthot, Ali Basah Abdul Mustapa Prawiradirja (1808-55; pre-1825, Radèn Tumenggung Nataprawira; son of Radèn Rongga Prawiradirja III by an unofficial wife; army commander of Dipanagara) 79, 153, 190-1, 192 (plate), 259, 403, 581, 590 (ideas for conquests outside Java), 606, 608, 620, 623 (regional jealousies of), 628 (red battle pennant of), 637 (given barisan by Dutch), 639 (death in Bengkulèn, 1855), 642 (Java War victories), 647 (problems of dwifungsi), 649 (description of name and character), 650-3 (problems of administration), 658, 662 (jealousy of Pengalasan for), 669, 671, 678 (discouraged from bringing troops to Magelang), 693 (Haji Ngisa as ‘priest’ of), 725, 746 (barisan / troop at Ungaran), 764 (family tree)
+- Sentolo, village (Kulon Praga) 601, 651
+- Sepikul, village (Dipanagara’s apanage land in Pajang) 594-5
+- sepoys
+- bodyguards 473 (of tollgate keepers)
+- conspiracy (1815) 21, 297, 320 (Mangkubumi’s involvement with), 382 (background to Surakarta support), 415-28, 759
+- subadar (Junior Commissioned Officer / captain) 420 (plate), 422 (chosen as new governor-general)
+- troops 45 (in dairy trade), 151, 260, 275 (mustered in Malaka), 283 (brutality at Meester Cornelis), 297 (deployed to Yogya), 303-4 (incidents with local Yogyanese), 323 (in attack against Yogya), 328 (plate of grenadier), 331, 339-42 (during British assault), 353 (guard Tan Jin Sing’s house), 357-8 (at HB III’s investiture parade), 359 (compared unfavourably with Madurese), 360 (plate of havildar / sergeant), 365 (main sepoy force leaves Yogya), 367 (sniper fire of), 379 (as Yogya garrison ), 398 (wages advanced by Chinese businessman), 407 (garrison commander in Yogya), 422 (anti-European views of), 498 (in Dipasana revolt), 759 (keep British in power) see also Dalton, Light Infantry Volunteer Battalion
+- Sepuh, Sultan (Cirebon) 501
+- Sepuh, Radèn Ayu (favourite unofficial wife of Hamengkubuwana I) 370, 440
+- Sepuh, Sultan (Madura) see Cakraningrat V
+- Sepuh, Radèn Ayu (eldest wife of Pangéran Mangkubumi, Yogya; daughter of Radèn Tumenggung Sumanegara of Padhangan) 119-20 (ability to make jokes with Dipanagara), 572 (dispatched to Tegalreja)
+- Sérang, district (north coast) 134 (Radèn Ayu Sérang’s campaigns in, 8/9-1825), 164 (proposed annexation of, 1808), 265, 613-4, 622, 624-5 (plate) see also Sérang, Pangéran / Radèn Ayu
+- Sérang I, Pangéran (husband of Radèn Ayu Sérang) 613-4
+- Sérang II, Pangéran (?1794-1854; son of above and below) 73, 132, 613-4, 622, 624-5 (plate)
+- Sérang, Radèn Ayu (?1769-1855; wife of Pangéran Sérang I) 132-3, 134 (plate), 144, 613-4 (meditation on south coast), 637, 760
+- Sérang family 10, 73, 132-3, 613 see also Kalijaga, Natapraja
+- Serat Ambiya (lives of the prophets), text 410
+- Serat Cabolang, text 487
+- Serat Centhini, text 487, 490
+- Serat Ebuk Anyar (New Book, 1773), cadaster 19, 40, 60-1, 310
+- Serat Kapa-Kapa, Javanese law code 388
+- Serat Ménak, text 410, 744 (Dipanagara requests copy) see also Ménak Amir Hamza
+- Serat Rama, text see Rama
+- Serat Sakondhar, text 167 see also Sembrani, jaran
+- Serat Suryaraja, text 167
+- Serayu River see Kali Serayu
+- serimpi (dances) 210 (during Daendels’ visit, 30-7-1809)
+- Seringapatam 347 see also Tipu Sultan
+- Serondhol 286 (Janssens defeated at), 425-7 (general courts martial of sepoys at, 1-1816)
+- Servatius, W.N. (1785-1827; Assistant-Resident of Surakarta, 1808-11; Resident of Semarang, 1820-2; Assistant-Resident of Semarang, 1822-7; Resident of Preanger, 1827) 169, 242, 262, 291 (PB IV asks for removal of)
+- Seséla, Ki Ageng (Javanese Prometheus) 265
+- Seséla (Séla), district (north coast) 164, 265-6 (annexed by Daendels), 292 (holy flame from kept in Purwaretna pavilion), 561
+- Setoma, Kyai (pusaka cannon) 167
+- Setomi, Nyai (pusaka cannon) 167
+- Setonan (Saturday tournament on northern alun-alun) 208, 271 (Prince Regent / HB III fears to attend)
+- Setradipura, Radèn Tumenggung (younger brother of Pangéran Natapraja / Radèn Mas Papak) 621 (orders killing of F.H. van Vlissingen)
+- Sevenhoven, J.I. van (1782-1841; Resident of Surakarta, 1824-5; acting Resident of Yogya, 1825-7/1830; commissioner for the regulation of affairs in the Principalities, 1830-1; Raad van Indië, 1832-9) 2-3 (description of Yogya, 1812), 58, 64, 144, 327-9 (visit to Yogya, 5-1812), 397 (view of Danureja IV), 406, 470, 474 (enquiry into tollgates, 1824), 478 (view of Chinese tollgate keepers), 479 (report on opium addiction), 511 (replaces Smissaert as Resident of Yogya), 526, 532 (member of land-rent indemnity commission), 543, 549, 554, 561-2, 591, 603, 739 (counsels against Dipanagara’s further transfer on Dutch warships), 809-10
+- sexual relations / misconduct 548-51 (of Danureja IV, Dietrée, Chevallier and Smissaert), 618-9 (relations with Chinese), 727-8 (Dipanagara in Manado) see also rape, ronggèng, women
+- Sèwon, pamutihan jurukunci / pondhok 129, 783
+- Shāfi’i, law school (Mecca) 579, 597
+- shahadat (confession of faith) 632
+- shahid (death as a martyr in holy war) 595, 597
+- Shand, Robert (Scots land-renter, Yogya) 535 (rents Kembangarum coffee estate with Bouwens)
+- sharī’a (Islamic law) 100, 112, 254, 589, 636
+- Shaţţārīyya, tarekat 111-4, 112 (plate of daérah), 150, 485 see also Naqşhabāndīyya, Qadiriyya
+- shipyards 222, 258 see also Rembang, Teleng, timber
+- Sibebek (Kedhu), tobacco warehouse 383, 834 (tax returns from)
+- Siberg, Johannes (1740-1817; governor-general, 1801-5) 169, 807
+- Sidhayu 181, 249-50 (Rongga appeals to peranakan Chinese in), 256, 718 (Dipanagara passes)
+- Sidul Aku, Kyai (Gresik) 485
+- Sigala-gala, cave see Guwa Sigala-gala
+- Sigaluh, kingdom (west Java) 140 see also Mundingsari
+- sikep (‘landowning’ peasantry) xiv, 14, 30-1, 33-5 (golden age of?), 39, 45, 59-61 (tax / corvée obligations), 63 (registration of lands), 65-7 (pancas revisions) see also peasantry
+- Silius Italicus, Roman author (?25/6-101) 239 (quote from Punica)
+- silks 469
+- Siluk, battle of (17-9-1829) 352, 657, 660, 657 (as decisive defeat for Dipanagara), 660
+- Sima, district (north coast) 265
+- Simatupang, General T.B. (1920-90) 116
+- Simpang, Residency House (Surabaya) 730 (plate)
+- Sindujaya, Mas Ngabèhi (kliwon of Kaparak Kiwa) 231
+- Sindunagara I, Kyai Tumenggung (?1740-1814; bupati nayaka of Jaba Tengen; pre-1803, Mas Aria Mandura; post-1811 Danureja III) 196, 210, 223, 227, 269, 293 (officially installed as patih), 299, 305, 332 (abortive mission to greet Raffles in Semarang), 763, 770, 774-6 see also Danureja III
+- Sindunagara II, Mas Tumenggung (son of above; bupati nayaka of Keparak Tengen; pre-12-1811, Mas Aria Mandura) 371, 396, 601 (goes on abortive mission to Tegalreja, 20-7-1825), 763, 776, 805
+- Sinduratmaja, ‘Bendara Radèn Mas’ (Surakarta adventurer) 496-8 (role in Dipasana rebellion), 505
+- Sindureja II, Radèn Ria (Yogya bupati nayaka of Gedhong Tengen) 242 (in expedition against Rongga), 333 (lays clever ambush for British at Papringan, 18-6-1812), 774-6, 805
+- Singapore 437 (Crawfurd as Resident of), 742 (commercial competition from)
+- Singasari, Pangéran (?1797-?; son of HB II) 352 (joins Dipanagara), 798
+- Singgunkara, Radèn see Kaap, Radèn
+- Singh, Abdul Gang (sepoy deserter) 498 (involved in Dipasana revolt)
+- Singir, skirmish in Gunung Kelir 352 (Jayakusuma/Ngabèhi and two sons killed)
+- Singkili, Abdurrauf al- (1615-93) 113
+- Singosarèn, estate (Karangpandhan) 532, 536 see also Stavers
+- sinophobia 18 see also Chinese, Crawfurd
+- Sirāt as-Salāţīn, text 103
+- sirih see betelnut
+- Sirisik, village (mouth of Kali Praga) 515 (salt manufacture at)
+- Sirnabaya see Gunung Sirnabaya
+- Sitinggil (Yogya) 239
+- Sitinggil (Surakarta) 171
+- Skelton & Co, British agency house 429
+- slamet bener, dhikr 485
+- slametan see sedhekah
+- slaughter tax (buffalo) see tugel gurung
+- slaves 183, 393 (effect of British abolition on status of) see also Balinese
+- Slèman, district (Yogya) 37, 49, 65, 97, 123, 463, 514, 592, 634 see also Nglèngkong, Témpèl
+- slingers 7, 607 (as weapons at start of Java War), 611 (effect on Dutch troops in Bagelèn)
+- smallpox 41, 42-3 (vaccinations against), 46 (children exposed to), 393 (vaccination encouraged by British)
+- Smissaert, A.H. (1777-1832; Resident of Rembang, 1819-23; Yogyakarta, 1823-5; dismissed and expelled from Java, 20-12-1825) 86, 93, 103, 108 (Dipanagara’s view of), 144, 232 (?institutes postal service), 303, 439 (sexual conduct of), 458, 466 (view of Sukur), 510-1, 518 (plate), 519-21 (reasons for Yogya appointment), 521 (character assessed), 523-4 (as absentee Resident), 532 (applauds land-rent abolition), 533-5 (on problems of abolition), 534 (receives pawned goods from princes), 537-42 (negotiates Bedhaya indemnity), 544 (reviews case of Kertadirja II’s dismissal), 549 (view of Chevallier), 550 (sexual behaviour in Java), 564 (summons Dipanagara from south coast), 572, 591-2, 594, 596 (plate), 597 (plans attack on Dipanagara), 600-1, 603, 718, 810 see also Liebeherr, Sancho Panza
+- Smith, Adam see Wealth of Nations
+- smiths see empu
+- smuggling 165, 380 (in Pacitan) see also bandits, pirates
+- Smyrna (Izmir) 665
+- Snouck Hurgronje see Hurgronje
+- Soeharto (1921-2007; President of Indonesia, 1967-98) 647 (as corporal at Fort Cochius)
+- Soekarno (1901-70, President of Indonesia, 1945-67) 69 (as child of the dawn)
+- Soemarsaid Moertono (historian) 127, 131, 578
+- Soetomo, Dr (1888-1938; alias ‘Bung Tomo’; physician and early Indonesian nationalist) 757
+- Sokawati, district 11-2, 51, 100, 190, 248, 369 (Dipanagara’s apanage lands in), 490, 492, 543-4 (Kertadirja II’s dismissal as bupati of), 622 (Dipanagara’s commanders take rebellion to), 626 (source of soldiers)
+- Soljak, Kyai (son of Muhamad Besari, pengulu of Srèngat) 486 (during Iman Sampurna movement)
+- Sollewijn, Lieutenant-colonel Bernard J. (1785-1864; 1st mobile column commander) 247 (compared to overseas ogre / buta sabrang), 438, 657
+- Sonder (Manado Residency, Minahasa) 722
+- soybean cake (tempé) 24, 44, 475
+- Speelman, C.J. (1628-84; governor-general, 1655-63) 738, 752
+- Sragèn 72, 76, 255 (tollgate burnt by Rongga)
+- Sri Katon incident (1888) 251 (meeting in Ketangga)
+- Sri Lanka see Ceylon
+- Srimenganti pavilion (Yogya) 228, 230, 335-6, 340-1 (HB II and entourage surrender to British in), 506 (HB IV’s body laid out in)
+- Srimenganti gate (Surakarta) 320 (attack on British cavalry post at)
+- Stadhouder see William V
+- Stadhuis (Town House, Batavia) 115, 659, 702-3 (Dipanagara held in), 704 (Bik as guardian during stay in), 708-9 (plate), 711 (Knoerle visits Dipanagara in)
+- Stargard (west Pomerania) 106 see also Knoerle
+- Stavers, William (Scots land-renter Surakarta; aide-de-camp to Mangkunagara II; former sepoy captain) 387, 457, 459 (character and knowledge of Javanese), 532 (Singosarèn estate), 536, 547 (interviews Maja in Batavia), 551, 553 (peace negotiations with Maja at Salatiga, 8-1827), 583, 588-9, 634, 644 (Salatiga meeting)
+- steamships 750, 756 see also Capellen, S.S. van der
+- Steel, Lieutenant James (1792-1859; Light Infantry Volunteer Battalion garrison commander, Yogya) 425
+- Steijn Parvé, H.A. (acting Resident of Semarang, 1816-9) 484
+- Steinmetz, Lieutenant C.P.C. (1806-?; adjutant to Colonel Cleerens) 673 (at Rèmakamal meeting with Dipanagara)
+- Stoler, Ann 440 (on colonial sexual relationships), 550
+- strandgeld (Dutch ‘rent’ for lease of north coast) 163, 266, 290-1 (PB IV complains about withdrawal of), 310
+- Studzee, Dr (Swedish surgeon attached to British force in Yogya assault; later prize agent) 351
+- Stuers, F.V.H.A. Ridder de (1792-1881; major-adjutant, aide-de-camp and son-in-law of General H.M. de Kock) 110, 115, 124, 192, 325, 436, 608 (on Dipanagara’s military tactics), 611, 612 (plate), 626, 632-3 (reasons for Dipanagara / Maja split), 659, 667, 679, 682-3, 684-5 (plate of Dipanagara’s entry to Metésih), 687-8, 689-90 (at capture of Dipanagara at Magelang), 693-5, 697-700 (accompanies Dipanagara to Semarang), 701 (recommended for ridderorde), 701-2 (accompanies Dipanagara to Batavia)
+- Sturler, J.E. de (Resident of Banyumas, 1830-5) 267
+- Subah-Weleri, teak forest (north coast) 265
+- Sudama, Radèn Mas (Jarot) see Hamengkubuwana IV
+- Sudik Iman 497 (ringleader of Dipasana revolt, later hung)
+- Sudirman, General (?1915-50; Panglima Besar / commander-in-chief of TNI, 1948-9) 116, 607, 626 (Banyumas origins of)
+- Sufi teachings 110, 757 (literature) see also tarekat
+- sugar 279, 463 (as cash crop in south-central Java), 465, 493-4 (problems of sugar industry, 1819-20), 527, 663 (refined white)
+- suicide 511 (Dipanagara contemplates), 578
+- Sukapura, village (Singaparna, west Java) 256 (Rongga’s pengulu returns to)
+- Sukuh, candhi (Gunung Lawu) see Candhi Sukuh
+- Sukur, Radèn Mas (post-1825, Radèn Hasan Mahmud, son of Sura-adimanggala IV of Semarang) 364 (to Calcutta for education), 466 (report on situation in Kedhu, 1822), 607 (joins Dipanagara but complains of lack of pay), 616 (persuaded by mother) see also Salèh, Radèn, Sura-adimanggala
+- Sulawesi 116, 165 (smuggling to), 307 (Capt Phillips scholarship on), 424, 562 (Van Geen expedition against Boné), 590 (return of Van Geen from), 595 (reinforcements from during Sasradilaga crisis, 1-1828), 613, 623-4 (soldiers from fight for Dipanagara), 659 (place of exile), 717, 721-55 (Dipanagara as exile in) see also Boné, Bugis, Makassar, Manado, Minahasa, pirates, Tondano
+- Sulawesi (North) 635-6, 638-9 see also Manado, Minahasa, Tondano
+- Suleiman, Haji 281
+- Sultan, Ratu see Andayaningrat
+- sultan séda besiyar (the sultan who died on a pleasure trip) see Hamengkubuwaa IV
+- suluk (Javanese-Islamic devotional songs/chants) 103
+- Sumadilaga, Dullah (junior army commander Kedhu) 694 (placed in stocks in Magelang)
+- Sumadiningrat, Radèn Tumenggung (?1760-1812; Yogya bupati nayaka, 1794-1812 / patih jero, 1808-12; Yogya army commander) 79, 82, 188 (appointed patih jero), 222, 228-9 (accompanies HB II to Samas during confrontation with Moorrees), 236 (urges HB II on against Europeans), 244, 252 (Daendels demands arrest of), 254, 263 (urges resistance against Daendels), 272 (raises new regiments), 280-1 (secret correspondence with Surakarta), 305 (reports Crown Prince’s attitude to HB II), 292-3 (participates in murder of Danureja II), 295 (reports murder to Surakarta), 314 (plate of correspondence), 316-9 (role in correspondence), 324, 331 (urges attack on British), 335-6 (conduct during assault), 340 (death of), 369, 403 (widow of), 774-6, 805
+- Sumadipura, Radèn Tumenggung (Yogya bupati of Japan / Majakerta) see Danureja IV
+- Sumadirja, Mas Tumenggung (patih of Kadipatèn, 1807-10; father of Danureja IV) 396, 776
+- Sumadiwirya, Radèn Ngabèhi (Yogya magang / aspirant bupati; post-1-1811, confirmed as bupati) 232 (as go-between in Rongga/MN II correspondence), 257 (wounds Rongga at Sekaran, 17-12-1810), 272-4, 337 (fires powder magazine in fort), 363 (exiled with HB II)
+- Sumanagara, Ali Basah (army commander of Dipanagara) 590
+- Sumanegara, Mas Tumenggung (Yogya bupati of Padhangan / Jipang-Kepadhangan) 195, 248-57 (during Rongga’s rebellion), 250, 255-7 (rallies to Rongga and killed), 572, 623, 806
+- Sumaprawira, Radèn Ngabèhi (younger brother of Radèn Rongga Prawiradirja III; ? later Yogya bupati of Kenitèn) 257 (returns to Yogya), 768
+- Sumaprawira, Radèn Tumenggung (Yogya bupati of Kenitèn, east Java; father of Radèn Ayu Retnaningsih; ? same as above) 119, 768
+- Sumarsonowati, Mas Ayu (Chinese peranakan selir of HB II; mother of Pangéran Jayakusuma / Ngabèhi) 88, 98, 618
+- Sumatra xv, 90, 114 (Padris), 273, 445, 520 (West Sumatra), 648, 652 (Senthot’s barisan in), 676 (Cleerens and West Sumatra military command) see also Aceh, Bengkulèn, Padang, Palembang
+- Sumawana, demang of sub-district (Ambarawa) 584 (administrative instructions to during Java War)
+- Sumawijaya, Radèn see Adinagara, Pangéran
+- Sumbawa 76, 281, 383 (eruption of Gunung Tambora, 1815), 590, 610, 719, 765 see also Ageng, Ratu (Tegalreja), Derpayuda, Bima, gunpowder
+- Sumedang (west Java) 198, 276
+- Sumendi, Pangéran (‘spiritual’ prince; relative of Sérang family) 73
+- Sumenep, Panembahan of 286 (appointed sultan by British 8-1811), 641 (provides troops during Java War)
+- Sumenep (east Madura) 80, 115, 222 (Daendels’ troops from), 286, 562 (troops sent on Van Geen’s Boné expedition), 641, 746 (Dipanagara II’s exile in), 767
+- Sumiyah, Radèn Ayu (younger sister of PB IV) 173 (poisoned)
+- Sumptuary laws (awisan-Dalem) 310 (and British textile imports), 384 (1812 treaty forbids), 548
+- Sunan Lawu (wind god) see Lawu, Sunan
+- Sunda, Sundanese (west Java) 167, 256 (Rongga’s pengulu from), 370, 668 (and Imam Bonjol) see also Bandung, Pa˙r ahyangan, Preanger, Priangan, West Java
+- Sunda Kelapa (Jayakarta) 167
+- Sunda Straits xii, 158, 516, 666 (?Van den Bosch landing in) see also Mérak
+- Sundoro, Radèn Mas see Hamengkubuwana II
+- Supadmi, Radèn Ajeng see Retnakusuma, Radèn Ayu
+- supitan see circumcision
+- Suppa, kingdom of (south Sulawesi) 562
+- Sura, Javanese month 69, 484 (time for Ratu Adil to appear)
+- Sura-adimanggala IV, Kyai Tumenggung (?1760-1827; bupati of Torbaya / Semarang, 1809-22; friend of Raffles) 351, 364 (sons to Calcutta for education), 616 (wife of), 466 see also Salèh, Sukur
+- Sura-adimanggala IV, Radèn Ayu (wife of above) 616
+- Surabaya 12, 164, 177-8, 181 (Ratu Kencana, consort of PB IV’s, education at), 182, 185-6 (Fort Lodewijk), 235, 251, 279, 286 (regiment fights well at Jati Ngalèh), 291 (Natakusuma / Natadiningrat taken to), 298, 304 (Raffles in), 318-9 (Cakranagara exiled to), 353 (exiled HB II arrives in), 378, 385, 398 (Balinese bupati of), 408, 423-4, 439 (Pinket van Haak’s death in), 465, 468, 485, 491, 494 (cholera epidemic in, 1821), 498, 560, 592-3 (HB II in, 1825), 643 (communications cut with Semarang, 11-1827), 646, 712 (Dipanagara passes), 718, 724, 730, 732, 749, 771
+- Suracala see Guwa Suracala
+- Suradiningrat, Radèn Panji (Surakarta) 391 (Kedhiri uprising, March-April 1813)
+- Suradirja, Radèn (patih of Pangéran Adipati Prawiradiningrat) 91
+- Surakarta
+- archive (Residency) 485, 487
+- fort 185-7, 426
+- kepatihan 559, 771 (list of patih)
+- kraton 3-4, 59 (fiscal demands of), 102, 105 (copying of texts for Dipanagara in), 147, 161, 168, 185, 225 (Danureja II procuring women from for Crown Prince / HB III), 254 (lands traversed by Rongga), 266-7 (and 1-1811 treaties), 280 (Raffles promises help to), 287 (troops collapse at Jati Ngalèh), 320 (‘priests’ and Arabs in), 357 (criticised in HB III investiture parade), 377-8 (Raffles decides not to attack), 381-2 (apanage lands taken over), 397, 424-5, 427 (Raffles’ visit to, 1-1816), 436-7 (Nahuys’ popularity at), 444-7 (relations with Kyai Murma), 462-3 (coffee plantations leased from), 536, 553, 555 (Van der Capellen’s annexation plans and), 560 (Tingkir land swap with), 561, 630 (Buminata as patron of santri in), 634 (little sympathy for Dipanagara in), 658 (Dipanagara’s views of), 661 (Dipanagara wants subordination of Sunan), 744-5 (MSS copied for Dipanagara in)
+- land-rent in 454, 464
+- maps 61
+- town / general xviii, 3-4 (unfavourable comparison with Yogya), 26, 30 (report of village society, 1832), 39 (population), 41, 44 (food consumption in), 45 (lifestyle of day labourers in), 63 (PB IV’s financial incompetence), 90 (Taptajani flees to), 160 (opium / tobacco farms in), 169, 178, 185, 193, 195, 187 (provision of labourers for postweg), 207 (military exercises in), 249, 290 (14th Regiment of Foot arrives in), 298 (Crawfurd told to spend time in), 304 (Raffles in), 308 (Crawfurd meets Raffles in), 331 (British troops in), 332 (Surakarta patih’s mission to Raffles expected), 394 (bumper harvest after Tambora eruption, 1815), 589 (battle of Gawok outside, 15-10-1826), 594 (Dipanagara’s lands prepare for rebellion), 608
+- Suralanang see Guwa Suralanang
+- surambi (mosque verandah, Tegalreja) 573-5
+- Surambi court (Surakarta) 485, 655
+- Surambi court (Yogya) 104, 386-7 (jurisdiction impaired by Raffles’ legal reforms), 544
+- Suranatan corps (Yogya) 89, 132, 208, 292, 295, 325, 327, 370, 410, 545 (Rahmanudin as head of), 593, 626 (santri supporters of Dipanagara from), 733, 787-8, 792, 818 see also Badarudin, Ngusman (Ali Basah), Rahmanudin
+- Suranatan mosque (Yogya) 81, 340 (Gillespie wounded at)
+- Surapati, Untung (?1645-1706) 109, 161, 367, 398
+- Surat (western India / Gujerat) 98, 195 (cloth stolen in Bunder raid), 511 see also Hasan, Sayyid, patola
+- Suratmi, Radèn Ajeng (daughter of HB II and Ratu Kencana Wulan) see Anom, Ratu
+- Suryaatmaja, Radèn (son of Dipanagara and Radèn Ayu Retnakusuma; post-1825, Pangéran Adipati Anom; post-1830, Pangéran Dipaningrat) see Dipaningrat
+- Suryabrangta, Pangéran (?1788-?; son of HB III; post-1830, Pangéran Purwadiningrat) 88, 208 (to Kalasan to greet Daendels), 368 (appointed pangéran), 371, 512 (supitan / circumcision of son, 26-12-1822), 798
+- Suryadi, Pangéran (son of HB III) 481
+- Suryadipura, Pangéran 481
+- Suryagama, ‘priestly’ kraton regiment 626 (Dipanagara’s supporters from), 790-1, 793
+- Suryanagara, Pangéran (1822-86; son of HB IV and daughter of court dhalang; Yogya litterateur and historian) 79
+- Surya Ngalam, legal digest / law code 104, 388
+- Suryaningprang, Pangéran see Salya, Radèn Mas
+- Suryaningrat, Pangéran see Natadiningrat, Radèn Tumenggung
+- Suryaningrat, Radèn Ayu Pangéran Panji (daughter of Pakubuwana VII; wife of Pangéran Panji Suryaningrat) 416
+- Suryaningrat see Suwardi Suryaningrat
+- Suryaputra, Pangéran (pre-1829, Radèn Mas Mahmud; son of Radèn Tumenggung Natadiningrat and Ratu Anom) 227
+- Suryaraja, Serat see Serat Suryaraja
+- Suryasasraningrat, Pangéran (1827-64; post-1858, Pakualam III) 225, 761
+- Suryawijaya, Pangéran (?1805-?; son of HB III; post-1825, Ali Basah Ngabdulsamsu) 294, 798
+- Suryawinata, Basah 688 (at Magelang with Dipanagara)
+- Suryèngalaga, Pangéran see Adinagara, Pangéran
+- Suryèngrana, Radèn Panji (lurah prajurit / royal troop commander) 242 (expedition against Rongga)
+- Sutrasna, carik / scribe 487 (copyist / author of Serat Cabolang)
+- Suwardi Suryaningrat, Radèn Mas (1889-1959; alias Ki Hajar Dewantara, early Indonesian nationalist and educationalist) 738, 757
+- Swiss 171 (Engelhard family origins)
+- Syria (Ajam) 410
+- tahlil (confession of the faith) 488-9
+- Tāj as-Salāţīn, text 103, 410
+- Tajib, Haji (also referred to as ‘Sèh Kyai’; follower of Kyai Maja; dullah of Dipanagara’s Suryagama regiment’; exiled to Tondano) 639, 723 (refuses to join Dipanagara in Manado), 787, 793
+- takbīr (prayer for the glorification of Allah) 577
+- taker tedhak, tax 57, 66
+- talèdhèk (dancing girls, prostitutes) see ronggèng
+- Taman Sari (‘Water Palace’, Yogya) 4, 272 (gun foundry at), 339, 425 (oath administered during sepoy conspiracy at)
+- Tambakbaya see Rawa Tambakbaya
+- tamping, police officials (Surakarta) 55
+- tamping, police officials (Yogya) see gunung
+- Tan Jin Sing (?1770-1831; kapitan cina of Yogya, 1803-13; post-1813, Radèn Tumenggung Secadiningrat; post-1830, Radèn Tumenggung Purwa) 24, 169, 205 (contributes to Daendels’ war treasury), 210 (organises firework display for Daendels), 311 (given stipend by British), 324 (role in negotiations with Crawfurd), 326, 337, 339 (assists Crown Prince / HB III and Dipanagara at time of capture), 349, 353-4 (amok attack in house of), 373, 383 (enmity of PA I for), 396 (sent to Tegalreja to discuss patih appointment), 398-401 (elevated as Secadiningrat), 408, 411 (organises firework display at marriage of HB IV, 13-5-1816), 523 (Smissaert moves into house in Kampung Cina), 524 (testimonial for Smissaert), 777
+- Tan Jun Kam, leading member of Yogya Chinese community 524 (testimonial for Smissaert, 1825)
+- tanah pusaka (‘heirloom’ lands) 33-4, 266 (holy grave at Seséla) see also tanah yasa
+- Tanah Sulastri (‘Land of the Pikes’) 8 see also Bagelèn
+- tanah yasa (privately developed lands) 33 see also tanah pusaka
+- tandhak (dance) 602 see also ronggèng
+- tandhu (sedan-chair, palanquin, litter) 363 (HB II carried from Yogya in, 3-7-1812), 699 (Dipanagara carried through Jambu hills in)
+- Tanete, kingdom of (south Sulawesi) 562 see also Boné, Bugis, Suppa
+- Tanggung, weaving centre (eastern Bagelèn) 161, 186 (cloth for Daendels’ troops uniforms), 481-2 (during Umar Mahdi revolt) see also Jana
+- tapa (holy men / ascetics) 177 (Engelhard suggests paying for favourable prophecies), 614
+- Tapa, Radèn Mas see Mataram, Pangéran Aria
+- Taptajani, Kyai (pradikan ageng of Melangi until 1805) 90, 93, 100, 223, 627, 793
+- Taqarrub, text (Muslim jurisprudence; commentary on Taqrīb) 104
+- Taqrīb, text (Muslim jurisprudence) 104, 681 (in Magelang Residency museum)
+- Taragnyana, spirit 488-9 (as bringer of epidemic disease)
+- tarekat (mystical brotherhoods) 111, 114, 485, 489 see also Naqşhabāndīyya, Shaţţāriyya, Qadiriyya
+- tasawwuf (Javanese-Islamic mystical texts) 100, 103, 223 (Danureja II’s interest in)
+- Tasso, Torquato (1544-95; author of Gersusaleme Liberata, 1581-93) 110 (Dipanagara looks at)
+- Tawangsari, mint (established by Daendels, Surabaya, 1808) 279, 469
+- tax collectors see bekel, demang
+- tax system (Yogya) 56-66
+- taxation (during Java War) 584-5, 606, 650-2 see also dwifungsi
+- Taylor, Jean Gelman 67
+- tayuban (dance parties) 28-9 (plate), 86 see also ronggèng, tandhak
+- tea 180 (drunk Dutch style with milk), 279 (as export crop), 663 (European tastes in)
+- teak roofing tiles 390
+- teak, teak forests 30, 46, 164 (sharp decline in), 186 (felling in eastern mancanagara), 194 (Daendels’ incursions in), 194 (Panolan as regional mart for), 211-6 (tensions over Daendels’ demands for), 221-2 (teak trade), 380-1 (eastern mancanagara annexed because of), 398 (Danureja IV’s abuse of), 475 (in eastern mancanagara) see also blandhong, Gunung Kidul, Karangpandhan, timber
+- Tegal 81, 185, 215, 553, 560
+- tegal (dry crop fields) 31, 38, 383 (in Kedhu), 464 (planted to maize in Kedhu)
+- Tegalarum, gravesite of Amangkurat I (north coast) 132, 250, 290-1, 495
+- Tegalbener, pondhok / pavilion of Ratu Ageng Tegalreja 80 (during Tegalreja construction)
+- Tegalreja 48, 68, 74, 77-8, 80, 84 (plan of estate), 85 (description of), 86 (mosque at), 88 (kaum at), 94 (Maja’s visit to), 97-8, 101-2, 115-7, 119, 127-9, 138, 154-5, 157, 190, 223, 294 (Dipanagara summoned from after Danureja II murder), 315, 369, 373, 375, 377, 396, 403, 405, 410, 444 (possible links with Murma), 461, 502, 505-6, 510-1, 524, 543-4 (dismissed Kertadirja II comes to reside at), 546 (dismissed Yogya pengulu resides at), 550-1, 564-5, 572-3 (mosque at), 591, 593, 595, 596 (plate), 597, 600-2 (attacked and burnt), 605-7, 622, 640, 635, 710-1 (Dipanagara’s family to be allowed to return to), 743, 747 (turned into grazing land for Yogya Resident’s horses), 757, 766-7 (Dipanagara’s family at) see also Ageng, Ratu (Tegalreja), Dipanagara, Sélareja
+- Tegalsari, pesantrèn (Panaraga) 91, 191, 220, 470 see also Hasan Besari, Kyai
+- Tegalweru, indigo factory (Bantul, Yogya) 610 (manufactures gunpowder)
+- Téjawati, Mas Ayu (mother of Hamengkubuwana I) 72, 444 see also Kepundhung, Murma Wijaya, Kyai
+- Tegalmandiri 491
+- Teleng, Dutch shipyard (on Bengawan Sala) 249 (destroyed by Rongga) see also Verhaagen
+- Temanggung, district (northern Kedhu) 497
+- Tembayat, gravesite / pradikan 73, 136, 571, 627, 630 see also Ngabdani, Sayyid
+- Témpèl, village (Slèman, Yogya) 49, 97, 262, 536, 607, 634
+- Tengger highlands 485
+- Teresa of Avila, Saint (1515-82) 566 (vision of Hands of Christ)
+- Ternate 116, 710 (Sultan Mahmud Badaruddin of Palembang’s exile in), 724, 738
+- Tersana, district (Kadhawung / Pekalongan) 217, 221, 233
+- Texel 106, 424, 429
+- textiles 24-5 (British imports), 243 (French textile sales in Yogya), 310 (British designed imports for Java), 346, 384 (exports to pasisir), 399 (at Jana), 421 (ex-sepoys involved in trade in), 469 (trade in foreign textile imports) see also cloth, Crawfurd, Marcus, weaving
+- The Hague xviii, 166, 433, 504, 518-9 (Smissaert dies in disgrace in), 552, 678, 736
+- Thierry, Jean Nicolaas de (1783-1825; lieutenant 7th Hussar Regiment) 601-2 (leads cavalry in attack on Tegalreja)
+- Third Javanese Succession War (1746-55) see Giyanti wars
+- Thompson, Robert & Co, British agency house 429, 701
+- Thomson, Dr Harvey (1790-1837; Scots assistant surgeon to British expeditionary force, 1811; Yogya Residency doctor, 1814-6; indigo planter in Yogya, 1817-23; Pekalongan, 1828-37) 406-7 (biography), 456-7 (as indigo planter in Yogya), 463, 465, 533, 535, 542 (indemnity negotiated for Rajawinangun) see also Rajawinangun
+- Thorn, Major William (quartermaster-general to British forces in Java) 349 (plate of British attack on Yogya)
+- Thornton, West & Co, British agency house 429
+- ‘throne room’ (Yogya Residency House) 171, 309 (incident during Raffles’ 12-1811 visit), 321 (Jaysasentika hides in loft space) see also dhampar
+- Tian Hok, leading member of Chinese community in Yogya 524 (testimonial for Smissaert, 1825)
+- Tidore, sultan of 76, 281 (contacted by Haji Ali Ibrahim, 1811)
+- Tiedeman, Jan (Dutch-Indies landowner; business partner of Hendrik Veeckens) 375-6 (nominated as Resident of Yogya, 1816)
+- tiger-and-buffalo fights xiii, 175 (extraordinary events during Van Braam’s visit, 16-10-1808), 184, 200-1 (at Yogya court for Van Braam), 202-3 (plate) see also tiger spearing (rampog macan)
+- tigers (tiger-infested forests) 12, 36, 50, 87, 374 (in trial by ordeal), 486 (in Lodhaya) see also macan gadhungan (were-tigers)
+- timber trade 165, 186 (felling in eastern mancanagara), 211-6 (tension over supplies), 258 (from eastern mancanagara), 268 (high-quality wood from Sélamanik) see also blandhong, Gunung Kidul, Karangpandhan, teak
+- Timmerman-Thyssen (post-1830 Dutch land-renter in Slèman, Yogya) 65
+- Timorese pirates 20-1 see also Balinese, Bugis, pirates
+- Timur, Ratu (Ratu Kudhus; daughter of Pakubuwana III) 162
+- Timur, Ratu (daughter of Hamengkubuwana II and Ratu Kencana Wulan) 79
+- Tinggol, sub-district (Menorèh) 496
+- Tingkir, district (Salatiga) 560 (land swap with Surakarta, 1822/3)
+- Tipu Sultan (ruler of Mysore, 1782-99) 347
+- tirakat (ascetic withdrawal from the world) 116, 154, 492, 578 see also patigeni
+- Tirtadirana see Tirtadrana
+- Tirtadiwirya, Radèn Tumenggung (son of Danureja I; post-12-1811, Radèn Tumenggung Danunagara, kliwon of Danureja III) 273 (appointed by Prince Regent / HB III), 763, 776, 806
+- Tirtakrama, Radèn 491
+- Tirtanegara, Radèn Tumenggung (bupati of Tanggung, Bagelèn) 481
+- Tirtadrana, Kyai (pre-1825, head demang of Grabag, northern Kedhu; Dutch spy, Magelang; later in Manado and Tondano) 114, 547 (translates interview with Maja, 1829), 551, 638, 726 (reports on Dipanagara’s finances, 733 (?helps Dipanagara with babad), 794, 816
+- Tirtamaya, lake 153
+- Tirtawangsa, bekel (of Gedhung Putri village) 414 (during Sayyid Kramat disturbances)
+- Tirtawijaya, Radèn (demang of Tersana; relative of Ratu Kencana Wulan) 218 (shot), 221, 233
+- Tirtodiningrat, Kangjeng Radèn Mas Tumenggung (Surakarta) 320 (copyist of Babad Dipanagara, 1946) 320
+- Tissot, J.M. (French land-renter, Yogya) 457, 533, 535, 542 see also Jumagatan
+- Tjoa In Yoe, leading member of Yogya Chinese community 524 (testimonial for Smissaert, 1825)
+- Tlogo (Bagelèn) 25-6 (produces shad roe / Javanese caviar for Surakarta kraton) see also trubu
+- tobacco 44, 122 (Dipanagara smokes), 160 (tax-farms), 383 (warehouses), 465 (failure of Kedhu harvest, 1823), 467 (failure of Prabalingga harvest, 1822/3), 469 (trade in), 515 (after Merapi eruption, 28-12-1822) see also tobacco warehouses
+- tobacco warehouses (gedhong tembakau) 468, 833 (tax returns from, 1808-25) see also Gunung Tawang, Sibebek
+- tokid (profession of Allah’s unity) 111-3
+- Tokugawa Japan (1603-1867) 10 see also Japan
+- tollgates (bandar) 12, 48, 50, 66, 196 (Angger Gunung and), 250 (in eastern mancanagara during Rongga rebellion), 255 (burnt by Rongga), 310 (Raffles’ take-over of), 369, 383 (in Yogya territories), 385-6 (Chinese-run), 399, 467-8 (pre-1825 working of), 504 (Java as powder keg because of), 543 (commission of enquiry into, 1824), 560, 562, 831-6 (tax returns from, 1808-25)
+- tollgates and markets (British annexation, 1812) 310, 369, 424, 473
+- Tomohon (Manado Residency, Minahasa) 722
+- Tondano (Maja’s place of exile, Minahasa / North Sulawesi) 92, 635, 638-9, 722-5, 741, 746, 816-21 see also Maja, Tonsea Lama
+- Tonsawang (Manado Residency, Minahasa) 722
+- Tonsea Lama (pre-1839 settlement of Kyai Maja and party on Lake Tondano) 638-9, 710, 722-5, 733, 816-21 see also Maja, Tondano
+- topèng (masked dances) 367 (dancer lover of Ratu Ibu / Ageng), 411
+- Torbaya (Semarang) 494 (first manifestation of cholera epidemic in, 1821) see also Sura-adimanggala IV
+- torture, judicial (mutilation) 53, 374 (HB III’s abolition of), 385
+- trade 474 (importance of river networks for)
+- traders, women (bakul) 44-6 see also women
+- trasi (fish paste) 18 (Bagelèn)
+- trawèh (clamorous prayers) 576
+- Trayem (Kedhu), bènthèng 646 see also Bast, Eduard Marie de
+- treaties 266-9 (with Daendels, 1-1811), 307-12 (with Raffles, 12-1811), 326 (secret treaty between Raffles and Crown Prince / HB III, 18-6-1812), 345, 369 (Raffles, 1812), 374 (abolition of judicial torture), 377-89 (1812 treaties and courts), 424 (1812), 502 (burning of contract recognising Dipanagara’s rights), 545 (secret contract with British kept by Dipanagara / burnt by Ratu Ageng) see also Giyanti
+- Trengganu 21
+- trial by jury 386 (introduced by Raffles)
+- trial by ordeal 53 see also torture, judicial
+- Trinity, doctrine of 110 see also Christians, Christianity
+- Trisik (south coast) 144 see also Guwa Sirisik
+- trisula (three-pronged pike) 132 see also Kalijaga, Sunan
+- Trowbridge, Admiral Sir Thomas (1760-1807; commander-in-chief, East Indies station, 1805-7) 159
+- trubu (salt roe / shad / Javanese caviar) 26 see also Tlogo
+- Trunajaya, Radèn (?1649-80; Madurese prince / rebel) 219, 337, 349, 630, 654 see also Madura, Madu Retna
+- Trunasmara, Kadipatèn grooms’ regiment 208
+- Tuban 164, 249-50 (Rongga appeals to Chinese in), 250 (holy graves at), 256, 291, 491, 617-8 (peranakan Chinese at during Java War)
+- tubers see palawija, potatoes
+- tugel gurung (buffalo slaughtering tax) 59
+- Tuhfa (al-Tuhfa al-musala ilā rūh al-Nabi), Sufi ontology 100, 103
+- Tulle (Corrèze) 243 see also Marcus
+- Tulung-Agung see Rawa
+- tumbak (lance length), land measurement 9
+- tumpang paruk (mixing up of lands at Giyanti settlement, 1755) 13 see also Giyanti, treaty
+- tumenggung (military title during Java War) 649
+- Tunggil-Wanakerta, kabupatèn (Madiun) 268 (created, 1-1811)
+- Turi, pesantrèn / pondhok 129
+- Turkey see Ottoman empire
+- Turkio, regiment (Java War) 152, 634 see also Janissary regiments, Turkiye
+- Turkiye, schutterij company (Holland) 152
+- tuwa buru (tiger trappers) 50 see also Jelegong, Mangiran
+- Turi, sub-district (Slèman) 97
+- turtles 87
+- turtle doves 87 (Dipanagara’s love of)
+- Twenthe, cotton industry (Netherlands) 25
+- ulama, religious scholars (Yogya / Surakarta) 89-90, 94 (around Maja in Surakarta), 97, 102-3, 117, 357 (criticised as materialistic), 387 (impact of Raffles’ legal reforms on), 448 (brusque treatnment by Nahuys), 511 (as followers of Sayyid Hasan), 546, 551, 622 (as supporters of Dipanagara), 628-9, 632 (Garebeg largesse distributed by Dipanagara to), 634 (join Dipanagara’s bodyguard regiments from Maja’s entourage), 677 (judgement on fasting month activities), 786-94 (list of Dipanagara’s supporters) see also Banjarsari, pathok negari, pesantrèn, Tegalsari
+- Ulujami, district (Pekalongan) 478
+- Umar Mahdi / Umar Maya see Ménak Amir Hamza
+- Umar Mahdi disturbances (Nagelen, 1-1817) 415, 480-4, 493, 498, 505
+- umbul-umbul (flags) 481
+- ummat (international community of Muslims) xvi
+- Ungaran 187 (cavalry regiment sent from), 262, 331 (British forces in prior to Yogya assault), 614 (Radèn Ayu Sérang cautioned at), 699 (Dipanagara overnights at), 725 (Senthot’s barisan at)
+- Ungaran, weaving village (eastern Bagelèn) 497 (ringleader of Dipasana revolt hung in)
+- Unitarian Party (Holland) 157 see also Daendels
+- United Provinces, Republic of 199 see also Holland
+- Untung Surapati see Surapati
+- upacara (official state clothes) 349, 356 see also Wandhan, Ratu
+- upas (poison tree) 173
+- Upham, Edward (author of History and Doctrine of Buddhism, 1829) 109-10 (Dipanagara looks at)
+- Urawan, Tumenggung (army commander in Java War) 638
+- Urub, Kyai (kraton pusaka kris) 341
+- Urutsèwu, district (eastern Bagelèn) 27, 465
+- Usali (prayer for dead) 506
+- Uşul, treatise on Islamic theology 103
+- Utrecht 735 see also Woerden
+- vaccination see smallpox
+- vagabonds 31
+- Valck, F.G. (1799-1842; Resident of Krawang, 1823-6; Pasuruan, 1826; Kedhu, 1826-30; Yogya, 1831-41) xiv-xv (quote on Javanese ‘nationalism’), 45, 80, 109 (Dipanagara’s attitude to), 295, 303 (purloining of Yogya Residency letters), 316. 326, 329, 332, 335, 375, 413, 415 (comment on sepoy conspiracy), 439-40 (Javanese mistresses of), 461 (historical survey of Yogya, 1755-1830), 487, 533 (on land-rent indemnities), 540, 613, 655 (‘nationalist’ feelings of Javanese), 677 (reconnoitres Metésih), 679 (escorts Dipanagara to Metésih), 682-3 (annoys Dipanagara with ‘stupid’ questions), 688 (at De Kock’s meeting with Dipanagara), 690 (acts as Malay translator), 697, 727 (and Dipanagara’s finances in exile), 729, 733, 810
+- Valmy, battle of (20-9-1792) 68 see also Goethe
+- Veeckens, Hendrik (?-1815; Secretary-General of Daendels’ administration, 1808-11) 197, 375 see also Tiedeman
+- Vendée revolt (1793-5, 1797) 611, 640
+- Verenigde Oost-Indische Compagnie (VOC) see Dutch East Indies Company
+- Verhaagen, Dutch shipyard manager (Teleng, Bengawan Sala) 249 (house and dockyard destroyed by Rongga)
+- Versailles 1 (Yogya compared to)
+- Veth, P.J. (1814-95) 457
+- Vexela, Lieutenant-colonel Joseph Le Bron de see Le Bron de Vexela
+- Vienna, congress of (1815) 393 (abolition of slavery agreed at), 423, 427, 429 (return of Java to Dutch under terms of)
+- village (Javanese)
+- administration see paréntah-désa
+- community corvée (gugur gunung) 57
+- social classes in 14, 30-1, 35 see also sikep, ngindhung, numpang
+- stone wall defences 49, 55 (in Kedhu)
+- taxes in 33
+- tax-cllectors see bekel
+- wars (prang désa) 15, 48, 61, 165, 548 (caused by perverse legal decisions of Danureja IV)
+- Vinne, J. van der (Vice-president of Bataviaasch Genootschap and chief magistrate of Batavia) 703, 712-3, 729 see also Bataviaasch Genootschap
+- Virgil (70-19 BC) 239 (quote from Aeneid)
+- Vlissingen, F. Hartmann van (?-1826; Dutch land-renter Surakarta) 532, 621 (as inspector of cultures in Pacitan / death of)
+- Vorstenlanden, annexations in 9, 161-5 (proposals for new boundary with pasisir) see also Surakarta, Yogyakarta
+- Vredenburg, fort (Yogya) 3, 57 (eastern mancanagara bupati carry out building work on), 187 (Ambonese garrison in, 1808), 216 (model for kraton fortification extensions, 1809), 244 (mentioned by Rongga in final letters), 327 (Dipanagara refuses to take refuge in), 332 (Natakusuma / Natadiningrat go over to), 336, 523, 543
+- Waal river 735
+- Wahhāb, Muhammad ibn Άbd al-(Muslim legal scholar, fl. 1740-60) 114
+- Wahhābī 81, 114 (conquer Mecca and Medina), 163 (supposed influence in Pakepung affair), 414
+- wali (apostles of Islam) 10, 72, 132-3, 155, 368 (Dipanagara as), 573, 613-4 (Kalijaga as ancestor of Sérang family), 622, 627 (Sérang family and supporters of Dipanagara as descendants of), 635-6 see also Demak, Giri, Kalijaga, Kudhus
+- Walikukun, district 164 (teak forests in)
+- wali wudhar (wali with a dual spiritual / temporal function) 133, 569, 572-5, 578-80, 586, 603
+- waliyullah (messenger of Allah) 483
+- Waliyullah, Sunan (Kedhiri) 487, 490-3, 505
+- Waliyullah, Sèh Rahman (title of Umar Mahdi) 482 see also Umar Mahdi
+- Wallace, Alfred Russel (1823-1913) 721 (description of Manado)
+- Walraven van Nes see Nes
+- Wanacatur, pesanggrahan-Dalem / royal retreat 185, 210 (visited by Daendels, 7-1809), 778
+- Wanakerta, village (east Java) 491-2 (empu / kris maker; blacksmith at)
+- Wanasaba (Wonosobo, northern Kedhu) 28, 268, 617, 678 see also Ledhok
+- Wanasari, village (Yogya) 281
+- Wanasari (Madiun), residence of bupati wedana 60, 269 see also Maospati
+- Wanaseraya see Dhuri
+- Wandhan, Radèn Ayu (post-1812, Ratu; daughter of Radèn Tumenggung Yudakusuma II of Grobogan-Wirasari; consort of Hamengkubuwana III; divorced ?1813) 349 (?kills British officer), 760
+- wang bekti pasumbang (additional tributary payments) 66
+- wang peniti (‘pin money’ payments at tollgates) 469
+- wang pesangon (journey money) 58
+- Wangsasetra, Kyai (Bagelèn) 621 (ulama in Cleerens’ entourage)
+- wangsit (interior prompting / inner voice) 150 see also Parangkusuma
+- War of the First Coalition (1792-7) xii see also French Revolutionary Wars
+- war treasury 205-7 (Daendels, 1808)
+- Wardenburg, Colonel (commander of the Netherlands Indies navy) 712, 717
+- waringin kurung (boxed waringin trees, Yogya) 565
+- Waru, district (north coast) 164
+- Warung, district (north coast) 265
+- Washington, George (1732-99) xvii
+- ‘water line’ (Nieuwe Hollandse waterlinie / New Dutch Water Line; post-1830, frontier defence system) 736
+- Waterloo, Matthijs (1769-1812; Second Resident of Yogya, 1798-1803; Resident of Yogya, 1803-8; Forest Administration Board, 1808-9; Resident of Cirebon, 1809-12) 30, 35, 93, 98, 160-1, 162 (biography), 163-5, 206, 237, 276-7 (jailer of Natakusuma / Natadiningrat in Cirebon), 326, 473, 809
+- Waterloo, battle of (15-6-1815) 520, 643 see also Hundred Days, Napoleon
+- Wates, village (Kulon Praga) 38
+- Watson, Lieutenant-colonel James (C. O. 14th Regiment of Foot / Buckinghamshires) 351
+- Wattendorf, A.J.B. (Resident of Yogya, 1873-8) 686-7 (conversation with Gandakusuma / Danureja V about Dipanagara’s arrest)
+- Wawu, Javanese year 251 (as time for proclamation of Ratu Adil)
+- wayang xiv, 104-5, 117, 145 (Ratu Kidul in costume of), 247 (images during Rongga rebellion), 340 (dhalang), 350 (court collections captured by British), 403-4,l 486 (at Lodhaya) see also dhalang
+- gedhog (Panji cycle) 411
+- krucil (Damar Wulan cycle) 411
+- wong (dance dramas) 548
+- Wealth of Nations (1776) 456 (Nahuys quotes from)
+- weapons see armaments
+- weaving industry 17, 32 (plate), 42 (plate), 161 (at Tanggung), 186 (at Karang Bolong) see also cloth production, Jana, Tanggung, textiles, Wedhi
+- wedana bumi sèwu (Bagelèn) 27
+- Wedhi, weaving centre (Bagelèn) 24, 497 (during Dipasana revolt), 617 (fate of Chinese in during Java War)
+- Wéjasena (Bima Raré series of plays) 137
+- Weleri, district (north coast) 218, 265 see also Subah-Weleri (forest)
+- Wellesley, Richard Colley, 2nd Earl of Mornington and Marquis Wellesley (1760-1842; governor-general of India, 1797-1808) 347
+- Weltevreden (Gambir) 281, 287, 423 (attitude of sepoy garrison in during 1815 conspiracy)
+- West Java 140, 167, 170, 279 (collapse of crop payments, 1811), 285 (captured by British), 415 (sepoy to be appointed governor-general in), 454, 588, 590 see also Bandung, Banten, Batavia, Preanger, Priangan, Sunda
+- Wétan, Ratu see Kencana Wulan, Ratu
+- Widi Prayitna, dhalang of Yogya court (grandfather of Pangéran Suryanagara) 137
+- Wiese, A.H. (1761-1810; governor-general, 1805-8) 195, 435
+- Wiese, G.W. (1771-1811; brother of above; Resident of Yogya, 1808-9) 169, 195 (as Inspector General of Forests), 205 (installed as Yogya Resident), 206-10 (and Daendels 7-1809 visit), 216, 262, 264, 269, 809
+- Wiese, Mrs G.W. (1776-1821; née Catharina Gasparina Beijlon, also spelt Beijlen) 217
+- wilah-welit (tribute in lieu of building materials) 59
+- William I, king of the Netherlands (reigned 1813-40; as king of the United Netherlands, 1815-30) xv, 114, 137 (receives Dipanagara’s kris), 182, 376, 415, 423, 433, 500, 517, 519, 528, 551, 592, 628, 666 (Dipanagara’s unconditional surrender demanded), 707, 718 (portrait of), 719, 732, 736 (rejects proposal to send Dipanagara to Holland) see also Loevestein, Woerden
+- William II, king of the Netherlands (reigned 1840-9) 536 (and Bouwens), 742 (French press article on Dipanagara’s treatment)
+- William III, king of the Netherlands (reigned, 1849-90) 698 (given Salèh’s painting of Dipanagara’s capture)
+- William V, Stadhouder of Holland (reigned 1766-85/1787-95) xii, 415
+- Winckelmann, Carl von (1772-1841; Inspector-General of Coffee Culture, 1810-11; Deputy Inspector, 1815-16; Inspector, 1816-22) 211 (negotiates timber contracts), 463 (as Inspector of coffee culture)
+- Winckelmann, Colonel F.C.P. von (1767-1820; Semarang divisional commander, 1809-11) 179-80, 235, 238-9, 283
+- wine 122 (Dipanagara’s consumption of), 718 (Dipanagara’s tasting) see also alcohol, Constantia, jenever, Rhine
+- Winter, C.F. Sr (1799-1859; acting Residency Translator, Surakarta, 1820-5; Translator, 1825-59) 744 (deals with copying of MSS for Dipanagara in Surakarta, 1844-7)
+- Winter, J.W. (Residency Translator, Yogya, 1799-1806; Surakarta, 1806-20) 43-6 (report on Javanese lifestyles), 47, 102, 186, 213, 499-500 (trial and dismissal)
+- Wiraguna I, Mas Tumenggung (?1730-1807; patih of the Kadipatèn, ?1780-1807) 100, 216 (in Batavia sees fortifications of Dutch military HQ as model for kraton), 367, 774
+- Wiragunan family 100 (Dipanagara’s connections with)
+- Wiramenggala, Pangéran see Prabuningrat, Pangéran
+- Wiranagara, Radèn Tumenggung (?1790-?; pre-1807, Mas Mukidin; post-1807, Radèn Tumenggung Wiraguna II; wedana gedhé prajurit / Yogya army commander, 1819-29; titular major; post-1828, colonel; post-1830, Pangéran Adipati Prabuningrat; exiled to Banda 1832) 100 (links with Dipanagara), 367-8 (romantic links with Ratu Ibu / Ageng), 398, 440 (procurer of kraton women for European officials), 449-53 (quarrels with Dipanagara over appointment of gunung), 534 (and land-rent indemnities), 537 (accompanies Dipanagara / Mangkubumi to Bedhaya), 542-3, 551-2 (death in Banda), 553, 579, 594, 596 (plans attack on Dipanagara in Tegalreja / plate), 636, 670, 776, 806
+- Wirapati, robber chief (Kedhu) 102 (joins Dipanagara)
+- Wiraprana, Mas Ngabèhi (secretary of Danureja IV) 600 (reports on concentration of Dipanagara’s followers at Tegalreja)
+- Wirasaba (Maja-Agung), district (Surakarta eastern mancanagara) 265, 378 (annexed by Raffles as war reparation, 1812), 379 (annexed1812), 381 (revenue at annexation), 478 (Chinese land-renter as benign landlord)
+- Wirasari, district (east Java) 164, 255, 257, 265, 381 see also Grobogan-Wirasari, Yudakusuma
+- Wirata 247
+- Wiriadipura, Radèn Tumenggung 273 (appointed by Prince Regent / HB III)
+- Wiryadiningrat, Radèn Mas Aria (Surakarta bupati wedana Panaraga) 219-20
+- Wiryakusuma, Radèn Tumenggung (Yogya bupati miji; post-1812, bupati of Lowanu) 254 (on expedition against Rongga), 806
+- Wiryakusuma, Mas Tumenggung (associate of Dipanagara at Tegalreja) 97
+- Wiryapuspita, Radèn (Kadipatèn troop commander) 209
+- Wiryataruna, Radèn Ayu (sister of Pangéran Mangkubumi) 549 (supposed liaison with Dietrée)
+- Wiryawijaya (alias Mertawijaya), Radèn Ngabèhi (bekel of Bendha, southern Kedhu) 486 (rallies to Dipasana, 1822)
+- Wiryawinata, Radèn Ayu 549
+- Wisnu 132, 403, 492, 585
+- Woerden, royal fortress (Utrecht) 735 (proposal to send Dipanagara to)
+- Wolo (Ambal, Bagelèn) 25-6 (produces dhèndhèng / dried deer meat for Surakarta kraton)
+- Wolzogen, Lieutenant-colonel Karel von 184
+- women 32 (plate), 44 (as traders), 46 (as money changers), 47 (weaving skills of), 72 (female relations of Dipanagara), 74 (marital relationships), 117-8 (Dipanagara’s relations with), 210 (mounted Amazon corps impress Daendels, 7-1809), 218 (Daendels’ views of), 224 (HB III’s love of), 227 (Ratu Kencana Wulan as only woman in Java Daendels afraid of), 252 (as currency dealers), 268 (saving husbands), 315 (imprisonment of Ratu Kedhaton), 326 (official / unofficial wife distinction), 349 (rape of at Plérèd / Kartasura), 367 (act ‘like men’), 397 (attitude of Danureja IV to), 439 (divorces), 439-40 (as sex objects), 440 (wife swapping), 478 (body searches of for jewelry at tollgates), 501 (PB V as lover of), 522 (Danureja IV’s involvement with), 547 (Danureja IV demands sexual favours in legal judgements), 581 (titles accorded in Java War), 606, 613-6 (as commanders during Java War), 618-9 (attitude to Chinese women), 629 (as fighters) see also Amazon corps, rape, ronggèng, sexual relations
+- wong cilik (‘little people’; commoners) 212 (plate), 213 (elite concerns for), 222, 258, 471 (impact of tollgates on), 492 (Dipanagara concern to popularise chiefs with people)
+- wong durjana see bandits
+- wong jahil (idol worshippers) 486
+- wong putihan (men of religion) see putihan
+- Wonodadi, village (Batang, Pekalongan) 217
+- Wonosobo see Wanasaba
+- Wood, Colonel William (chief-of-staff to British forces in Java, 1811) 290
+- Woodbury & Page, photographers (Batavia) 179, 720 (plate of roads of Manado)
+- World War I xvii, 738
+- Wörmer, J. (Inspector of Government pepper and coffee estates in Pacitan) 589
+- Wringin Pitu, village (Kali Brantas, east Java) 491
+- Württemberg Regiment 175 see also Winckelmann, F.C.P. von
+- xenophobia 617-8
+- Yamin, Muhammad (1903-63) 320
+- Yogyakarta
+- abdi-Dalem (royal retainers) 4 (dwellings of)
+- accounting systems (court treasury) 61-2 see also Israël, J.L.
+- administration in 398 (problems under Danureja IV)
+- alun-alun (northern) 180 (troops leave for Rajawinangun review from), 257 (Rongga’s body displayed at), 271 (Setonan tournaments on), 336, 411 (firework display on), 545 (pépé on), 565
+- alun-alun (southern) 4, 83, 200-1 (tiger-and-buffalo fight on, 10-1808), 210 (rampog macan on for Daendels’ visit, 7-1809), 236 (troops mustered at), 272 (military exercises on), 283 (Amazon corps exercised on), 329, 340 (overrun by British)
+- archive of 62, 151 (plundered by British), 311 (?intentional disappearance of 28-12-1811 treaty from), 319, 326 (copy of secret contract in), 350 (plundered by British), 351 (Javanese MSS taken), 359, 388, 502, 522, 545 (in disarray under HB IV), 609
+- armaments foundry 4, 8 (artillery cast), 216, 272 (new weaponry acquired)
+- battlements 4, 216 (corner bastions extended), 406 (dying HB III tours)
+- British attack on (20-6-1812) 7-8, 61, 151, 331-42, 334 (map of), 388-9 (legacy of humiliation from)
+- as brothel 414, 439-40
+- cap ageng (great seal) 410
+- Chinese in 399 (Tan Jin Sing leases land)
+- and Daendels 159-60 (treasure attracts attentions of), 263-5 (bankruptcy of Yogya), 269-70 (cash indemnity demanded)
+- dance performances in 411
+- disturbances to peace in 508-9 (during appointment HB V)
+- dragoon bodyguard detachment in 427 (set up after sepoy conspiracy)
+- Dutch garrison 183, 187, 235 see also Ambonese
+- food consumption in 44
+- fort see Vredenburg
+- impoverishment of elite 263
+- indigo production in 384 (high quality exports)
+- kadhaton (inner court) 340-1 (last defence during British attack), 348 (Ngabèhi leaves)
+- keputrèn (women’s quarters) 70, 265, 349 (Lt Maclean mortally wounded in), 350 (Ratu Kencana Wulan’s brothers take refuge in), 403
+- kraton 4 (description in 1812), 80 (intrigues in), 208-10 (Daendels’ visit to), 216 (fortifications extended), 346-52 (plunder of), 361 (reoccupation of), 388 (lustre tarnished)
+- land-rent 454-60, 532-43 (problems over indemnities)
+- maps of 61, 308 (sent to Semarang naval college), 334, 522
+- markets 3, 383 (British take-over of tax farm) see also Beringharjo, Gadhing. Kuncèn, Rajawinangun
+- mosque see mesjid ageng
+- military culture 5, 6 (plate of bodyguard), 7, 5-8 (military establishment in), 8-14 (landed base), 14-9 (tax collection), 187, 272 (new cavalry squadrons), 323 (Yogya force sent to Batavia, 1793), 379 (Raffles’ decision to disband bodyguard), 391 (service requirements return to HB I’s reign), 411, 421 (sepoys take service in bodyguard), 459 (HB IV’s love of European uniforms)
+- mobile columns in 640
+- Pangéran Adipati Anom (Crown Prince) 5, 150
+- paséban (meeting place) 4, 201, 409
+- police force 3 see also gunung
+- population 39-41
+- postal service 521 see also Chevallier, Smissaert
+- and Raffles’ visit 304, 308-12
+- regency council 408 (for HB IV), 461 (for HB V)
+- Residency archive 303 (problems with letters), 346 (Valck purloins), 508, 522, 525, 605
+- Residency House 523 (repair of)
+- roads 12, 462 (HB IV’s construction mania)
+- supporters of Dipanagara from 626-33 (tensions with santri), 654-5
+- town 1-4 (description in 1812)
+- trade to north coast 101, 244 (Ratu Kencana Wulan)
+- treasure 363 (shipped to Bengal)
+- throne room see ‘Throne Room’
+- village surveyors 63-4, 66
+- yoni (at Sélareja) 86 see also Hindu-Buddhist, archaeological / temple remains
+- IJsseldijk, W.H. van (1757-1817; Resident of Yogya, 1786-98; Raad van Indië, 1799-1808; Resident of Surakarta, 1817) 63, 168 (character assessed), 188, 223-4, 237, 299 (Crawfurd reads his memorial on court), 372, 382, 391, 441 (mission to courts, 9-1816), 445, 499-500 (dies in post, 12-5-1817), 554 (gives undertakings to courts about frontiers), 618
+- Yudakusuma, Radèn Tumenggung (Yogya bupati of Grobogan-Wirasari, ?1790-1812; post-1812, bupati of Muneng; father of Radèn Ayu / Ratu Wandhan) 255 (during Rongga rebellion), 257, 269 (told to place himself at disposal of Dutch), 349, 613-4, 760, 806
+- Yudakusuma, Radèn Ayu (wife of above; daughter of Hamengkubuwana I) 613-4, 616-7
+- Yudanagara, Radèn Tumenggung (Surakarta bupati of Banyumas, dismissed 1815) 21 (outrageous behaviour of), 426 (dismissed after sepoy conspiracy)
+- Yudanegaran family see Danurejan
+- yudanegari (Javanese administrative tact) 191
+- Yule, Colonel (post-1875, Sir) Henry (1820-89; orientalist) 157
+- zakat (tithe payments) 89
+- Zandzee see Segara Wedhi
+- Zeeland 667 (De Kock in command of Dutch army in), 711 (Roeps posted in), 734
+- zemzem water (from Mecca) 702
+- ziarah see pilgrimages

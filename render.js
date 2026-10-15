@@ -1,5 +1,5 @@
 /**
- * render.js — load document.md (live over HTTP, embedded under file://)
+ * render.js — load "1816Aug-1820 - Period of Dutch Restoration.md" live
  * and render it into #markdown-output using marked.
  */
 (function () {
@@ -9,30 +9,21 @@
   const OUTPUT_ID = "markdown-output";
 
   async function getMarkdown() {
-    const embedded = (window.__BOOK_DATA__ || {})[SOURCE_FILE];
-
-    // Under http(s)://, try the live file first so edits show up on refresh.
-    if (location.protocol === "http:" || location.protocol === "https:") {
-      try {
-        const res = await fetch(SOURCE_FILE, { cache: "no-store" });
-        if (res.ok) {
-          const text = await res.text();
-          if (text.trim()) return text;
-        }
-      } catch (_) {
-        // Network hiccup — fall through to embedded.
+    try {
+      const res = await fetch(SOURCE_FILE, { cache: "no-store" });
+      if (res.ok) {
+        const text = await res.text();
+        if (text.trim()) return text;
       }
+      throw new Error(`Failed to load ${SOURCE_FILE} (status ${res.status})`);
+    } catch (err) {
+      throw new Error(
+        `Could not fetch ${SOURCE_FILE}.\n` +
+        "Make sure you are running a local web server in this directory:\n" +
+        "  python -m http.server 8000\n" +
+        "then visit: http://localhost:8000/full.html"
+      );
     }
-
-    // file:// or fetch failed → use whatever build.py baked in.
-    if (typeof embedded === "string" && embedded.length) {
-      return embedded;
-    }
-
-    throw new Error(
-      "No markdown source. Either serve this folder over HTTP " +
-        "(python3 -m http.server) or run build.py to regenerate book-data.js."
-    );
   }
 
   function showError(out, err) {
@@ -44,21 +35,15 @@
         .replace(/&/g, "&amp;")
         .replace(/</g, "&lt;") +
       "</pre>" +
-      "<p>If you opened this file with <code>file://</code>, " +
-      "start a local server in this folder:</p>" +
-      "<pre>python3 -m http.server 8000</pre>" +
-      "<p>then visit <a href='http://localhost:8000/full.html'>" +
-      "http://localhost:8000/full.html</a>.</p>" +
+      "<p>Start a local web server in your project folder:</p>" +
+      "<pre>python -m http.server 8000</pre>" +
+      "<p>Then visit: <a href='http://localhost:8000/full.html'>" +
+      "http://localhost:8000/full.html</a></p>" +
       "</div>";
   }
 
   function configureMarked() {
     if (typeof marked === "undefined") return;
-    
-    // Modern marked versions use marked.use() for extensions
-    // but for the minified basic version, we ensure options are set.
-    // Note: headerIds was moved to a separate extension in marked 5.0+
-    // We will try to use the options object for compatibility.
     marked.setOptions({
       gfm: true,
       breaks: false,
