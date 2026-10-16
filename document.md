@@ -1164,11 +1164,11 @@ Chinese = recognised as someone
 who could not pay by not having
 money to pay Bobot: (cf family very impoverished)
 
-.. CITEMAT to SHACKMAST. = recognised as "bad sort."
+.. Cipemat [CITEMAT] to Schout-bij-nacht [SHACKMAST] = recognised as "bad sort."
 disregards PIAGEM ratified by various Residents.
 1) much given to stealing + fraudulent practices;
 
-.. BOBOT reinstated as Ingebey [Ngabèhi]:
+.. BOBOT reinstated as Ingabèhi [Ngabèhi]:
 CHINESE instructed to pay back 700 Sp. D.
 in arrears RENT.
 
@@ -1286,14 +1286,14 @@ saves many lives!
 
 9 Sept.
 NvB -> G.G.
-arrival of Van Ysseldijck
+arrival of Van IJsseldijk
 
 [Red Ink Heading]:
 Ratu Kencono Wulan to Batavia to join HB II
 
 23 Aug.
 NvB -> G.G.
-asks G.G. to look after Ratu Kencana [Wulan], R.Ay. Mutenengrat /
+asks G.G. to look after Ratu Kencana [Wulan], R.Ay. Murtiningrat /
 Jayaningrat / Dewaningrat who would
 be travelling to Batavia to be with Sultan Sepuh.
 
@@ -1329,7 +1329,7 @@ under the V.O.C.
 
 12 Nov.
 NvB -> G.G.
-CAPTURE of MOORMO in Desa Kapundung:
+CAPTURE of MOORMO in Desa Kepundhung:
 Brother + 15 followers escapes after fleeing to
 Amad [Jenal / Abdullah] MOSQUE -
 Patih promises to deliver them up.
@@ -1428,7 +1428,7 @@ Residency functions.
 letters greetings to be sent from Commissioner-general
 to Sultan = concerning arrangements / connections.
 (cf taken by IJsseldijk Sept / Oct 1816)
-[cf Report of Van IJsseldijck published in Ned. van Dev.]
+[cf Report of Van IJsseldijk published in Ned. van Dev.]
 
 8. PAKOE ALAM Troops under British pay =
 to be immediately taken over to Dutch pay.
@@ -1502,7 +1502,7 @@ Fund.
 
 29 Aug.
 PATIH: Tells of FLIGHT of Chinese & Javanese:
-captured at Boegolalie Rike [Boyolali] "
+captured at Boyolali Rike [Boyolali] "
 
 PRISON in a deplorable state - no locks:
 but merely - bars wood
@@ -1597,7 +1597,7 @@ Diverse aantekeningen uit het gewoon (Niet geheime) Residentie archief. Te Soera
   * Brit Res. Johnson Handed over to Dutch Res.
   * Pinket van Haak: *(For handover in Sala to Kemp Oost-Indië's Herstel p. 249)*
 * 29 Aug.
-  * Arrival of Special Envoy (Buitengewone Gezant) to VK van Ysseldyk leaves 8 Sept. 1816
+  * Arrival of Special Envoy (Buitengewone Gezant) to VK van IJsseldijk leaves 8 Sept. 1816
 * - JUNE 1815 - Start of vaccination against smallpox by British in Sala/Yogya. *(Dr. W. Ainslie Res Handed over → P. van Haak 16 Aug.)*
 * 1 Nov.
   * Garĕbĕg Bĕsar in Sala. *(flag flown)*
@@ -1682,7 +1682,7 @@ Bench that 2 EUROPEANS = would take control
 - possible.
 
 10 Sept 1816 | arrival
-9 Special Envoy from G.G. W.H. van Ysseldyk:
+9 Special Envoy from G.G. W.H. van IJsseldijk:
 - Special recognition P. Pakoe Alam.
 
 ---
@@ -1704,8 +1704,8 @@ Bench that 2 EUROPEANS = would take control
 
 ---
 
-13 Sept 1816 | *Arrival van IJsseldyk*
-van Ysseldyk Received as best amb-extraordinary:
+13 Sept 1816 | *Arrival van IJsseldijk*
+van IJsseldijk Received as best amb-extraordinary:
 - dispatching wives from kan dere.
 - followers to join an depach in Batavia.
 
@@ -1724,7 +1724,7 @@ PROTECTIVE ATTITUDE Ageng P. Boes & CHILDREN:
 POWER OF COURT IN MANDOG Res
 NOT so-called Regent PAKOE ALAM...
 
-Over-zending van Ysseldick:
+Over-zending van IJsseldijk:
 > "Nevertheless, I would like to make it clear that the sending of a special envoy did not please me very much... I do not wish prying into private affairs...
 >
 > Nevertheless serves to raise status of Dutch govmnt in eyes of Javanese."
@@ -2171,10 +2171,10 @@ Orders PATIH to make survey of SULTAN'S LAND.
 ? extract into Louw Vol I ?
 
 `1 Nov.`
-Madoen Sernito. embezzling public funds.
+Madiun [Madoen Sernito] embezzling public funds.
 
 `1 Nov.`
-Resident Saelby MACLEOD. - Javan. new year - eido? 688 rups.
+Resident Alexander Macleod [Saelby MACLEOD]. - Javan. new year - eido? 688 rups.
 
 `8 Nov.`
 `DJOGJA - ALUN`
@@ -2190,7 +2190,7 @@ escorts of SULTAN. / clothes-venders. /
 
 cf. powerful protecting KI MOERMO in PRINCE BOEMINOTO
 priestly brother of SULTAN.
-cf Toptajani (priestly protector)
+cf Taptajani (priestly protector)
 
 Stops to ask information on Ki MOERMO = local people
 @ that he possessed magical power would become a great man.
@@ -2217,7 +2217,7 @@ Doesn't make report early enough.
 1814 NOV - 1817 NOV
 
 RATOE ANOM = BECOMES Ratoe Eboe =
-mother of SULTAN = niece Syeadadira
+mother of SULTAN = niece Sayidadina [Syeadadira]
 M.B. III's DEATH HAD ENGAGED IN INTRIGUE
 of this NATURE.
 
@@ -2248,9 +2248,9 @@ CORRUPTION.
 
 During REIGN of SULTAN M.B. III =
 
-Ki MOERTO receives more then 4.000 Sp. Dollars
+Kyai Murma (Ki MOERMO) receives more then 4.000 Sp. Dollars
 from court
-cf Pangerang Voeno Notto
+cf Pangéran Buminata (Pangeran Boemi Noto)
 + Djojo Kario ?
 
 12 NOV
@@ -2301,17 +2301,17 @@ escapes CAPTURE.
 WHEN Djogja attack made on Moermo =
 flees to Solo Territory: Receives presents from
 Solo Prince = (1812-1846)
-Pang Jastrodiningrat 5.000 Sp. Dollars.
-Pang Dena Dipora (2.000)
+Pangéran Sasradiningrat 5.000 Sp. Dollars.
+Pangéran Danupura (2.000)
 (Bup. Pang Wedana)
 Ratoe Kentjono & wife dcnan 3.000
 + gifts from Dipo Kosoema / Jakra Kosoema.
 
 SOENANG SOLO:
-After departure of special envoy vandykeurick
+After departure of special envoy van IJsseldijk
 Kipandhay holds a long meeting with ki moermo &
-doenan pays ja PB IV mosque at Krapendocry.
-Building of Rijogis House at Krapoendocy.
+doenan pays ja PB IV mosque at Krapyak.
+Building of Rijogis House at Krapyak.
 
 13 Nov.
 PROCÉS VERBAAL KI MOERMO.
@@ -2669,7 +2669,7 @@ for EXILE of DANU NINGRAT, Patih of SOLO
 NATA KUSUMA of Djokja.
 
 1810 - 1816 MOORMO = LIES LOW.
-Few days before happening at Kapundung:
+Few days before happening at Kepundhung:
 goes to COURT of SOLO.
 accompanied by ABU BAKAR goes to TJAKRA
 KUSUMA
@@ -2799,14 +2799,14 @@ During PATIHSHIP g DANUNINGRAT in SOLO (VK p.607)
 asked to go to SOLO By MOORMO But Refuses:
 says must look after Padi fields.
 
-MANY MANTRI'S g SOLO = come to Kapundung
+MANY MANTRI'S g SOLO = come to Kepundhung
 To pawn KRISES, PIKES, RIFLES.
 
 ARAB meets SAÏD + Brother ki MOORMO = on way to SOLO
 [wron pawlalis] afterwards Res sends out detachment
 (120/150 Men)
 
-Many pawned goods in KAPUNDUNG:
+Many pawned goods in KEPUNDHUNG:
 
 [Margin:]
 Before
@@ -2826,11 +2826,11 @@ Muslim 39 years old
 + PATIH + wife:
 Sasradiningrat II (1812-30 Jan 1846)
 see Rouffaer
-.5. goes to KAPUNDUNG to see ki MOORMO (VK p.607)
+.5. goes to KEPUNDHUNG to see ki MOORMO (VK p.607)
 Cakranëgara
 3x stays 15 days [1810-1812]
 .6. Why? to sell goods / pawn goods. Dec.
-.7. meets MANTRI at Kapundung:
+.7. meets MANTRI at Kepundhung:
 
 Moormo says that Sjeh ABUBAKAR had asked
 him to pray for success in WAR
@@ -3141,7 +3141,7 @@ van IJsseldijk / Nahuys / Crawfurd's assurances
 to make an end g this fear: g no avail.
 
 p. 27
-.: HB II, Mangkudiningrat / Mertosono + Tum. Raden
+.: HB II, Mangkudiningrat / Mertasana + Tum. Raden
 Kasana Pinja
 Banished to Ambon - 10 Jan. 1817 P.B.
 
@@ -3940,7 +3940,7 @@ A historical manuscript page on aged paper containing Javanese script followed b
 ### Dutch Translation Text
 Translaat Javaansche Geschrifft Van den Pangeran Adispatte Pakoe Alam te Djocgocarta, luidende van Woord tot Woord als Volgt —
 
-Mijn Broeder de Edele Heer Wouter Hendrik Van Ysseldyke, ten optigte van Djimsing, dat als UEd. het niet serieux ter harte Wil namen, zal het voor mij Verdrietig zijn — Ik kan de Voorlegging van mijn Heer Zaliger Vader Wijlen Sijn Hoogheijd den Zülthan nooyt Vergeten, welke te kennen heeft gegeven, dat het niet goed is Wanneer men Een Chinees in de geleegendheijd Stelt, of de Vrijheid Vergund om Zich met de Vorst familliaar te maaken, aangezien (zegd de Heer Zulthan) Zulks een voorbeduijding is van oneenigheeden binnenstands. — Alle menschen van Djocgocarta
+Mijn Broeder de Edele Heer Wouter Hendrik Van IJsseldijk, ten optigte van Djimsing, dat als UEd. het niet serieux ter harte Wil namen, zal het voor mij Verdrietig zijn — Ik kan de Voorlegging van mijn Heer Zaliger Vader Wijlen Sijn Hoogheijd den Zülthan nooyt Vergeten, welke te kennen heeft gegeven, dat het niet goed is Wanneer men Een Chinees in de geleegendheijd Stelt, of de Vrijheid Vergund om Zich met de Vorst familliaar te maaken, aangezien (zegd de Heer Zulthan) Zulks een voorbeduijding is van oneenigheeden binnenstands. — Alle menschen van Djocgocarta
 
 ---
 
@@ -3965,7 +3965,7 @@ Sinerat ing dinten Jumuwah tanggalping sawelas ing wulan Dulkangidan ing tahun D
 
 Punika tandha astanipun kyahi Dipati Purwo.
 
-9 Saudara kula, Tuwan Idelir Wouter Hendrik van Yseldyk, aprakawis pun Jim Sing, yen boten kagalih ingkang temen, dhateng Tuwan Idelir, asanget dados sumelangipun manah kula, kula enget kala maksih panjenenganipun Bapak Kangjeng Sultan Swarga, asring ngendika yen bangsa Cina kacelakaken ing Ratu boten prayogi, asring dados witing resan ing Negari, kalih dene malih sawaruhipun Tuwan Idlir, jumeneng utusanipun para Kangjeng Tuwan ingkang Ageng, sawarninipun tiyang Ngayogya, saking pangraos kula menggah Tuwan Idlir ingkang dipun percaya, sarta pitajeng ing galih, sarehning Sultan maksih timur, boten liya amung pitajeng dhateng kula, pun Jim Sing punika kedhep-ming para bupati, wicantenipun asring ngundhakaken Gupermen Welandi, ugi kapituhu dhateng putra sentana, tuwin para bupati, ing tembe yen wonten prakawis, dados ewed ing Negari, sabab pakewed saking pun Jim Sing, kula sampun boten tumut-tumut, kula mapan sampun pratela dhateng Tuwan Idlir, punapa malih menggah piangkuhipun pun Jim Sing, tilar saking ngadating Cina, sarta saged angaben-aben dora sembada, sampun kula yektosi menggah piangkuhipun pun JimSing, yen kirang trang menggah penggalihipun Tuwan Idlir, prayogi katitik kaliyanipun saking kula,
+9 Saudara kula, Tuwan Idelir Wouter Hendrik van IJsseldijk, aprakawis pun Jim Sing, yen boten kagalih ingkang temen, dhateng Tuwan Idelir, asanget dados sumelangipun manah kula, kula enget kala maksih panjenenganipun Bapak Kangjeng Sultan Swarga, asring ngendika yen bangsa Cina kacelakaken ing Ratu boten prayogi, asring dados witing resan ing Negari, kalih dene malih sawaruhipun Tuwan Idlir, jumeneng utusanipun para Kangjeng Tuwan ingkang Ageng, sawarninipun tiyang Ngayogya, saking pangraos kula menggah Tuwan Idlir ingkang dipun percaya, sarta pitajeng ing galih, sarehning Sultan maksih timur, boten liya amung pitajeng dhateng kula, pun Jim Sing punika kedhep-ming para bupati, wicantenipun asring ngundhakaken Gupermen Welandi, ugi kapituhu dhateng putra sentana, tuwin para bupati, ing tembe yen wonten prakawis, dados ewed ing Negari, sabab pakewed saking pun Jim Sing, kula sampun boten tumut-tumut, kula mapan sampun pratela dhateng Tuwan Idlir, punapa malih menggah piangkuhipun pun Jim Sing, tilar saking ngadating Cina, sarta saged angaben-aben dora sembada, sampun kula yektosi menggah piangkuhipun pun JimSing, yen kirang trang menggah penggalihipun Tuwan Idlir, prayogi katitik kaliyanipun saking kula,
 
 10 saking kula, Wekas-wekasanipun panuwun kula dhateng Tuwan Idlir, pun Jim Sing punika, yen boten kakesahaken saking Negari Ngayogya, tansah angresahi pranata.
 
@@ -6487,13 +6487,13 @@ H 698b.                                   May 1817 - 1817 -   June / Oct.
 14 March   G. Besluit van den G.G.
            14 March 1817 No. 25.
            Pukket van Haak Prov. Res. of Solo - named to Pekalongan
-           van IJsseldijck   "     "   "    "    -   "   to Solo.
+           van IJsseldijk   "     "   "    "    -   "   to Solo.
 
            Admin. of Solo / Yogya on same footing as
            During British Period -> Treaty 1 Aug 1812 Basis
            Art 15 + 19 to Foreground.
 
-18 April   van IJsseldijck takes over Residency from van Haak 15 April 1817.
+18 April   van IJsseldijk takes over Residency from van Haak 15 April 1817.
 
 5 May 1817  New Military Road Semarang - Yogya ->
            Through Drie Ruvier (Tangan Tiga)
@@ -6765,9 +6765,9 @@ Sec.g N.I.
 5058 N.I.
 
 Because of Dangers to SOCIAL INSTABILITY:
-Decision to BANISH SULTAN SEPEH to MOLUCCAS:
-ARIA MANGKU DININGRAT
-ARIA MARTA SANA
+Decision to BANISH SULTAN SEPUH to MOLUCCAS:
+ARIA MANGKUDININGRAT
+ARIA MERTASANA
 Rad. KUSUMA DIRAGA
 
 26 Feb 1817
@@ -6819,7 +6819,7 @@ REFUSAL to allow Tjakranegara to return to SOLO.
 
 2 May 1817
 Haak -> G.G.
-van Iysseldyck ->
+van IJsseldijk ->
 P. Adg. PURBA. SUNAN to marry away daughters: of P.W.
 
 ---
@@ -7038,7 +7038,7 @@ by Dutch soldiers." ... Regarded by Javanese as a well
 established family.
 
 :. essential for goods to be auctioned quietly.
-and PROCEEDS given to family in Negori Kapundung.
+and PROCEEDS given to family in Negori Kepundhung.
 
 EXILE TO MOLUCCAS: heartily endorsed.
 
@@ -7210,7 +7210,7 @@ AvS (Gewoon)
 
 15 April
 Pukket van Haak to be FOLLOWED as Res by
-van Ysseldyck who dies at Solo 12 May
+van IJsseldijk who dies at Solo 12 May
 
 Asst Res Lippe - fulfills functions of Res.
 12 May - 30 Jan 1818 when succeeded
@@ -7224,7 +7224,7 @@ Kebumen, Batun, Pakis, Vèrèn, Naganaga belong to
 Solo.
 
 14 April
-MEMORIE VAN OVERGANG van Haak -> van Ysseldyck:
+MEMORIE VAN OVERGANG van Haak -> van IJsseldijk:
 mostly about personalities ->
 J.W. Winter Head of translators dept.
 In charge of Birds nests
@@ -8336,7 +8336,7 @@ MD freed out then captured
 became of Amuk party (9 Serdadi wises at monas Secadiningrat)
 to settle in Java
 in Madiun / Kertasana || Secadiningrat badly wounded with directly under orders GG a pike -
-But in conflict + orders of van Ysseldyck -
+But in conflict + orders of van IJsseldijk -
 H.Ct in Yogya 1816.
 
 16 Oct - 13 Nov 1818
