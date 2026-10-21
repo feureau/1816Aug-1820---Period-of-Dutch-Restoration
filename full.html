@@ -85,12 +85,14 @@
         <a class="btn" href="dictionary.html">Keyword Dictionary</a>
     </div>
 
-    <h1>Full Documentation – 1816–1820 Dutch Restoration</h1>
-    <p>This page contains the entire markdown source of the project.</p>
+    <h1>Full Transcriptions – 1816–1820 Dutch Restoration</h1>
+    <p>This page contains all historical transcriptions loaded in a single view.</p>
 
     <div id="markdown-output">Loading…</div>
 
-    <!-- Script order: marked → render -->
+    <!-- Script order: data -> marked → render -->
+    <script src="transcriptions-data.js" defer></script>
+    <script src="transcriptions-content.js" defer></script>
     <script src="marked.min.js" defer></script>
     <script src="render.js" defer></script>
 </body>

@@ -1,30 +1,10 @@
 /**
- * render.js — load "1816Aug-1820 - Period of Dutch Restoration.md" live
- * and render it into #markdown-output using marked.
+ * render.js — loads all individual transcriptions sequentially and renders them into #markdown-output using marked.
  */
-(function () {
+(async function () {
   "use strict";
 
-  const SOURCE_FILE = "1816Aug-1820 - Period of Dutch Restoration.md";
   const OUTPUT_ID = "markdown-output";
-
-  async function getMarkdown() {
-    try {
-      const res = await fetch(SOURCE_FILE, { cache: "no-store" });
-      if (res.ok) {
-        const text = await res.text();
-        if (text.trim()) return text;
-      }
-      throw new Error(`Failed to load ${SOURCE_FILE} (status ${res.status})`);
-    } catch (err) {
-      throw new Error(
-        `Could not fetch ${SOURCE_FILE}.\n` +
-        "Make sure you are running a local web server in this directory:\n" +
-        "  python -m http.server 8000\n" +
-        "then visit: http://localhost:8000/full.html"
-      );
-    }
-  }
 
   function showError(out, err) {
     out.innerHTML =
@@ -35,10 +15,7 @@
         .replace(/&/g, "&amp;")
         .replace(/</g, "&lt;") +
       "</pre>" +
-      "<p>Start a local web server in your project folder:</p>" +
-      "<pre>python -m http.server 8000</pre>" +
-      "<p>Then visit: <a href='http://localhost:8000/full.html'>" +
-      "http://localhost:8000/full.html</a></p>" +
+      "<p>Check your console for more details.</p>" +
       "</div>";
   }
 
@@ -51,47 +28,68 @@
     });
   }
 
-  function addHeaderIds(container) {
-    const headings = container.querySelectorAll("h1, h2, h3, h4, h5, h6");
-    headings.forEach(h => {
-      const text = h.textContent;
-      const id = text.toLowerCase()
-        .replace(/[^\w\s-]/g, "")
-        .replace(/\s+/g, "-")
-        .replace(/-+/g, "-")
-        .replace(/^-+|-+$/g, "");
-      h.id = id;
-    });
-  }
-
-  async function render() {
+  async function renderAll() {
     const out = document.getElementById(OUTPUT_ID);
     if (!out) return;
 
-    try {
-      const md = await getMarkdown();
-      if (typeof marked === "undefined") {
-        throw new Error(
-          "marked.min.js did not load. Check that it sits next to full.html."
-        );
+    if (typeof marked === "undefined") {
+      showError(out, new Error("marked.min.js did not load. Check that it sits next to full.html."));
+      return;
+    }
+
+    const list = window.__TRANSCRIPTIONS_DATA__ || [];
+    if (list.length === 0) {
+      showError(out, new Error("No transcription data found. Make sure transcriptions-data.js is loaded."));
+      return;
+    }
+
+    out.innerHTML = ""; // Clear "Loading..."
+
+    for (const entry of list) {
+      let mdText = "";
+      const src = entry.text;
+
+      // 1. Try to fetch live file (works on http/https)
+      if (location.protocol === "http:" || location.protocol === "https:") {
+        try {
+          const res = await fetch(src, { cache: "no-store" });
+          if (res.ok) {
+            mdText = await res.text();
+          }
+        } catch (_) { /* fall through */ }
       }
-      out.innerHTML = marked.parse(md);
-      addHeaderIds(out);
-      document.title =
-        (md.match(/^#\s+(.+)$/m) || [, document.title])[1].trim();
-    } catch (err) {
-      console.error(err);
-      showError(out, err);
+
+      // 2. Fallback to bundled content (works on file://)
+      if (!mdText) {
+        const embedded = (window.__TRANSCRIPTIONS_CONTENT__ || {})[entry.id];
+        if (typeof embedded === "string") {
+          mdText = embedded;
+        }
+      }
+
+      if (mdText) {
+        const section = document.createElement("div");
+        section.className = "transcription-section";
+        section.style.marginBottom = "40px";
+        section.style.borderBottom = "1px solid #333";
+        section.style.paddingBottom = "20px";
+
+        const contentHTML = marked.parse(mdText);
+        section.innerHTML = `<h2 id="${entry.id}">${entry.id}</h2>\n` + contentHTML;
+        out.appendChild(section);
+      } else {
+        console.warn(`Could not load text for ${entry.id}`);
+      }
     }
   }
 
   if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", () => {
       configureMarked();
-      render();
+      renderAll();
     });
   } else {
     configureMarked();
-    render();
+    renderAll();
   }
 })();

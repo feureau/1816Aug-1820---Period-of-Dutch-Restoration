@@ -15,8 +15,6 @@
         a { color: #4a9eff; text-decoration: none; padding: 12px 15px; background-color: #3a3a3a; border-radius: 5px; display: block; transition: all 0.2s ease; }
         a:hover { background-color: #4a9eff; color: #ffffff; text-decoration: underline; }
         .main-document { grid-column: 1 / -1; background-color: #3d3d3d; border-left: 5px solid #ff6b6b; }
-        .error-box { display: none; padding: 20px; background-color: #a63e3e; border-radius: 5px; color: white; margin-bottom: 20px; }
-        #content { display: none; min-height: 400px; }
     </style>
 </head>
 <body>
@@ -28,14 +26,14 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
     <div class="section" style="flex: 1; min-width: 260px;">
-        <h3>Full Text of The Dutch Restoration Era (1816-1820)</h3>
-        <p style="color:#aaaaaa; font-size:14px;">Complete archival compilation with full table of contents, timelines, and transcribed letters from ANRI, Leiden University Library, and other European/Javanese sources (1816-August – December 1820).</p>
-        <a href="full.html">Open Full Documentation →</a>
+        <h3>Full Transcriptions</h3>
+        <p style="color:#aaaaaa; font-size:14px;">Complete compilation of all historical transcriptions loaded into a single continuous page.</p>
+        <a href="full.html">Open Full Transcriptions →</a>
     </div>
 
     <div class="section" style="flex: 1; min-width: 260px;">
         <h3>Individual Transcriptions</h3>
-        <p style="color:#aaaaaa; font-size:14px;">Browse all historical transcriptions (672 text files) of original letters, reports, and official documents from the Yogyakarta and Surakarta archives.</p>
+        <p style="color:#aaaaaa; font-size:14px;">Browse all historical transcriptions of original letters, reports, and official documents from the Yogyakarta and Surakarta archives.</p>
         <a href="transcriptions.html">Browse All Transcriptions →</a>
     </div>
 
@@ -46,208 +44,15 @@
     </div>
 </div>
 
-<div id="error-container" class="error-box"></div>
-
 <div class="description">
     Project: 1816 (August) – 1820: Yogyakarta Residency Letters & The Period of Dutch Restoration<br>
     Archival Sources: ANRI, Leiden University Library, Nationaal Archief, KITLV<br>
     Content: Historical transcriptions, archival summaries, and research dossiers compiled by Professor Peter Carey
 </div>
 
-<div id="content">
-    <div class="section">
-        <h3>Primary Documentation</h3>
-        <a href="#" onclick="showFile()"><span style="font-weight:bold; color:#4a9eff;">Main Historical Document</span><br>Complete archival compilation with full table of contents, timelines, and transcribed letters</a>
-    </div>
-
-    <div class="section">
-        <h3>Transcription Files</h3>
-        <a href="Transcriptionv2/" style="background-color: transparent; padding: 0;">Browse All Transcriptions (672 text files)</a>
-    </div>
-
-    <div class="section">
-        <h3>Keyword & Correction Dictionary</h3>
-        <a href="dictionary.html" style="background-color: transparent; padding: 0;">Open Keyword & Correction Dictionary</a>
-    </div>
-    
-    <div id="markdown-output"></div>
-</div>
-
 <footer style="text-align:center; padding:30px; color:#666666; border-top:1px solid #444; margin-top:30px;">
     Dutch Restoration Project Documentation<br>Yogyakarta & Surakarta, August 1816 – December 1820
 </footer>
-
-<script>
-function showFile() {
-    const mdUrl = '1816Aug-1820 - Period of Dutch Restoration.md';
-    const output = document.getElementById('markdown-output');
-    const errorBox = document.getElementById('error-container');
-    
-    // Check if we're on file:// protocol
-    try {
-        let url = window.location.protocol === 'file:' ? mdUrl : mdUrl;
-        
-        fetch(url)
-            .then(response => {
-                if (!response.ok) throw new Error('File not found');
-                return response.text();
-            })
-            .then(markdownText => {
-                output.style.display = 'block';
-                errorBox.style.display = 'none';
-                renderMarkdown(markdownText, output);
-            })
-            .catch(err => {
-                console.log('Fetch failed (file:// protocol). Showing file picker.');
-                createFilePicker(mdUrl, output, errorBox);
-            });
-    } catch(e) {
-        createFilePicker(mdUrl, output, errorBox);
-    }
-}
-
-function renderMarkdown(text, container) {
-    container.innerHTML = '';
-    
-    const lines = text.split('\n');
-    let html = '';
-    let para = [];
-    let listOpen = false;
-    let bqOpen = false;
-    
-    for (let i = 0; i < lines.length; i++) {
-        const line = lines[i];
-        
-        if (line.trim() === '') {
-            html += para.length > 0 ? '<p>' + formatText(para.join(' ')) + '</p>' : '';
-            listOpen = false; bqOpen = false; para = [];
-            i++;
-            continue;
-        }
-        
-        // Headers
-        const hMatch = line.match(/^#{1,3}\s+(.+)$/);
-        if (hMatch && !bqOpen) {
-            html += para.length > 0 ? '<p>' + formatText(para.join(' ')) + '</p>' : '';
-            listOpen = false;
-            const hlevel = '#' + hMatch[1].length;
-            html += '<h' + hMatch[1].length + '>' + escapeHtml(hMatch[2]) + '</h' + hMatch[1].length + '>\n';
-            para = [];
-        } else if (line.startsWith('>')) {
-            // Blockquotes
-            if (!bqOpen) {
-                html += para.length > 0 ? '<p>' + formatText(para.join(' ')) + '</p>' : '';
-                listOpen = false; bqOpen = true; para = [];
-                html += '<blockquote>\n';
-            }
-            const bqLine = line.substring(1).trim();
-            if (bqLine) {
-                // Check for new paragraph in blockquote
-                if (bqLine === line.substring(1)) {
-                    if (!html.includes('<p>')) html += '<p>';
-                    formatBlock(bqLine);
-                    if (!html.endsWith('</p>')) html += '</p>';
-                } else {
-                    html += ' ';
-                    formatBlock(bqLine);
-                }
-            }
-        } else if (line.match(/^\s*-/)) {
-            // List items
-            if (!listOpen) {
-                html += para.length > 0 ? '<p>' + formatText(para.join(' ')) + '</p>' : '';
-                listOpen = true; bqOpen = false; para = [];
-                html += '<ul>\n';
-            }
-            const itemText = line.substring(2).trim();
-            if (!html.endsWith('<li>')) html += '<li>';
-            formatBlock(itemText);
-            if (!html.endsWith('</li>')) html += '</li>';
-        } else {
-            // Close list and blockquote
-            if (listOpen) { html += '</ul>\n'; listOpen = false; }
-            if (bqOpen) { html += '</blockquote>\n'; bqOpen = false; }
-            
-            if (!listOpen && !bqOpen && line.trim()) {
-                para.push(line);
-            } else if (line.trim() === '') {
-                html += '<br>';
-            }
-        }
-    }
-    
-    // Close any open blocks
-    if (listOpen) html += '</ul>\n';
-    if (bqOpen) html += '</blockquote>';
-    
-    if (para.length > 0) html += '<p>' + formatText(para.join(' ')) + '</p>';
-    
-    container.innerHTML = html;
-}
-
-function formatBlock(text) {
-    // Process bold, italics, links in the line
-    text = escapeHtml(text);
-    text = text.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
-    text = text.replace(/\*([^*]+)\*/g, '<em>$1</em>');
-    text = text.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" style="color:#4a9eff;">$1</a>');
-    return text;
-}
-
-function formatText(text) {
-    return escapeHtml(text).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>').replace(/\*([^*]+)\*/g, '<em>$1</em>');
-}
-
-function escapeHtml(str) {
-    if (!str) return '';
-    return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
-}
-
-function createFilePicker(mdUrl, output, errorBox) {
-    const input = document.createElement('input');
-    input.type = 'file';
-    input.accept = '.md';
-    input.style.display = 'none';
-    
-    document.body.appendChild(input);
-    input.onchange = function(e) {
-        const file = e.target.files[0];
-        if (file && file.name === mdUrl) {
-            input.remove();
-            const reader = new FileReader();
-            reader.onload = function(event) {
-                renderMarkdown(event.target.result, output);
-                errorBox.style.display = 'none';
-            };
-            reader.onerror = function() {
-                showError(errorBox, 'Could not read file');
-            };
-            
-            if (file.size < 2000000) {
-                reader.readAsText(file);
-            } else {
-                showError(errorBox, 'File too large (' + (file.size/1048576).toFixed(1) + ' MB)');
-            }
-        } else if (file) {
-            errorBox.style.display = 'block';
-            errorBox.innerHTML = '<p>Error: Selected file must be the markdown source</p>';
-            input.remove();
-        } else {
-            showError(errorBox, 'No file selected');
-            input.remove();
-        }
-    };
-    
-    errorBox.style.display = 'none';
-    setTimeout(() => input.click(), 100);
-}
-
-function showError(box, msg) {
-    box.style.display = 'block';
-    box.innerHTML = '<p><strong>Error:</strong> ' + msg + '</p>';
-}
-
-</script>
 
 </body>
 </html>
