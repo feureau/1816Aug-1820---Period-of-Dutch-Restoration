@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -60,7 +60,7 @@
     position:absolute;
     top:8px; left:8px; right:8px;
     display:flex; align-items:center; justify-content:space-between;
-    gap:10px; /* margin-bottom removed for overlay */
+    gap:10px;
     font-size:.82rem; color:var(--muted);
     background:rgba(0,0,0,0.3);
     padding:4px 8px;
@@ -107,7 +107,7 @@
   #transcript-output hr { border:0; border-top:1px solid var(--line); margin:2em 0; }
 
   .footnav {
-    margin-bottom: 48px; /* make space for bottom bar */
+    margin-bottom: 48px;
   }
   .bottom-bar {
     position: fixed;
@@ -173,14 +173,317 @@
     </div>
   </div>
 
+</div>
 
 <div class="bottom-bar">
   <button class="close-btn" aria-label="Close instructions">&times;</button>
-  <strong>Instructions:</strong> Use mouse wheel (or pinch) to zoom the image, click‑drag to pan, double‑click to reset. Navigate pages with the <code class="btn">← Prev</code> / <code class="btn">Next ›</code> buttons or Arrow ←/→ keys.
+  <strong>Instructions:</strong> Use mouse wheel (or pinch) to zoom the image, click‑drag to pan, double‑click to reset. Navigate pages with the <code class="btn">← Prev</code> / <code class="btn">Next ›</code> buttons or Arrow ←/→ keys.
 </div>
-<script src="transcriptions-data.js"    defer></script>
-<script src="transcriptions-content.js" defer></script>
-<script src="marked.min.js"             defer></script>
-<script src="viewer.js"                 defer></script>
+
+<script src="marked.min.js" defer></script>
+<script>
+(function () {
+  "use strict";
+
+  const OUTPUT_ID     = "transcript-output";
+  const TITLE_ID      = "doc-title";
+  const SCAN_ID       = "scan";
+  const SCAN_LINK_ID  = "scan-link";
+  const SCAN_NOTE_ID  = "scan-note";
+  const GITHUB_REPO   = "Feureau/1816Aug-1820---Period-of-Dutch-Restoration";
+
+  async function loadData() {
+    const res = await fetch("transcriptions-data.json", { cache: "no-store" });
+    if (!res.ok) throw new Error("Could not load transcriptions-data.json");
+    return await res.json();
+  }
+
+  function getEntry(list, id) {
+    if (!id) return list[0];
+    return list.find(e => e.id === id) || list[0];
+  }
+
+  async function getMarkdown(entry) {
+    const src = entry.text;
+    const res = await fetch(src, { cache: "no-store" });
+    if (!res.ok) {
+      throw new Error(`Failed to load ${src} (status ${res.status})`);
+    }
+    const text = await res.text();
+    if (!text.trim()) {
+      throw new Error(`Transcript file ${src} is empty.`);
+    }
+    return text;
+  }
+
+  function configureMarked() {
+    if (typeof marked === "undefined") return;
+    marked.setOptions({
+      gfm: true,
+      breaks: false,
+      mangle: false,
+    });
+  }
+
+  function addHeaderIds(root) {
+    root.querySelectorAll("h1,h2,h3,h4,h5,h6").forEach(h => {
+      h.id = h.textContent
+        .toLowerCase()
+        .replace(/[^\w\s-]/g, "")
+        .replace(/\s+/g, "-")
+        .replace(/-+/g, "-")
+        .replace(/^-+|-+$/g, "");
+    });
+  }
+
+  function imageCandidates(entry) {
+    const id  = entry.id;
+    const out = [];
+    const exts    = ["jpg", "jpeg", "JPG", "JPEG", "png", "PNG"];
+    const folders = ["", "jpg", "jpeg", "images", "img", "scans"];
+
+    if (entry.image) out.push(entry.image);
+
+    for (const f of folders) {
+      for (const e of exts) {
+        const p = f ? `${f}/${id}.${e}` : `${id}.${e}`;
+        if (!out.includes(p)) out.push(p);
+      }
+    }
+    return out;
+  }
+
+  async function setupImage(entry) {
+    const img   = document.getElementById(SCAN_ID);
+    const link  = document.getElementById(SCAN_LINK_ID);
+    const note  = document.getElementById(SCAN_NOTE_ID);
+    const cands = imageCandidates(entry);
+    let working = cands[0];
+
+    if (location.protocol === "http:" || location.protocol === "https:") {
+      for (const c of cands) {
+        try {
+          const r = await fetch(c, { method: "HEAD" });
+          if (r.ok) { working = c; break; }
+        } catch (_) {}
+      }
+    }
+
+    img.alt   = "Scan of " + entry.id;
+    img.style.cursor = "zoom-in";
+    let scale = 1;
+    let translateX = 0;
+    let translateY = 0;
+    const updateTransform = () => {
+      img.style.transform = `translate(${translateX}px, ${translateY}px) scale(${scale})`;
+    };
+    img.addEventListener("wheel", (e) => {
+      e.preventDefault();
+      const delta = e.deltaY < 0 ? 1.1 : 0.9;
+      const rect = img.getBoundingClientRect();
+      const offsetX = e.clientX - rect.left;
+      const offsetY = e.clientY - rect.top;
+      translateX = (translateX - offsetX) * delta + offsetX;
+      translateY = (translateY - offsetY) * delta + offsetY;
+      scale *= delta;
+      if (scale < 0.2) { scale = 0.2; }
+      if (scale > 5)   { scale = 5;   }
+      updateTransform();
+    }, { passive: false });
+
+    let isPanning = false;
+    let startX = 0;
+    let startY = 0;
+    img.addEventListener("mousedown", (e) => {
+      if (e.button !== 0) return;
+      isPanning = true;
+      startX = e.clientX - translateX;
+      startY = e.clientY - translateY;
+      img.style.cursor = "grabbing";
+      e.preventDefault();
+    });
+    document.addEventListener("mousemove", (e) => {
+      if (!isPanning) return;
+      translateX = e.clientX - startX;
+      translateY = e.clientY - startY;
+      updateTransform();
+    });
+    document.addEventListener("mouseup", () => {
+      if (!isPanning) return;
+      isPanning = false;
+      img.style.cursor = "zoom-in";
+    });
+    img.addEventListener("dblclick", () => {
+      scale = 1;
+      translateX = 0;
+      translateY = 0;
+      updateTransform();
+    });
+    img.style.transformOrigin = "0 0";
+    if (link) { link.href = working; link.hidden = false; }
+    if (note) note.textContent = working;
+    img.src = working;
+
+    img.onerror = () => {
+      const i = cands.indexOf(working);
+      if (i >= 0 && i < cands.length - 1) {
+        working = cands[i + 1];
+        img.src  = working;
+        if (link) link.href = working;
+        if (note) note.textContent = "Trying: " + working;
+        return;
+      }
+      if (note) note.textContent = "Image not found: " + (entry.image || entry.id);
+      img.alt = note.textContent;
+      img.src = "data:image/svg+xml;utf8," + encodeURIComponent(
+        `<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320">` +
+        `<rect fill="#222" width="100%" height="100%"/>` +
+        `<text x="50%" y="50%" fill="#888" font-family="sans-serif" ` +
+        `font-size="14" text-anchor="middle">${note.textContent}</text></svg>`
+      );
+    };
+  }
+
+  function setupNav(list, entry) {
+    const idx = list.findIndex(e => e.id === entry.id);
+    const prev = idx > 0 ? list[idx - 1] : null;
+    const next = idx >= 0 && idx < list.length - 1 ? list[idx + 1] : null;
+
+    document.querySelectorAll('[data-nav="prev"]').forEach(a => {
+      if (prev) { a.href = "?id=" + encodeURIComponent(prev.id); a.removeAttribute("aria-disabled"); }
+      else      { a.href = "#"; a.setAttribute("aria-disabled", "true"); }
+    });
+    document.querySelectorAll('[data-nav="next"]').forEach(a => {
+      if (next) { a.href = "?id=" + encodeURIComponent(next.id); a.removeAttribute("aria-disabled"); }
+      else      { a.href = "#"; a.setAttribute("aria-disabled", "true"); }
+    });
+
+    document.addEventListener("keydown", e => {
+      if (e.target.matches("input,textarea,select")) return;
+      if (e.key === "ArrowLeft"  && prev) location.href = "?id=" + encodeURIComponent(prev.id);
+      if (e.key === "ArrowRight" && next) location.href = "?id=" + encodeURIComponent(next.id);
+    });
+  }
+
+  function downloadBlob(filename, content, mimeType) {
+    const blob = new Blob([content], { type: mimeType });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = filename;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+  }
+
+  function showError(out, err) {
+    const safe = String(err && err.message ? err.message : err)
+      .replace(/&/g, "&amp;").replace(/</g, "&lt;");
+    out.innerHTML =
+      '<div class="render-error">' +
+        "<h2>Could not load transcript</h2>" +
+        '<pre>' + safe + '</pre>' +
+        '<p>Check your local server or network connection.</p>' +
+      "</div>";
+  }
+
+  async function render() {
+    const out   = document.getElementById(OUTPUT_ID);
+    const title = document.getElementById(TITLE_ID);
+    if (!out) return;
+
+    let list = [];
+    try {
+      list = await loadData();
+    } catch (err) {
+      showError(out, err);
+      return;
+    }
+
+    const id    = new URLSearchParams(location.search).get("id");
+    const entry = getEntry(list, id);
+
+    if (!entry) {
+      showError(out, new Error("No transcription entries found in transcriptions-data.json."));
+      return;
+    }
+
+    document.title = entry.id + " — Transcription Viewer";
+    if (title) title.textContent = entry.id;
+
+    setupNav(list, entry);
+    setupImage(entry);
+
+    try {
+      const md = await getMarkdown(entry);
+      if (typeof marked === "undefined") {
+        throw new Error("marked.min.js did not load. Keep it next to transcriptions.html.");
+      }
+
+      const githubBtnHtml = `<a href="#" id="github-report-btn" class="btn" style="background:#2ea043; border-color:#2ea043; color:white; display:inline-flex; align-items:center; gap:6px;"><svg height="16" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" style="fill:white;"><path d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.46-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z"></path></svg> Report Issue on GitHub</a>`;
+      const downloadSelectHtml = `<select class="download-select" style="background:#2d2d2d; color:#e0e0e0; border:1px solid #444; border-radius:5px; padding:6px 12px; font-family:Arial, sans-serif; font-size:0.88rem; cursor:pointer;"><option value="" disabled selected>📥 Download...</option><option value="md">Markdown (.md)</option><option value="html">Webpage (.html)</option><option value="doc">Word (.doc)</option></select>`;
+      const buttonHtml = `<div style="margin-bottom: 20px; display:flex; gap:10px; align-items:center;">${githubBtnHtml}${downloadSelectHtml}</div>`;
+
+      out.innerHTML = buttonHtml + marked.parse(md);
+      addHeaderIds(out);
+
+      const githubBtn = document.getElementById("github-report-btn");
+      if (githubBtn) {
+        githubBtn.addEventListener("click", (e) => {
+          e.preventDefault();
+          const sel = window.getSelection();
+          let selectionText = "";
+
+          if (sel.rangeCount > 0 && out.contains(sel.anchorNode)) {
+              selectionText = sel.toString().trim();
+          }
+
+          let body = `**Transcription ID:** ${entry.id}\n\n`;
+          if (selectionText) {
+              body += `**Original Text:**\n> ${selectionText.replace(/\n/g, '\n> ')}\n\n`;
+          }
+          body += `**Suggested Correction / Notes:**\n`;
+
+          const url = `https://github.com/${GITHUB_REPO}/issues/new?title=${encodeURIComponent('Transcription Note: ' + entry.id)}&body=${encodeURIComponent(body)}`;
+          window.open(url, '_blank');
+        });
+      }
+
+      const downloadSelect = out.querySelector(".download-select");
+      if (downloadSelect) {
+        downloadSelect.addEventListener("change", (e) => {
+          const format = e.target.value;
+          e.target.value = "";
+          const htmlContent = marked.parse(md);
+
+          if (format === "md") {
+            downloadBlob(`${entry.id}.md`, md, "text/markdown");
+          } else if (format === "html") {
+            const page = `<!DOCTYPE html><html><head><meta charset="utf-8"><title>${entry.id}</title><style>body{font-family:Arial,sans-serif;max-width:800px;margin:0 auto;padding:20px;line-height:1.6;}blockquote{border-left:4px solid #555;padding-left:15px;color:#555;}</style></head><body>${htmlContent}</body></html>`;
+            downloadBlob(`${entry.id}.html`, page, "text/html");
+          } else if (format === "doc") {
+            const doc = `<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>${entry.id}</title></head><body>${htmlContent}</body></html>`;
+            downloadBlob(`${entry.id}.doc`, doc, "application/msword");
+          }
+        });
+      }
+    } catch (err) {
+      console.error(err);
+      showError(out, err);
+    }
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", () => {
+      configureMarked();
+      render();
+    });
+  } else {
+    configureMarked();
+    render();
+  }
+})();
+</script>
 </body>
 </html>

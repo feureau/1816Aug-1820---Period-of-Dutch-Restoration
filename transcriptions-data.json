@@ -1,4 +1,4 @@
-﻿window.__TRANSCRIPTIONS_DATA__ = [
+﻿[
   { "id": "IMG_1218", "image": "jpg/IMG_1218.jpg", "text": "Transcriptionv2/IMG_1218.txt" },
   { "id": "IMG_1219", "image": "jpg/IMG_1219.jpg", "text": "Transcriptionv2/IMG_1219.txt" },
   { "id": "IMG_1220", "image": "jpg/IMG_1220.jpg", "text": "Transcriptionv2/IMG_1220.txt" },
@@ -336,4 +336,4 @@
   { "id": "IMG_1559", "image": "jpg/IMG_1559.jpg", "text": "Transcriptionv2/IMG_1559.txt" },
   { "id": "IMG_1560", "image": "jpg/IMG_1560.jpg", "text": "Transcriptionv2/IMG_1560.txt" },
   { "id": "IMG_1561", "image": "jpg/IMG_1561.jpg", "text": "Transcriptionv2/IMG_1561.txt" }
-];
+]

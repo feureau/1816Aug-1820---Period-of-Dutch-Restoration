@@ -1,0 +1,4 @@
+﻿[
+  { "id": "SAMPLE_01", "image": "sample_images/sample_01.jpg", "text": "sample_transcriptions/sample_01.txt" },
+  { "id": "SAMPLE_02", "image": "sample_images/sample_02.jpg", "text": "sample_transcriptions/sample_02.txt" }
+]

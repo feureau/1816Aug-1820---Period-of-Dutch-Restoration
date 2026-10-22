@@ -1,0 +1,13 @@
+# Sample Document 01
+
+This is a sample transcription of historical manuscript 01.
+
+- **Date:** 1816-08-15
+- **Author:** Sample Author
+- **Recipient:** Sample Recipient
+
+> "This is a blockquote showing how quotes and historical excerpts are rendered on the page."
+
+### Notes
+- Item 1: Important historical detail.
+- Item 2: Secondary observation.
