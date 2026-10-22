@@ -30,7 +30,7 @@ site-template/
 ├── dictionary.html            # Keyword dictionary / Glossary reference page
 │
 ├── marked.min.js              # Lightweight client-side Markdown parser
-├── data.json                    # Index mapping image files to text files
+├── data.json                  # Index mapping image files to text files
 │
 ├── sample_images/             # Folder containing manuscript scan images (.jpg/.png)
 └── sample_transcriptions/     # Folder containing Markdown text transcriptions (.txt/.md)
@@ -52,11 +52,11 @@ const GITHUB_REPO = "YourUsername/YourRepoName";
 
 ### Step 3: Register Items in `data.json`
 Update `data.json` to map your image files to their text files:
-```javascript
-window.__TRANSCRIPTIONS_DATA__ = [
+```json
+[
   { "id": "IMG_0001", "image": "sample_images/IMG_0001.jpg", "text": "sample_transcriptions/IMG_0001.txt" },
   { "id": "IMG_0002", "image": "sample_images/IMG_0002.jpg", "text": "sample_transcriptions/IMG_0002.txt" }
-];
+]
 ```
 
 ---
