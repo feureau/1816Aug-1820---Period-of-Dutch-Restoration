@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -6,219 +6,185 @@
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
-    <title>1816–1820 Dutch Restoration</title>
+    <title>Full Documentation — Dutch Restoration (1816–1820)</title>
     <style>
-        body {
-            background-color: #1a1a1a;
-            color: #e0e0e0;
-            font-family: Arial, sans-serif;
-            max-width: 1000px;
-            margin: 0 auto;
-            padding: 20px;
-            line-height: 1.65;
-        }
-        .topbar {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            border-bottom: 1px solid #333;
-            padding-bottom: 15px;
-            margin-bottom: 25px;
-            flex-wrap: wrap;
-        }
-        .btn {
-            display: inline-block;
-            background: #2d2d2d;
-            color: #e0e0e0;
-            border: 1px solid #444;
-            border-radius: 5px;
-            padding: 8px 14px;
-            font-size: 0.9rem;
-            text-decoration: none;
-            transition: all 0.2s ease;
-        }
-        .btn:hover {
-            background: #4a9eff;
-            color: #ffffff;
-            border-color: #4a9eff;
-        }
-        h1, h2, h3, h4, h5, h6 { color: #ffffff; line-height: 1.25; }
-        h1 { margin-top: 0.5em; }
-        h2 { border-bottom: 1px solid #333; padding-bottom: 0.3em; }
-        p { margin: 0 0 1em; }
-        a { color: #4a9eff; }
-        code { background: #2d2d2d; padding: 2px 5px; border-radius: 3px; font-size: 0.95em; }
-        pre { background: #2d2d2d; padding: 15px; border-left: 4px solid #4a9eff; overflow: auto; border-radius: 4px; }
-        pre code { background: transparent; padding: 0; }
-        blockquote { border-left: 4px solid #555; margin-left: 0; padding-left: 15px; color: #b0b0b0; }
-        table { border-collapse: collapse; margin: 1em 0; }
-        th, td { border: 1px solid #444; padding: 6px 10px; }
-        ol, ul { padding-left: 26px; }
-        li { margin-bottom: 6px; }
-        hr { border: 0; border-top: 1px solid #333; margin: 2em 0; }
-        .render-error { background: #2a1414; border: 1px solid #ff6b6b55; border-radius: 6px; padding: 1.25rem 1.5rem; }
-        .render-error h2 { color: #ff6b6b; border: 0; margin-top: 0; }
+        :root { color-scheme: dark; --bg: #1a1a1a; --panel: #222222; --panel-alt: #2d2d2d; --fg: #e0e0e0; --muted: #9a9a9a; --line: #333333; --accent: #4a9eff; }
+        * { box-sizing: border-box; }
+        body { background-color: var(--bg); color: var(--fg); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif; line-height: 1.6; max-width: 1100px; margin: 0 auto; padding: 20px; }
+        select option { background-color: var(--panel); color: var(--fg); }
+        .header-section { background: var(--panel-alt); border: 1px solid var(--line); border-radius: 6px; padding: 18px 22px; margin-bottom: 16px; }
+        .nav-row { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: space-between; margin-bottom: 12px; }
+        .nav-links { display: flex; flex-wrap: wrap; gap: 8px; }
+        a.btn, select.btn, button.btn { background: var(--panel); color: var(--fg); border: 1px solid #444; padding: 7px 12px; border-radius: 5px; font-size: 13px; text-decoration: none; cursor: pointer; transition: all 0.15s ease; }
+        a.btn:hover, button.btn:hover { background: var(--accent); color: #fff; border-color: var(--accent); }
+        .status-row { display: flex; justify-content: space-between; color: var(--muted); font-size: 13px; }
+        #collection-export-bar { margin-bottom: 18px; }
+        .transcription-section { background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 20px 24px; margin-bottom: 22px; }
+        .section-bar { display: flex; flex-wrap: wrap; gap: 8px; justify-content: space-between; align-items: center; padding-bottom: 10px; margin-bottom: 14px; border-bottom: 1px solid var(--line); }
+        .section-bar strong { color: #fff; font-size: 15px; }
+        .section-actions { display: flex; flex-wrap: wrap; gap: 8px; }
+        .transcription-body { overflow-x: auto; }
+        .transcription-body h1, .transcription-body h2, .transcription-body h3, .transcription-body h4 { color: #fff; line-height: 1.25; }
+        .transcription-body h2 { border-bottom: 1px solid var(--line); padding-bottom: 0.3em; }
+        .transcription-body a { color: var(--accent); }
+        .transcription-body code { background: #2d2d2d; color: #e6e6e6; padding: 2px 5px; border-radius: 3px; font-size: 0.92em; }
+        .transcription-body pre { background: #181818; padding: 14px; border: 1px solid var(--line); border-left: 4px solid var(--accent); border-radius: 4px; overflow-x: auto; }
+        .transcription-body pre code { background: transparent; padding: 0; }
+        .transcription-body hr { border: 0; border-top: 1px solid var(--line); margin: 1.5em 0; }
+        .transcription-body table { width: 100%; border-collapse: collapse; margin: 14px 0; font-size: 13px; }
+        .transcription-body th { background: #2a2a2a; color: #fff; text-align: left; padding: 8px 10px; border: 1px solid #444; }
+        .transcription-body td { padding: 8px 10px; border: 1px solid #444; vertical-align: top; }
+        .transcription-body tr:nth-child(even) { background: #1f1f1f; }
+        .transcription-body blockquote { border-left: 4px solid var(--accent); margin: 10px 0; padding: 6px 14px; background: #1e252e; color: #c8d2dc; }
+        #backToTop { position: fixed; right: 24px; bottom: 24px; width: 44px; height: 44px; border-radius: 50%; background: var(--accent); color: #fff; border: none; font-size: 20px; cursor: pointer; opacity: 0; pointer-events: none; transition: opacity 0.2s; box-shadow: 0 3px 10px rgba(0,0,0,0.45); }
+        #backToTop.visible { opacity: 1; pointer-events: auto; }
     </style>
 </head>
 <body>
-    <div class="topbar">
-        <a class="btn" href="index.html">← Index</a>
-        <a class="btn" href="transcriptions.html">Transcriptions</a>
-        <a class="btn" href="dictionary.html">Keyword Dictionary</a>
+
+<div class="header-section">
+    <div class="nav-row">
+        <div class="nav-links">
+            <a class="btn" href="index.html">← Portal</a>
+            <a class="btn" href="transcriptions.html">Side-by-Side Viewer</a>
+            <a class="btn" href="dictionary.html">Keyword Dictionary</a>
+        </div>
+        <select id="jump-select" class="btn" aria-label="Jump to folio"></select>
     </div>
+    <h1 style="margin:0 0 8px 0;font-size:22px;color:#fff;">Full Documentation (336 Archival Folios)</h1>
+    <div class="status-row">
+        <span id="status-text">Initializing…</span>
+        <span id="progress-indicator">0%</span>
+    </div>
+</div>
 
-    <h1>Full Transcriptions – 1816–1820 Dutch Restoration</h1>
-    <p>This page contains all historical transcriptions loaded in a single view.</p>
+<div id="collection-export-bar"></div>
+<div id="markdown-output"></div>
 
-    <div id="markdown-output">Loading…</div>
+<button id="backToTop" type="button" title="Back to top">↑</button>
 
-    <script src="marked.min.js" defer></script>
-    <script>
-(async function () {
-  "use strict";
-
-  const OUTPUT_ID = "markdown-output";
-
-  function showError(out, err) {
-    out.innerHTML =
-      '<div class="render-error">' +
-      "<h2>Could not load document</h2>" +
-      "<pre>" +
-      String(err && err.message ? err.message : err)
-        .replace(/&/g, "&amp;")
-        .replace(/</g, "&lt;") +
-      "</pre>" +
-      "<p>Check your console for more details.</p>" +
-      "</div>";
-  }
-
-  function configureMarked() {
-    if (typeof marked === "undefined") return;
+<script src="marked.min.js"></script>
+<script src="js/vendor/fflate.min.js"></script>
+<script src="js/vendor/pdf-lib.min.js"></script>
+<script src="js/export.js"></script>
+<script>
+    const GITHUB_REPO = "feureau/1816Aug-1820---Period-of-Dutch-Restoration";
     marked.setOptions({ gfm: true, breaks: false, mangle: false });
-  }
 
-  function downloadBlob(filename, content, mimeType) {
-    const blob = new Blob([content], { type: mimeType });
-    const url = URL.createObjectURL(blob);
-    const a = document.createElement("a");
-    a.href = url;
-    a.download = filename;
-    document.body.appendChild(a);
-    a.click();
-    document.body.removeChild(a);
-    URL.revokeObjectURL(url);
-  }
-
-  async function renderAll() {
-    const out = document.getElementById(OUTPUT_ID);
-    if (!out) return;
-
-    if (typeof marked === "undefined") {
-      showError(out, new Error("marked.min.js did not load. Check that it sits next to full.html."));
-      return;
-    }
-
-    let list = [];
-    try {
-      const res = await fetch("transcriptions-data.json", { cache: "no-store" });
-      if (!res.ok) throw new Error("Could not load transcriptions-data.json");
-      list = await res.json();
-    } catch (err) {
-      showError(out, err);
-      return;
-    }
-
-    out.innerHTML = "";
     const mdCache = {};
+    const statusText = document.getElementById("status-text");
+    const progEl = document.getElementById("progress-indicator");
+    const outEl = document.getElementById("markdown-output");
+    const jumpSel = document.getElementById("jump-select");
+    const backToTop = document.getElementById("backToTop");
 
-    out.addEventListener("click", (e) => {
-      const btn = e.target.closest(".github-report-btn");
-      if (!btn) return;
-      e.preventDefault();
+    if (window.CollectionExporter) {
+        window.CollectionExporter.mount(document.getElementById("collection-export-bar"), {
+            manifestUrl: "data.json",
+            getMdCache: () => mdCache
+        });
+    }
 
-      const entryId = btn.getAttribute("data-id");
-      const section = btn.closest(".transcription-section");
-      const sel = window.getSelection();
-      let selectionText = "";
+    window.addEventListener("scroll", () => {
+        backToTop.classList.toggle("visible", window.scrollY > 400);
+    });
+    backToTop.addEventListener("click", () => window.scrollTo({ top: 0, behavior: "smooth" }));
 
-      if (sel.rangeCount > 0 && section && section.contains(sel.anchorNode)) {
-          selectionText = sel.toString().trim();
-      }
-
-      let body = `**Transcription ID:** ${entryId}\n\n`;
-      if (selectionText) {
-          body += `**Original Text:**\n> ${selectionText.replace(/\n/g, '\n> ')}\n\n`;
-      }
-      body += `**Suggested Correction / Notes:**\n`;
-
-      const url = `https://github.com/Feureau/1816Aug-1820---Period-of-Dutch-Restoration/issues/new?title=${encodeURIComponent('Transcription Note: ' + entryId)}&body=${encodeURIComponent(body)}`;
-      window.open(url, '_blank');
+    jumpSel.addEventListener("change", () => {
+        const target = document.getElementById(jumpSel.value);
+        if (target) target.scrollIntoView({ behavior: "smooth" });
     });
 
-    out.addEventListener("change", (e) => {
-      if (e.target.classList.contains("download-select")) {
-        const format = e.target.value;
-        const entryId = e.target.getAttribute("data-id");
-        e.target.value = "";
+    // Event delegation across all 336 rendered folio sections
+    outEl.addEventListener("click", (e) => {
+        const btn = e.target.closest(".github-report-btn");
+        if (!btn) return;
+        const sec = btn.closest(".transcription-section");
+        const fid = sec ? sec.id : "";
+        const sel = window.getSelection();
+        let selectedText = "";
+        if (sel && sel.rangeCount > 0 && sec && sec.contains(sel.anchorNode)) {
+            selectedText = sel.toString().trim();
+        }
+        const quote = selectedText ? selectedText.split("\n").map((l) => `> ${l}`).join("\n") : "> *(Highlight offending text inside this folio before clicking)*";
+        const body = `**Transcription ID:** ${fid}\n\n**Original Text:**\n${quote}\n\n**Suggested Correction / Notes:**\n`;
+        window.open(`https://github.com/${GITHUB_REPO}/issues/new?title=${encodeURIComponent(`Errata: ${fid}`)}&body=${encodeURIComponent(body)}`, "_blank", "noopener");
+    });
 
-        const md = mdCache[entryId];
+    outEl.addEventListener("change", (e) => {
+        const sel = e.target.closest(".download-select");
+        if (!sel || !sel.value) return;
+        const fmt = sel.value;
+        sel.value = "";
+        const sec = sel.closest(".transcription-section");
+        const fid = sec ? sec.id : "";
+        const md = mdCache[fid];
         if (!md) return;
 
-        const htmlContent = marked.parse(md);
-
-        if (format === "md") {
-          downloadBlob(`${entryId}.md`, md, "text/markdown");
-        } else if (format === "html") {
-          const page = `<!DOCTYPE html><html><head><meta charset="utf-8"><title>${entryId}</title><style>body{font-family:Arial,sans-serif;max-width:800px;margin:0 auto;padding:20px;line-height:1.6;}blockquote{border-left:4px solid #555;padding-left:15px;color:#555;}</style></head><body>${htmlContent}</body></html>`;
-          downloadBlob(`${entryId}.html`, page, "text/html");
-        } else if (format === "doc") {
-          const doc = `<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>${entryId}</title></head><body>${htmlContent}</body></html>`;
-          downloadBlob(`${entryId}.doc`, doc, "application/msword");
+        let blob, filename;
+        if (fmt === "md") {
+            blob = new Blob([md], { type: "text/markdown;charset=utf-8" });
+            filename = `${fid}.md`;
+        } else if (fmt === "html") {
+            const htmlDoc = `<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><title>${fid}</title><style>body{font-family:Georgia,serif;max-width:900px;margin:24px auto;line-height:1.55;}table{width:100%;border-collapse:collapse;}th,td{border:1px solid #888;padding:6px 8px;vertical-align:top;}</style></head><body>${marked.parse(md)}</body></html>`;
+            blob = new Blob([htmlDoc], { type: "text/html;charset=utf-8" });
+            filename = `${fid}.html`;
+        } else if (fmt === "doc") {
+            const wordHtml = `<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta charset="utf-8"><title>${fid}</title></head><body>${marked.parse(md)}</body></html>`;
+            blob = new Blob(["\ufeff", wordHtml], { type: "application/msword" });
+            filename = `${fid}.doc`;
         }
-      }
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement("a");
+        a.href = url; a.download = filename;
+        document.body.appendChild(a); a.click(); a.remove();
+        setTimeout(() => URL.revokeObjectURL(url), 4000);
     });
 
-    for (const entry of list) {
-      let mdText = "";
-      const src = entry.text;
+    async function loadCorpus() {
+        try {
+            const resp = await fetch("data.json", { cache: "no-store" });
+            if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+            const manifest = await resp.json();
+            jumpSel.innerHTML = manifest.map((item, idx) => `<option value="${item.id}">[${idx + 1}/${manifest.length}] ${item.id}</option>`).join("");
 
-      try {
-        const res = await fetch(src, { cache: "no-store" });
-        if (res.ok) mdText = await res.text();
-      } catch (_) { /* ignore */ }
+            for (let i = 0; i < manifest.length; i++) {
+                const entry = manifest[i];
+                statusText.textContent = `Loaded ${i + 1} of ${manifest.length} folios…`;
+                progEl.textContent = `${Math.round(((i + 1) / manifest.length) * 100)}%`;
 
-      if (mdText) {
-        mdCache[entry.id] = mdText;
+                const r = await fetch(entry.text, { cache: "no-store" });
+                const md = r.ok ? await r.text() : `# ${entry.id}\n\n*Failed to load ${entry.text} (HTTP ${r.status})*`;
+                mdCache[entry.id] = md;
 
-        const section = document.createElement("div");
-        section.className = "transcription-section";
-        section.style.marginBottom = "40px";
-        section.style.borderBottom = "1px solid #333";
-        section.style.paddingBottom = "20px";
-
-        const githubBtnHtml = `<a href="#" class="btn github-report-btn" data-id="${entry.id}" style="background:#2ea043; border-color:#2ea043; color:white; display:inline-flex; align-items:center; gap:6px; padding:6px 12px; border-radius:5px; text-decoration:none; font-family:Arial, sans-serif; font-size:0.88rem;"><svg height="16" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" style="fill:white;"><path d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.46-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z"></path></svg> Report Issue on GitHub</a>`;
-        const downloadSelectHtml = `<select class="download-select" data-id="${entry.id}" style="background:#2d2d2d; color:#e0e0e0; border:1px solid #444; border-radius:5px; padding:6px 12px; font-family:Arial, sans-serif; font-size:0.88rem; cursor:pointer;"><option value="" disabled selected>📥 Download...</option><option value="md">Markdown (.md)</option><option value="html">Webpage (.html)</option><option value="doc">Word (.doc)</option></select>`;
-        const buttonHtml = `<div style="margin-top: 10px; margin-bottom: 20px; display:flex; gap:10px; align-items:center;">${githubBtnHtml}${downloadSelectHtml}</div>`;
-
-        const contentHTML = marked.parse(mdText);
-        section.innerHTML = `<h2 id="${entry.id}" style="display:flex; justify-content:space-between; align-items:center; border-bottom:1px solid #333; padding-bottom:10px;">${entry.id} ${buttonHtml}</h2>\n` + contentHTML;
-        out.appendChild(section);
-      } else {
-        console.warn(`Could not load text for ${entry.id}`);
-      }
+                const sec = document.createElement("section");
+                sec.className = "transcription-section";
+                sec.id = entry.id;
+                sec.innerHTML = `
+                    <div class="section-bar">
+                        <strong>[${i + 1}/${manifest.length}] ${entry.id}</strong>
+                        <div class="section-actions">
+                            <a class="btn" href="transcriptions.html?id=${encodeURIComponent(entry.id)}">View Scan</a>
+                            <button class="btn github-report-btn" type="button">Report Issue</button>
+                            <select class="btn download-select" aria-label="Download ${entry.id}">
+                                <option value="">Download…</option>
+                                <option value="md">.md</option>
+                                <option value="html">.html</option>
+                                <option value="doc">.doc</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="transcription-body">${marked.parse(md)}</div>
+                `;
+                outEl.appendChild(sec);
+            }
+            statusText.textContent = `All ${manifest.length} folios loaded successfully.`;
+            progEl.textContent = "Complete";
+        } catch (err) {
+            statusText.textContent = `Error: ${err.message}. Run launch_server.bat for local viewing.`;
+        }
     }
-  }
-
-  if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", () => {
-      configureMarked();
-      renderAll();
-    });
-  } else {
-    configureMarked();
-    renderAll();
-  }
-})();
-    </script>
+    loadCorpus();
+</script>
 </body>
 </html>

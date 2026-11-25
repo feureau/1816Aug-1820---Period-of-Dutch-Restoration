@@ -1,125 +1,54 @@
-# Dutch Restoration Documentation (1816–1820)
-## Yogyakarta Residency Letters & The Period of Dutch Restoration
+# 1816 (August) – 1820: Yogyakarta Residency Letters & Period of Dutch Restoration
 
-This repository contains a comprehensive historical documentary collection, primary source transcriptions, archival summaries, and research dossiers assembled by **Professor Peter Carey** from primary European and Javanese archival repositories. 
-
-The collection documents the pivotal transitional period in modern Javanese history between **August 1816 and December 1820**: the retrocession of Java from the British colonial administration (under Lieutenant-Governor Thomas Stamford Raffles and Resident John Crawfurd) back to the Kingdom of the Netherlands (*Commissarissen-Generaal* C.T. Elout, G.A.G.P. Baron van der Capellen, A.A. Buyskes, and Yogyakarta Resident Major Huibert Gerard Nahuys van Burgst).
+Archival transcription corpus, research database, and static digital portal covering Professor Peter Carey's archival research notes and primary dispatches from the **1816–1820 Dutch Restoration** in South-Central Java (Yogyakarta and Surakarta).
 
 ---
 
-## 📚 Key Historical Themes
+## Corpus Overview
 
-1. **The British Retrocession & Dutch Restoration (August 1816)**
-   - Formal power transfer from British Resident John Crawfurd to returning Dutch authorities.
-   - Renegotiation and re-affirmation of the 1812 treaties.
-   - Redeployment of British-Indian troops (Bengal & Light Volunteer Battalions) and court diplomacy with Sultan Hamengkubuwana IV and Susuhunan Pakubuwana IV.
-
-2. **The Kyai Murmo (Kiai Murma) Affair & Jurisdictional Conflict (1816)**
-   - Legal and political crisis surrounding the arrest of Kyai Murmo, inventorying of his gold, kris, and jewel treasures, and his flight to Kapundhung.
-   - Jurisdictional disputes between Yogyakarta and Surakarta courts (*Pradoto*, *Surambi*, *Grobog*).
-
-3. **Court Diplomacy, Exiled Rulers & Subsidies (1816–1817)**
-   - Commissioner Willem Herman van IJsseldijk's special diplomatic mission to the Vorstenlanden.
-   - Intelligence monitoring of exiled Sultan Hamengkubuwana II (Sultan Sepuh) in Ambon, Penang, and Batavia.
-   - Subsidies and military arrangements for Paku Alam I and Pangeran Prangwedana (Mangkunagara II).
-
-4. **Security, Armed Banditry & Social Unrest (1817–1818)**
-   - Governance of Major Nahuys van Burgst (Yogyakarta) and Resident Van Haak (Surakarta).
-   - Conflicts between civil residents and military commanders (Commandant Le Sueur).
-   - Menace of armed banditry (*kecus*, *wong durjana*) and suppression of Pangeran Dipasana's millenarian uprising in Malang/Kediri.
-
-5. **Socio-Economic Reforms, Land Leasing (*Landhuur*) & Public Health (1817–1820)**
-   - Rapid expansion of European and Chinese land leases across Surakarta and Yogyakarta.
-   - Toll-gate (*bandar*) tax schedules, village leasehold registers, and labor obligations.
-   - Smallpox vaccination campaigns under Dr. Menke and health initiatives.
-   - Governor-General Decree of 25 March 1819 (*Besluit* No. 5) regulating civil service training (*élèves*) and Javanese language instruction.
-   - The *Enquête d'Abo* agricultural survey (31 December 1820).
+- **Total Folios:** **336** synchronized scans (`jpg/IMG_1218.jpg`–`IMG_1561.jpg`) and Markdown transcriptions (`Transcriptionv2/IMG_1218.md`–`IMG_1561.md`).
+  *(Note: `IMG_1460` and `IMG_1494` were skipped in original archival photography; zero gaps exist in physical records.)*
+- **Manifest Index:** [`data.json`](data.json) (and synchronized compatibility copy [`transcriptions-data.json`](transcriptions-data.json)) using POSIX `/` paths.
+- **Reference Glossary:** [`39_Expanded_Keyword_Index.md`](39_Expanded_Keyword_Index.md) (**strictly read-only ground truth**, indexed into `scripts/entity_database.json` and [`dictionary.html`](dictionary.html)).
 
 ---
 
-## 📁 Repository Structure
+## Launching Locally (Windows / CLI)
 
-```
-.
-├── 1816Aug-1820 - Period of Dutch Restoration.md  # Master text & archival compilation (alias document.md)
-├── 39_Expanded_Keyword_Index.md                   # Expanded thematic keyword index
-├── Correction_Dictionary_and_Keyword_Index.md     # 19th-century spelling & EYD mapping dictionary
-│
-├── index.html                                     # Main portal for the local web viewer
-├── full.html                                      # Full document interactive web reader
-├── transcriptions.html                            # Individual manuscript transcription viewer
-├── dictionary.html                                # Keyword & correction dictionary web app
-├── start_server.bat                               # Windows script to launch local HTTP server
-│
-├── Transcription/                                 # Primary manuscript text transcriptions (670+ files)
-├── Transcriptionv2/ & Transcriptionv3/            # Iterative transcriptions & revised texts
-├── transcriptions-data.js & transcriptions-content.js # JS payload for zero-CORS offline browsing
-├── build-transcriptions.py                        # Script to rebuild embedded transcription JS data
-├── extract.py                                     # Python script to extract names, places & terms
-│
-└── references/                                    # Historical chapters, timelines & appendices:
-    ├── 01_Front_Matter.md - 05_Maps.md           # Front matter, table of contents, preface, maps
-    ├── 06_Chapter_01_... - 17_Chapter_12_...     # Research chapters on Dipanagara & Javanese history
-    └── 18_Appendix_01_... - 38_Index.md          # Royal family trees, landholdings, price indices, index
-```
+Because modern browsers block `fetch("data.json")` over `file://` CORS restrictions, launch the built-in local HTTP server:
 
----
-
-## 🚀 Quick Start (Local Web Viewer)
-
-The repository includes a dark-themed local web application for reading documents, browsing manuscript transcriptions, and searching historical terms offline.
-
-### Option 1: Using the Windows Batch Launcher
-1. Double-click [`start_server.bat`](file:///F:/GitHub/1816Aug-1820%20-%20Period%20of%20Dutch%20Restoration/start_server.bat).
-2. Open your browser to: **`http://localhost:8000`**
-
-### Option 2: Command Line
-Start a local Python HTTP server from the project root directory:
-```bash
-python -m http.server 8000
-```
-Then navigate to `http://localhost:8000` in your web browser.
-
----
-
-## 🌐 Web Application Features
-
-- **Full Documentation Reader ([`full.html`](file:///F:/GitHub/1816Aug-1820%20-%20Period%20of%20Dutch%20Restoration/full.html)):**
-  Rendered directly from [`1816Aug-1820 - Period of Dutch Restoration.md`](file:///F:/GitHub/1816Aug-1820%20-%20Period%20of%20Dutch%20Restoration/1816Aug-1820%20-%20Period%20of%20Dutch%20Restoration.md) with table of contents and full Markdown rendering.
-- **Individual Transcriptions Browser ([`transcriptions.html`](file:///F:/GitHub/1816Aug-1820%20-%20Period%20of%20Dutch%20Restoration/transcriptions.html)):**
-  Browse and search over 670 transcribed letters and official reports side-by-side with manuscript metadata.
-- **Keyword & Correction Dictionary ([`dictionary.html`](file:///F:/GitHub/1816Aug-1820%20-%20Period%20of%20Dutch%20Restoration/dictionary.html)):**
-  Search historical names, titles, places, 19th-century phonetic variants, and modern EYD standardized equivalents.
-
----
-
-## 🛠️ Data Maintenance Scripts
-
-- **Rebuild Transcriptions JS Data:**
-  If you add or update text files in `Transcription/`, regenerate the embedded viewer script with:
-  ```bash
-  python build-transcriptions.py
+- **One-click Windows launcher:** Double-click [`launch_server.bat`](launch_server.bat) (or [`start_server.bat`](start_server.bat)).
+- **Command line:**
+  ```powershell
+  python scripts/serve.py
   ```
-- **Extract Historical Entities:**
-  To extract proper nouns, places, and italicized terms into a markdown summary:
-  ```bash
-  python extract.py
-  ```
+  Options:
+  - `python scripts/serve.py 8080` — serve on a specific port (auto-selects a free port from `8000` by default)
+  - `python scripts/serve.py 8080 --no-browser` — start headless without opening a browser tab
+- **GitHub Pages:** Ready to serve statically as-is (`.nojekyll` disables Jekyll processing).
 
 ---
 
-## 🏛️ Archival Sources & Acknowledgments
+## Portal Pages & Features
 
-The materials in this collection derive from primary European and Javanese archival repositories:
-- **Arsip Nasional Republik Indonesia (ANRI):** *Djokjo Brieven* and *Solo Brieven* series (Bundels 40, 41, 44, 51A, 61, 63, and 79).
-- **Universiteitsbibliotheek Leiden (Leiden University Library):** BPL 616 (*Nahuys van Burgst Papers*).
-- **Nationaal Archief (The Hague):** De Kock, Van Alphen-Engelhard, and Baud Collections.
-- **Koninklijk Instituut voor Taal-, Land- en Volkenkunde (KITLV)**
-- Published documentary studies by **P.H. van der Kemp** and **Dr. Frederik de Haan**.
-- Research assembly and editing by **Professor Peter Carey**.
+1. **[`index.html`](index.html)** — Main landing portal with collection summary, GitHub repository link, whole-collection exporter (`js/export.js`), and navigation cards.
+2. **[`transcriptions.html`](transcriptions.html)** — Side-by-side manuscript image viewer (cursor-anchored mouse-wheel zoom `0.2x`–`5x`, drag panning) and rendered GFM Markdown panel with folio jump, keyboard `ArrowLeft`/`ArrowRight` navigation, per-folio `.md`/`.html`/`.doc` downloads, and selection-aware GitHub Issue errata reporting.
+3. **[`full.html`](full.html)** — Streaming full-corpus reader rendering all 336 folios sequentially with progress indicator, smooth-scroll jump selector, floating Back-to-Top button, and whole-collection `.md`/`.html`/`.doc`/`.pdf`/`.zip` exports (offline vendored `marked.min.js`, `js/vendor/fflate.min.js`, `js/vendor/pdf-lib.min.js`).
+4. **[`dictionary.html`](dictionary.html)** — Searchable historical reference dictionary (650 entries across 12 categories) generated from `39_Expanded_Keyword_Index.md`.
 
 ---
 
-## 📜 License
+## Maintenance & Verification Scripts (`scripts/`)
 
-See [`LICENSE`](file:///F:/GitHub/1816Aug-1820%20-%20Period%20of%20Dutch%20Restoration/LICENSE) for licensing details regarding the compilation and materials in this repository.
+| Script | Purpose |
+| :--- | :--- |
+| `scripts/scan_orientations.py` | OpenCV Canny + Hough pre-flight orientation check across all 336 JPEGs |
+| `scripts/build_entity_index.py` | Parses read-only `39_Expanded_Keyword_Index.md` into `scripts/entity_database.json` |
+| `scripts/audit_verbatim_fidelity.py` | Audits `Transcriptionv2/*.md` against `older_transcription_versions/backup_Transcriptionv2_pre_pilot/*.txt` |
+| `scripts/restore_verbatim_from_backup.py` | Restores verbatim primary/note wording on paraphrased narrative folios |
+| `scripts/normalize_archetypes.py` | Enforces the strict 3-Archetype Markdown specification and verified `#L` index citations |
+| `scripts/fix_table_pipes.py` | Escapes stray inner pipes `\|` inside Markdown table prose cells |
+| `scripts/format_all_transcriptions_markdown.py` | Normalizes CommonMark/GFM spacing, metadata line breaks, and UTF-8 (no BOM) |
+| `scripts/validate_transcriptions.py` | Full corpus validator checking concordance, structure, HTML balance, GFM columns, and index citations |
+| `scripts/build_dictionary_html.py` | Regenerates `dictionary.html` from `39_Expanded_Keyword_Index.md` |
+| `scripts/serve.py` | Zero-dependency local HTTP server with `Cache-Control: no-store` |

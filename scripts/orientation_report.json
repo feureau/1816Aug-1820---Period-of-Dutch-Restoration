@@ -1,0 +1,523 @@
+{
+  "total": 336,
+  "landscape": [
+    [
+      "IMG_1220.jpg",
+      6384,
+      4224,
+      3.4
+    ],
+    [
+      "IMG_1288.jpg",
+      6384,
+      4224,
+      2.78
+    ],
+    [
+      "IMG_1289.jpg",
+      6384,
+      4224,
+      22.45
+    ],
+    [
+      "IMG_1290.jpg",
+      6384,
+      4224,
+      32.69
+    ],
+    [
+      "IMG_1291.jpg",
+      6384,
+      4224,
+      15.88
+    ],
+    [
+      "IMG_1292.jpg",
+      6384,
+      4224,
+      30.0
+    ],
+    [
+      "IMG_1293.jpg",
+      6384,
+      4224,
+      14.47
+    ],
+    [
+      "IMG_1294.jpg",
+      6384,
+      4224,
+      22.6
+    ],
+    [
+      "IMG_1295.jpg",
+      6384,
+      4224,
+      11.1
+    ],
+    [
+      "IMG_1296.jpg",
+      6384,
+      4224,
+      24.75
+    ],
+    [
+      "IMG_1297.jpg",
+      6384,
+      4224,
+      26.17
+    ],
+    [
+      "IMG_1298.jpg",
+      6384,
+      4224,
+      25.86
+    ],
+    [
+      "IMG_1300.jpg",
+      6384,
+      4224,
+      46.64
+    ],
+    [
+      "IMG_1301.jpg",
+      6384,
+      4224,
+      42.69
+    ],
+    [
+      "IMG_1302.jpg",
+      6384,
+      4224,
+      57.1
+    ],
+    [
+      "IMG_1303.jpg",
+      6384,
+      4224,
+      24.09
+    ],
+    [
+      "IMG_1421.jpg",
+      6384,
+      4224,
+      1.0
+    ],
+    [
+      "IMG_1506.jpg",
+      6384,
+      4224,
+      1.17
+    ]
+  ],
+  "flagged": [
+    [
+      "IMG_1218.jpg",
+      {
+        "w": 4224,
+        "h": 6384,
+        "horiz": 20,
+        "vert": 40,
+        "ratio": 0.51,
+        "flagged": true,
+        "reason": "ratio=0.51 (h=20, v=40)"
+      }
+    ],
+    [
+      "IMG_1240.jpg",
+      {
+        "w": 4224,
+        "h": 6384,
+        "horiz": 12,
+        "vert": 30,
+        "ratio": 0.42,
+        "flagged": true,
+        "reason": "ratio=0.42 (h=12, v=30)"
+      }
+    ],
+    [
+      "IMG_1285.jpg",
+      {
+        "w": 4224,
+        "h": 6384,
+        "horiz": 10,
+        "vert": 12,
+        "ratio": 0.85,
+        "flagged": true,
+        "reason": "ratio=0.85 (h=10, v=12)"
+      }
+    ],
+    [
+      "IMG_1311.jpg",
+      {
+        "w": 4224,
+        "h": 6384,
+        "horiz": 29,
+        "vert": 23,
+        "ratio": 1.25,
+        "flagged": true,
+        "reason": "ratio=1.25 (h=29, v=23)"
+      }
+    ],
+    [
+      "IMG_1312.jpg",
+      {
+        "w": 4224,
+        "h": 6384,
+        "horiz": 49,
+        "vert": 42,
+        "ratio": 1.16,
+        "flagged": true,
+        "reason": "ratio=1.16 (h=49, v=42)"
+      }
+    ],
+    [
+      "IMG_1359.jpg",
+      {
+        "w": 4224,
+        "h": 6384,
+        "horiz": 12,
+        "vert": 14,
+        "ratio": 0.87,
+        "flagged": true,
+        "reason": "ratio=0.87 (h=12, v=14)"
+      }
+    ],
+    [
+      "IMG_1361.jpg",
+      {
+        "w": 4224,
+        "h": 6384,
+        "horiz": 27,
+        "vert": 47,
+        "ratio": 0.58,
+        "flagged": true,
+        "reason": "ratio=0.58 (h=27, v=47)"
+      }
+    ],
+    [
+      "IMG_1421.jpg",
+      {
+        "w": 6384,
+        "h": 4224,
+        "horiz": 13,
+        "vert": 13,
+        "ratio": 1.0,
+        "flagged": true,
+        "reason": "ratio=1.00 (h=13, v=13)"
+      }
+    ],
+    [
+      "IMG_1435.jpg",
+      {
+        "w": 4224,
+        "h": 6384,
+        "horiz": 36,
+        "vert": 29,
+        "ratio": 1.23,
+        "flagged": true,
+        "reason": "ratio=1.23 (h=36, v=29)"
+      }
+    ],
+    [
+      "IMG_1438.jpg",
+      {
+        "w": 4224,
+        "h": 6384,
+        "horiz": 46,
+        "vert": 53,
+        "ratio": 0.87,
+        "flagged": true,
+        "reason": "ratio=0.87 (h=46, v=53)"
+      }
+    ],
+    [
+      "IMG_1439.jpg",
+      {
+        "w": 4224,
+        "h": 6384,
+        "horiz": 31,
+        "vert": 33,
+        "ratio": 0.94,
+        "flagged": true,
+        "reason": "ratio=0.94 (h=31, v=33)"
+      }
+    ],
+    [
+      "IMG_1440.jpg",
+      {
+        "w": 4224,
+        "h": 6384,
+        "horiz": 27,
+        "vert": 32,
+        "ratio": 0.85,
+        "flagged": true,
+        "reason": "ratio=0.85 (h=27, v=32)"
+      }
+    ],
+    [
+      "IMG_1441.jpg",
+      {
+        "w": 4224,
+        "h": 6384,
+        "horiz": 50,
+        "vert": 42,
+        "ratio": 1.19,
+        "flagged": true,
+        "reason": "ratio=1.19 (h=50, v=42)"
+      }
+    ],
+    [
+      "IMG_1443.jpg",
+      {
+        "w": 4224,
+        "h": 6384,
+        "horiz": 10,
+        "vert": 17,
+        "ratio": 0.61,
+        "flagged": true,
+        "reason": "ratio=0.61 (h=10, v=17)"
+      }
+    ],
+    [
+      "IMG_1445.jpg",
+      {
+        "w": 4224,
+        "h": 6384,
+        "horiz": 73,
+        "vert": 394,
+        "ratio": 0.19,
+        "flagged": true,
+        "reason": "ratio=0.19 (h=73, v=394)"
+      }
+    ],
+    [
+      "IMG_1459.jpg",
+      {
+        "w": 4224,
+        "h": 6384,
+        "horiz": 24,
+        "vert": 159,
+        "ratio": 0.16,
+        "flagged": true,
+        "reason": "ratio=0.16 (h=24, v=159)"
+      }
+    ],
+    [
+      "IMG_1500.jpg",
+      {
+        "w": 4224,
+        "h": 6384,
+        "horiz": 50,
+        "vert": 169,
+        "ratio": 0.3,
+        "flagged": true,
+        "reason": "ratio=0.30 (h=50, v=169)"
+      }
+    ],
+    [
+      "IMG_1501.jpg",
+      {
+        "w": 4224,
+        "h": 6384,
+        "horiz": 120,
+        "vert": 235,
+        "ratio": 0.51,
+        "flagged": true,
+        "reason": "ratio=0.51 (h=120, v=235)"
+      }
+    ],
+    [
+      "IMG_1502.jpg",
+      {
+        "w": 4224,
+        "h": 6384,
+        "horiz": 170,
+        "vert": 132,
+        "ratio": 1.29,
+        "flagged": true,
+        "reason": "ratio=1.29 (h=170, v=132)"
+      }
+    ],
+    [
+      "IMG_1503.jpg",
+      {
+        "w": 4224,
+        "h": 6384,
+        "horiz": 164,
+        "vert": 143,
+        "ratio": 1.15,
+        "flagged": true,
+        "reason": "ratio=1.15 (h=164, v=143)"
+      }
+    ],
+    [
+      "IMG_1504.jpg",
+      {
+        "w": 4224,
+        "h": 6384,
+        "horiz": 110,
+        "vert": 104,
+        "ratio": 1.06,
+        "flagged": true,
+        "reason": "ratio=1.06 (h=110, v=104)"
+      }
+    ],
+    [
+      "IMG_1505.jpg",
+      {
+        "w": 4224,
+        "h": 6384,
+        "horiz": 37,
+        "vert": 59,
+        "ratio": 0.63,
+        "flagged": true,
+        "reason": "ratio=0.63 (h=37, v=59)"
+      }
+    ],
+    [
+      "IMG_1506.jpg",
+      {
+        "w": 6384,
+        "h": 4224,
+        "horiz": 13,
+        "vert": 11,
+        "ratio": 1.17,
+        "flagged": true,
+        "reason": "ratio=1.17 (h=13, v=11)"
+      }
+    ],
+    [
+      "IMG_1508.jpg",
+      {
+        "w": 4224,
+        "h": 6384,
+        "horiz": 62,
+        "vert": 58,
+        "ratio": 1.07,
+        "flagged": true,
+        "reason": "ratio=1.07 (h=62, v=58)"
+      }
+    ],
+    [
+      "IMG_1509.jpg",
+      {
+        "w": 4224,
+        "h": 6384,
+        "horiz": 82,
+        "vert": 85,
+        "ratio": 0.97,
+        "flagged": true,
+        "reason": "ratio=0.97 (h=82, v=85)"
+      }
+    ],
+    [
+      "IMG_1510.jpg",
+      {
+        "w": 4224,
+        "h": 6384,
+        "horiz": 31,
+        "vert": 173,
+        "ratio": 0.18,
+        "flagged": true,
+        "reason": "ratio=0.18 (h=31, v=173)"
+      }
+    ],
+    [
+      "IMG_1511.jpg",
+      {
+        "w": 4224,
+        "h": 6384,
+        "horiz": 38,
+        "vert": 183,
+        "ratio": 0.21,
+        "flagged": true,
+        "reason": "ratio=0.21 (h=38, v=183)"
+      }
+    ],
+    [
+      "IMG_1512.jpg",
+      {
+        "w": 4224,
+        "h": 6384,
+        "horiz": 27,
+        "vert": 205,
+        "ratio": 0.14,
+        "flagged": true,
+        "reason": "ratio=0.14 (h=27, v=205)"
+      }
+    ],
+    [
+      "IMG_1513.jpg",
+      {
+        "w": 4224,
+        "h": 6384,
+        "horiz": 21,
+        "vert": 34,
+        "ratio": 0.63,
+        "flagged": true,
+        "reason": "ratio=0.63 (h=21, v=34)"
+      }
+    ],
+    [
+      "IMG_1514.jpg",
+      {
+        "w": 4224,
+        "h": 6384,
+        "horiz": 139,
+        "vert": 115,
+        "ratio": 1.21,
+        "flagged": true,
+        "reason": "ratio=1.21 (h=139, v=115)"
+      }
+    ],
+    [
+      "IMG_1553.jpg",
+      {
+        "w": 4224,
+        "h": 6384,
+        "horiz": 128,
+        "vert": 556,
+        "ratio": 0.23,
+        "flagged": true,
+        "reason": "ratio=0.23 (h=128, v=556)"
+      }
+    ],
+    [
+      "IMG_1554.jpg",
+      {
+        "w": 4224,
+        "h": 6384,
+        "horiz": 155,
+        "vert": 637,
+        "ratio": 0.24,
+        "flagged": true,
+        "reason": "ratio=0.24 (h=155, v=637)"
+      }
+    ],
+    [
+      "IMG_1555.jpg",
+      {
+        "w": 4224,
+        "h": 6384,
+        "horiz": 109,
+        "vert": 518,
+        "ratio": 0.21,
+        "flagged": true,
+        "reason": "ratio=0.21 (h=109, v=518)"
+      }
+    ],
+    [
+      "IMG_1556.jpg",
+      {
+        "w": 4224,
+        "h": 6384,
+        "horiz": 37,
+        "vert": 28,
+        "ratio": 1.31,
+        "flagged": true,
+        "reason": "ratio=1.31 (h=37, v=28)"
+      }
+    ]
+  ]
+}
